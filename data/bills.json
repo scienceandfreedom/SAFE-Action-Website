@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:22:20.757652+00:00",
+  "generated_at": "2026-09-07T11:43:24.638771+00:00",
   "source": "govinfo+legiscan",
   "total": 9537,
   "bills": [
@@ -23824,7 +23824,7 @@
       "state": "CA",
       "billNumber": "AB1918",
       "title": "Human trafficking: body art practitioners.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -23839,6 +23839,48 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1918/2025",
       "legiscan_bill_id": 2116300,
+      "sponsorships": [
+        {
+          "people_id": 23206,
+          "name": "Diane Dixon",
+          "first_name": "Diane",
+          "last_name": "Dixon",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-072",
+          "type": "primary"
+        },
+        {
+          "people_id": 11611,
+          "name": "Shannon Grove",
+          "first_name": "Shannon",
+          "last_name": "Grove",
+          "party": "R",
+          "role": "Sen",
+          "district": "SD-012",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25341,
+          "name": "Maggy Krell",
+          "first_name": "Maggy",
+          "last_name": "Krell",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-006",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 19733,
+          "name": "Susan Rubio",
+          "first_name": "Susan",
+          "last_name": "Rubio",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-022",
+          "type": "cosponsor"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1678344",
@@ -23925,49 +23967,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1918"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 23206,
-          "name": "Diane Dixon",
-          "first_name": "Diane",
-          "last_name": "Dixon",
-          "party": "R",
-          "role": "Rep",
-          "district": "HD-072",
-          "type": "primary"
-        },
-        {
-          "people_id": 11611,
-          "name": "Shannon Grove",
-          "first_name": "Shannon",
-          "last_name": "Grove",
-          "party": "R",
-          "role": "Sen",
-          "district": "SD-012",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 25341,
-          "name": "Maggy Krell",
-          "first_name": "Maggy",
-          "last_name": "Krell",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-006",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 19733,
-          "name": "Susan Rubio",
-          "first_name": "Susan",
-          "last_name": "Rubio",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-022",
-          "type": "cosponsor"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AR9",
@@ -141376,7 +141376,7 @@
       "state": "CA",
       "billNumber": "AB2282",
       "title": "Health facilities: emergency medical services.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -141391,6 +141391,68 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2282/2025",
       "legiscan_bill_id": 2120756,
+      "sponsorships": [
+        {
+          "people_id": 23203,
+          "name": "Juan Alanis",
+          "first_name": "Juan",
+          "last_name": "Alanis",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-022",
+          "type": "primary"
+        },
+        {
+          "people_id": 23225,
+          "name": "Marie Alvarado-Gil",
+          "first_name": "Marie",
+          "last_name": "Alvarado-Gil",
+          "party": "R",
+          "role": "Sen",
+          "district": "SD-004",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22948,
+          "name": "Mia Bonta",
+          "first_name": "Mia",
+          "last_name": "Bonta",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-018",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 1507,
+          "name": "Anna Caballero",
+          "first_name": "Anna",
+          "last_name": "Caballero",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-014",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 18069,
+          "name": "Heath Flora",
+          "first_name": "Heath",
+          "last_name": "Flora",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-009",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 11611,
+          "name": "Shannon Grove",
+          "first_name": "Shannon",
+          "last_name": "Grove",
+          "party": "R",
+          "role": "Sen",
+          "district": "SD-012",
+          "type": "cosponsor"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1687280",
@@ -141505,69 +141567,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2282"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 23203,
-          "name": "Juan Alanis",
-          "first_name": "Juan",
-          "last_name": "Alanis",
-          "party": "R",
-          "role": "Rep",
-          "district": "HD-022",
-          "type": "primary"
-        },
-        {
-          "people_id": 23225,
-          "name": "Marie Alvarado-Gil",
-          "first_name": "Marie",
-          "last_name": "Alvarado-Gil",
-          "party": "R",
-          "role": "Sen",
-          "district": "SD-004",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 22948,
-          "name": "Mia Bonta",
-          "first_name": "Mia",
-          "last_name": "Bonta",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-018",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 1507,
-          "name": "Anna Caballero",
-          "first_name": "Anna",
-          "last_name": "Caballero",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-014",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 18069,
-          "name": "Heath Flora",
-          "first_name": "Heath",
-          "last_name": "Flora",
-          "party": "R",
-          "role": "Rep",
-          "district": "HD-009",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 11611,
-          "name": "Shannon Grove",
-          "first_name": "Shannon",
-          "last_name": "Grove",
-          "party": "R",
-          "role": "Sen",
-          "district": "SD-012",
-          "type": "cosponsor"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-SB582",
@@ -141759,6 +141759,126 @@
       "legiscan_bill_id": 1970398
     },
     {
+      "billId": "CA-SB1347",
+      "state": "CA",
+      "billNumber": "SB1347",
+      "title": "Pupil health: emergency stock albuterol inhalers.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Pupil health: emergency stock albuterol inhalers.",
+      "sponsor": "Roger Niello (R)",
+      "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
+      "lastActionDate": "2026-09-04",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/SB1347/2025",
+      "legiscan_bill_id": 2121931,
+      "sponsorships": [
+        {
+          "people_id": 1551,
+          "name": "Roger Niello",
+          "first_name": "Roger",
+          "last_name": "Niello",
+          "party": "R",
+          "role": "Sen",
+          "district": "SD-006",
+          "type": "primary"
+        }
+      ],
+      "rollCalls": [
+        {
+          "key": "LS-1679390",
+          "legiscan_roll_call_id": 1679390,
+          "date": "2026-04-08",
+          "desc": "Do pass",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
+        },
+        {
+          "key": "LS-1692202",
+          "legiscan_roll_call_id": 1692202,
+          "date": "2026-04-30",
+          "desc": "Senate 3rd Reading SB1347 Niello",
+          "chamber": "Senate",
+          "yea": 36,
+          "nay": 0,
+          "nv": 0,
+          "absent": 4,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
+        },
+        {
+          "key": "LS-1710116",
+          "legiscan_roll_call_id": 1710116,
+          "date": "2026-06-17",
+          "desc": "Do pass. To Consent Calendar",
+          "chamber": "A",
+          "yea": 8,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 9,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
+        },
+        {
+          "key": "LS-1726119",
+          "legiscan_roll_call_id": 1726119,
+          "date": "2026-08-25",
+          "desc": "Do pass",
+          "chamber": "A",
+          "yea": 19,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 19,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
+        },
+        {
+          "key": "LS-1726741",
+          "legiscan_roll_call_id": 1726741,
+          "date": "2026-08-27",
+          "desc": "SB 1347 Niello Senate Third Reading By Patel",
+          "chamber": "A",
+          "yea": 76,
+          "nay": 0,
+          "nv": 0,
+          "absent": 3,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
+        },
+        {
+          "key": "LS-1726808",
+          "legiscan_roll_call_id": 1726808,
+          "date": "2026-08-28",
+          "desc": "Unfinished Business SB1347 Niello Concurrence",
+          "chamber": "Senate",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
+        }
+      ],
+      "session_id": 2172
+    },
+    {
       "billId": "CA-AB173",
       "state": "CA",
       "billNumber": "AB173",
@@ -141885,27 +142005,6 @@
       "legiscan_bill_id": 2108284
     },
     {
-      "billId": "CA-SB165",
-      "state": "CA",
-      "billNumber": "SB165",
-      "title": "Skilled nursing facilities: reimbursement rates.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Skilled nursing facilities: reimbursement rates.",
-      "sponsor": "",
-      "lastAction": "Chaptered by Secretary of State. Chapter 61, Statutes of 2026.",
-      "lastActionDate": "2026-07-06",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/SB165/2025",
-      "legiscan_bill_id": 1939263
-    },
-    {
       "billId": "CA-AB1621",
       "state": "CA",
       "billNumber": "AB1621",
@@ -141925,6 +142024,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1621/2025",
       "legiscan_bill_id": 2091391
+    },
+    {
+      "billId": "CA-SB165",
+      "state": "CA",
+      "billNumber": "SB165",
+      "title": "Skilled nursing facilities: reimbursement rates.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Skilled nursing facilities: reimbursement rates.",
+      "sponsor": "",
+      "lastAction": "Chaptered by Secretary of State. Chapter 61, Statutes of 2026.",
+      "lastActionDate": "2026-07-06",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/SB165/2025",
+      "legiscan_bill_id": 1939263
     },
     {
       "billId": "CA-AB2405",
@@ -142201,126 +142321,6 @@
       "legiscan_bill_id": 1953054
     },
     {
-      "billId": "CA-SB1347",
-      "state": "CA",
-      "billNumber": "SB1347",
-      "title": "Pupil health: emergency stock albuterol inhalers.",
-      "status": "Passed One Chamber",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Pupil health: emergency stock albuterol inhalers.",
-      "sponsor": "Roger Niello (R)",
-      "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
-      "lastActionDate": "2026-09-04",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/SB1347/2025",
-      "legiscan_bill_id": 2121931,
-      "rollCalls": [
-        {
-          "key": "LS-1679390",
-          "legiscan_roll_call_id": 1679390,
-          "date": "2026-04-08",
-          "desc": "Do pass",
-          "chamber": "Senate",
-          "yea": 7,
-          "nay": 0,
-          "nv": 0,
-          "absent": 0,
-          "total": 7,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
-        },
-        {
-          "key": "LS-1692202",
-          "legiscan_roll_call_id": 1692202,
-          "date": "2026-04-30",
-          "desc": "Senate 3rd Reading SB1347 Niello",
-          "chamber": "Senate",
-          "yea": 36,
-          "nay": 0,
-          "nv": 0,
-          "absent": 4,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
-        },
-        {
-          "key": "LS-1710116",
-          "legiscan_roll_call_id": 1710116,
-          "date": "2026-06-17",
-          "desc": "Do pass. To Consent Calendar",
-          "chamber": "A",
-          "yea": 8,
-          "nay": 0,
-          "nv": 0,
-          "absent": 1,
-          "total": 9,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
-        },
-        {
-          "key": "LS-1726119",
-          "legiscan_roll_call_id": 1726119,
-          "date": "2026-08-25",
-          "desc": "Do pass",
-          "chamber": "A",
-          "yea": 19,
-          "nay": 0,
-          "nv": 0,
-          "absent": 0,
-          "total": 19,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
-        },
-        {
-          "key": "LS-1726741",
-          "legiscan_roll_call_id": 1726741,
-          "date": "2026-08-27",
-          "desc": "SB 1347 Niello Senate Third Reading By Patel",
-          "chamber": "A",
-          "yea": 76,
-          "nay": 0,
-          "nv": 0,
-          "absent": 3,
-          "total": 79,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
-        },
-        {
-          "key": "LS-1726808",
-          "legiscan_roll_call_id": 1726808,
-          "date": "2026-08-28",
-          "desc": "Unfinished Business SB1347 Niello Concurrence",
-          "chamber": "Senate",
-          "yea": 40,
-          "nay": 0,
-          "nv": 0,
-          "absent": 0,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1347"
-        }
-      ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 1551,
-          "name": "Roger Niello",
-          "first_name": "Roger",
-          "last_name": "Niello",
-          "party": "R",
-          "role": "Sen",
-          "district": "SD-006",
-          "type": "primary"
-        }
-      ]
-    },
-    {
       "billId": "CA-SB36",
       "state": "CA",
       "billNumber": "SB36",
@@ -142367,7 +142367,7 @@
       "state": "CA",
       "billNumber": "AB306",
       "title": "California Building Standards Commission: appeals: code interpretations.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -142382,6 +142382,38 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB306/2025",
       "legiscan_bill_id": 1939183,
+      "sponsorships": [
+        {
+          "people_id": 25339,
+          "name": "Heather Hadwick",
+          "first_name": "Heather",
+          "last_name": "Hadwick",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-001",
+          "type": "primary"
+        },
+        {
+          "people_id": 25348,
+          "name": "Nick Schultz",
+          "first_name": "Nick",
+          "last_name": "Schultz",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-044",
+          "type": "primary"
+        },
+        {
+          "people_id": 19723,
+          "name": "Buffy Wicks",
+          "first_name": "Buffy",
+          "last_name": "Wicks",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-014",
+          "type": "primary"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1516574",
@@ -142524,39 +142556,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB306"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 25339,
-          "name": "Heather Hadwick",
-          "first_name": "Heather",
-          "last_name": "Hadwick",
-          "party": "R",
-          "role": "Rep",
-          "district": "HD-001",
-          "type": "primary"
-        },
-        {
-          "people_id": 25348,
-          "name": "Nick Schultz",
-          "first_name": "Nick",
-          "last_name": "Schultz",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-044",
-          "type": "primary"
-        },
-        {
-          "people_id": 19723,
-          "name": "Buffy Wicks",
-          "first_name": "Buffy",
-          "last_name": "Wicks",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-014",
-          "type": "primary"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB2041",
@@ -185466,6 +185466,114 @@
       "legiscan_bill_id": 1945209
     },
     {
+      "billId": "CA-SB1447",
+      "state": "CA",
+      "billNumber": "SB1447",
+      "title": "Health omnibus.",
+      "status": "Passed One Chamber",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Health omnibus.",
+      "sponsor": "",
+      "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
+      "lastActionDate": "2026-09-04",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/SB1447/2025",
+      "legiscan_bill_id": 2138881,
+      "rollCalls": [
+        {
+          "key": "LS-1691840",
+          "legiscan_roll_call_id": 1691840,
+          "date": "2026-04-29",
+          "desc": "Do pass, but first be re-referred to the Committee on [Human Services] with the recommendation: To Consent Calendar",
+          "chamber": "Senate",
+          "yea": 11,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 11,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1447"
+        },
+        {
+          "key": "LS-1698414",
+          "legiscan_roll_call_id": 1698414,
+          "date": "2026-05-14",
+          "desc": "Consent Calendar 2nd SB1447 HEALTH (Weber Pierson)",
+          "chamber": "Senate",
+          "yea": 35,
+          "nay": 0,
+          "nv": 0,
+          "absent": 5,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1447"
+        },
+        {
+          "key": "LS-1712886",
+          "legiscan_roll_call_id": 1712886,
+          "date": "2026-06-30",
+          "desc": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+          "chamber": "A",
+          "yea": 14,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 16,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1447"
+        },
+        {
+          "key": "LS-1716531",
+          "legiscan_roll_call_id": 1716531,
+          "date": "2026-08-05",
+          "desc": "Do pass. To Consent Calendar",
+          "chamber": "A",
+          "yea": 15,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1447"
+        },
+        {
+          "key": "LS-1724833",
+          "legiscan_roll_call_id": 1724833,
+          "date": "2026-08-13",
+          "desc": "SB 1447 Health Consent Calendar Second Day Regular Session",
+          "chamber": "A",
+          "yea": 72,
+          "nay": 0,
+          "nv": 0,
+          "absent": 7,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1447"
+        },
+        {
+          "key": "LS-1726625",
+          "legiscan_roll_call_id": 1726625,
+          "date": "2026-08-27",
+          "desc": "Special Consent SB1447 HEALTH (Weber Pierson)",
+          "chamber": "Senate",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1447"
+        }
+      ],
+      "session_id": 2172
+    },
+    {
       "billId": "CA-AB1843",
       "state": "CA",
       "billNumber": "AB1843",
@@ -185485,27 +185593,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1843/2025",
       "legiscan_bill_id": 2114711
-    },
-    {
-      "billId": "CA-SB1447",
-      "state": "CA",
-      "billNumber": "SB1447",
-      "title": "Health omnibus.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Health omnibus.",
-      "sponsor": "",
-      "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
-      "lastActionDate": "2026-09-04",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/SB1447/2025",
-      "legiscan_bill_id": 2138881
     },
     {
       "billId": "CA-AB302",
@@ -185617,7 +185704,7 @@
       "state": "CA",
       "billNumber": "AB2304",
       "title": "Social workers.",
-      "status": "Introduced",
+      "status": "Passed One Chamber",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -185625,13 +185712,178 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Social workers.",
-      "sponsor": "",
+      "sponsor": "Tom Lackey (R)",
       "lastAction": "Enrolled and presented to the Governor at 4 p.m.",
       "lastActionDate": "2026-09-04",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2304/2025",
-      "legiscan_bill_id": 2120778
+      "legiscan_bill_id": 2120778,
+      "rollCalls": [
+        {
+          "key": "LS-1682692",
+          "legiscan_roll_call_id": 1682692,
+          "date": "2026-04-14",
+          "desc": "Do pass as amended, and be re-referred to the Committee on [Public Safety] with recommendation: To Consent Calendar",
+          "chamber": "A",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        },
+        {
+          "key": "LS-1687999",
+          "legiscan_roll_call_id": 1687999,
+          "date": "2026-04-21",
+          "desc": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+          "chamber": "A",
+          "yea": 9,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 9,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        },
+        {
+          "key": "LS-1698667",
+          "legiscan_roll_call_id": 1698667,
+          "date": "2026-05-14",
+          "desc": "Do pass",
+          "chamber": "A",
+          "yea": 15,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        },
+        {
+          "key": "LS-1702478",
+          "legiscan_roll_call_id": 1702478,
+          "date": "2026-05-27",
+          "desc": "AB 2304 Lackey Assembly Third Reading",
+          "chamber": "A",
+          "yea": 78,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 80,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        },
+        {
+          "key": "LS-1712433",
+          "legiscan_roll_call_id": 1712433,
+          "date": "2026-06-29",
+          "desc": "Do pass, but first be re-referred to the Committee on [Public Safety]",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 5,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        },
+        {
+          "key": "LS-1713659",
+          "legiscan_roll_call_id": 1713659,
+          "date": "2026-06-30",
+          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+          "chamber": "Senate",
+          "yea": 6,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 6,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        },
+        {
+          "key": "LS-1716175",
+          "legiscan_roll_call_id": 1716175,
+          "date": "2026-08-03",
+          "desc": "Placed on suspense file",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        },
+        {
+          "key": "LS-1724733",
+          "legiscan_roll_call_id": 1724733,
+          "date": "2026-08-13",
+          "desc": "Do pass as amended",
+          "chamber": "Senate",
+          "yea": 6,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        },
+        {
+          "key": "LS-1725972",
+          "legiscan_roll_call_id": 1725972,
+          "date": "2026-08-25",
+          "desc": "Assembly 3rd Reading AB2304 Lackey et al. By Valladares",
+          "chamber": "Senate",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        },
+        {
+          "key": "LS-1726540",
+          "legiscan_roll_call_id": 1726540,
+          "date": "2026-08-27",
+          "desc": "AB 2304 Lackey Concurrence in Senate Amendments",
+          "chamber": "A",
+          "yea": 76,
+          "nay": 0,
+          "nv": 0,
+          "absent": 3,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2304"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 16293,
+          "name": "Tom Lackey",
+          "first_name": "Tom",
+          "last_name": "Lackey",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-034",
+          "type": "primary"
+        },
+        {
+          "people_id": 23221,
+          "name": "Stephanie Nguyen",
+          "first_name": "Stephanie",
+          "last_name": "Nguyen",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-010",
+          "type": "cosponsor"
+        }
+      ]
     },
     {
       "billId": "CA-SB802",
@@ -185819,7 +186071,7 @@
       "state": "CA",
       "billNumber": "SB944",
       "title": "Medi-Cal: acupuncture.",
-      "status": "Introduced",
+      "status": "Passed One Chamber",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -185827,13 +186079,260 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Medi-Cal: acupuncture.",
-      "sponsor": "",
+      "sponsor": "Scott Wiener (D)",
       "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
       "lastActionDate": "2026-09-04",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/SB944/2025",
-      "legiscan_bill_id": 2104444
+      "legiscan_bill_id": 2104444,
+      "rollCalls": [
+        {
+          "key": "LS-1671499",
+          "legiscan_roll_call_id": 1671499,
+          "date": "2026-03-25",
+          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+          "chamber": "Senate",
+          "yea": 9,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 11,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB944"
+        },
+        {
+          "key": "LS-1681326",
+          "legiscan_roll_call_id": 1681326,
+          "date": "2026-04-13",
+          "desc": "Placed on suspense file",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB944"
+        },
+        {
+          "key": "LS-1698866",
+          "legiscan_roll_call_id": 1698866,
+          "date": "2026-05-14",
+          "desc": "Do pass",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB944"
+        },
+        {
+          "key": "LS-1700215",
+          "legiscan_roll_call_id": 1700215,
+          "date": "2026-05-19",
+          "desc": "Senate 3rd Reading SB944 Wiener et al",
+          "chamber": "Senate",
+          "yea": 35,
+          "nay": 0,
+          "nv": 0,
+          "absent": 5,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB944"
+        },
+        {
+          "key": "LS-1707729",
+          "legiscan_roll_call_id": 1707729,
+          "date": "2026-06-09",
+          "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+          "chamber": "A",
+          "yea": 15,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 16,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB944"
+        },
+        {
+          "key": "LS-1724771",
+          "legiscan_roll_call_id": 1724771,
+          "date": "2026-08-13",
+          "desc": "Do pass as amended",
+          "chamber": "A",
+          "yea": 11,
+          "nay": 0,
+          "nv": 0,
+          "absent": 4,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB944"
+        },
+        {
+          "key": "LS-1725883",
+          "legiscan_roll_call_id": 1725883,
+          "date": "2026-08-25",
+          "desc": "SB 944 Wiener Senate Third Reading By Fong",
+          "chamber": "A",
+          "yea": 74,
+          "nay": 1,
+          "nv": 0,
+          "absent": 4,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB944"
+        },
+        {
+          "key": "LS-1726837",
+          "legiscan_roll_call_id": 1726837,
+          "date": "2026-08-28",
+          "desc": "Special Consent SB944 Wiener et al",
+          "chamber": "Senate",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB944"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 18068,
+          "name": "Scott Wiener",
+          "first_name": "Scott",
+          "last_name": "Wiener",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-011",
+          "type": "primary"
+        },
+        {
+          "people_id": 25331,
+          "name": "Patrick Ahrens",
+          "first_name": "Patrick",
+          "last_name": "Ahrens",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-026",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 16304,
+          "name": "Benjamin Allen",
+          "first_name": "Benjamin",
+          "last_name": "Allen",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-024",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22948,
+          "name": "Mia Bonta",
+          "first_name": "Mia",
+          "last_name": "Bonta",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-018",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25332,
+          "name": "Jessica Caloza",
+          "first_name": "Jessica",
+          "last_name": "Caloza",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-052",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23099,
+          "name": "Mike Fong",
+          "first_name": "Mike",
+          "last_name": "Fong",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-049",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23137,
+          "name": "Matt Haney",
+          "first_name": "Matt",
+          "last_name": "Haney",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-017",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25340,
+          "name": "John Harabedian",
+          "first_name": "John",
+          "last_name": "Harabedian",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-041",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 26495,
+          "name": "Natasha Johnson",
+          "first_name": "Natasha",
+          "last_name": "Johnson",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-063",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23221,
+          "name": "Stephanie Nguyen",
+          "first_name": "Stephanie",
+          "last_name": "Nguyen",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-010",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25343,
+          "name": "Darshana Patel",
+          "first_name": "Darshana",
+          "last_name": "Patel",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-076",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25349,
+          "name": "LaShae Sharp-Collins",
+          "first_name": "LaShae",
+          "last_name": "Sharp-Collins",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-079",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25351,
+          "name": "Catherine Stefani",
+          "first_name": "Catherine",
+          "last_name": "Stefani",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-019",
+          "type": "cosponsor"
+        }
+      ]
     },
     {
       "billId": "CA-AB1629",
@@ -215679,6 +216178,114 @@
       "legiscan_bill_id": 2104425
     },
     {
+      "billId": "CA-SB1445",
+      "state": "CA",
+      "billNumber": "SB1445",
+      "title": "Healing arts.",
+      "status": "Passed One Chamber",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Healing arts.",
+      "sponsor": "",
+      "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
+      "lastActionDate": "2026-09-04",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/SB1445/2025",
+      "legiscan_bill_id": 2135348,
+      "rollCalls": [
+        {
+          "key": "LS-1685868",
+          "legiscan_roll_call_id": 1685868,
+          "date": "2026-04-20",
+          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+          "chamber": "Senate",
+          "yea": 9,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 11,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1445"
+        },
+        {
+          "key": "LS-1695811",
+          "legiscan_roll_call_id": 1695811,
+          "date": "2026-05-07",
+          "desc": "Consent Calendar 2nd SB1445 B., P. & E.D. (Wahab)",
+          "chamber": "Senate",
+          "yea": 36,
+          "nay": 0,
+          "nv": 0,
+          "absent": 4,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1445"
+        },
+        {
+          "key": "LS-1712986",
+          "legiscan_roll_call_id": 1712986,
+          "date": "2026-06-30",
+          "desc": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+          "chamber": "A",
+          "yea": 17,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 19,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1445"
+        },
+        {
+          "key": "LS-1716510",
+          "legiscan_roll_call_id": 1716510,
+          "date": "2026-08-05",
+          "desc": "Do pass. To Consent Calendar",
+          "chamber": "A",
+          "yea": 15,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1445"
+        },
+        {
+          "key": "LS-1726064",
+          "legiscan_roll_call_id": 1726064,
+          "date": "2026-08-25",
+          "desc": "SB 1445 Business, Professions an Senate Third Reading By BERMAN",
+          "chamber": "A",
+          "yea": 78,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1445"
+        },
+        {
+          "key": "LS-1726814",
+          "legiscan_roll_call_id": 1726814,
+          "date": "2026-08-28",
+          "desc": "Special Consent SB1445 B., P. & E.D. (Wahab)",
+          "chamber": "Senate",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1445"
+        }
+      ],
+      "session_id": 2172
+    },
+    {
       "billId": "CA-AB1760",
       "state": "CA",
       "billNumber": "AB1760",
@@ -215698,27 +216305,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1760/2025",
       "legiscan_bill_id": 2112366
-    },
-    {
-      "billId": "CA-SB1445",
-      "state": "CA",
-      "billNumber": "SB1445",
-      "title": "Healing arts.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Healing arts.",
-      "sponsor": "",
-      "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
-      "lastActionDate": "2026-09-04",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/SB1445/2025",
-      "legiscan_bill_id": 2135348
     },
     {
       "billId": "CA-AB873",
@@ -230203,27 +230789,6 @@
       "legiscan_bill_id": 2121555
     },
     {
-      "billId": "CA-AB118",
-      "state": "CA",
-      "billNumber": "AB118",
-      "title": "Human services.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Human services.",
-      "sponsor": "",
-      "lastAction": "Chaptered by Secretary of State - Chapter 7, Statutes of 2025.",
-      "lastActionDate": "2025-06-27",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/AB118/2025",
-      "legiscan_bill_id": 1908103
-    },
-    {
       "billId": "CA-AB1103",
       "state": "CA",
       "billNumber": "AB1103",
@@ -230243,6 +230808,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1103/2025",
       "legiscan_bill_id": 1978638
+    },
+    {
+      "billId": "CA-AB118",
+      "state": "CA",
+      "billNumber": "AB118",
+      "title": "Human services.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Human services.",
+      "sponsor": "",
+      "lastAction": "Chaptered by Secretary of State - Chapter 7, Statutes of 2025.",
+      "lastActionDate": "2025-06-27",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/AB118/2025",
+      "legiscan_bill_id": 1908103
     },
     {
       "billId": "CA-AB1376",

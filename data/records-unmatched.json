@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T11:43:24.638771+00:00",
-  "count": 523,
+  "generated_at": "2026-09-08T10:42:13.325872+00:00",
+  "count": 524,
   "unmatched": [
     {
       "billId": "US-119-HR1111",
@@ -184,6 +184,14 @@
       "chamber": "Senate",
       "district": "SD-029",
       "name": "Bruce Anderson",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "CA-SB58",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
+      "name": "Tasha Boerner Horvath",
       "role": "cosponsor"
     },
     {

@@ -226501,6 +226501,3322 @@
           "vote": "Nay"
         }
       ]
+    },
+    "LS-1699265": {
+      "key": "LS-1699265",
+      "billId": "AK-HB195",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-15",
+      "desc": "House: Second Reading Amendment No. 1/Table",
+      "yea": 23,
+      "nay": 17,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB195&Page=02614#AM1",
+      "votes": [
+        {
+          "people_id": 6065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11277,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11301,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 14389,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17251,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18974,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19096,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20423,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21261,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21271,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21272,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21614,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22861,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22863,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22865,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23890,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24187,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24586,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24587,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24590,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24591,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24593,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24789,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24790,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24791,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24792,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24793,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26273,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26349,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26351,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26352,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26353,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26354,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26560,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26561,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1699266": {
+      "key": "LS-1699266",
+      "billId": "AK-HB195",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-15",
+      "desc": "House: Second Reading Amendment No. 1/Table",
+      "yea": 23,
+      "nay": 17,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB195&Page=02615#2615",
+      "votes": [
+        {
+          "people_id": 6065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11277,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11301,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 14389,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17251,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18974,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19096,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20423,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21261,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21271,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21272,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21614,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22861,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22863,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22865,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23890,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24187,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24586,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24587,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24590,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24591,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24593,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24789,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24790,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24791,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24792,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24793,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26273,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26349,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26351,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26352,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26353,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26354,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26560,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26561,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1701788": {
+      "key": "LS-1701788",
+      "billId": "AK-HB195",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-20",
+      "desc": "Senate: Advance from Second to Third Reading",
+      "yea": 16,
+      "nay": 4,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB195&Page=02875#2875",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1701789": {
+      "key": "LS-1701789",
+      "billId": "AK-HB195",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-20",
+      "desc": "Senate: Third Reading - Final Passage Effective Date(s)",
+      "yea": 15,
+      "nay": 5,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB195&Page=02876#2876",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1687075": {
+      "key": "LS-1687075",
+      "billId": "CA-AB1906",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-04-21",
+      "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 16,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 16,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1906",
+      "votes": [
+        {
+          "people_id": 18066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1698530": {
+      "key": "LS-1698530",
+      "billId": "CA-AB1906",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-05-14",
+      "desc": "Do pass",
+      "yea": 14,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 15,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1906",
+      "votes": [
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Absent"
+        }
+      ]
+    },
+    "LS-1701385": {
+      "key": "LS-1701385",
+      "billId": "CA-AB1906",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-05-21",
+      "desc": "AB 1906 Aguiar-Curry Assembly Third Reading",
+      "yea": 73,
+      "nay": 0,
+      "nv": 0,
+      "absent": 7,
+      "total": 80,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1906",
+      "votes": [
+        {
+          "people_id": 14116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16287,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16288,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16293,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19721,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23152,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23155,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23214,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25336,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25345,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1710420": {
+      "key": "LS-1710420",
+      "billId": "CA-AB1906",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-17",
+      "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1906",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11611,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1712318": {
+      "key": "LS-1712318",
+      "billId": "CA-AB1906",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-29",
+      "desc": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1906",
+      "votes": [
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1725191": {
+      "key": "LS-1725191",
+      "billId": "CA-AB1906",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-08-13",
+      "desc": "Do pass",
+      "yea": 7,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1906",
+      "votes": [
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1726451": {
+      "key": "LS-1726451",
+      "billId": "CA-AB1906",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-08-27",
+      "desc": "Assembly 3rd Reading AB1906 Aguiar-Curry By Pérez",
+      "yea": 40,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1906",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1603,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11611,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1726765": {
+      "key": "LS-1726765",
+      "billId": "CA-AB1906",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-08-28",
+      "desc": "AB 1906 Aguiar-Curry Concurrence in Senate Amendments",
+      "yea": 78,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 79,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1906",
+      "votes": [
+        {
+          "people_id": 14116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16288,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19721,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23152,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23155,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23214,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25345,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1631182": {
+      "key": "LS-1631182",
+      "billId": "AK-HB110",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-02-11",
+      "desc": "House: Second Reading Amendment No. 2",
+      "yea": 19,
+      "nay": 21,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": false,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB110&Page=01599#AM2",
+      "votes": [
+        {
+          "people_id": 6065,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6072,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11277,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11301,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14389,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17251,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18974,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19096,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20423,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21261,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21271,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21272,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21614,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22861,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22863,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22865,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23890,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24187,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24586,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24587,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24590,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24591,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24593,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24789,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24790,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24791,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24792,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24793,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26273,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26346,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26348,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26350,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26351,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26560,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26561,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1631183": {
+      "key": "LS-1631183",
+      "billId": "AK-HB110",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-02-11",
+      "desc": "House: Second Reading Amendment No. 2",
+      "yea": 19,
+      "nay": 21,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": false,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB110&Page=01600#1600",
+      "votes": [
+        {
+          "people_id": 6065,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6072,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11277,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11301,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14389,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17251,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18974,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19096,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20423,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21261,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21271,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21272,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21614,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22861,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22863,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22865,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23890,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24187,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24586,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24587,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24590,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24591,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24593,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24789,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24790,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24791,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24792,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24793,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26273,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26346,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26348,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26350,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26351,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26560,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26561,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1701650": {
+      "key": "LS-1701650",
+      "billId": "AK-HB110",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-20",
+      "desc": "Senate: Second Reading Amendment No. 1",
+      "yea": 13,
+      "nay": 7,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB110&Page=02836#AM1",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1701651": {
+      "key": "LS-1701651",
+      "billId": "AK-HB110",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-20",
+      "desc": "Senate: Third Reading - Final Passage",
+      "yea": 9,
+      "nay": 11,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": false,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB110&Page=02837#2837",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1701652": {
+      "key": "LS-1701652",
+      "billId": "AK-HB110",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-20",
+      "desc": "Senate: Rescind Previous Action",
+      "yea": 13,
+      "nay": 7,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB110&Page=02838#2838",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1701653": {
+      "key": "LS-1701653",
+      "billId": "AK-HB110",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-20",
+      "desc": "Senate: Rescind Previous Action",
+      "yea": 13,
+      "nay": 7,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB110&Page=02839#2839",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1701654": {
+      "key": "LS-1701654",
+      "billId": "AK-HB110",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-20",
+      "desc": "Senate: Effective Date Clause(s)",
+      "yea": 19,
+      "nay": 1,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB110&Page=02840#2840",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1701655": {
+      "key": "LS-1701655",
+      "billId": "AK-HB110",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-20",
+      "desc": "House: Concur",
+      "yea": 39,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB110&Page=02988#2988",
+      "votes": [
+        {
+          "people_id": 6065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11277,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11301,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14389,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17251,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18974,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19096,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20423,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21261,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21271,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21272,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21614,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22861,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22863,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22865,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23890,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24187,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24586,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24587,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24590,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24591,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 24593,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24789,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24790,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24791,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24792,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24793,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26273,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26560,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26561,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1675222": {
+      "key": "LS-1675222",
+      "billId": "AK-SB143",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-04-01",
+      "desc": "Senate: Third Reading - Final Passage Effective Date(s)",
+      "yea": 20,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB143&Page=02127#2127",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1698019": {
+      "key": "LS-1698019",
+      "billId": "AK-SB143",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-13",
+      "desc": "House: Second Reading Amendment No. 2",
+      "yea": 19,
+      "nay": 20,
+      "nv": 0,
+      "absent": 1,
+      "total": 40,
+      "passed": false,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB143&Page=02537#AM2",
+      "votes": [
+        {
+          "people_id": 6065,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 6072,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11277,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11301,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14389,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17251,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18974,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19096,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20423,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21261,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21271,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21272,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21614,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22861,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22863,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22865,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23890,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24187,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24586,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24587,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24590,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24591,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24593,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24789,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24790,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24791,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24792,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24793,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26273,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26346,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26348,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26350,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26351,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26560,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26561,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1699255": {
+      "key": "LS-1699255",
+      "billId": "AK-SB143",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-15",
+      "desc": "House: Third Reading Final Passage",
+      "yea": 40,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB143&Page=02620#2620",
+      "votes": [
+        {
+          "people_id": 6065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11277,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11301,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14389,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17251,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18974,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19096,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20423,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21261,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21271,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21272,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21614,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22861,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22863,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22865,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23890,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24187,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24586,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24587,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24590,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24591,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24593,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24789,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24790,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24791,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24792,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24793,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26273,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26560,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26561,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1699362": {
+      "key": "LS-1699362",
+      "billId": "AK-SB143",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-17",
+      "desc": "Senate: Shall the Senate Concur in the House Amendment(s) to CSSB 143(CRA) Effective Date(s)",
+      "yea": 20,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB143&Page=02708#2708",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Yea"
+        }
+      ]
     }
   },
   "people": {
@@ -276291,6 +279607,771 @@
       "role": "Rep",
       "district": "HD-010",
       "state": "WY"
+    },
+    "6052": {
+      "name": "Scott Kawasaki",
+      "first_name": "Scott",
+      "last_name": "Kawasaki",
+      "party": "D",
+      "role": "Rep",
+      "district": "SD-P",
+      "state": "AK"
+    },
+    "6065": {
+      "name": "Bryce Edgmon",
+      "first_name": "Bryce",
+      "last_name": "Edgmon",
+      "party": "I",
+      "role": "Rep",
+      "district": "HD-037",
+      "state": "AK"
+    },
+    "6072": {
+      "name": "Neal Foster",
+      "first_name": "Neal",
+      "last_name": "Foster",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-039",
+      "state": "AK"
+    },
+    "6075": {
+      "name": "William Wielechowski",
+      "first_name": "William",
+      "last_name": "Wielechowski",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-K",
+      "state": "AK"
+    },
+    "6083": {
+      "name": "Donald Olson",
+      "first_name": "Donald",
+      "last_name": "Olson",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-T",
+      "state": "AK"
+    },
+    "6085": {
+      "name": "Lyman Hoffman",
+      "first_name": "Lyman",
+      "last_name": "Hoffman",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-S",
+      "state": "AK"
+    },
+    "6089": {
+      "name": "Bert Stedman",
+      "first_name": "Bert",
+      "last_name": "Stedman",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-A",
+      "state": "AK"
+    },
+    "6093": {
+      "name": "Gary Stevens",
+      "first_name": "Gary",
+      "last_name": "Stevens",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-C",
+      "state": "AK"
+    },
+    "11277": {
+      "name": "Dan Saddler",
+      "first_name": "Dan",
+      "last_name": "Saddler",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-024",
+      "state": "AK"
+    },
+    "11301": {
+      "name": "Mia Costello",
+      "first_name": "Mia",
+      "last_name": "Costello",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-015",
+      "state": "AK"
+    },
+    "11358": {
+      "name": "Catherine Giessel",
+      "first_name": "Catherine",
+      "last_name": "Giessel",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-E",
+      "state": "AK"
+    },
+    "14388": {
+      "name": "Shelley Hughes",
+      "first_name": "Shelley",
+      "last_name": "Hughes",
+      "party": "R",
+      "role": "Rep",
+      "district": "SD-M",
+      "state": "AK"
+    },
+    "14389": {
+      "name": "Andrew Josephson",
+      "first_name": "Andrew",
+      "last_name": "Josephson",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-013",
+      "state": "AK"
+    },
+    "16680": {
+      "name": "Cathy Tilton",
+      "first_name": "Cathy",
+      "last_name": "Tilton",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-M",
+      "state": "AK"
+    },
+    "17251": {
+      "name": "Louise Stutes",
+      "first_name": "Louise",
+      "last_name": "Stutes",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-005",
+      "state": "AK"
+    },
+    "17255": {
+      "name": "Matt Claman",
+      "first_name": "Matt",
+      "last_name": "Claman",
+      "party": "D",
+      "role": "Rep",
+      "district": "SD-H",
+      "state": "AK"
+    },
+    "18610": {
+      "name": "George Rauscher",
+      "first_name": "George",
+      "last_name": "Rauscher",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-O",
+      "state": "AK"
+    },
+    "18974": {
+      "name": "Charles Kopp",
+      "first_name": "Charles",
+      "last_name": "Kopp",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-010",
+      "state": "AK"
+    },
+    "19096": {
+      "name": "DeLena Johnson",
+      "first_name": "DeLena",
+      "last_name": "Johnson",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-025",
+      "state": "AK"
+    },
+    "19596": {
+      "name": "Mike Shower",
+      "first_name": "Mike",
+      "last_name": "Shower",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-O",
+      "state": "AK"
+    },
+    "20423": {
+      "name": "William Fields",
+      "first_name": "William",
+      "last_name": "Fields",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-017",
+      "state": "AK"
+    },
+    "20962": {
+      "name": "Elvi Gray-Jackson",
+      "first_name": "Elvira",
+      "last_name": "Gray-Jackson",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-G",
+      "state": "AK"
+    },
+    "20963": {
+      "name": "Jesse Kiehl",
+      "first_name": "Jesse",
+      "last_name": "Kiehl",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-B",
+      "state": "AK"
+    },
+    "21261": {
+      "name": "Sara Hannan",
+      "first_name": "Sara",
+      "last_name": "Hannan",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-004",
+      "state": "AK"
+    },
+    "21268": {
+      "name": "Kelly Merrick",
+      "first_name": "Kelly",
+      "last_name": "Merrick",
+      "party": "R",
+      "role": "Rep",
+      "district": "SD-L",
+      "state": "AK"
+    },
+    "21271": {
+      "name": "Andrea Story",
+      "first_name": "Andrea",
+      "last_name": "Story",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-003",
+      "state": "AK"
+    },
+    "21272": {
+      "name": "Sarah Vance",
+      "first_name": "Sarah",
+      "last_name": "Vance",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-006",
+      "state": "AK"
+    },
+    "21515": {
+      "name": "Energy",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "21516": {
+      "name": "Finance",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "21517": {
+      "name": "Judiciary",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "21518": {
+      "name": "Labor & Commerce",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "21519": {
+      "name": "Resources",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "21520": {
+      "name": "Rules",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "21521": {
+      "name": "State Affairs",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "21523": {
+      "name": "Education",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "21524": {
+      "name": "Finance",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "21526": {
+      "name": "Resources",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "21527": {
+      "name": "Rules",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "21528": {
+      "name": "Transportation",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "21529": {
+      "name": "Judiciary",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "21609": {
+      "name": "Community & Regional Affairs",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "21610": {
+      "name": "Labor & Commerce",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "21613": {
+      "name": "State Affairs",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "21614": {
+      "name": "Mike Prax",
+      "first_name": "Mike",
+      "last_name": "Prax",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-033",
+      "state": "AK"
+    },
+    "21618": {
+      "name": "Health & Social Services",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "22728": {
+      "name": "Robert Myers",
+      "first_name": "Robert",
+      "last_name": "Myers",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-Q",
+      "state": "AK"
+    },
+    "22857": {
+      "name": "Mike Cronk",
+      "first_name": "Mike",
+      "last_name": "Cronk",
+      "party": "R",
+      "role": "Rep",
+      "district": "SD-R",
+      "state": "AK"
+    },
+    "22859": {
+      "name": "James Kaufman",
+      "first_name": "James",
+      "last_name": "Kaufman",
+      "party": "R",
+      "role": "Rep",
+      "district": "SD-F",
+      "state": "AK"
+    },
+    "22861": {
+      "name": "Kevin McCabe",
+      "first_name": "Kevin",
+      "last_name": "McCabe",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-030",
+      "state": "AK"
+    },
+    "22863": {
+      "name": "David Nelson",
+      "first_name": "David",
+      "last_name": "Nelson",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-018",
+      "state": "AK"
+    },
+    "22865": {
+      "name": "Calvin Schrage",
+      "first_name": "Calvin",
+      "last_name": "Schrage",
+      "party": "N",
+      "role": "Rep",
+      "district": "HD-012",
+      "state": "AK"
+    },
+    "22899": {
+      "name": "Fisheries",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "23097": {
+      "name": "Transportation",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "23118": {
+      "name": "Community & Regional Affairs",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "23127": {
+      "name": "Education",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Rep",
+      "district": "",
+      "state": "AK"
+    },
+    "23131": {
+      "name": "Health & Social Services",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "23890": {
+      "name": "Ashley Carrick",
+      "first_name": "Ashley",
+      "last_name": "Carrick",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-035",
+      "state": "AK"
+    },
+    "24187": {
+      "name": "Genevieve Mina",
+      "first_name": "Genevieve",
+      "last_name": "Mina",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-019",
+      "state": "AK"
+    },
+    "24409": {
+      "name": "Forrest Dunbar",
+      "first_name": "Forrest",
+      "last_name": "Dunbar",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-J",
+      "state": "AK"
+    },
+    "24544": {
+      "name": "Jesse Bjorkman",
+      "first_name": "Jesse",
+      "last_name": "Bjorkman",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-D",
+      "state": "AK"
+    },
+    "24545": {
+      "name": "Loki Tobin",
+      "first_name": "Loki",
+      "last_name": "Tobin",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-I",
+      "state": "AK"
+    },
+    "24586": {
+      "name": "Maxine Dibert",
+      "first_name": "Maxine",
+      "last_name": "Dibert",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-031",
+      "state": "AK"
+    },
+    "24587": {
+      "name": "Andrew Gray",
+      "first_name": "Andrew",
+      "last_name": "Gray",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-020",
+      "state": "AK"
+    },
+    "24590": {
+      "name": "Justin Ruffridge",
+      "first_name": "Justin",
+      "last_name": "Ruffridge",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-007",
+      "state": "AK"
+    },
+    "24591": {
+      "name": "Will Stapp",
+      "first_name": "Will",
+      "last_name": "Stapp",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-032",
+      "state": "AK"
+    },
+    "24593": {
+      "name": "Frank Tomaszewski",
+      "first_name": "Frank",
+      "last_name": "Tomaszewski",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-034",
+      "state": "AK"
+    },
+    "24789": {
+      "name": "Jamie Allard",
+      "first_name": "Jamie",
+      "last_name": "Allard",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-023",
+      "state": "AK"
+    },
+    "24790": {
+      "name": "Julie Coulombe",
+      "first_name": "Julie",
+      "last_name": "Coulombe",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-011",
+      "state": "AK"
+    },
+    "24791": {
+      "name": "Alyse Galvin",
+      "first_name": "Alyse",
+      "last_name": "Galvin",
+      "party": "I",
+      "role": "Rep",
+      "district": "HD-014",
+      "state": "AK"
+    },
+    "24792": {
+      "name": "Rebecca Himschoot",
+      "first_name": "Rebecca",
+      "last_name": "Himschoot",
+      "party": "I",
+      "role": "Rep",
+      "district": "HD-002",
+      "state": "AK"
+    },
+    "24793": {
+      "name": "Donna Mears",
+      "first_name": "Donna",
+      "last_name": "Mears",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-021",
+      "state": "AK"
+    },
+    "26273": {
+      "name": "Ky Holland",
+      "first_name": "Ky",
+      "last_name": "Holland",
+      "party": "N",
+      "role": "Rep",
+      "district": "HD-009",
+      "state": "AK"
+    },
+    "26346": {
+      "name": "Robyn Frier",
+      "first_name": "Robyn",
+      "last_name": "Frier",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-040",
+      "state": "AK"
+    },
+    "26347": {
+      "name": "Jeremy Bynum",
+      "first_name": "Jeremy",
+      "last_name": "Bynum",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-001",
+      "state": "AK"
+    },
+    "26348": {
+      "name": "Ted Eischeid",
+      "first_name": "Ted",
+      "last_name": "Eischeid",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-022",
+      "state": "AK"
+    },
+    "26349": {
+      "name": "Bill Elam",
+      "first_name": "Bill",
+      "last_name": "Elam",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-008",
+      "state": "AK"
+    },
+    "26350": {
+      "name": "Carolyn Hall",
+      "first_name": "Carolyn",
+      "last_name": "Hall",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-016",
+      "state": "AK"
+    },
+    "26351": {
+      "name": "Nellie Jimmie",
+      "first_name": "Nellie",
+      "last_name": "Jimmie",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-038",
+      "state": "AK"
+    },
+    "26352": {
+      "name": "Elexie Moore",
+      "first_name": "Elexie",
+      "last_name": "Moore",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-028",
+      "state": "AK"
+    },
+    "26353": {
+      "name": "Rebecca Schwanke",
+      "first_name": "Rebecca",
+      "last_name": "Schwanke",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-036",
+      "state": "AK"
+    },
+    "26354": {
+      "name": "Jubilee Underwood",
+      "first_name": "Jubilee",
+      "last_name": "Underwood",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-027",
+      "state": "AK"
+    },
+    "26355": {
+      "name": "Robert Yundt",
+      "first_name": "Robert",
+      "last_name": "Yundt",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-N",
+      "state": "AK"
+    },
+    "26415": {
+      "name": "Special Committee On Arctic Affairs",
+      "first_name": "",
+      "last_name": "",
+      "party": "",
+      "role": "Sen",
+      "district": "",
+      "state": "AK"
+    },
+    "26560": {
+      "name": "Garret Nelson",
+      "first_name": "Garret",
+      "last_name": "Nelson",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-029",
+      "state": "AK"
+    },
+    "26561": {
+      "name": "Steve St. Clair",
+      "first_name": "Steve",
+      "last_name": "St. Clair",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-026",
+      "state": "AK"
     }
   },
   "sessions_fetched": [
@@ -276300,6 +280381,7 @@
     "2160",
     "2161",
     "2166",
+    "2171",
     "2172",
     "2176",
     "2177",
@@ -276330,7 +280412,7 @@
     "2252",
     "2253"
   ],
-  "generated_at": "2026-09-08T10:42:13.325872+00:00",
+  "generated_at": "2026-09-09T10:50:50.451853+00:00",
   "people_by_session": {
     "2236": {
       "4747": {
@@ -326188,6 +330270,773 @@
         "role": "Rep",
         "district": "HD-010",
         "state": "WY"
+      }
+    },
+    "2171": {
+      "6052": {
+        "name": "Scott Kawasaki",
+        "first_name": "Scott",
+        "last_name": "Kawasaki",
+        "party": "D",
+        "role": "Rep",
+        "district": "SD-P",
+        "state": "AK"
+      },
+      "6065": {
+        "name": "Bryce Edgmon",
+        "first_name": "Bryce",
+        "last_name": "Edgmon",
+        "party": "I",
+        "role": "Rep",
+        "district": "HD-037",
+        "state": "AK"
+      },
+      "6072": {
+        "name": "Neal Foster",
+        "first_name": "Neal",
+        "last_name": "Foster",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-039",
+        "state": "AK"
+      },
+      "6075": {
+        "name": "William Wielechowski",
+        "first_name": "William",
+        "last_name": "Wielechowski",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-K",
+        "state": "AK"
+      },
+      "6083": {
+        "name": "Donald Olson",
+        "first_name": "Donald",
+        "last_name": "Olson",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-T",
+        "state": "AK"
+      },
+      "6085": {
+        "name": "Lyman Hoffman",
+        "first_name": "Lyman",
+        "last_name": "Hoffman",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-S",
+        "state": "AK"
+      },
+      "6089": {
+        "name": "Bert Stedman",
+        "first_name": "Bert",
+        "last_name": "Stedman",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-A",
+        "state": "AK"
+      },
+      "6093": {
+        "name": "Gary Stevens",
+        "first_name": "Gary",
+        "last_name": "Stevens",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-C",
+        "state": "AK"
+      },
+      "11277": {
+        "name": "Dan Saddler",
+        "first_name": "Dan",
+        "last_name": "Saddler",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-024",
+        "state": "AK"
+      },
+      "11301": {
+        "name": "Mia Costello",
+        "first_name": "Mia",
+        "last_name": "Costello",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-015",
+        "state": "AK"
+      },
+      "11358": {
+        "name": "Catherine Giessel",
+        "first_name": "Catherine",
+        "last_name": "Giessel",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-E",
+        "state": "AK"
+      },
+      "14388": {
+        "name": "Shelley Hughes",
+        "first_name": "Shelley",
+        "last_name": "Hughes",
+        "party": "R",
+        "role": "Rep",
+        "district": "SD-M",
+        "state": "AK"
+      },
+      "14389": {
+        "name": "Andrew Josephson",
+        "first_name": "Andrew",
+        "last_name": "Josephson",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-013",
+        "state": "AK"
+      },
+      "16680": {
+        "name": "Cathy Tilton",
+        "first_name": "Cathy",
+        "last_name": "Tilton",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-M",
+        "state": "AK"
+      },
+      "17251": {
+        "name": "Louise Stutes",
+        "first_name": "Louise",
+        "last_name": "Stutes",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-005",
+        "state": "AK"
+      },
+      "17255": {
+        "name": "Matt Claman",
+        "first_name": "Matt",
+        "last_name": "Claman",
+        "party": "D",
+        "role": "Rep",
+        "district": "SD-H",
+        "state": "AK"
+      },
+      "18610": {
+        "name": "George Rauscher",
+        "first_name": "George",
+        "last_name": "Rauscher",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-O",
+        "state": "AK"
+      },
+      "18974": {
+        "name": "Charles Kopp",
+        "first_name": "Charles",
+        "last_name": "Kopp",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-010",
+        "state": "AK"
+      },
+      "19096": {
+        "name": "DeLena Johnson",
+        "first_name": "DeLena",
+        "last_name": "Johnson",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-025",
+        "state": "AK"
+      },
+      "19596": {
+        "name": "Mike Shower",
+        "first_name": "Mike",
+        "last_name": "Shower",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-O",
+        "state": "AK"
+      },
+      "20423": {
+        "name": "William Fields",
+        "first_name": "William",
+        "last_name": "Fields",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-017",
+        "state": "AK"
+      },
+      "20962": {
+        "name": "Elvi Gray-Jackson",
+        "first_name": "Elvira",
+        "last_name": "Gray-Jackson",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-G",
+        "state": "AK"
+      },
+      "20963": {
+        "name": "Jesse Kiehl",
+        "first_name": "Jesse",
+        "last_name": "Kiehl",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-B",
+        "state": "AK"
+      },
+      "21261": {
+        "name": "Sara Hannan",
+        "first_name": "Sara",
+        "last_name": "Hannan",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-004",
+        "state": "AK"
+      },
+      "21268": {
+        "name": "Kelly Merrick",
+        "first_name": "Kelly",
+        "last_name": "Merrick",
+        "party": "R",
+        "role": "Rep",
+        "district": "SD-L",
+        "state": "AK"
+      },
+      "21271": {
+        "name": "Andrea Story",
+        "first_name": "Andrea",
+        "last_name": "Story",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-003",
+        "state": "AK"
+      },
+      "21272": {
+        "name": "Sarah Vance",
+        "first_name": "Sarah",
+        "last_name": "Vance",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-006",
+        "state": "AK"
+      },
+      "21515": {
+        "name": "Energy",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "21516": {
+        "name": "Finance",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "21517": {
+        "name": "Judiciary",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "21518": {
+        "name": "Labor & Commerce",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "21519": {
+        "name": "Resources",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "21520": {
+        "name": "Rules",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "21521": {
+        "name": "State Affairs",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "21523": {
+        "name": "Education",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "21524": {
+        "name": "Finance",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "21526": {
+        "name": "Resources",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "21527": {
+        "name": "Rules",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "21528": {
+        "name": "Transportation",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "21529": {
+        "name": "Judiciary",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "21609": {
+        "name": "Community & Regional Affairs",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "21610": {
+        "name": "Labor & Commerce",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "21613": {
+        "name": "State Affairs",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "21614": {
+        "name": "Mike Prax",
+        "first_name": "Mike",
+        "last_name": "Prax",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-033",
+        "state": "AK"
+      },
+      "21618": {
+        "name": "Health & Social Services",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "22728": {
+        "name": "Robert Myers",
+        "first_name": "Robert",
+        "last_name": "Myers",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-Q",
+        "state": "AK"
+      },
+      "22857": {
+        "name": "Mike Cronk",
+        "first_name": "Mike",
+        "last_name": "Cronk",
+        "party": "R",
+        "role": "Rep",
+        "district": "SD-R",
+        "state": "AK"
+      },
+      "22859": {
+        "name": "James Kaufman",
+        "first_name": "James",
+        "last_name": "Kaufman",
+        "party": "R",
+        "role": "Rep",
+        "district": "SD-F",
+        "state": "AK"
+      },
+      "22861": {
+        "name": "Kevin McCabe",
+        "first_name": "Kevin",
+        "last_name": "McCabe",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-030",
+        "state": "AK"
+      },
+      "22863": {
+        "name": "David Nelson",
+        "first_name": "David",
+        "last_name": "Nelson",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-018",
+        "state": "AK"
+      },
+      "22865": {
+        "name": "Calvin Schrage",
+        "first_name": "Calvin",
+        "last_name": "Schrage",
+        "party": "N",
+        "role": "Rep",
+        "district": "HD-012",
+        "state": "AK"
+      },
+      "22899": {
+        "name": "Fisheries",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "23097": {
+        "name": "Transportation",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "23118": {
+        "name": "Community & Regional Affairs",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "23127": {
+        "name": "Education",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Rep",
+        "district": "",
+        "state": "AK"
+      },
+      "23131": {
+        "name": "Health & Social Services",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "23890": {
+        "name": "Ashley Carrick",
+        "first_name": "Ashley",
+        "last_name": "Carrick",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-035",
+        "state": "AK"
+      },
+      "24187": {
+        "name": "Genevieve Mina",
+        "first_name": "Genevieve",
+        "last_name": "Mina",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-019",
+        "state": "AK"
+      },
+      "24409": {
+        "name": "Forrest Dunbar",
+        "first_name": "Forrest",
+        "last_name": "Dunbar",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-J",
+        "state": "AK"
+      },
+      "24544": {
+        "name": "Jesse Bjorkman",
+        "first_name": "Jesse",
+        "last_name": "Bjorkman",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-D",
+        "state": "AK"
+      },
+      "24545": {
+        "name": "Loki Tobin",
+        "first_name": "Loki",
+        "last_name": "Tobin",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-I",
+        "state": "AK"
+      },
+      "24586": {
+        "name": "Maxine Dibert",
+        "first_name": "Maxine",
+        "last_name": "Dibert",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-031",
+        "state": "AK"
+      },
+      "24587": {
+        "name": "Andrew Gray",
+        "first_name": "Andrew",
+        "last_name": "Gray",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-020",
+        "state": "AK"
+      },
+      "24590": {
+        "name": "Justin Ruffridge",
+        "first_name": "Justin",
+        "last_name": "Ruffridge",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-007",
+        "state": "AK"
+      },
+      "24591": {
+        "name": "Will Stapp",
+        "first_name": "Will",
+        "last_name": "Stapp",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-032",
+        "state": "AK"
+      },
+      "24593": {
+        "name": "Frank Tomaszewski",
+        "first_name": "Frank",
+        "last_name": "Tomaszewski",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-034",
+        "state": "AK"
+      },
+      "24789": {
+        "name": "Jamie Allard",
+        "first_name": "Jamie",
+        "last_name": "Allard",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-023",
+        "state": "AK"
+      },
+      "24790": {
+        "name": "Julie Coulombe",
+        "first_name": "Julie",
+        "last_name": "Coulombe",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-011",
+        "state": "AK"
+      },
+      "24791": {
+        "name": "Alyse Galvin",
+        "first_name": "Alyse",
+        "last_name": "Galvin",
+        "party": "I",
+        "role": "Rep",
+        "district": "HD-014",
+        "state": "AK"
+      },
+      "24792": {
+        "name": "Rebecca Himschoot",
+        "first_name": "Rebecca",
+        "last_name": "Himschoot",
+        "party": "I",
+        "role": "Rep",
+        "district": "HD-002",
+        "state": "AK"
+      },
+      "24793": {
+        "name": "Donna Mears",
+        "first_name": "Donna",
+        "last_name": "Mears",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-021",
+        "state": "AK"
+      },
+      "26273": {
+        "name": "Ky Holland",
+        "first_name": "Ky",
+        "last_name": "Holland",
+        "party": "N",
+        "role": "Rep",
+        "district": "HD-009",
+        "state": "AK"
+      },
+      "26346": {
+        "name": "Robyn Frier",
+        "first_name": "Robyn",
+        "last_name": "Frier",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-040",
+        "state": "AK"
+      },
+      "26347": {
+        "name": "Jeremy Bynum",
+        "first_name": "Jeremy",
+        "last_name": "Bynum",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-001",
+        "state": "AK"
+      },
+      "26348": {
+        "name": "Ted Eischeid",
+        "first_name": "Ted",
+        "last_name": "Eischeid",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-022",
+        "state": "AK"
+      },
+      "26349": {
+        "name": "Bill Elam",
+        "first_name": "Bill",
+        "last_name": "Elam",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-008",
+        "state": "AK"
+      },
+      "26350": {
+        "name": "Carolyn Hall",
+        "first_name": "Carolyn",
+        "last_name": "Hall",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-016",
+        "state": "AK"
+      },
+      "26351": {
+        "name": "Nellie Jimmie",
+        "first_name": "Nellie",
+        "last_name": "Jimmie",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-038",
+        "state": "AK"
+      },
+      "26352": {
+        "name": "Elexie Moore",
+        "first_name": "Elexie",
+        "last_name": "Moore",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-028",
+        "state": "AK"
+      },
+      "26353": {
+        "name": "Rebecca Schwanke",
+        "first_name": "Rebecca",
+        "last_name": "Schwanke",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-036",
+        "state": "AK"
+      },
+      "26354": {
+        "name": "Jubilee Underwood",
+        "first_name": "Jubilee",
+        "last_name": "Underwood",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-027",
+        "state": "AK"
+      },
+      "26355": {
+        "name": "Robert Yundt",
+        "first_name": "Robert",
+        "last_name": "Yundt",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-N",
+        "state": "AK"
+      },
+      "26415": {
+        "name": "Special Committee On Arctic Affairs",
+        "first_name": "",
+        "last_name": "",
+        "party": "",
+        "role": "Sen",
+        "district": "",
+        "state": "AK"
+      },
+      "26560": {
+        "name": "Garret Nelson",
+        "first_name": "Garret",
+        "last_name": "Nelson",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-029",
+        "state": "AK"
+      },
+      "26561": {
+        "name": "Steve St. Clair",
+        "first_name": "Steve",
+        "last_name": "St. Clair",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-026",
+        "state": "AK"
       }
     }
   }

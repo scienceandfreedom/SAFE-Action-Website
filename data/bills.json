@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:11:54.464668+00:00",
+  "generated_at": "2026-09-13T11:11:15.955203+00:00",
   "source": "govinfo+legiscan",
   "total": 9537,
   "bills": [
@@ -129105,7 +129105,7 @@
       "state": "NJ",
       "billNumber": "A5402",
       "title": "Establishes Integrated Domestic Violence Court program Statewide; makes appropriation.",
-      "status": "Introduced",
+      "status": "In Committee",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -129120,7 +129120,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A5402/2026",
       "legiscan_bill_id": 2155184,
-      "session_id": 2250,
       "sponsorships": [
         {
           "people_id": 19554,
@@ -129132,7 +129131,8 @@
           "district": "HD-029",
           "type": "primary"
         }
-      ]
+      ],
+      "session_id": 2250
     },
     {
       "billId": "NJ-A2331",
@@ -145372,27 +145372,6 @@
       "legiscan_bill_id": 2118655
     },
     {
-      "billId": "CA-AB468",
-      "state": "CA",
-      "billNumber": "AB468",
-      "title": "Crimes: looting.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Crimes: looting.",
-      "sponsor": "",
-      "lastAction": "Chaptered by Secretary of State - Chapter 533, Statutes of 2025.",
-      "lastActionDate": "2025-10-10",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/AB468/2025",
-      "legiscan_bill_id": 1961077
-    },
-    {
       "billId": "CA-SB660",
       "state": "CA",
       "billNumber": "SB660",
@@ -145412,6 +145391,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/SB660/2025",
       "legiscan_bill_id": 1978893
+    },
+    {
+      "billId": "CA-AB468",
+      "state": "CA",
+      "billNumber": "AB468",
+      "title": "Crimes: looting.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Crimes: looting.",
+      "sponsor": "",
+      "lastAction": "Chaptered by Secretary of State - Chapter 533, Statutes of 2025.",
+      "lastActionDate": "2025-10-10",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/AB468/2025",
+      "legiscan_bill_id": 1961077
     },
     {
       "billId": "CA-SB16",
@@ -145595,27 +145595,6 @@
       "legiscan_bill_id": 1968259
     },
     {
-      "billId": "CA-SB1088",
-      "state": "CA",
-      "billNumber": "SB1088",
-      "title": "Health care decisions: life-sustaining treatment.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Health care decisions: life-sustaining treatment.",
-      "sponsor": "",
-      "lastAction": "Enrolled and presented to the Governor at 3 p.m.",
-      "lastActionDate": "2026-09-03",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/SB1088/2025",
-      "legiscan_bill_id": 2117175
-    },
-    {
       "billId": "CA-AB1184",
       "state": "CA",
       "billNumber": "AB1184",
@@ -145635,6 +145614,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1184/2025",
       "legiscan_bill_id": 1980081
+    },
+    {
+      "billId": "CA-SB1088",
+      "state": "CA",
+      "billNumber": "SB1088",
+      "title": "Health care decisions: life-sustaining treatment.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Health care decisions: life-sustaining treatment.",
+      "sponsor": "",
+      "lastAction": "Enrolled and presented to the Governor at 3 p.m.",
+      "lastActionDate": "2026-09-03",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/SB1088/2025",
+      "legiscan_bill_id": 2117175
     },
     {
       "billId": "CA-AB817",
@@ -167866,40 +167866,6 @@
       "legiscan_bill_id": 2097754
     },
     {
-      "billId": "NJ-S106",
-      "state": "NJ",
-      "billNumber": "S106",
-      "title": "Exempts certain essential individuals and businesses from certain requirements in state of emergencies or public health emergencies.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "vaccine-mandate",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Exempts certain essential individuals and businesses from certain requirements in state of emergencies or public health emergencies.",
-      "sponsor": "",
-      "lastAction": "Introduced in the Senate, Referred to Senate Commerce Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/S106/2026",
-      "legiscan_bill_id": 2075137,
-      "verification": {
-        "provider": "claude-sonnet via Claude Code",
-        "model": "claude-sonnet",
-        "llm_classification": "monitor",
-        "confidence": 0.8,
-        "evidence": [
-          "Exempts certain essential individuals and businesses from certain requirements in state of emergencies"
-        ],
-        "explanation": "A general emergency-requirements exemption for businesses, not a vaccine or public-health-authority exemption.",
-        "verified_at": "2026-08-22T00:39:28.270414+00:00",
-        "status": "monitor_confirmed",
-        "second_pass": ""
-      }
-    },
-    {
       "billId": "NJ-A4187",
       "state": "NJ",
       "billNumber": "A4187",
@@ -167928,6 +167894,40 @@
           "establish permanent morgue for use in non-emergent periods and supplemental morgue space"
         ],
         "explanation": "Nursing facility morgue-space requirement, unrelated to vaccines.",
+        "verified_at": "2026-08-22T00:39:28.270414+00:00",
+        "status": "monitor_confirmed",
+        "second_pass": ""
+      }
+    },
+    {
+      "billId": "NJ-S106",
+      "state": "NJ",
+      "billNumber": "S106",
+      "title": "Exempts certain essential individuals and businesses from certain requirements in state of emergencies or public health emergencies.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "vaccine-mandate",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Exempts certain essential individuals and businesses from certain requirements in state of emergencies or public health emergencies.",
+      "sponsor": "",
+      "lastAction": "Introduced in the Senate, Referred to Senate Commerce Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/S106/2026",
+      "legiscan_bill_id": 2075137,
+      "verification": {
+        "provider": "claude-sonnet via Claude Code",
+        "model": "claude-sonnet",
+        "llm_classification": "monitor",
+        "confidence": 0.8,
+        "evidence": [
+          "Exempts certain essential individuals and businesses from certain requirements in state of emergencies"
+        ],
+        "explanation": "A general emergency-requirements exemption for businesses, not a vaccine or public-health-authority exemption.",
         "verified_at": "2026-08-22T00:39:28.270414+00:00",
         "status": "monitor_confirmed",
         "second_pass": ""
@@ -175993,27 +175993,6 @@
       "legiscan_bill_id": 2157831
     },
     {
-      "billId": "PA-SB654",
-      "state": "PA",
-      "billNumber": "SB654",
-      "title": "In miscellaneous provisions, establishing the Veterans Mental Health Services Program.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "In miscellaneous provisions, establishing the Veterans Mental Health Services Program.",
-      "sponsor": "",
-      "lastAction": "Referred to Veterans Affairs & Emergency Preparedness",
-      "lastActionDate": "2025-04-21",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/SB654/2025",
-      "legiscan_bill_id": 2025331
-    },
-    {
       "billId": "PA-HB2394",
       "state": "PA",
       "billNumber": "HB2394",
@@ -176033,6 +176012,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/PA/bill/HB2394/2025",
       "legiscan_bill_id": 2143338
+    },
+    {
+      "billId": "PA-SB654",
+      "state": "PA",
+      "billNumber": "SB654",
+      "title": "In miscellaneous provisions, establishing the Veterans Mental Health Services Program.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "In miscellaneous provisions, establishing the Veterans Mental Health Services Program.",
+      "sponsor": "",
+      "lastAction": "Referred to Veterans Affairs & Emergency Preparedness",
+      "lastActionDate": "2025-04-21",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/SB654/2025",
+      "legiscan_bill_id": 2025331
     },
     {
       "billId": "RI-S2685",
@@ -188520,7 +188520,7 @@
       "state": "CA",
       "billNumber": "AB302",
       "title": "Pupil and parental communication: extracurricular activities: addictive feeds.",
-      "status": "Passed Both Chambers",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -188535,6 +188535,18 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB302/2025",
       "legiscan_bill_id": 1939178,
+      "sponsorships": [
+        {
+          "people_id": 19716,
+          "name": "Rebecca Bauer-Kahan",
+          "first_name": "Rebecca",
+          "last_name": "Bauer-Kahan",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-016",
+          "type": "primary"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1556047",
@@ -188691,19 +188703,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB302"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 19716,
-          "name": "Rebecca Bauer-Kahan",
-          "first_name": "Rebecca",
-          "last_name": "Bauer-Kahan",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-016",
-          "type": "primary"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-SB1444",
@@ -202902,7 +202902,7 @@
       "state": "NJ",
       "billNumber": "A5364",
       "title": "Authorizes provision of adult day health services on remote basis.",
-      "status": "In Committee",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -202910,13 +202910,26 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Authorizes provision of adult day health services on remote basis.",
-      "sponsor": "",
+      "sponsor": "Annette Quijano (D)",
       "lastAction": "Introduced, Referred to Assembly Health Committee",
       "lastActionDate": "2026-09-10",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A5364/2026",
-      "legiscan_bill_id": 2155142
+      "legiscan_bill_id": 2155142,
+      "session_id": 2250,
+      "sponsorships": [
+        {
+          "people_id": 3128,
+          "name": "Annette Quijano",
+          "first_name": "Annette",
+          "last_name": "Quijano",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-020",
+          "type": "primary"
+        }
+      ]
     },
     {
       "billId": "NJ-S1093",
@@ -214799,7 +214812,7 @@
       "state": "CA",
       "billNumber": "AB2017",
       "title": "State holidays: Eid.",
-      "status": "Introduced",
+      "status": "Passed One Chamber",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -214807,13 +214820,278 @@
       "level": "State",
       "impact": "Medium",
       "summary": "State holidays: Eid.",
-      "sponsor": "",
+      "sponsor": "Matt Haney (D)",
       "lastAction": "Enrolled and presented to the Governor at 3 p.m.",
       "lastActionDate": "2026-09-10",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2017/2025",
-      "legiscan_bill_id": 2118631
+      "legiscan_bill_id": 2118631,
+      "rollCalls": [
+        {
+          "key": "LS-1679312",
+          "legiscan_roll_call_id": 1679312,
+          "date": "2026-04-08",
+          "desc": "Do pass and be re-referred to the Committee on [Public Employment and Retirement]",
+          "chamber": "A",
+          "yea": 19,
+          "nay": 0,
+          "nv": 0,
+          "absent": 3,
+          "total": 22,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        },
+        {
+          "key": "LS-1688067",
+          "legiscan_roll_call_id": 1688067,
+          "date": "2026-04-22",
+          "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+          "chamber": "A",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        },
+        {
+          "key": "LS-1699050",
+          "legiscan_roll_call_id": 1699050,
+          "date": "2026-05-14",
+          "desc": "Do pass as amended",
+          "chamber": "A",
+          "yea": 12,
+          "nay": 1,
+          "nv": 0,
+          "absent": 2,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        },
+        {
+          "key": "LS-1702087",
+          "legiscan_roll_call_id": 1702087,
+          "date": "2026-05-26",
+          "desc": "AB 2017 Haney Assembly Third Reading",
+          "chamber": "A",
+          "yea": 64,
+          "nay": 1,
+          "nv": 0,
+          "absent": 15,
+          "total": 80,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        },
+        {
+          "key": "LS-1711274",
+          "legiscan_roll_call_id": 1711274,
+          "date": "2026-06-23",
+          "desc": "Do pass, but first be re-referred to the Committee on [Education]",
+          "chamber": "Senate",
+          "yea": 11,
+          "nay": 1,
+          "nv": 0,
+          "absent": 3,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        },
+        {
+          "key": "LS-1713696",
+          "legiscan_roll_call_id": 1713696,
+          "date": "2026-07-01",
+          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 1,
+          "nv": 0,
+          "absent": 1,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        },
+        {
+          "key": "LS-1716355",
+          "legiscan_roll_call_id": 1716355,
+          "date": "2026-08-03",
+          "desc": "Placed on suspense file",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        },
+        {
+          "key": "LS-1725269",
+          "legiscan_roll_call_id": 1725269,
+          "date": "2026-08-13",
+          "desc": "Do pass as amended",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        },
+        {
+          "key": "LS-1727408",
+          "legiscan_roll_call_id": 1727408,
+          "date": "2026-08-30",
+          "desc": "Assembly 3rd Reading AB2017 Haney et al. By Wahab",
+          "chamber": "Senate",
+          "yea": 30,
+          "nay": 4,
+          "nv": 0,
+          "absent": 6,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        },
+        {
+          "key": "LS-1727409",
+          "legiscan_roll_call_id": 1727409,
+          "date": "2026-08-30",
+          "desc": "AB 2017 Haney Concurrence in Senate Amendments",
+          "chamber": "A",
+          "yea": 62,
+          "nay": 3,
+          "nv": 0,
+          "absent": 14,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 23137,
+          "name": "Matt Haney",
+          "first_name": "Matt",
+          "last_name": "Haney",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-017",
+          "type": "primary"
+        },
+        {
+          "people_id": 18065,
+          "name": "Ash Kalra",
+          "first_name": "Ash",
+          "last_name": "Kalra",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-025",
+          "type": "primary"
+        },
+        {
+          "people_id": 23221,
+          "name": "Stephanie Nguyen",
+          "first_name": "Stephanie",
+          "last_name": "Nguyen",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-010",
+          "type": "primary"
+        },
+        {
+          "people_id": 23231,
+          "name": "Aisha Wahab",
+          "first_name": "Aisha",
+          "last_name": "Wahab",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-010",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 21724,
+          "name": "Josh Becker",
+          "first_name": "Josh",
+          "last_name": "Becker",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-013",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22932,
+          "name": "Isaac Bryan",
+          "first_name": "Isaac",
+          "last_name": "Bryan",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-055",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25332,
+          "name": "Jessica Caloza",
+          "first_name": "Jessica",
+          "last_name": "Caloza",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-052",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 18079,
+          "name": "Sabrina Cervantes",
+          "first_name": "Sabrina",
+          "last_name": "Cervantes",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-031",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 19658,
+          "name": "Jesse Gabriel",
+          "first_name": "Jesse",
+          "last_name": "Gabriel",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-046",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 16288,
+          "name": "Mike Gipson",
+          "first_name": "Mike",
+          "last_name": "Gipson",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-065",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23155,
+          "name": "Tina McKinnor",
+          "first_name": "Tina",
+          "last_name": "McKinnor",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-061",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23220,
+          "name": "Esmeralda Soria",
+          "first_name": "Esmeralda",
+          "last_name": "Soria",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-027",
+          "type": "cosponsor"
+        }
+      ]
     },
     {
       "billId": "CA-AB121",
@@ -249572,27 +249850,6 @@
       }
     },
     {
-      "billId": "NJ-A1400",
-      "state": "NJ",
-      "billNumber": "A1400",
-      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Oversight, Reform and Federal Relations Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/A1400/2026",
-      "legiscan_bill_id": 2095880
-    },
-    {
       "billId": "NJ-S4516",
       "state": "NJ",
       "billNumber": "S4516",
@@ -249633,6 +249890,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A5337/2026",
       "legiscan_bill_id": 2154587
+    },
+    {
+      "billId": "NJ-A1400",
+      "state": "NJ",
+      "billNumber": "A1400",
+      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Oversight, Reform and Federal Relations Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A1400/2026",
+      "legiscan_bill_id": 2095880
     },
     {
       "billId": "NM-HM52",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:11:15.955203+00:00",
+  "generated_at": "2026-09-14T11:58:07.110739+00:00",
   "source": "govinfo+legiscan",
   "total": 9537,
   "bills": [
@@ -202902,7 +202902,7 @@
       "state": "NJ",
       "billNumber": "A5364",
       "title": "Authorizes provision of adult day health services on remote basis.",
-      "status": "Introduced",
+      "status": "In Committee",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -202917,7 +202917,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A5364/2026",
       "legiscan_bill_id": 2155142,
-      "session_id": 2250,
       "sponsorships": [
         {
           "people_id": 3128,
@@ -202929,7 +202928,8 @@
           "district": "HD-020",
           "type": "primary"
         }
-      ]
+      ],
+      "session_id": 2250
     },
     {
       "billId": "NJ-S1093",
@@ -214812,7 +214812,7 @@
       "state": "CA",
       "billNumber": "AB2017",
       "title": "State holidays: Eid.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -214827,6 +214827,128 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2017/2025",
       "legiscan_bill_id": 2118631,
+      "sponsorships": [
+        {
+          "people_id": 23137,
+          "name": "Matt Haney",
+          "first_name": "Matt",
+          "last_name": "Haney",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-017",
+          "type": "primary"
+        },
+        {
+          "people_id": 18065,
+          "name": "Ash Kalra",
+          "first_name": "Ash",
+          "last_name": "Kalra",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-025",
+          "type": "primary"
+        },
+        {
+          "people_id": 23221,
+          "name": "Stephanie Nguyen",
+          "first_name": "Stephanie",
+          "last_name": "Nguyen",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-010",
+          "type": "primary"
+        },
+        {
+          "people_id": 23231,
+          "name": "Aisha Wahab",
+          "first_name": "Aisha",
+          "last_name": "Wahab",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-010",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 21724,
+          "name": "Josh Becker",
+          "first_name": "Josh",
+          "last_name": "Becker",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-013",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22932,
+          "name": "Isaac Bryan",
+          "first_name": "Isaac",
+          "last_name": "Bryan",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-055",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25332,
+          "name": "Jessica Caloza",
+          "first_name": "Jessica",
+          "last_name": "Caloza",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-052",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 18079,
+          "name": "Sabrina Cervantes",
+          "first_name": "Sabrina",
+          "last_name": "Cervantes",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-031",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 19658,
+          "name": "Jesse Gabriel",
+          "first_name": "Jesse",
+          "last_name": "Gabriel",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-046",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 16288,
+          "name": "Mike Gipson",
+          "first_name": "Mike",
+          "last_name": "Gipson",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-065",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23155,
+          "name": "Tina McKinnor",
+          "first_name": "Tina",
+          "last_name": "McKinnor",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-061",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23220,
+          "name": "Esmeralda Soria",
+          "first_name": "Esmeralda",
+          "last_name": "Soria",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-027",
+          "type": "cosponsor"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1679312",
@@ -214969,129 +215091,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2017"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 23137,
-          "name": "Matt Haney",
-          "first_name": "Matt",
-          "last_name": "Haney",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-017",
-          "type": "primary"
-        },
-        {
-          "people_id": 18065,
-          "name": "Ash Kalra",
-          "first_name": "Ash",
-          "last_name": "Kalra",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-025",
-          "type": "primary"
-        },
-        {
-          "people_id": 23221,
-          "name": "Stephanie Nguyen",
-          "first_name": "Stephanie",
-          "last_name": "Nguyen",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-010",
-          "type": "primary"
-        },
-        {
-          "people_id": 23231,
-          "name": "Aisha Wahab",
-          "first_name": "Aisha",
-          "last_name": "Wahab",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-010",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 21724,
-          "name": "Josh Becker",
-          "first_name": "Josh",
-          "last_name": "Becker",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-013",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 22932,
-          "name": "Isaac Bryan",
-          "first_name": "Isaac",
-          "last_name": "Bryan",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-055",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 25332,
-          "name": "Jessica Caloza",
-          "first_name": "Jessica",
-          "last_name": "Caloza",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-052",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 18079,
-          "name": "Sabrina Cervantes",
-          "first_name": "Sabrina",
-          "last_name": "Cervantes",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-031",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 19658,
-          "name": "Jesse Gabriel",
-          "first_name": "Jesse",
-          "last_name": "Gabriel",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-046",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 16288,
-          "name": "Mike Gipson",
-          "first_name": "Mike",
-          "last_name": "Gipson",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-065",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 23155,
-          "name": "Tina McKinnor",
-          "first_name": "Tina",
-          "last_name": "McKinnor",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-061",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 23220,
-          "name": "Esmeralda Soria",
-          "first_name": "Esmeralda",
-          "last_name": "Soria",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-027",
-          "type": "cosponsor"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB121",
@@ -224928,7 +224928,7 @@
       "state": "CA",
       "billNumber": "SB133",
       "title": "Education finance: education omnibus trailer bill.",
-      "status": "Introduced",
+      "status": "Passed One Chamber",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -224942,7 +224942,52 @@
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/SB133/2025",
-      "legiscan_bill_id": 1939230
+      "legiscan_bill_id": 1939230,
+      "rollCalls": [
+        {
+          "key": "LS-1523489",
+          "legiscan_roll_call_id": 1523489,
+          "date": "2025-03-20",
+          "desc": "Senate 3rd Reading SB133 B. & F.R. (Wiener)",
+          "chamber": "Senate",
+          "yea": 28,
+          "nay": 10,
+          "nv": 0,
+          "absent": 2,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB133"
+        },
+        {
+          "key": "LS-1727111",
+          "legiscan_roll_call_id": 1727111,
+          "date": "2026-08-31",
+          "desc": "W/O REF. TO FILE SB133 B. & F.R. (Laird)",
+          "chamber": "Senate",
+          "yea": 30,
+          "nay": 9,
+          "nv": 0,
+          "absent": 1,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB133"
+        },
+        {
+          "key": "LS-1727112",
+          "legiscan_roll_call_id": 1727112,
+          "date": "2026-08-31",
+          "desc": "SB 133 Budget and Fiscal Review Senate Third Reading",
+          "chamber": "A",
+          "yea": 66,
+          "nay": 9,
+          "nv": 0,
+          "absent": 4,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB133"
+        }
+      ],
+      "session_id": 2172
     },
     {
       "billId": "CA-AB133",
@@ -233932,7 +233977,7 @@
       "state": "CA",
       "billNumber": "AB2796",
       "title": "Criminal history information: background checks.",
-      "status": "Introduced",
+      "status": "Passed One Chamber",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -233946,7 +233991,94 @@
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2796/2025",
-      "legiscan_bill_id": 2143804
+      "legiscan_bill_id": 2143804,
+      "rollCalls": [
+        {
+          "key": "LS-1707606",
+          "legiscan_roll_call_id": 1707606,
+          "date": "2026-06-09",
+          "desc": "Do pass as amended, and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+          "chamber": "A",
+          "yea": 9,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 9,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2796"
+        },
+        {
+          "key": "LS-1711812",
+          "legiscan_roll_call_id": 1711812,
+          "date": "2026-06-24",
+          "desc": "Do pass. To Consent Calendar",
+          "chamber": "A",
+          "yea": 15,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2796"
+        },
+        {
+          "key": "LS-1713742",
+          "legiscan_roll_call_id": 1713742,
+          "date": "2026-07-02",
+          "desc": "AB 2796 Public Safety Consent Calendar Second Day",
+          "chamber": "A",
+          "yea": 70,
+          "nay": 0,
+          "nv": 0,
+          "absent": 9,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2796"
+        },
+        {
+          "key": "LS-1724528",
+          "legiscan_roll_call_id": 1724528,
+          "date": "2026-08-11",
+          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+          "chamber": "Senate",
+          "yea": 6,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 6,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2796"
+        },
+        {
+          "key": "LS-1727475",
+          "legiscan_roll_call_id": 1727475,
+          "date": "2026-08-30",
+          "desc": "Assembly 3rd Reading AB2796 PUB. S. (Schultz) By Arreguín Urgency Clause",
+          "chamber": "Senate",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2796"
+        },
+        {
+          "key": "LS-1727476",
+          "legiscan_roll_call_id": 1727476,
+          "date": "2026-08-30",
+          "desc": "AB 2796 PUB. S. Concurrence in Senate Amendments By SCHULTZ",
+          "chamber": "A",
+          "yea": 77,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2796"
+        }
+      ],
+      "session_id": 2172
     },
     {
       "billId": "CA-SB367",

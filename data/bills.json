@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:13:29.802635+00:00",
+  "generated_at": "2026-09-16T10:56:07.904602+00:00",
   "source": "govinfo+legiscan",
   "total": 9538,
   "bills": [
@@ -10175,6 +10175,17 @@
           "party": "R",
           "state": "NJ",
           "district": "7",
+          "chamber": "House",
+          "type": "cosponsor"
+        },
+        {
+          "bioguide_id": "C001039",
+          "name": "Rep. Cammack, Kat [R-FL-3]",
+          "first_name": "Kat",
+          "last_name": "Cammack",
+          "party": "R",
+          "state": "FL",
+          "district": "3",
           "chamber": "House",
           "type": "cosponsor"
         }
@@ -24097,6 +24108,150 @@
       "legiscan_bill_id": 2023030
     },
     {
+      "billId": "CA-AB1999",
+      "state": "CA",
+      "billNumber": "AB1999",
+      "title": "Veterinary medicine.",
+      "status": "Passed Both Chambers",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Veterinary medicine.",
+      "sponsor": "Ash Kalra (D)",
+      "lastAction": "Chaptered by Secretary of State - Chapter 205, Statutes of 2026.",
+      "lastActionDate": "2026-09-15",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/AB1999/2025",
+      "legiscan_bill_id": 2118613,
+      "rollCalls": [
+        {
+          "key": "LS-1682604",
+          "legiscan_roll_call_id": 1682604,
+          "date": "2026-04-14",
+          "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+          "chamber": "A",
+          "yea": 19,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 19,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1999"
+        },
+        {
+          "key": "LS-1691838",
+          "legiscan_roll_call_id": 1691838,
+          "date": "2026-04-29",
+          "desc": "Do pass",
+          "chamber": "A",
+          "yea": 14,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1999"
+        },
+        {
+          "key": "LS-1696747",
+          "legiscan_roll_call_id": 1696747,
+          "date": "2026-05-11",
+          "desc": "AB 1999 Kalra Assembly Third Reading",
+          "chamber": "A",
+          "yea": 73,
+          "nay": 0,
+          "nv": 0,
+          "absent": 7,
+          "total": 80,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1999"
+        },
+        {
+          "key": "LS-1709555",
+          "legiscan_roll_call_id": 1709555,
+          "date": "2026-06-15",
+          "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+          "chamber": "Senate",
+          "yea": 11,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 11,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1999"
+        },
+        {
+          "key": "LS-1712500",
+          "legiscan_roll_call_id": 1712500,
+          "date": "2026-06-29",
+          "desc": "Do pass",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1999"
+        },
+        {
+          "key": "LS-1725485",
+          "legiscan_roll_call_id": 1725485,
+          "date": "2026-08-19",
+          "desc": "Assembly 3rd Reading AB1999 Kalra et al. By Grayson",
+          "chamber": "Senate",
+          "yea": 38,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1999"
+        },
+        {
+          "key": "LS-1725661",
+          "legiscan_roll_call_id": 1725661,
+          "date": "2026-08-20",
+          "desc": "AB 1999 Kalra Concurrence in Senate Amendments",
+          "chamber": "A",
+          "yea": 77,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1999"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 18065,
+          "name": "Ash Kalra",
+          "first_name": "Ash",
+          "last_name": "Kalra",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-025",
+          "type": "primary"
+        },
+        {
+          "people_id": 18073,
+          "name": "Marc Berman",
+          "first_name": "Marc",
+          "last_name": "Berman",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-023",
+          "type": "primary"
+        }
+      ]
+    },
+    {
       "billId": "CA-AB1906",
       "state": "CA",
       "billNumber": "AB1906",
@@ -24243,27 +24398,6 @@
         }
       ],
       "session_id": 2172
-    },
-    {
-      "billId": "CA-AB1999",
-      "state": "CA",
-      "billNumber": "AB1999",
-      "title": "Veterinary medicine.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Veterinary medicine.",
-      "sponsor": "",
-      "lastAction": "Enrolled and presented to the Governor at 4 p.m.",
-      "lastActionDate": "2026-08-27",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/AB1999/2025",
-      "legiscan_bill_id": 2118613
     },
     {
       "billId": "CA-AB463",
@@ -116793,7 +116927,7 @@
       "state": "CA",
       "billNumber": "AB1575",
       "title": "Lanterman Developmental Disabilities Services Act.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -116808,6 +116942,18 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1575/2025",
       "legiscan_bill_id": 2072053,
+      "sponsorships": [
+        {
+          "people_id": 19459,
+          "name": "Joaquin Arambula",
+          "first_name": "Joaquin",
+          "last_name": "Arambula",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-031",
+          "type": "primary"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1682783",
@@ -116894,19 +117040,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1575"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 19459,
-          "name": "Joaquin Arambula",
-          "first_name": "Joaquin",
-          "last_name": "Arambula",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-031",
-          "type": "primary"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB163",
@@ -124814,27 +124948,6 @@
       "legiscan_bill_id": 2047128
     },
     {
-      "billId": "MI-HB4131",
-      "state": "MI",
-      "billNumber": "HB4131",
-      "title": "Animals: care and treatment; definition of shelter for animals; modify. Amends sec. 50 of 1931 PA 328 (MCL 750.50).",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Animals: care and treatment; definition of shelter for animals; modify. Amends sec. 50 of 1931 PA 328 (MCL 750.50).",
-      "sponsor": "",
-      "lastAction": "Bill Electronically Reproduced 02/26/2025",
-      "lastActionDate": "2025-03-04",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MI/bill/HB4131/2025",
-      "legiscan_bill_id": 1986089
-    },
-    {
       "billId": "MI-SB0626",
       "state": "MI",
       "billNumber": "SB0626",
@@ -124854,6 +124967,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/SB0626/2025",
       "legiscan_bill_id": 2047232
+    },
+    {
+      "billId": "MI-HB4131",
+      "state": "MI",
+      "billNumber": "HB4131",
+      "title": "Animals: care and treatment; definition of shelter for animals; modify. Amends sec. 50 of 1931 PA 328 (MCL 750.50).",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Animals: care and treatment; definition of shelter for animals; modify. Amends sec. 50 of 1931 PA 328 (MCL 750.50).",
+      "sponsor": "",
+      "lastAction": "Bill Electronically Reproduced 02/26/2025",
+      "lastActionDate": "2025-03-04",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MI/bill/HB4131/2025",
+      "legiscan_bill_id": 1986089
     },
     {
       "billId": "MI-HB4964",
@@ -131643,27 +131777,6 @@
       }
     },
     {
-      "billId": "OH-SB1",
-      "state": "OH",
-      "billNumber": "SB1",
-      "title": "Enact Advance Ohio Higher Education Act",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Enact Advance Ohio Higher Education Act",
-      "sponsor": "",
-      "lastAction": "Effective ",
-      "lastActionDate": "2025-06-27",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/SB1/2025",
-      "legiscan_bill_id": 1937139
-    },
-    {
       "billId": "OH-HB327",
       "state": "OH",
       "billNumber": "HB327",
@@ -131683,6 +131796,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/OH/bill/HB327/2025",
       "legiscan_bill_id": 2035386
+    },
+    {
+      "billId": "OH-SB1",
+      "state": "OH",
+      "billNumber": "SB1",
+      "title": "Enact Advance Ohio Higher Education Act",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Enact Advance Ohio Higher Education Act",
+      "sponsor": "",
+      "lastAction": "Effective ",
+      "lastActionDate": "2025-06-27",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/SB1/2025",
+      "legiscan_bill_id": 1937139
     },
     {
       "billId": "OH-HB147",
@@ -145580,7 +145714,7 @@
       "state": "CA",
       "billNumber": "AB1294",
       "title": "Real property tax: welfare exemption: moderate-income housing.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -145595,6 +145729,38 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1294/2025",
       "legiscan_bill_id": 1980191,
+      "sponsorships": [
+        {
+          "people_id": 23137,
+          "name": "Matt Haney",
+          "first_name": "Matt",
+          "last_name": "Haney",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-017",
+          "type": "primary"
+        },
+        {
+          "people_id": 25353,
+          "name": "Jesse Arreguin",
+          "first_name": "Jesse",
+          "last_name": "Arreguin",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-007",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 18068,
+          "name": "Scott Wiener",
+          "first_name": "Scott",
+          "last_name": "Wiener",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-011",
+          "type": "cosponsor"
+        }
+      ],
       "verification": {
         "provider": "claude-sonnet via Claude Code",
         "model": "claude-sonnet",
@@ -145750,39 +145916,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1294"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 23137,
-          "name": "Matt Haney",
-          "first_name": "Matt",
-          "last_name": "Haney",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-017",
-          "type": "primary"
-        },
-        {
-          "people_id": 25353,
-          "name": "Jesse Arreguin",
-          "first_name": "Jesse",
-          "last_name": "Arreguin",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-007",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 18068,
-          "name": "Scott Wiener",
-          "first_name": "Scott",
-          "last_name": "Wiener",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-011",
-          "type": "cosponsor"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB1200",
@@ -145936,7 +146070,7 @@
       "state": "CA",
       "billNumber": "AB817",
       "title": "Cold storage facilities.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -145951,6 +146085,38 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB817/2025",
       "legiscan_bill_id": 1976404,
+      "sponsorships": [
+        {
+          "people_id": 25338,
+          "name": "Mark Gonzalez",
+          "first_name": "Mark",
+          "last_name": "Gonzalez",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-054",
+          "type": "primary"
+        },
+        {
+          "people_id": 25332,
+          "name": "Jessica Caloza",
+          "first_name": "Jessica",
+          "last_name": "Caloza",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-052",
+          "type": "primary"
+        },
+        {
+          "people_id": 19726,
+          "name": "Maria Durazo",
+          "first_name": "Maria",
+          "last_name": "Durazo",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-026",
+          "type": "cosponsor"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1535099",
@@ -146065,39 +146231,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB817"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 25338,
-          "name": "Mark Gonzalez",
-          "first_name": "Mark",
-          "last_name": "Gonzalez",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-054",
-          "type": "primary"
-        },
-        {
-          "people_id": 25332,
-          "name": "Jessica Caloza",
-          "first_name": "Jessica",
-          "last_name": "Caloza",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-052",
-          "type": "primary"
-        },
-        {
-          "people_id": 19726,
-          "name": "Maria Durazo",
-          "first_name": "Maria",
-          "last_name": "Durazo",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-026",
-          "type": "cosponsor"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CO-HB1238",
@@ -168308,40 +168442,6 @@
       "legiscan_bill_id": 2097754
     },
     {
-      "billId": "NJ-S106",
-      "state": "NJ",
-      "billNumber": "S106",
-      "title": "Exempts certain essential individuals and businesses from certain requirements in state of emergencies or public health emergencies.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "vaccine-mandate",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Exempts certain essential individuals and businesses from certain requirements in state of emergencies or public health emergencies.",
-      "sponsor": "",
-      "lastAction": "Introduced in the Senate, Referred to Senate Commerce Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/S106/2026",
-      "legiscan_bill_id": 2075137,
-      "verification": {
-        "provider": "claude-sonnet via Claude Code",
-        "model": "claude-sonnet",
-        "llm_classification": "monitor",
-        "confidence": 0.8,
-        "evidence": [
-          "Exempts certain essential individuals and businesses from certain requirements in state of emergencies"
-        ],
-        "explanation": "A general emergency-requirements exemption for businesses, not a vaccine or public-health-authority exemption.",
-        "verified_at": "2026-08-22T00:39:28.270414+00:00",
-        "status": "monitor_confirmed",
-        "second_pass": ""
-      }
-    },
-    {
       "billId": "NJ-A4187",
       "state": "NJ",
       "billNumber": "A4187",
@@ -168370,6 +168470,40 @@
           "establish permanent morgue for use in non-emergent periods and supplemental morgue space"
         ],
         "explanation": "Nursing facility morgue-space requirement, unrelated to vaccines.",
+        "verified_at": "2026-08-22T00:39:28.270414+00:00",
+        "status": "monitor_confirmed",
+        "second_pass": ""
+      }
+    },
+    {
+      "billId": "NJ-S106",
+      "state": "NJ",
+      "billNumber": "S106",
+      "title": "Exempts certain essential individuals and businesses from certain requirements in state of emergencies or public health emergencies.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "vaccine-mandate",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Exempts certain essential individuals and businesses from certain requirements in state of emergencies or public health emergencies.",
+      "sponsor": "",
+      "lastAction": "Introduced in the Senate, Referred to Senate Commerce Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/S106/2026",
+      "legiscan_bill_id": 2075137,
+      "verification": {
+        "provider": "claude-sonnet via Claude Code",
+        "model": "claude-sonnet",
+        "llm_classification": "monitor",
+        "confidence": 0.8,
+        "evidence": [
+          "Exempts certain essential individuals and businesses from certain requirements in state of emergencies"
+        ],
+        "explanation": "A general emergency-requirements exemption for businesses, not a vaccine or public-health-authority exemption.",
         "verified_at": "2026-08-22T00:39:28.270414+00:00",
         "status": "monitor_confirmed",
         "second_pass": ""
@@ -188692,7 +188826,7 @@
       "state": "CA",
       "billNumber": "AB2320",
       "title": "Multifamily Housing Program: Homekey: adaptive reuse.",
-      "status": "Introduced",
+      "status": "Passed One Chamber",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -188700,13 +188834,126 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Multifamily Housing Program: Homekey: adaptive reuse.",
-      "sponsor": "",
-      "lastAction": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0.).",
-      "lastActionDate": "2026-08-31",
+      "sponsor": "Tri Ta (R)",
+      "lastAction": "Enrolled and presented to the Governor at 3 p.m.",
+      "lastActionDate": "2026-09-15",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2320/2025",
-      "legiscan_bill_id": 2120794
+      "legiscan_bill_id": 2120794,
+      "rollCalls": [
+        {
+          "key": "LS-1688119",
+          "legiscan_roll_call_id": 1688119,
+          "date": "2026-04-22",
+          "desc": "Do pass as amended, and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+          "chamber": "A",
+          "yea": 12,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 12,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2320"
+        },
+        {
+          "key": "LS-1696180",
+          "legiscan_roll_call_id": 1696180,
+          "date": "2026-05-06",
+          "desc": "Do pass. To Consent Calendar",
+          "chamber": "A",
+          "yea": 14,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2320"
+        },
+        {
+          "key": "LS-1698914",
+          "legiscan_roll_call_id": 1698914,
+          "date": "2026-05-14",
+          "desc": "AB 2320 Ta Consent Calendar Second Day Regular Session",
+          "chamber": "A",
+          "yea": 77,
+          "nay": 0,
+          "nv": 0,
+          "absent": 3,
+          "total": 80,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2320"
+        },
+        {
+          "key": "LS-1708177",
+          "legiscan_roll_call_id": 1708177,
+          "date": "2026-06-10",
+          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+          "chamber": "Senate",
+          "yea": 10,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 10,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2320"
+        },
+        {
+          "key": "LS-1712045",
+          "legiscan_roll_call_id": 1712045,
+          "date": "2026-06-25",
+          "desc": "Consent Calendar 2nd AB2320 Ta",
+          "chamber": "Senate",
+          "yea": 36,
+          "nay": 0,
+          "nv": 0,
+          "absent": 4,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2320"
+        },
+        {
+          "key": "LS-1725473",
+          "legiscan_roll_call_id": 1725473,
+          "date": "2026-08-19",
+          "desc": "Assembly 3rd Reading AB2320 Ta By Umberg",
+          "chamber": "Senate",
+          "yea": 38,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2320"
+        },
+        {
+          "key": "LS-1726929",
+          "legiscan_roll_call_id": 1726929,
+          "date": "2026-08-31",
+          "desc": "AB 2320 Ta Concurrence in Senate Amendments",
+          "chamber": "A",
+          "yea": 78,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2320"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 23222,
+          "name": "Tri Ta",
+          "first_name": "Tri",
+          "last_name": "Ta",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-070",
+          "type": "primary"
+        }
+      ]
     },
     {
       "billId": "CA-SB230",
@@ -188743,8 +188990,8 @@
       "impact": "Medium",
       "summary": "Health omnibus.",
       "sponsor": "",
-      "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
-      "lastActionDate": "2026-09-04",
+      "lastAction": "Chaptered by Secretary of State. Chapter 238, Statutes of 2026.",
+      "lastActionDate": "2026-09-14",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/SB1447/2025",
@@ -205710,6 +205957,27 @@
       "legiscan_bill_id": 1945498
     },
     {
+      "billId": "OH-HB1004",
+      "state": "OH",
+      "billNumber": "HB1004",
+      "title": "Allow pharmacist to dispense nicotine replacement, contraceptives",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Allow pharmacist to dispense nicotine replacement, contraceptives",
+      "sponsor": "",
+      "lastAction": "Introduced",
+      "lastActionDate": "2026-09-08",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/HB1004/2025",
+      "legiscan_bill_id": 2157975
+    },
+    {
       "billId": "OH-HB920",
       "state": "OH",
       "billNumber": "HB920",
@@ -206207,27 +206475,6 @@
         }
       ],
       "session_id": 2190
-    },
-    {
-      "billId": "OH-SB176",
-      "state": "OH",
-      "billNumber": "SB176",
-      "title": "Enact the Digital Fair Repair Act",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Enact the Digital Fair Repair Act",
-      "sponsor": "",
-      "lastAction": "Referred to committee: Small Business and Economic Opportunity",
-      "lastActionDate": "2025-04-30",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/SB176/2025",
-      "legiscan_bill_id": 2024728
     },
     {
       "billId": "OK-HB1566",
@@ -215107,7 +215354,7 @@
       "state": "CA",
       "billNumber": "AB1981",
       "title": "Subsidized childcare: reimbursement rates: reporting.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -215122,6 +215369,88 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1981/2025",
       "legiscan_bill_id": 2117140,
+      "sponsorships": [
+        {
+          "people_id": 18067,
+          "name": "Cecilia Aguiar-Curry",
+          "first_name": "Cecilia",
+          "last_name": "Aguiar-Curry",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-004",
+          "type": "primary"
+        },
+        {
+          "people_id": 22948,
+          "name": "Mia Bonta",
+          "first_name": "Mia",
+          "last_name": "Bonta",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-018",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22932,
+          "name": "Isaac Bryan",
+          "first_name": "Isaac",
+          "last_name": "Bryan",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-055",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23137,
+          "name": "Matt Haney",
+          "first_name": "Matt",
+          "last_name": "Haney",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-017",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 21719,
+          "name": "Alex Lee",
+          "first_name": "Alex",
+          "last_name": "Lee",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-024",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23221,
+          "name": "Stephanie Nguyen",
+          "first_name": "Stephanie",
+          "last_name": "Nguyen",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-010",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 14118,
+          "name": "Sharon Quirk-Silva",
+          "first_name": "Sharon",
+          "last_name": "Quirk-Silva",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-067",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23220,
+          "name": "Esmeralda Soria",
+          "first_name": "Esmeralda",
+          "last_name": "Soria",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-027",
+          "type": "cosponsor"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1669211",
@@ -215236,89 +215565,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1981"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 18067,
-          "name": "Cecilia Aguiar-Curry",
-          "first_name": "Cecilia",
-          "last_name": "Aguiar-Curry",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-004",
-          "type": "primary"
-        },
-        {
-          "people_id": 22948,
-          "name": "Mia Bonta",
-          "first_name": "Mia",
-          "last_name": "Bonta",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-018",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 22932,
-          "name": "Isaac Bryan",
-          "first_name": "Isaac",
-          "last_name": "Bryan",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-055",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 23137,
-          "name": "Matt Haney",
-          "first_name": "Matt",
-          "last_name": "Haney",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-017",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 21719,
-          "name": "Alex Lee",
-          "first_name": "Alex",
-          "last_name": "Lee",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-024",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 23221,
-          "name": "Stephanie Nguyen",
-          "first_name": "Stephanie",
-          "last_name": "Nguyen",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-010",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 14118,
-          "name": "Sharon Quirk-Silva",
-          "first_name": "Sharon",
-          "last_name": "Quirk-Silva",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-067",
-          "type": "cosponsor"
-        },
-        {
-          "people_id": 23220,
-          "name": "Esmeralda Soria",
-          "first_name": "Esmeralda",
-          "last_name": "Soria",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-027",
-          "type": "cosponsor"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB1528",
@@ -234787,7 +235034,7 @@
       "state": "CA",
       "billNumber": "AB2575",
       "title": "Health care services: artificial intelligence.",
-      "status": "Introduced",
+      "status": "Passed One Chamber",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -234795,13 +235042,224 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Health care services: artificial intelligence.",
-      "sponsor": "",
-      "lastAction": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 51. Noes 16.).",
-      "lastActionDate": "2026-08-31",
+      "sponsor": "Liz Ortega (D)",
+      "lastAction": "Enrolled and presented to the Governor at 3 p.m.",
+      "lastActionDate": "2026-09-15",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2575/2025",
-      "legiscan_bill_id": 2121652
+      "legiscan_bill_id": 2121652,
+      "rollCalls": [
+        {
+          "key": "LS-1678201",
+          "legiscan_roll_call_id": 1678201,
+          "date": "2026-04-07",
+          "desc": "Do pass and be re-referred to the Committee on [Labor and Employment]",
+          "chamber": "A",
+          "yea": 11,
+          "nay": 1,
+          "nv": 0,
+          "absent": 4,
+          "total": 16,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1679276",
+          "legiscan_roll_call_id": 1679276,
+          "date": "2026-04-08",
+          "desc": "Do pass and be re-referred to the Committee on [Privacy and Consumer Protection]",
+          "chamber": "A",
+          "yea": 5,
+          "nay": 2,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1688009",
+          "legiscan_roll_call_id": 1688009,
+          "date": "2026-04-21",
+          "desc": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+          "chamber": "A",
+          "yea": 9,
+          "nay": 4,
+          "nv": 0,
+          "absent": 2,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1698833",
+          "legiscan_roll_call_id": 1698833,
+          "date": "2026-05-14",
+          "desc": "Do pass",
+          "chamber": "A",
+          "yea": 10,
+          "nay": 4,
+          "nv": 0,
+          "absent": 1,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1702552",
+          "legiscan_roll_call_id": 1702552,
+          "date": "2026-05-27",
+          "desc": "AB 2575 Ortega Assembly Third Reading",
+          "chamber": "A",
+          "yea": 48,
+          "nay": 15,
+          "nv": 0,
+          "absent": 17,
+          "total": 80,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1710431",
+          "legiscan_roll_call_id": 1710431,
+          "date": "2026-06-17",
+          "desc": "Do pass, but first be re-referred to the Committee on [Labor, Public Employment and Retirement ]",
+          "chamber": "Senate",
+          "yea": 8,
+          "nay": 2,
+          "nv": 0,
+          "absent": 1,
+          "total": 11,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1711673",
+          "legiscan_roll_call_id": 1711673,
+          "date": "2026-06-24",
+          "desc": "Do pass, but first be re-referred to the Committee on [Privacy, Digital Technologies, and Consumer Protection]",
+          "chamber": "Senate",
+          "yea": 4,
+          "nay": 1,
+          "nv": 0,
+          "absent": 0,
+          "total": 5,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1712325",
+          "legiscan_roll_call_id": 1712325,
+          "date": "2026-06-29",
+          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+          "chamber": "Senate",
+          "yea": 6,
+          "nay": 2,
+          "nv": 0,
+          "absent": 1,
+          "total": 9,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1716326",
+          "legiscan_roll_call_id": 1716326,
+          "date": "2026-08-03",
+          "desc": "Placed on suspense file",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1724848",
+          "legiscan_roll_call_id": 1724848,
+          "date": "2026-08-13",
+          "desc": "Do pass as amended",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 2,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1726840",
+          "legiscan_roll_call_id": 1726840,
+          "date": "2026-08-28",
+          "desc": "Assembly 3rd Reading AB2575 Ortega By Padilla",
+          "chamber": "Senate",
+          "yea": 18,
+          "nay": 10,
+          "nv": 0,
+          "absent": 12,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1726841",
+          "legiscan_roll_call_id": 1726841,
+          "date": "2026-08-28",
+          "desc": "Assembly 3rd Reading AB2575 Ortega By Padilla Reconsider",
+          "chamber": "Senate",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1727067",
+          "legiscan_roll_call_id": 1727067,
+          "date": "2026-08-31",
+          "desc": "Assembly 3rd Reading AB2575 Ortega By Padilla",
+          "chamber": "Senate",
+          "yea": 21,
+          "nay": 10,
+          "nv": 0,
+          "absent": 9,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        },
+        {
+          "key": "LS-1727068",
+          "legiscan_roll_call_id": 1727068,
+          "date": "2026-08-31",
+          "desc": "AB 2575 ORTEGA Concurrence in Senate Amendments",
+          "chamber": "A",
+          "yea": 51,
+          "nay": 16,
+          "nv": 0,
+          "absent": 12,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 23214,
+          "name": "Liz Ortega",
+          "first_name": "Liz",
+          "last_name": "Ortega",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-020",
+          "type": "primary"
+        }
+      ]
     },
     {
       "billId": "CA-AB134",
@@ -235233,7 +235691,7 @@
       "state": "CA",
       "billNumber": "AB2478",
       "title": "Kinship family approval.",
-      "status": "Introduced",
+      "status": "Passed One Chamber",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -235241,13 +235699,188 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Kinship family approval.",
-      "sponsor": "",
-      "lastAction": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0.).",
-      "lastActionDate": "2026-08-31",
+      "sponsor": "Nick Schultz (D)",
+      "lastAction": "Enrolled and presented to the Governor at 3 p.m.",
+      "lastActionDate": "2026-09-15",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2478/2025",
-      "legiscan_bill_id": 2121555
+      "legiscan_bill_id": 2121555,
+      "rollCalls": [
+        {
+          "key": "LS-1682676",
+          "legiscan_roll_call_id": 1682676,
+          "date": "2026-04-14",
+          "desc": "Do pass and be re-referred to the Committee on [Judiciary]",
+          "chamber": "A",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        },
+        {
+          "key": "LS-1687127",
+          "legiscan_roll_call_id": 1687127,
+          "date": "2026-04-21",
+          "desc": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+          "chamber": "A",
+          "yea": 12,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 12,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        },
+        {
+          "key": "LS-1698663",
+          "legiscan_roll_call_id": 1698663,
+          "date": "2026-05-14",
+          "desc": "Do pass",
+          "chamber": "A",
+          "yea": 15,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        },
+        {
+          "key": "LS-1702163",
+          "legiscan_roll_call_id": 1702163,
+          "date": "2026-05-26",
+          "desc": "AB 2478 Schultz Assembly Third Reading",
+          "chamber": "A",
+          "yea": 78,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 80,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        },
+        {
+          "key": "LS-1709760",
+          "legiscan_roll_call_id": 1709760,
+          "date": "2026-06-15",
+          "desc": "Do pass, but first be re-referred to the Committee on [Judiciary]",
+          "chamber": "Senate",
+          "yea": 4,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 5,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        },
+        {
+          "key": "LS-1711842",
+          "legiscan_roll_call_id": 1711842,
+          "date": "2026-06-23",
+          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+          "chamber": "Senate",
+          "yea": 13,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 13,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        },
+        {
+          "key": "LS-1716340",
+          "legiscan_roll_call_id": 1716340,
+          "date": "2026-08-03",
+          "desc": "Placed on suspense file",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        },
+        {
+          "key": "LS-1724889",
+          "legiscan_roll_call_id": 1724889,
+          "date": "2026-08-13",
+          "desc": "Do pass",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        },
+        {
+          "key": "LS-1727042",
+          "legiscan_roll_call_id": 1727042,
+          "date": "2026-08-31",
+          "desc": "AB 2478 Schultz Concurrence in Senate Amendments",
+          "chamber": "A",
+          "yea": 79,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        },
+        {
+          "key": "LS-1727439",
+          "legiscan_roll_call_id": 1727439,
+          "date": "2026-08-30",
+          "desc": "Assembly 3rd Reading AB2478 Schultz et al. By Ochoa Bogh",
+          "chamber": "Senate",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 25348,
+          "name": "Nick Schultz",
+          "first_name": "Nick",
+          "last_name": "Schultz",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-044",
+          "type": "primary"
+        },
+        {
+          "people_id": 25350,
+          "name": "Jose Solache",
+          "first_name": "Jose",
+          "last_name": "Solache",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-062",
+          "type": "primary"
+        },
+        {
+          "people_id": 25333,
+          "name": "Leticia Castillo",
+          "first_name": "Leticia",
+          "last_name": "Castillo",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-058",
+          "type": "cosponsor"
+        }
+      ]
     },
     {
       "billId": "CA-AB1103",
@@ -250067,6 +250700,27 @@
       }
     },
     {
+      "billId": "NJ-S2982",
+      "state": "NJ",
+      "billNumber": "S2982",
+      "title": "Expands scope of Office of State Long-Term Care Ombudsman.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Expands scope of Office of State Long-Term Care Ombudsman.",
+      "sponsor": "",
+      "lastAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/S2982/2026",
+      "legiscan_bill_id": 2076594
+    },
+    {
       "billId": "NJ-S2495",
       "state": "NJ",
       "billNumber": "S2495",
@@ -250107,27 +250761,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A399/2026",
       "legiscan_bill_id": 2099116
-    },
-    {
-      "billId": "NJ-S2982",
-      "state": "NJ",
-      "billNumber": "S2982",
-      "title": "Expands scope of Office of State Long-Term Care Ombudsman.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Expands scope of Office of State Long-Term Care Ombudsman.",
-      "sponsor": "",
-      "lastAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/S2982/2026",
-      "legiscan_bill_id": 2076594
     },
     {
       "billId": "NJ-A160",
@@ -253539,27 +254172,6 @@
       "legiscan_bill_id": 1956501
     },
     {
-      "billId": "OH-HB707",
-      "state": "OH",
-      "billNumber": "HB707",
-      "title": "Enact Kei'Mani's Law",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Enact Kei'Mani's Law",
-      "sponsor": "",
-      "lastAction": "Referred to committee: Children and Human Services",
-      "lastActionDate": "2026-02-25",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/HB707/2025",
-      "legiscan_bill_id": 2119992
-    },
-    {
       "billId": "OH-SB315",
       "state": "OH",
       "billNumber": "SB315",
@@ -253874,6 +254486,27 @@
         }
       ],
       "session_id": 2190
+    },
+    {
+      "billId": "OH-HB707",
+      "state": "OH",
+      "billNumber": "HB707",
+      "title": "Enact Kei'Mani's Law",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Enact Kei'Mani's Law",
+      "sponsor": "",
+      "lastAction": "Referred to committee: Children and Human Services",
+      "lastActionDate": "2026-02-25",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/HB707/2025",
+      "legiscan_bill_id": 2119992
     },
     {
       "billId": "OH-HB692",

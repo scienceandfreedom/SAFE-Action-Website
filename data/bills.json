@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T10:56:07.904602+00:00",
+  "generated_at": "2026-09-17T11:05:12.040396+00:00",
   "source": "govinfo+legiscan",
-  "total": 9538,
+  "total": 9540,
   "bills": [
     {
       "billId": "US-119-HR120",
@@ -10186,6 +10186,39 @@
           "party": "R",
           "state": "FL",
           "district": "3",
+          "chamber": "House",
+          "type": "cosponsor"
+        },
+        {
+          "bioguide_id": "C001055",
+          "name": "Rep. Case, Ed [D-HI-1]",
+          "first_name": "Ed",
+          "last_name": "Case",
+          "party": "D",
+          "state": "HI",
+          "district": "1",
+          "chamber": "House",
+          "type": "cosponsor"
+        },
+        {
+          "bioguide_id": "G000593",
+          "name": "Rep. Gimenez, Carlos A. [R-FL-28]",
+          "first_name": "Carlos",
+          "last_name": "Gimenez",
+          "party": "R",
+          "state": "FL",
+          "district": "28",
+          "chamber": "House",
+          "type": "cosponsor"
+        },
+        {
+          "bioguide_id": "C001059",
+          "name": "Rep. Costa, Jim [D-CA-21]",
+          "first_name": "Jim",
+          "last_name": "Costa",
+          "party": "D",
+          "state": "CA",
+          "district": "21",
           "chamber": "House",
           "type": "cosponsor"
         }
@@ -24112,7 +24145,7 @@
       "state": "CA",
       "billNumber": "AB1999",
       "title": "Veterinary medicine.",
-      "status": "Passed Both Chambers",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -24127,6 +24160,28 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1999/2025",
       "legiscan_bill_id": 2118613,
+      "sponsorships": [
+        {
+          "people_id": 18065,
+          "name": "Ash Kalra",
+          "first_name": "Ash",
+          "last_name": "Kalra",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-025",
+          "type": "primary"
+        },
+        {
+          "people_id": 18073,
+          "name": "Marc Berman",
+          "first_name": "Marc",
+          "last_name": "Berman",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-023",
+          "type": "primary"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1682604",
@@ -24227,29 +24282,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1999"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 18065,
-          "name": "Ash Kalra",
-          "first_name": "Ash",
-          "last_name": "Kalra",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-025",
-          "type": "primary"
-        },
-        {
-          "people_id": 18073,
-          "name": "Marc Berman",
-          "first_name": "Marc",
-          "last_name": "Berman",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-023",
-          "type": "primary"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB1906",
@@ -68714,6 +68747,27 @@
       "legiscan_bill_id": 2119707
     },
     {
+      "billId": "CA-AB150",
+      "state": "CA",
+      "billNumber": "AB150",
+      "title": "Early care and education.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Early care and education.",
+      "sponsor": "",
+      "lastAction": "Chaptered by Secretary of State - Chapter 25, Statutes of 2026.",
+      "lastActionDate": "2026-06-29",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/AB150/2025",
+      "legiscan_bill_id": 1908135
+    },
+    {
       "billId": "CA-SB1004",
       "state": "CA",
       "billNumber": "SB1004",
@@ -69070,27 +69124,6 @@
         }
       ],
       "session_id": 2172
-    },
-    {
-      "billId": "CA-AB150",
-      "state": "CA",
-      "billNumber": "AB150",
-      "title": "Early care and education.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Early care and education.",
-      "sponsor": "",
-      "lastAction": "Chaptered by Secretary of State - Chapter 25, Statutes of 2026.",
-      "lastActionDate": "2026-06-29",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/AB150/2025",
-      "legiscan_bill_id": 1908135
     },
     {
       "billId": "CA-AR117",
@@ -102973,6 +103006,27 @@
       "legiscan_bill_id": 2014038
     },
     {
+      "billId": "PA-SB54",
+      "state": "PA",
+      "billNumber": "SB54",
+      "title": "In limitation of time, further providing for six months limitation; in matters affecting government units, further providing for exceptions to sovereign immunity, for limitations on damages and for exceptions to governmental immunity and providing for claims for compensation for wrongful conviction; in general administration, providing for services after wrongful conviction; and, in Pennsylvania Board of Probation and Parole, further providing for powers and duties of department.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "In limitation of time, further providing for six months limitation; in matters affecting government units, further providing for exceptions to sovereign immunity, for limitations on damages and for exceptions to governmental immunity and providing for claims for compensation for wrongful conviction; in general administration, providing for services after wrongful conviction; and, in Pennsylvania Board of Probation and Parole, further providing for powers and duties of department.",
+      "sponsor": "",
+      "lastAction": "Referred to Judiciary",
+      "lastActionDate": "2025-03-21",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/SB54/2025",
+      "legiscan_bill_id": 2012442
+    },
+    {
       "billId": "PA-HB2707",
       "state": "PA",
       "billNumber": "HB2707",
@@ -103005,27 +103059,6 @@
         "status": "monitor_confirmed",
         "second_pass": ""
       }
-    },
-    {
-      "billId": "PA-SB54",
-      "state": "PA",
-      "billNumber": "SB54",
-      "title": "In limitation of time, further providing for six months limitation; in matters affecting government units, further providing for exceptions to sovereign immunity, for limitations on damages and for exceptions to governmental immunity and providing for claims for compensation for wrongful conviction; in general administration, providing for services after wrongful conviction; and, in Pennsylvania Board of Probation and Parole, further providing for powers and duties of department.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "In limitation of time, further providing for six months limitation; in matters affecting government units, further providing for exceptions to sovereign immunity, for limitations on damages and for exceptions to governmental immunity and providing for claims for compensation for wrongful conviction; in general administration, providing for services after wrongful conviction; and, in Pennsylvania Board of Probation and Parole, further providing for powers and duties of department.",
-      "sponsor": "",
-      "lastAction": "Referred to Judiciary",
-      "lastActionDate": "2025-03-21",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/SB54/2025",
-      "legiscan_bill_id": 2012442
     },
     {
       "billId": "PA-HB545",
@@ -124948,6 +124981,150 @@
       "legiscan_bill_id": 2047128
     },
     {
+      "billId": "MI-HB6330",
+      "state": "MI",
+      "billNumber": "HB6330",
+      "title": "State: identification cards; citizenship mark; require. Amends sec. 2 of 1972 PA 222 (MCL 28.292). TIE BAR WITH: HB 6328'26, HB 6329'26",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "vaccine-mandate",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "State: identification cards; citizenship mark; require. Amends sec. 2 of 1972 PA 222 (MCL 28.292). TIE BAR WITH: HB 6328'26, HB 6329'26",
+      "sponsor": "Nancy Jenkins-Arno (R)",
+      "lastAction": "Bill Electronically Reproduced 09/16/2026",
+      "lastActionDate": "2026-09-17",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MI/bill/HB6330/2025",
+      "legiscan_bill_id": 2158263,
+      "session_id": 2183,
+      "sponsorships": [
+        {
+          "people_id": 11180,
+          "name": "Nancy Jenkins-Arno",
+          "first_name": "Nancy",
+          "last_name": "Jenkins-Arno",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-034",
+          "type": "primary"
+        },
+        {
+          "people_id": 24356,
+          "name": "Mike Hoadley",
+          "first_name": "Mike",
+          "last_name": "Hoadley",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-099",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24362,
+          "name": "Rachelle Smit",
+          "first_name": "Rachelle",
+          "last_name": "Smit",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-043",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 14523,
+          "name": "Tim Kelly",
+          "first_name": "Tim",
+          "last_name": "Kelly",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-093",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24350,
+          "name": "Matthew Bierlein",
+          "first_name": "Matthew",
+          "last_name": "Bierlein",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-097",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 20660,
+          "name": "Matthew Maddock",
+          "first_name": "Matthew",
+          "last_name": "Maddock",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-051",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24353,
+          "name": "Jay DeBoyer",
+          "first_name": "Jay",
+          "last_name": "DeBoyer",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-063",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23143,
+          "name": "Mike Harris",
+          "first_name": "Mike",
+          "last_name": "Harris",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-052",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25817,
+          "name": "Jason Woolford",
+          "first_name": "Jason",
+          "last_name": "Woolford",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-050",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25818,
+          "name": "Jennifer Wortz",
+          "first_name": "Jennifer",
+          "last_name": "Wortz",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-035",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24270,
+          "name": "Donni Steele",
+          "first_name": "Donni",
+          "last_name": "Steele",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-054",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24369,
+          "name": "Alicia St. Germaine",
+          "first_name": "Alicia",
+          "last_name": "St. Germaine",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-062",
+          "type": "cosponsor"
+        }
+      ]
+    },
+    {
       "billId": "MI-SB0626",
       "state": "MI",
       "billNumber": "SB0626",
@@ -125288,27 +125465,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/HB5270/2025",
       "legiscan_bill_id": 2052274
-    },
-    {
-      "billId": "MI-SB0724",
-      "state": "MI",
-      "billNumber": "SB0724",
-      "title": "Food: milk; human breast milk banks, companies, and cooperatives; regulate. Creates new act. TIE BAR WITH: SB 0726'25",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Food: milk; human breast milk banks, companies, and cooperatives; regulate. Creates new act. TIE BAR WITH: SB 0726'25",
-      "sponsor": "",
-      "lastAction": "Referred To Committee Of The Whole",
-      "lastActionDate": "2026-06-17",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MI/bill/SB0724/2025",
-      "legiscan_bill_id": 2056163
     },
     {
       "billId": "MN-SF1105",
@@ -133574,27 +133730,6 @@
       "legiscan_bill_id": 2045672
     },
     {
-      "billId": "PA-HB670",
-      "state": "PA",
-      "billNumber": "HB670",
-      "title": "In abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "In abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
-      "sponsor": "",
-      "lastAction": "Laid on the table (Pursuant to House Rule 71)",
-      "lastActionDate": "2026-02-04",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/HB670/2025",
-      "legiscan_bill_id": 1974810
-    },
-    {
       "billId": "PA-SB837",
       "state": "PA",
       "billNumber": "SB837",
@@ -133628,6 +133763,27 @@
         "status": "monitor_confirmed",
         "second_pass": ""
       }
+    },
+    {
+      "billId": "PA-HB670",
+      "state": "PA",
+      "billNumber": "HB670",
+      "title": "In abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "In abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
+      "sponsor": "",
+      "lastAction": "Laid on the table (Pursuant to House Rule 71)",
+      "lastActionDate": "2026-02-04",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/HB670/2025",
+      "legiscan_bill_id": 1974810
     },
     {
       "billId": "PA-SR208",
@@ -135150,7 +135306,7 @@
       "billId": "SC-S0001",
       "state": "SC",
       "billNumber": "S0001",
-      "title": "A Senate Resolution To Adopt The Rules Of Procedure For The Senate As Provided In Article Iii, Section 12 Of The Constitution Of South Carolina, 1895.",
+      "title": "5807",
       "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
@@ -135158,7 +135314,7 @@
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
-      "summary": "A Senate Resolution To Adopt The Rules Of Procedure For The Senate As Provided In Article Iii, Section 12 Of The Constitution Of South Carolina, 1895.",
+      "summary": "5807",
       "sponsor": "",
       "lastAction": "Introduced and adopted",
       "lastActionDate": "2024-12-04",
@@ -145982,6 +146138,182 @@
       "legiscan_bill_id": 1980245
     },
     {
+      "billId": "CA-AB1795",
+      "state": "CA",
+      "billNumber": "AB1795",
+      "title": "Smoke Damage Recovery Act.",
+      "status": "Passed Both Chambers",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Smoke Damage Recovery Act.",
+      "sponsor": "Mike Gipson (D)",
+      "lastAction": "Chaptered by Secretary of State - Chapter 240, Statutes of 2026.",
+      "lastActionDate": "2026-09-15",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/CA/bill/AB1795/2025",
+      "legiscan_bill_id": 2113688,
+      "rollCalls": [
+        {
+          "key": "LS-1683701",
+          "legiscan_roll_call_id": 1683701,
+          "date": "2026-04-14",
+          "desc": "Do pass as amended and be re-referred to the Committee on [Insurance]",
+          "chamber": "A",
+          "yea": 5,
+          "nay": 1,
+          "nv": 0,
+          "absent": 1,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        },
+        {
+          "key": "LS-1689282",
+          "legiscan_roll_call_id": 1689282,
+          "date": "2026-04-22",
+          "desc": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+          "chamber": "A",
+          "yea": 14,
+          "nay": 2,
+          "nv": 0,
+          "absent": 1,
+          "total": 17,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        },
+        {
+          "key": "LS-1698840",
+          "legiscan_roll_call_id": 1698840,
+          "date": "2026-05-14",
+          "desc": "Do pass as amended",
+          "chamber": "A",
+          "yea": 11,
+          "nay": 4,
+          "nv": 0,
+          "absent": 0,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        },
+        {
+          "key": "LS-1707063",
+          "legiscan_roll_call_id": 1707063,
+          "date": "2026-06-08",
+          "desc": "AB 1795 Gipson Third Reading Urgency",
+          "chamber": "A",
+          "yea": 56,
+          "nay": 7,
+          "nv": 0,
+          "absent": 17,
+          "total": 80,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        },
+        {
+          "key": "LS-1712042",
+          "legiscan_roll_call_id": 1712042,
+          "date": "2026-06-24",
+          "desc": "Do pass, but first be re-referred to the Committee on [Environmental Quality]",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 1,
+          "nv": 0,
+          "absent": 1,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        },
+        {
+          "key": "LS-1713687",
+          "legiscan_roll_call_id": 1713687,
+          "date": "2026-07-01",
+          "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        },
+        {
+          "key": "LS-1716133",
+          "legiscan_roll_call_id": 1716133,
+          "date": "2026-08-03",
+          "desc": "Placed on suspense file",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        },
+        {
+          "key": "LS-1725223",
+          "legiscan_roll_call_id": 1725223,
+          "date": "2026-08-13",
+          "desc": "Do pass",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        },
+        {
+          "key": "LS-1726990",
+          "legiscan_roll_call_id": 1726990,
+          "date": "2026-08-31",
+          "desc": "Assembly 3rd Reading AB1795 Gipson By Allen",
+          "chamber": "Senate",
+          "yea": 29,
+          "nay": 10,
+          "nv": 0,
+          "absent": 1,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        },
+        {
+          "key": "LS-1726991",
+          "legiscan_roll_call_id": 1726991,
+          "date": "2026-08-31",
+          "desc": "AB 1795 GIPSON Concurrence in Senate Amendments",
+          "chamber": "A",
+          "yea": 58,
+          "nay": 7,
+          "nv": 0,
+          "absent": 14,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 16288,
+          "name": "Mike Gipson",
+          "first_name": "Mike",
+          "last_name": "Gipson",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-065",
+          "type": "primary"
+        }
+      ]
+    },
+    {
       "billId": "CA-AB645",
       "state": "CA",
       "billNumber": "AB645",
@@ -146064,174 +146396,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/SB1088/2025",
       "legiscan_bill_id": 2117175
-    },
-    {
-      "billId": "CA-AB817",
-      "state": "CA",
-      "billNumber": "AB817",
-      "title": "Cold storage facilities.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Cold storage facilities.",
-      "sponsor": "Mark Gonzalez (D)",
-      "lastAction": "Enrolled and presented to the Governor at 1:30 p.m.",
-      "lastActionDate": "2026-09-14",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/CA/bill/AB817/2025",
-      "legiscan_bill_id": 1976404,
-      "sponsorships": [
-        {
-          "people_id": 25338,
-          "name": "Mark Gonzalez",
-          "first_name": "Mark",
-          "last_name": "Gonzalez",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-054",
-          "type": "primary"
-        },
-        {
-          "people_id": 25332,
-          "name": "Jessica Caloza",
-          "first_name": "Jessica",
-          "last_name": "Caloza",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-052",
-          "type": "primary"
-        },
-        {
-          "people_id": 19726,
-          "name": "Maria Durazo",
-          "first_name": "Maria",
-          "last_name": "Durazo",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-026",
-          "type": "cosponsor"
-        }
-      ],
-      "rollCalls": [
-        {
-          "key": "LS-1535099",
-          "legiscan_roll_call_id": 1535099,
-          "date": "2025-04-02",
-          "desc": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
-          "chamber": "A",
-          "yea": 21,
-          "nay": 0,
-          "nv": 0,
-          "absent": 1,
-          "total": 22,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB817"
-        },
-        {
-          "key": "LS-1563103",
-          "legiscan_roll_call_id": 1563103,
-          "date": "2025-04-30",
-          "desc": "Do pass. To Consent Calendar",
-          "chamber": "A",
-          "yea": 14,
-          "nay": 0,
-          "nv": 0,
-          "absent": 1,
-          "total": 15,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB817"
-        },
-        {
-          "key": "LS-1568631",
-          "legiscan_roll_call_id": 1568631,
-          "date": "2025-05-08",
-          "desc": "AB 817 Nguyen Consent Calendar Second Day Regular Session",
-          "chamber": "A",
-          "yea": 69,
-          "nay": 0,
-          "nv": 0,
-          "absent": 10,
-          "total": 79,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB817"
-        },
-        {
-          "key": "LS-1725817",
-          "legiscan_roll_call_id": 1725817,
-          "date": "2026-08-24",
-          "desc": "Do pass, but first be re-referred to the Committee on [Revenue and Taxation]",
-          "chamber": "Senate",
-          "yea": 4,
-          "nay": 2,
-          "nv": 0,
-          "absent": 1,
-          "total": 7,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB817"
-        },
-        {
-          "key": "LS-1725847",
-          "legiscan_roll_call_id": 1725847,
-          "date": "2026-08-25",
-          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
-          "chamber": "Senate",
-          "yea": 3,
-          "nay": 1,
-          "nv": 0,
-          "absent": 1,
-          "total": 5,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB817"
-        },
-        {
-          "key": "LS-1726448",
-          "legiscan_roll_call_id": 1726448,
-          "date": "2026-08-27",
-          "desc": "Do pass",
-          "chamber": "Senate",
-          "yea": 4,
-          "nay": 2,
-          "nv": 0,
-          "absent": 1,
-          "total": 7,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB817"
-        },
-        {
-          "key": "LS-1727091",
-          "legiscan_roll_call_id": 1727091,
-          "date": "2026-08-31",
-          "desc": "Assembly 3rd Reading AB817 Mark González et al. By Durazo",
-          "chamber": "Senate",
-          "yea": 30,
-          "nay": 9,
-          "nv": 0,
-          "absent": 1,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB817"
-        },
-        {
-          "key": "LS-1727092",
-          "legiscan_roll_call_id": 1727092,
-          "date": "2026-08-31",
-          "desc": "AB 817 GONZÁLEZ, M. Concurrence in Senate Amendments",
-          "chamber": "A",
-          "yea": 55,
-          "nay": 19,
-          "nv": 0,
-          "absent": 5,
-          "total": 79,
-          "passed": true,
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB817"
-        }
-      ],
-      "session_id": 2172
     },
     {
       "billId": "CO-HB1238",
@@ -160892,6 +161056,140 @@
       "legiscan_bill_id": 2051148
     },
     {
+      "billId": "MI-HB6329",
+      "state": "MI",
+      "billNumber": "HB6329",
+      "title": "Traffic control: driver license; citizenship mark; require. Amends sec. 310 of 1949 PA 300 (MCL 257.310). TIE BAR WITH: HB 6328'26, HB 6330'26",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "vaccine-mandate",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Traffic control: driver license; citizenship mark; require. Amends sec. 310 of 1949 PA 300 (MCL 257.310). TIE BAR WITH: HB 6328'26, HB 6330'26",
+      "sponsor": "Rachelle Smit (R)",
+      "lastAction": "Bill Electronically Reproduced 09/16/2026",
+      "lastActionDate": "2026-09-17",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MI/bill/HB6329/2025",
+      "legiscan_bill_id": 2158266,
+      "session_id": 2183,
+      "sponsorships": [
+        {
+          "people_id": 24362,
+          "name": "Rachelle Smit",
+          "first_name": "Rachelle",
+          "last_name": "Smit",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-043",
+          "type": "primary"
+        },
+        {
+          "people_id": 24356,
+          "name": "Mike Hoadley",
+          "first_name": "Mike",
+          "last_name": "Hoadley",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-099",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 14523,
+          "name": "Tim Kelly",
+          "first_name": "Tim",
+          "last_name": "Kelly",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-093",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24350,
+          "name": "Matthew Bierlein",
+          "first_name": "Matthew",
+          "last_name": "Bierlein",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-097",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 20660,
+          "name": "Matthew Maddock",
+          "first_name": "Matthew",
+          "last_name": "Maddock",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-051",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24353,
+          "name": "Jay DeBoyer",
+          "first_name": "Jay",
+          "last_name": "DeBoyer",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-063",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 23143,
+          "name": "Mike Harris",
+          "first_name": "Mike",
+          "last_name": "Harris",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-052",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25817,
+          "name": "Jason Woolford",
+          "first_name": "Jason",
+          "last_name": "Woolford",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-050",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 25818,
+          "name": "Jennifer Wortz",
+          "first_name": "Jennifer",
+          "last_name": "Wortz",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-035",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24270,
+          "name": "Donni Steele",
+          "first_name": "Donni",
+          "last_name": "Steele",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-054",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24369,
+          "name": "Alicia St. Germaine",
+          "first_name": "Alicia",
+          "last_name": "St. Germaine",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-062",
+          "type": "cosponsor"
+        }
+      ]
+    },
+    {
       "billId": "MI-HB4726",
       "state": "MI",
       "billNumber": "HB4726",
@@ -161263,48 +161561,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/HB4433/2025",
       "legiscan_bill_id": 2028906
-    },
-    {
-      "billId": "MI-HB4555",
-      "state": "MI",
-      "billNumber": "HB4555",
-      "title": "Human services: services or financial assistance; water rate affordability program; create. Creates new act.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Human services: services or financial assistance; water rate affordability program; create. Creates new act.",
-      "sponsor": "",
-      "lastAction": "Bill Electronically Reproduced 06/05/2025",
-      "lastActionDate": "2025-06-10",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MI/bill/HB4555/2025",
-      "legiscan_bill_id": 2035712
-    },
-    {
-      "billId": "MI-HB5920",
-      "state": "MI",
-      "billNumber": "HB5920",
-      "title": "Legislature: legislative agencies; office of legislative corrections ombudsman; expand powers and duties. Amends secs. 1, 4 & 5 of 1975 PA 46 (MCL 4.351 et seq.). TIE BAR WITH: HB 5921'26",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Legislature: legislative agencies; office of legislative corrections ombudsman; expand powers and duties. Amends secs. 1, 4 & 5 of 1975 PA 46 (MCL 4.351 et seq.). TIE BAR WITH: HB 5921'26",
-      "sponsor": "",
-      "lastAction": "Referred To Committee On Oversight",
-      "lastActionDate": "2026-09-09",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MI/bill/HB5920/2025",
-      "legiscan_bill_id": 2146610
     },
     {
       "billId": "MN-SF454",
@@ -173409,6 +173665,27 @@
       }
     },
     {
+      "billId": "OH-HB975",
+      "state": "OH",
+      "billNumber": "HB975",
+      "title": "Allow officer to petition for removal from a Brady-Giglio list",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Allow officer to petition for removal from a Brady-Giglio list",
+      "sponsor": "",
+      "lastAction": "Introduced",
+      "lastActionDate": "2026-07-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/HB975/2025",
+      "legiscan_bill_id": 2155758
+    },
+    {
       "billId": "OH-HB220",
       "state": "OH",
       "billNumber": "HB220",
@@ -173430,10 +173707,10 @@
       "legiscan_bill_id": 2018948
     },
     {
-      "billId": "OH-HB975",
+      "billId": "OH-HB1007",
       "state": "OH",
-      "billNumber": "HB975",
-      "title": "Allow officer to petition for removal from a Brady-Giglio list",
+      "billNumber": "HB1007",
+      "title": "Prevent Public Record Law release of clerk of court personal info",
       "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
@@ -173441,14 +173718,27 @@
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
-      "summary": "Allow officer to petition for removal from a Brady-Giglio list",
-      "sponsor": "",
+      "summary": "Prevent Public Record Law release of clerk of court personal info",
+      "sponsor": "Mark Hiner (R)",
       "lastAction": "Introduced",
-      "lastActionDate": "2026-07-13",
+      "lastActionDate": "2026-09-14",
       "actionCount": 0,
       "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/HB975/2025",
-      "legiscan_bill_id": 2155758
+      "sourceUrl": "https://legiscan.com/OH/bill/HB1007/2025",
+      "legiscan_bill_id": 2158254,
+      "session_id": 2190,
+      "sponsorships": [
+        {
+          "people_id": 26113,
+          "name": "Mark Hiner",
+          "first_name": "Mark",
+          "last_name": "Hiner",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-098",
+          "type": "primary"
+        }
+      ]
     },
     {
       "billId": "OH-SB420",
@@ -173556,27 +173846,6 @@
       "legiscan_bill_id": 2046570
     },
     {
-      "billId": "OH-HB79",
-      "state": "OH",
-      "billNumber": "HB79",
-      "title": "Increase penalty for assault if the victim is a sports official",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Increase penalty for assault if the victim is a sports official",
-      "sponsor": "",
-      "lastAction": "Referred to committee: Judiciary",
-      "lastActionDate": "2025-02-12",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/HB79/2025",
-      "legiscan_bill_id": 1964077
-    },
-    {
       "billId": "OH-SB327",
       "state": "OH",
       "billNumber": "SB327",
@@ -173596,6 +173865,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/OH/bill/SB327/2025",
       "legiscan_bill_id": 2053212
+    },
+    {
+      "billId": "OH-HB79",
+      "state": "OH",
+      "billNumber": "HB79",
+      "title": "Increase penalty for assault if the victim is a sports official",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Increase penalty for assault if the victim is a sports official",
+      "sponsor": "",
+      "lastAction": "Referred to committee: Judiciary",
+      "lastActionDate": "2025-02-12",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/HB79/2025",
+      "legiscan_bill_id": 1964077
     },
     {
       "billId": "OH-HB248",
@@ -176205,27 +176495,6 @@
       "legiscan_bill_id": 2151959
     },
     {
-      "billId": "PA-HB2238",
-      "state": "PA",
-      "billNumber": "HB2238",
-      "title": "In emergency medical services system, further providing for support of emergency medical services.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "In emergency medical services system, further providing for support of emergency medical services.",
-      "sponsor": "",
-      "lastAction": "Referred to Veterans Affairs & Emergency Preparedness",
-      "lastActionDate": "2026-02-20",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/HB2238/2025",
-      "legiscan_bill_id": 2121137
-    },
-    {
       "billId": "PA-SB375",
       "state": "PA",
       "billNumber": "SB375",
@@ -176245,6 +176514,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/PA/bill/SB375/2025",
       "legiscan_bill_id": 2036053
+    },
+    {
+      "billId": "PA-HB2238",
+      "state": "PA",
+      "billNumber": "HB2238",
+      "title": "In emergency medical services system, further providing for support of emergency medical services.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "In emergency medical services system, further providing for support of emergency medical services.",
+      "sponsor": "",
+      "lastAction": "Referred to Veterans Affairs & Emergency Preparedness",
+      "lastActionDate": "2026-02-20",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/HB2238/2025",
+      "legiscan_bill_id": 2121137
     },
     {
       "billId": "PA-SB507",
@@ -187475,27 +187765,6 @@
       "legiscan_bill_id": 2143310
     },
     {
-      "billId": "DC-PR26-0640",
-      "state": "DC",
-      "billNumber": "PR26-0640",
-      "title": "Fiscal Year 2026 Revised Local Budget Emergency Declaration Resolution of 2026",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Fiscal Year 2026 Revised Local Budget Emergency Declaration Resolution of 2026",
-      "sponsor": "",
-      "lastAction": "Resolution R26-0422, Effective from Jun 23, 2026 Published in DC Register Vol 73 and Page 010141",
-      "lastActionDate": "2026-07-17",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/DC/bill/PR26-0640/2025",
-      "legiscan_bill_id": 2144324
-    },
-    {
       "billId": "DC-B26-0307",
       "state": "DC",
       "billNumber": "B26-0307",
@@ -187515,6 +187784,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/B26-0307/2025",
       "legiscan_bill_id": 2038691
+    },
+    {
+      "billId": "DC-PR26-0640",
+      "state": "DC",
+      "billNumber": "PR26-0640",
+      "title": "Fiscal Year 2026 Revised Local Budget Emergency Declaration Resolution of 2026",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Fiscal Year 2026 Revised Local Budget Emergency Declaration Resolution of 2026",
+      "sponsor": "",
+      "lastAction": "Resolution R26-0422, Effective from Jun 23, 2026 Published in DC Register Vol 73 and Page 010141",
+      "lastActionDate": "2026-07-17",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/DC/bill/PR26-0640/2025",
+      "legiscan_bill_id": 2144324
     },
     {
       "billId": "DC-B26-0632",
@@ -188826,7 +189116,7 @@
       "state": "CA",
       "billNumber": "AB2320",
       "title": "Multifamily Housing Program: Homekey: adaptive reuse.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -188841,6 +189131,18 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2320/2025",
       "legiscan_bill_id": 2120794,
+      "sponsorships": [
+        {
+          "people_id": 23222,
+          "name": "Tri Ta",
+          "first_name": "Tri",
+          "last_name": "Ta",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-070",
+          "type": "primary"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1688119",
@@ -188941,19 +189243,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2320"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 23222,
-          "name": "Tri Ta",
-          "first_name": "Tri",
-          "last_name": "Ta",
-          "party": "R",
-          "role": "Rep",
-          "district": "HD-070",
-          "type": "primary"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-SB230",
@@ -198252,6 +198542,27 @@
       "legiscan_bill_id": 2027056
     },
     {
+      "billId": "MI-HB4555",
+      "state": "MI",
+      "billNumber": "HB4555",
+      "title": "Human services: services or financial assistance; water rate affordability program; create. Creates new act.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Human services: services or financial assistance; water rate affordability program; create. Creates new act.",
+      "sponsor": "",
+      "lastAction": "Bill Electronically Reproduced 06/05/2025",
+      "lastActionDate": "2025-06-10",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MI/bill/HB4555/2025",
+      "legiscan_bill_id": 2035712
+    },
+    {
       "billId": "MI-SB0392",
       "state": "MI",
       "billNumber": "SB0392",
@@ -206096,27 +206407,6 @@
       "legiscan_bill_id": 2032617
     },
     {
-      "billId": "OH-HB733",
-      "state": "OH",
-      "billNumber": "HB733",
-      "title": "Include maple syrup, maple product production to agriculture law",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Include maple syrup, maple product production to agriculture law",
-      "sponsor": "",
-      "lastAction": "Introduced",
-      "lastActionDate": "2026-06-11",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/HB733/2025",
-      "legiscan_bill_id": 2128018
-    },
-    {
       "billId": "OH-HB954",
       "state": "OH",
       "billNumber": "HB954",
@@ -206136,6 +206426,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/OH/bill/HB954/2025",
       "legiscan_bill_id": 2151817
+    },
+    {
+      "billId": "OH-HB733",
+      "state": "OH",
+      "billNumber": "HB733",
+      "title": "Include maple syrup, maple product production to agriculture law",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Include maple syrup, maple product production to agriculture law",
+      "sponsor": "",
+      "lastAction": "Introduced",
+      "lastActionDate": "2026-06-11",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/HB733/2025",
+      "legiscan_bill_id": 2128018
     },
     {
       "billId": "OH-HB12",
@@ -220445,8 +220756,8 @@
       "impact": "Medium",
       "summary": "Healing arts.",
       "sponsor": "",
-      "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
-      "lastActionDate": "2026-09-04",
+      "lastAction": "Chaptered by Secretary of State. Chapter 237, Statutes of 2026.",
+      "lastActionDate": "2026-09-14",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/SB1445/2025",
@@ -228019,6 +228330,27 @@
       "legiscan_bill_id": 2011561
     },
     {
+      "billId": "MI-SB0724",
+      "state": "MI",
+      "billNumber": "SB0724",
+      "title": "Food: milk; human breast milk banks, companies, and cooperatives; regulate. Creates new act. TIE BAR WITH: SB 0726'25",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Food: milk; human breast milk banks, companies, and cooperatives; regulate. Creates new act. TIE BAR WITH: SB 0726'25",
+      "sponsor": "",
+      "lastAction": "Referred To Committee Of The Whole",
+      "lastActionDate": "2026-06-17",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MI/bill/SB0724/2025",
+      "legiscan_bill_id": 2056163
+    },
+    {
       "billId": "MI-HB5217",
       "state": "MI",
       "billNumber": "HB5217",
@@ -235034,7 +235366,7 @@
       "state": "CA",
       "billNumber": "AB2575",
       "title": "Health care services: artificial intelligence.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -235049,6 +235381,18 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2575/2025",
       "legiscan_bill_id": 2121652,
+      "sponsorships": [
+        {
+          "people_id": 23214,
+          "name": "Liz Ortega",
+          "first_name": "Liz",
+          "last_name": "Ortega",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-020",
+          "type": "primary"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1678201",
@@ -235247,19 +235591,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2575"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 23214,
-          "name": "Liz Ortega",
-          "first_name": "Liz",
-          "last_name": "Ortega",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-020",
-          "type": "primary"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB134",
@@ -235691,7 +236023,7 @@
       "state": "CA",
       "billNumber": "AB2478",
       "title": "Kinship family approval.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -235706,6 +236038,38 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB2478/2025",
       "legiscan_bill_id": 2121555,
+      "sponsorships": [
+        {
+          "people_id": 25348,
+          "name": "Nick Schultz",
+          "first_name": "Nick",
+          "last_name": "Schultz",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-044",
+          "type": "primary"
+        },
+        {
+          "people_id": 25350,
+          "name": "Jose Solache",
+          "first_name": "Jose",
+          "last_name": "Solache",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-062",
+          "type": "primary"
+        },
+        {
+          "people_id": 25333,
+          "name": "Leticia Castillo",
+          "first_name": "Leticia",
+          "last_name": "Castillo",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-058",
+          "type": "cosponsor"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1682676",
@@ -235848,39 +236212,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2478"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 25348,
-          "name": "Nick Schultz",
-          "first_name": "Nick",
-          "last_name": "Schultz",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-044",
-          "type": "primary"
-        },
-        {
-          "people_id": 25350,
-          "name": "Jose Solache",
-          "first_name": "Jose",
-          "last_name": "Solache",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-062",
-          "type": "primary"
-        },
-        {
-          "people_id": 25333,
-          "name": "Leticia Castillo",
-          "first_name": "Leticia",
-          "last_name": "Castillo",
-          "party": "R",
-          "role": "Rep",
-          "district": "HD-058",
-          "type": "cosponsor"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB1103",
@@ -254172,6 +254504,27 @@
       "legiscan_bill_id": 1956501
     },
     {
+      "billId": "OH-HB707",
+      "state": "OH",
+      "billNumber": "HB707",
+      "title": "Enact Kei'Mani's Law",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Enact Kei'Mani's Law",
+      "sponsor": "",
+      "lastAction": "Referred to committee: Children and Human Services",
+      "lastActionDate": "2026-02-25",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/HB707/2025",
+      "legiscan_bill_id": 2119992
+    },
+    {
       "billId": "OH-SB315",
       "state": "OH",
       "billNumber": "SB315",
@@ -254486,27 +254839,6 @@
         }
       ],
       "session_id": 2190
-    },
-    {
-      "billId": "OH-HB707",
-      "state": "OH",
-      "billNumber": "HB707",
-      "title": "Enact Kei'Mani's Law",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Enact Kei'Mani's Law",
-      "sponsor": "",
-      "lastAction": "Referred to committee: Children and Human Services",
-      "lastActionDate": "2026-02-25",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/HB707/2025",
-      "legiscan_bill_id": 2119992
     },
     {
       "billId": "OH-HB692",

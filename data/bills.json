@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:05:12.040396+00:00",
+  "generated_at": "2026-09-18T10:40:26.362754+00:00",
   "source": "govinfo+legiscan",
   "total": 9540,
   "bills": [
@@ -44557,6 +44557,40 @@
       }
     },
     {
+      "billId": "NJ-A5156",
+      "state": "NJ",
+      "billNumber": "A5156",
+      "title": "Establishes registration and operational requirements for retail health clinics and urgent care facilities.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "vaccine-mandate",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishes registration and operational requirements for retail health clinics and urgent care facilities.",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Health Infrastructure Committee",
+      "lastActionDate": "2026-05-28",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A5156/2026",
+      "legiscan_bill_id": 2152095,
+      "verification": {
+        "provider": "claude-sonnet via Claude Code",
+        "model": "claude-sonnet",
+        "llm_classification": "monitor",
+        "confidence": 0.85,
+        "evidence": [
+          "registration and operational requirements for retail health clinics and urgent care facilities"
+        ],
+        "explanation": "Facility-licensing and regulatory bill unrelated to vaccination policy.",
+        "verified_at": "2026-08-22T00:39:28.270414+00:00",
+        "status": "monitor_confirmed",
+        "second_pass": ""
+      }
+    },
+    {
       "billId": "NJ-S86",
       "state": "NJ",
       "billNumber": "S86",
@@ -44631,40 +44665,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A1122/2026",
       "legiscan_bill_id": 2097578
-    },
-    {
-      "billId": "NJ-A5156",
-      "state": "NJ",
-      "billNumber": "A5156",
-      "title": "Establishes registration and operational requirements for retail health clinics and urgent care facilities.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "vaccine-mandate",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Establishes registration and operational requirements for retail health clinics and urgent care facilities.",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Health Infrastructure Committee",
-      "lastActionDate": "2026-05-28",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/A5156/2026",
-      "legiscan_bill_id": 2152095,
-      "verification": {
-        "provider": "claude-sonnet via Claude Code",
-        "model": "claude-sonnet",
-        "llm_classification": "monitor",
-        "confidence": 0.85,
-        "evidence": [
-          "registration and operational requirements for retail health clinics and urgent care facilities"
-        ],
-        "explanation": "Facility-licensing and regulatory bill unrelated to vaccination policy.",
-        "verified_at": "2026-08-22T00:39:28.270414+00:00",
-        "status": "monitor_confirmed",
-        "second_pass": ""
-      }
     },
     {
       "billId": "NJ-S2279",
@@ -95269,27 +95269,6 @@
       "legiscan_bill_id": 2076137
     },
     {
-      "billId": "NJ-A507",
-      "state": "NJ",
-      "billNumber": "A507",
-      "title": "Establishes civil immunity for damages arising out of birth injury or congenital defect for physicians providing prenatal care under certain circumstances.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Establishes civil immunity for damages arising out of birth injury or congenital defect for physicians providing prenatal care under certain circumstances.",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Health Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/A507/2026",
-      "legiscan_bill_id": 2098239
-    },
-    {
       "billId": "NJ-A4765",
       "state": "NJ",
       "billNumber": "A4765",
@@ -95309,6 +95288,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A4765/2026",
       "legiscan_bill_id": 2134390
+    },
+    {
+      "billId": "NJ-A507",
+      "state": "NJ",
+      "billNumber": "A507",
+      "title": "Establishes civil immunity for damages arising out of birth injury or congenital defect for physicians providing prenatal care under certain circumstances.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishes civil immunity for damages arising out of birth injury or congenital defect for physicians providing prenatal care under certain circumstances.",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Health Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A507/2026",
+      "legiscan_bill_id": 2098239
     },
     {
       "billId": "NJ-A3255",
@@ -100962,6 +100962,40 @@
       "legiscan_bill_id": 2011594
     },
     {
+      "billId": "OH-SB469",
+      "state": "OH",
+      "billNumber": "SB469",
+      "title": "Regulate use of automated license plate recognition systems",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Regulate use of automated license plate recognition systems",
+      "sponsor": "Alessandro Cutrona (R)",
+      "lastAction": "Introduced",
+      "lastActionDate": "2026-09-14",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/SB469/2025",
+      "legiscan_bill_id": 2158120,
+      "session_id": 2190,
+      "sponsorships": [
+        {
+          "people_id": 21650,
+          "name": "Alessandro Cutrona",
+          "first_name": "Alessandro",
+          "last_name": "Cutrona",
+          "party": "R",
+          "role": "Sen",
+          "district": "SD-033",
+          "type": "primary"
+        }
+      ]
+    },
+    {
       "billId": "OH-HB52",
       "state": "OH",
       "billNumber": "HB52",
@@ -101036,27 +101070,6 @@
         "status": "monitor_confirmed",
         "second_pass": ""
       }
-    },
-    {
-      "billId": "OH-HB758",
-      "state": "OH",
-      "billNumber": "HB758",
-      "title": "Regards SUDEP, epilepsy license designation, disability database",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Regards SUDEP, epilepsy license designation, disability database",
-      "sponsor": "",
-      "lastAction": "Introduced",
-      "lastActionDate": "2026-06-11",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/HB758/2025",
-      "legiscan_bill_id": 2132386
     },
     {
       "billId": "OK-HB4425",
@@ -125000,7 +125013,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/HB6330/2025",
       "legiscan_bill_id": 2158263,
-      "session_id": 2183,
       "sponsorships": [
         {
           "people_id": 11180,
@@ -125122,7 +125134,8 @@
           "district": "HD-062",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "session_id": 2183
     },
     {
       "billId": "MI-SB0626",
@@ -128801,27 +128814,6 @@
       "legiscan_bill_id": 2076566
     },
     {
-      "billId": "NJ-AJR18",
-      "state": "NJ",
-      "billNumber": "AJR18",
-      "title": "Urges US Department of Veterans Affairs to study use of hyperbaric oxygen therapy for veterans.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Urges US Department of Veterans Affairs to study use of hyperbaric oxygen therapy for veterans.",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Military and Veterans' Affairs Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/AJR18/2026",
-      "legiscan_bill_id": 2097162
-    },
-    {
       "billId": "NJ-A4349",
       "state": "NJ",
       "billNumber": "A4349",
@@ -128854,6 +128846,27 @@
         "status": "monitor_confirmed",
         "second_pass": ""
       }
+    },
+    {
+      "billId": "NJ-AJR18",
+      "state": "NJ",
+      "billNumber": "AJR18",
+      "title": "Urges US Department of Veterans Affairs to study use of hyperbaric oxygen therapy for veterans.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Urges US Department of Veterans Affairs to study use of hyperbaric oxygen therapy for veterans.",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Military and Veterans' Affairs Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/AJR18/2026",
+      "legiscan_bill_id": 2097162
     },
     {
       "billId": "NJ-S2257",
@@ -146142,7 +146155,7 @@
       "state": "CA",
       "billNumber": "AB1795",
       "title": "Smoke Damage Recovery Act.",
-      "status": "Passed Both Chambers",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -146157,6 +146170,18 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB1795/2025",
       "legiscan_bill_id": 2113688,
+      "sponsorships": [
+        {
+          "people_id": 16288,
+          "name": "Mike Gipson",
+          "first_name": "Mike",
+          "last_name": "Gipson",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-065",
+          "type": "primary"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1683701",
@@ -146299,19 +146324,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1795"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 16288,
-          "name": "Mike Gipson",
-          "first_name": "Mike",
-          "last_name": "Gipson",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-065",
-          "type": "primary"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB645",
@@ -161075,7 +161088,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/HB6329/2025",
       "legiscan_bill_id": 2158266,
-      "session_id": 2183,
       "sponsorships": [
         {
           "people_id": 24362,
@@ -161187,7 +161199,8 @@
           "district": "HD-062",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "session_id": 2183
     },
     {
       "billId": "MI-HB4726",
@@ -168656,6 +168669,40 @@
       }
     },
     {
+      "billId": "NJ-A4187",
+      "state": "NJ",
+      "billNumber": "A4187",
+      "title": "Requires licensed providers of long-term skilled nursing care to establish permanent morgue for use in non-emergent periods and supplemental morgue space for use in public emergencies.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "vaccine-mandate",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Requires licensed providers of long-term skilled nursing care to establish permanent morgue for use in non-emergent periods and supplemental morgue space for use in public emergencies.",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Health Infrastructure Committee",
+      "lastActionDate": "2026-02-19",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A4187/2026",
+      "legiscan_bill_id": 2115861,
+      "verification": {
+        "provider": "claude-sonnet via Claude Code",
+        "model": "claude-sonnet",
+        "llm_classification": "monitor",
+        "confidence": 0.95,
+        "evidence": [
+          "establish permanent morgue for use in non-emergent periods and supplemental morgue space"
+        ],
+        "explanation": "Nursing facility morgue-space requirement, unrelated to vaccines.",
+        "verified_at": "2026-08-22T00:39:28.270414+00:00",
+        "status": "monitor_confirmed",
+        "second_pass": ""
+      }
+    },
+    {
       "billId": "NJ-S119",
       "state": "NJ",
       "billNumber": "S119",
@@ -168696,40 +168743,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A672/2026",
       "legiscan_bill_id": 2097754
-    },
-    {
-      "billId": "NJ-A4187",
-      "state": "NJ",
-      "billNumber": "A4187",
-      "title": "Requires licensed providers of long-term skilled nursing care to establish permanent morgue for use in non-emergent periods and supplemental morgue space for use in public emergencies.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "vaccine-mandate",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Requires licensed providers of long-term skilled nursing care to establish permanent morgue for use in non-emergent periods and supplemental morgue space for use in public emergencies.",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Health Infrastructure Committee",
-      "lastActionDate": "2026-02-19",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/A4187/2026",
-      "legiscan_bill_id": 2115861,
-      "verification": {
-        "provider": "claude-sonnet via Claude Code",
-        "model": "claude-sonnet",
-        "llm_classification": "monitor",
-        "confidence": 0.95,
-        "evidence": [
-          "establish permanent morgue for use in non-emergent periods and supplemental morgue space"
-        ],
-        "explanation": "Nursing facility morgue-space requirement, unrelated to vaccines.",
-        "verified_at": "2026-08-22T00:39:28.270414+00:00",
-        "status": "monitor_confirmed",
-        "second_pass": ""
-      }
     },
     {
       "billId": "NJ-S106",
@@ -173726,7 +173739,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/OH/bill/HB1007/2025",
       "legiscan_bill_id": 2158254,
-      "session_id": 2190,
       "sponsorships": [
         {
           "people_id": 26113,
@@ -173738,7 +173750,8 @@
           "district": "HD-098",
           "type": "primary"
         }
-      ]
+      ],
+      "session_id": 2190
     },
     {
       "billId": "OH-SB420",
@@ -173991,27 +174004,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/OH/bill/SB438/2025",
       "legiscan_bill_id": 2149909
-    },
-    {
-      "billId": "OH-HB224",
-      "state": "OH",
-      "billNumber": "HB224",
-      "title": "Regulate the practice of certified and licensed midwives",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Regulate the practice of certified and licensed midwives",
-      "sponsor": "",
-      "lastAction": "Referred to committee: Health",
-      "lastActionDate": "2025-04-09",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/HB224/2025",
-      "legiscan_bill_id": 2021229
     },
     {
       "billId": "OK-SB206",
@@ -187765,27 +187757,6 @@
       "legiscan_bill_id": 2143310
     },
     {
-      "billId": "DC-B26-0307",
-      "state": "DC",
-      "billNumber": "B26-0307",
-      "title": "Open Meetings Clarification Congressional Review Emergency Amendment Act of 2025",
-      "status": "Signed into Law",
-      "isActive": "No",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Open Meetings Clarification Congressional Review Emergency Amendment Act of 2025",
-      "sponsor": "",
-      "lastAction": "Enacted without Mayor's Signature with Act Number A26-0110, Expires on Oct 20, 2025",
-      "lastActionDate": "2025-07-22",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/DC/bill/B26-0307/2025",
-      "legiscan_bill_id": 2038691
-    },
-    {
       "billId": "DC-PR26-0640",
       "state": "DC",
       "billNumber": "PR26-0640",
@@ -187805,6 +187776,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/PR26-0640/2025",
       "legiscan_bill_id": 2144324
+    },
+    {
+      "billId": "DC-B26-0307",
+      "state": "DC",
+      "billNumber": "B26-0307",
+      "title": "Open Meetings Clarification Congressional Review Emergency Amendment Act of 2025",
+      "status": "Signed into Law",
+      "isActive": "No",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Open Meetings Clarification Congressional Review Emergency Amendment Act of 2025",
+      "sponsor": "",
+      "lastAction": "Enacted without Mayor's Signature with Act Number A26-0110, Expires on Oct 20, 2025",
+      "lastActionDate": "2025-07-22",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/DC/bill/B26-0307/2025",
+      "legiscan_bill_id": 2038691
     },
     {
       "billId": "DC-B26-0632",
@@ -189271,7 +189263,7 @@
       "state": "CA",
       "billNumber": "SB1447",
       "title": "Health omnibus.",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -206268,6 +206260,27 @@
       "legiscan_bill_id": 1945498
     },
     {
+      "billId": "OH-HB224",
+      "state": "OH",
+      "billNumber": "HB224",
+      "title": "Regulate the practice of certified and licensed midwives",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Regulate the practice of certified and licensed midwives",
+      "sponsor": "",
+      "lastAction": "Referred to committee: Health",
+      "lastActionDate": "2025-04-09",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/HB224/2025",
+      "legiscan_bill_id": 2021229
+    },
+    {
       "billId": "OH-HB1004",
       "state": "OH",
       "billNumber": "HB1004",
@@ -215925,7 +215938,7 @@
       "state": "CA",
       "billNumber": "AB904",
       "title": "Carpet recycling.",
-      "status": "Introduced",
+      "status": "Passed One Chamber",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -215933,13 +215946,154 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Carpet recycling.",
-      "sponsor": "",
+      "sponsor": "Cecilia Aguiar-Curry (D)",
       "lastAction": "Enrolled and presented to the Governor at 1:30 p.m.",
       "lastActionDate": "2026-09-14",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB904/2025",
-      "legiscan_bill_id": 1976491
+      "legiscan_bill_id": 1976491,
+      "rollCalls": [
+        {
+          "key": "LS-1562971",
+          "legiscan_roll_call_id": 1562971,
+          "date": "2025-04-29",
+          "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+          "chamber": "A",
+          "yea": 5,
+          "nay": 1,
+          "nv": 0,
+          "absent": 1,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
+        },
+        {
+          "key": "LS-1571578",
+          "legiscan_roll_call_id": 1571578,
+          "date": "2025-05-14",
+          "desc": "Do pass",
+          "chamber": "A",
+          "yea": 12,
+          "nay": 2,
+          "nv": 0,
+          "absent": 1,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
+        },
+        {
+          "key": "LS-1573492",
+          "legiscan_roll_call_id": 1573492,
+          "date": "2025-05-19",
+          "desc": "AB 904 Aguiar-Curry Assembly Third Reading",
+          "chamber": "A",
+          "yea": 62,
+          "nay": 4,
+          "nv": 0,
+          "absent": 13,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
+        },
+        {
+          "key": "LS-1591146",
+          "legiscan_roll_call_id": 1591146,
+          "date": "2025-06-16",
+          "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+          "chamber": "Senate",
+          "yea": 4,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 5,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
+        },
+        {
+          "key": "LS-1713797",
+          "legiscan_roll_call_id": 1713797,
+          "date": "2026-07-01",
+          "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
+        },
+        {
+          "key": "LS-1716380",
+          "legiscan_roll_call_id": 1716380,
+          "date": "2026-08-03",
+          "desc": "Placed on suspense file",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
+        },
+        {
+          "key": "LS-1724637",
+          "legiscan_roll_call_id": 1724637,
+          "date": "2026-08-13",
+          "desc": "Do pass as amended",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
+        },
+        {
+          "key": "LS-1726920",
+          "legiscan_roll_call_id": 1726920,
+          "date": "2026-08-31",
+          "desc": "Assembly 3rd Reading AB904 Aguiar-Curry By Cabaldon",
+          "chamber": "Senate",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
+        },
+        {
+          "key": "LS-1726921",
+          "legiscan_roll_call_id": 1726921,
+          "date": "2026-08-31",
+          "desc": "AB 904 Aguiar-Curry Concurrence in Senate Amendments",
+          "chamber": "A",
+          "yea": 72,
+          "nay": 2,
+          "nv": 0,
+          "absent": 5,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 18067,
+          "name": "Cecilia Aguiar-Curry",
+          "first_name": "Cecilia",
+          "last_name": "Aguiar-Curry",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-004",
+          "type": "primary"
+        }
+      ]
     },
     {
       "billId": "CA-AB8",
@@ -220747,7 +220901,7 @@
       "state": "CA",
       "billNumber": "SB1445",
       "title": "Healing arts.",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -251607,27 +251761,6 @@
       "legiscan_bill_id": 2154526
     },
     {
-      "billId": "NJ-A5337",
-      "state": "NJ",
-      "billNumber": "A5337",
-      "title": "Makes various changes to SHBP governance and administration.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Makes various changes to SHBP governance and administration.",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Budget Committee",
-      "lastActionDate": "2026-06-23",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/A5337/2026",
-      "legiscan_bill_id": 2154587
-    },
-    {
       "billId": "NJ-A1400",
       "state": "NJ",
       "billNumber": "A1400",
@@ -251647,6 +251780,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A1400/2026",
       "legiscan_bill_id": 2095880
+    },
+    {
+      "billId": "NJ-A5337",
+      "state": "NJ",
+      "billNumber": "A5337",
+      "title": "Makes various changes to SHBP governance and administration.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Makes various changes to SHBP governance and administration.",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Budget Committee",
+      "lastActionDate": "2026-06-23",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A5337/2026",
+      "legiscan_bill_id": 2154587
     },
     {
       "billId": "NM-HM52",
@@ -263838,27 +263992,6 @@
       "legiscan_bill_id": 2155708
     },
     {
-      "billId": "DC-B26-0025",
-      "state": "DC",
-      "billNumber": "B26-0025",
-      "title": "Certificate of Need Improvement Amendment Act of 2025",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Certificate of Need Improvement Amendment Act of 2025",
-      "sponsor": "",
-      "lastAction": "Law L26-0007, Effective from Jun 10, 2025 Published in DC Register Vol 72 and Page 006762",
-      "lastActionDate": "2025-06-20",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/DC/bill/B26-0025/2025",
-      "legiscan_bill_id": 1905155
-    },
-    {
       "billId": "DC-B26-0104",
       "state": "DC",
       "billNumber": "B26-0104",
@@ -263878,6 +264011,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/B26-0104/2025",
       "legiscan_bill_id": 1952420
+    },
+    {
+      "billId": "DC-B26-0025",
+      "state": "DC",
+      "billNumber": "B26-0025",
+      "title": "Certificate of Need Improvement Amendment Act of 2025",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Certificate of Need Improvement Amendment Act of 2025",
+      "sponsor": "",
+      "lastAction": "Law L26-0007, Effective from Jun 10, 2025 Published in DC Register Vol 72 and Page 006762",
+      "lastActionDate": "2025-06-20",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/DC/bill/B26-0025/2025",
+      "legiscan_bill_id": 1905155
     },
     {
       "billId": "DC-B26-0109",

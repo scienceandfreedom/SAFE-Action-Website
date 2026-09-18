@@ -49,3 +49,4 @@ design-overhauls.html
 # Local design previews (dev server only, never deploy)
 command-center-preview.html
 preview-*.html
+*.egg-info/

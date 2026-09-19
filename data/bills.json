@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:40:26.362754+00:00",
+  "generated_at": "2026-09-19T10:24:48.569935+00:00",
   "source": "govinfo+legiscan",
   "total": 9540,
   "bills": [
@@ -44591,6 +44591,40 @@
       }
     },
     {
+      "billId": "NJ-S2279",
+      "state": "NJ",
+      "billNumber": "S2279",
+      "title": "Establishes registration and operational requirements for retail health clinics and urgent care facilities.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "vaccine-mandate",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishes registration and operational requirements for retail health clinics and urgent care facilities.",
+      "sponsor": "",
+      "lastAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/S2279/2026",
+      "legiscan_bill_id": 2076830,
+      "verification": {
+        "provider": "claude-sonnet via Claude Code",
+        "model": "claude-sonnet",
+        "llm_classification": "monitor",
+        "confidence": 0.85,
+        "evidence": [
+          "registration and operational requirements for retail health clinics and urgent care facilities"
+        ],
+        "explanation": "Administrative clinic-licensing bill, not vaccine or fluoridation policy.",
+        "verified_at": "2026-08-22T00:39:28.270414+00:00",
+        "status": "monitor_confirmed",
+        "second_pass": ""
+      }
+    },
+    {
       "billId": "NJ-S86",
       "state": "NJ",
       "billNumber": "S86",
@@ -44665,40 +44699,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A1122/2026",
       "legiscan_bill_id": 2097578
-    },
-    {
-      "billId": "NJ-S2279",
-      "state": "NJ",
-      "billNumber": "S2279",
-      "title": "Establishes registration and operational requirements for retail health clinics and urgent care facilities.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "vaccine-mandate",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Establishes registration and operational requirements for retail health clinics and urgent care facilities.",
-      "sponsor": "",
-      "lastAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/S2279/2026",
-      "legiscan_bill_id": 2076830,
-      "verification": {
-        "provider": "claude-sonnet via Claude Code",
-        "model": "claude-sonnet",
-        "llm_classification": "monitor",
-        "confidence": 0.85,
-        "evidence": [
-          "registration and operational requirements for retail health clinics and urgent care facilities"
-        ],
-        "explanation": "Administrative clinic-licensing bill, not vaccine or fluoridation policy.",
-        "verified_at": "2026-08-22T00:39:28.270414+00:00",
-        "status": "monitor_confirmed",
-        "second_pass": ""
-      }
     },
     {
       "billId": "NJ-S384",
@@ -100981,7 +100981,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/OH/bill/SB469/2025",
       "legiscan_bill_id": 2158120,
-      "session_id": 2190,
       "sponsorships": [
         {
           "people_id": 21650,
@@ -100993,7 +100992,8 @@
           "district": "SD-033",
           "type": "primary"
         }
-      ]
+      ],
+      "session_id": 2190
     },
     {
       "billId": "OH-HB52",
@@ -145841,7 +145841,7 @@
       "state": "CA",
       "billNumber": "SB16",
       "title": "Mental health: involuntary commitment.",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -145849,13 +145849,164 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Mental health: involuntary commitment.",
-      "sponsor": "",
-      "lastAction": "Enrolled and presented to the Governor at 2 p.m.",
-      "lastActionDate": "2026-09-09",
+      "sponsor": "Catherine Blakespear (D)",
+      "lastAction": "Chaptered by Secretary of State. Chapter 314, Statutes of 2026.",
+      "lastActionDate": "2026-09-18",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/SB16/2025",
-      "legiscan_bill_id": 1893428
+      "legiscan_bill_id": 1893428,
+      "rollCalls": [
+        {
+          "key": "LS-1556156",
+          "legiscan_roll_call_id": 1556156,
+          "date": "2025-04-22",
+          "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Health]",
+          "chamber": "Senate",
+          "yea": 10,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 11,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB16"
+        },
+        {
+          "key": "LS-1569774",
+          "legiscan_roll_call_id": 1569774,
+          "date": "2025-05-12",
+          "desc": "Placed on suspense file",
+          "chamber": "Senate",
+          "yea": 7,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB16"
+        },
+        {
+          "key": "LS-1577584",
+          "legiscan_roll_call_id": 1577584,
+          "date": "2025-05-23",
+          "desc": "Do pass",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 7,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB16"
+        },
+        {
+          "key": "LS-1584241",
+          "legiscan_roll_call_id": 1584241,
+          "date": "2025-06-03",
+          "desc": "Senate 3rd Reading SB16 Blakespear",
+          "chamber": "Senate",
+          "yea": 29,
+          "nay": 2,
+          "nv": 0,
+          "absent": 9,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB16"
+        },
+        {
+          "key": "LS-1711246",
+          "legiscan_roll_call_id": 1711246,
+          "date": "2026-06-23",
+          "desc": "Do pass as amended and be re-referred to the Committee on [Judiciary]",
+          "chamber": "A",
+          "yea": 14,
+          "nay": 0,
+          "nv": 0,
+          "absent": 2,
+          "total": 16,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB16"
+        },
+        {
+          "key": "LS-1713019",
+          "legiscan_roll_call_id": 1713019,
+          "date": "2026-06-30",
+          "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+          "chamber": "A",
+          "yea": 12,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 12,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB16"
+        },
+        {
+          "key": "LS-1725077",
+          "legiscan_roll_call_id": 1725077,
+          "date": "2026-08-13",
+          "desc": "Do pass",
+          "chamber": "A",
+          "yea": 14,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 15,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB16"
+        },
+        {
+          "key": "LS-1726942",
+          "legiscan_roll_call_id": 1726942,
+          "date": "2026-08-31",
+          "desc": "W/O REF. TO FILE SB16 Blakespear",
+          "chamber": "Senate",
+          "yea": 30,
+          "nay": 1,
+          "nv": 0,
+          "absent": 9,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB16"
+        },
+        {
+          "key": "LS-1726943",
+          "legiscan_roll_call_id": 1726943,
+          "date": "2026-08-31",
+          "desc": "SB 16 Blakespear Senate Third Reading By Krell",
+          "chamber": "A",
+          "yea": 72,
+          "nay": 0,
+          "nv": 0,
+          "absent": 7,
+          "total": 79,
+          "passed": true,
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB16"
+        }
+      ],
+      "session_id": 2172,
+      "sponsorships": [
+        {
+          "people_id": 23227,
+          "name": "Catherine Blakespear",
+          "first_name": "Catherine",
+          "last_name": "Blakespear",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-038",
+          "type": "primary"
+        },
+        {
+          "people_id": 23206,
+          "name": "Diane Dixon",
+          "first_name": "Diane",
+          "last_name": "Dixon",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-072",
+          "type": "cosponsor"
+        }
+      ]
     },
     {
       "billId": "CA-AB100",
@@ -173775,27 +173926,6 @@
       "legiscan_bill_id": 2142019
     },
     {
-      "billId": "OH-SB236",
-      "state": "OH",
-      "billNumber": "SB236",
-      "title": "Enact the Suicide Self-Defense Act",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Enact the Suicide Self-Defense Act",
-      "sponsor": "",
-      "lastAction": "Referred to committee: Armed Services, Veterans Affairs and Public Safety",
-      "lastActionDate": "2025-10-01",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/SB236/2025",
-      "legiscan_bill_id": 2041077
-    },
-    {
       "billId": "OH-SB158",
       "state": "OH",
       "billNumber": "SB158",
@@ -173815,6 +173945,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/OH/bill/SB158/2025",
       "legiscan_bill_id": 2018965
+    },
+    {
+      "billId": "OH-SB236",
+      "state": "OH",
+      "billNumber": "SB236",
+      "title": "Enact the Suicide Self-Defense Act",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Enact the Suicide Self-Defense Act",
+      "sponsor": "",
+      "lastAction": "Referred to committee: Armed Services, Veterans Affairs and Public Safety",
+      "lastActionDate": "2025-10-01",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/SB236/2025",
+      "legiscan_bill_id": 2041077
     },
     {
       "billId": "OH-HB687",
@@ -215938,7 +216089,7 @@
       "state": "CA",
       "billNumber": "AB904",
       "title": "Carpet recycling.",
-      "status": "Passed One Chamber",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -215953,6 +216104,18 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB904/2025",
       "legiscan_bill_id": 1976491,
+      "sponsorships": [
+        {
+          "people_id": 18067,
+          "name": "Cecilia Aguiar-Curry",
+          "first_name": "Cecilia",
+          "last_name": "Aguiar-Curry",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-004",
+          "type": "primary"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1562971",
@@ -216081,19 +216244,7 @@
           "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB904"
         }
       ],
-      "session_id": 2172,
-      "sponsorships": [
-        {
-          "people_id": 18067,
-          "name": "Cecilia Aguiar-Curry",
-          "first_name": "Cecilia",
-          "last_name": "Aguiar-Curry",
-          "party": "D",
-          "role": "Rep",
-          "district": "HD-004",
-          "type": "primary"
-        }
-      ]
+      "session_id": 2172
     },
     {
       "billId": "CA-AB8",
@@ -226279,7 +226430,7 @@
       "state": "CA",
       "billNumber": "SB133",
       "title": "Education finance: education omnibus trailer bill.",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -226288,8 +226439,8 @@
       "impact": "Medium",
       "summary": "Education finance: education omnibus trailer bill.",
       "sponsor": "",
-      "lastAction": "Enrolled and presented to the Governor at 4 p.m.",
-      "lastActionDate": "2026-09-10",
+      "lastAction": "Chaptered by Secretary of State. Chapter 250, Statutes of 2026.",
+      "lastActionDate": "2026-09-18",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/SB133/2025",
@@ -251664,27 +251815,6 @@
       }
     },
     {
-      "billId": "NJ-S2771",
-      "state": "NJ",
-      "billNumber": "S2771",
-      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "sponsor": "",
-      "lastAction": "Introduced in the Senate, Referred to Senate Judiciary Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/S2771/2026",
-      "legiscan_bill_id": 2075119
-    },
-    {
       "billId": "NJ-A1896",
       "state": "NJ",
       "billNumber": "A1896",
@@ -251704,6 +251834,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A1896/2026",
       "legiscan_bill_id": 2099218
+    },
+    {
+      "billId": "NJ-S2771",
+      "state": "NJ",
+      "billNumber": "S2771",
+      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "sponsor": "",
+      "lastAction": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/S2771/2026",
+      "legiscan_bill_id": 2075119
     },
     {
       "billId": "NJ-S3601",
@@ -251761,27 +251912,6 @@
       "legiscan_bill_id": 2154526
     },
     {
-      "billId": "NJ-A1400",
-      "state": "NJ",
-      "billNumber": "A1400",
-      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Oversight, Reform and Federal Relations Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/A1400/2026",
-      "legiscan_bill_id": 2095880
-    },
-    {
       "billId": "NJ-A5337",
       "state": "NJ",
       "billNumber": "A5337",
@@ -251801,6 +251931,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A5337/2026",
       "legiscan_bill_id": 2154587
+    },
+    {
+      "billId": "NJ-A1400",
+      "state": "NJ",
+      "billNumber": "A1400",
+      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Oversight, Reform and Federal Relations Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A1400/2026",
+      "legiscan_bill_id": 2095880
     },
     {
       "billId": "NM-HM52",

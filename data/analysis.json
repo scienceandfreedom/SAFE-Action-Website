@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-22T11:03:29.010101+00:00",
-  "total_legislators": 7888,
+  "generated_at": "2026-09-24T11:12:29.307244+00:00",
+  "total_legislators": 7883,
   "by_category": {
     "champion": 0,
     "likely-win": 0,
     "fence-sitter": 0,
     "unlikely": 0,
     "opposed": 0,
-    "unscored": 7888
+    "unscored": 7883
   },
   "top_outreach_targets": [],
   "state_summaries": {
@@ -30,7 +30,7 @@
       "opposed": 0
     },
     "RI": {
-      "total": 117,
+      "total": 116,
       "fence_sitters": 0,
       "champions": 0,
       "opposed": 0
@@ -42,7 +42,7 @@
       "opposed": 0
     },
     "MS": {
-      "total": 178,
+      "total": 177,
       "fence_sitters": 0,
       "champions": 0,
       "opposed": 0
@@ -138,7 +138,7 @@
       "opposed": 0
     },
     "TN": {
-      "total": 143,
+      "total": 142,
       "fence_sitters": 0,
       "champions": 0,
       "opposed": 0
@@ -156,13 +156,13 @@
       "opposed": 0
     },
     "CA": {
-      "total": 173,
+      "total": 172,
       "fence_sitters": 0,
       "champions": 0,
       "opposed": 0
     },
     "WV": {
-      "total": 137,
+      "total": 138,
       "fence_sitters": 0,
       "champions": 0,
       "opposed": 0
@@ -180,7 +180,7 @@
       "opposed": 0
     },
     "MO": {
-      "total": 201,
+      "total": 198,
       "fence_sitters": 0,
       "champions": 0,
       "opposed": 0
@@ -198,7 +198,7 @@
       "opposed": 0
     },
     "NC": {
-      "total": 185,
+      "total": 186,
       "fence_sitters": 0,
       "champions": 0,
       "opposed": 0

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T11:03:29.010101+00:00",
-  "count": 525,
+  "generated_at": "2026-09-24T11:12:29.307244+00:00",
+  "count": 529,
   "unmatched": [
     {
       "billId": "US-119-HR1111",
@@ -57,6 +57,14 @@
       "district": "SD-004",
       "name": "Charles Creighton",
       "role": "cosponsor"
+    },
+    {
+      "billId": "CA-SB895",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "name": "Aisha Wahab",
+      "role": "primary"
     },
     {
       "billId": "MD-HB637",
@@ -157,10 +165,26 @@
     {
       "billId": "CA-SB747",
       "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "name": "Aisha Wahab",
+      "role": "primary"
+    },
+    {
+      "billId": "CA-SB747",
+      "state": "CA",
       "chamber": "House",
       "district": "HD-077",
       "name": "Tasha Boerner Horvath",
       "role": "cosponsor"
+    },
+    {
+      "billId": "CA-SB1004",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "name": "Aisha Wahab",
+      "role": "primary"
     },
     {
       "billId": "ME-LD727",
@@ -184,6 +208,14 @@
       "chamber": "House",
       "district": "HD-012",
       "name": "Stephenie Scialabba",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "CA-AB2017",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "name": "Aisha Wahab",
       "role": "cosponsor"
     },
     {
@@ -1499,6 +1531,16 @@
       "state": "NH",
       "chamber": "House",
       "district": "HD-30-ROC",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1707865",
+      "billId": "RI-H7625",
+      "name": "Julie Casimiro",
+      "state": "RI",
+      "chamber": "House",
+      "district": "HD-031",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -3733,6 +3775,16 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1707836",
+      "billId": "RI-S2379",
+      "name": "Julie Casimiro",
+      "state": "RI",
+      "chamber": "House",
+      "district": "HD-031",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1675666",
       "billId": "ME-LD2071",
       "name": "Tiffany Roberts-Lovell",
@@ -3853,6 +3905,16 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1568677",
+      "billId": "CA-SB602",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1598847",
       "billId": "CA-SB602",
       "name": "James Gallagher",
@@ -3869,6 +3931,16 @@
       "state": "CA",
       "chamber": "House",
       "district": "HD-077",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1600042",
+      "billId": "CA-SB602",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -4209,6 +4281,16 @@
       "state": "TN",
       "chamber": "House",
       "district": "HD-075",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1518929",
+      "billId": "TN-HJR0098",
+      "name": "Joe Towns",
+      "state": "TN",
+      "chamber": "House",
+      "district": "HD-084",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -5083,122 +5165,72 @@
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1726009",
+      "rollCallKey": "LS-1562909",
       "billId": "CA-SB747",
-      "name": "Tasha Boerner Horvath",
+      "name": "Aisha Wahab",
       "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1726263",
-      "billId": "CA-SB1004",
-      "name": "Tasha Boerner Horvath",
+      "rollCallKey": "LS-1573491",
+      "billId": "CA-SB747",
+      "name": "Aisha Wahab",
       "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1725776",
-      "billId": "CA-SB1089",
-      "name": "Tasha Boerner Horvath",
+      "rollCallKey": "LS-1577305",
+      "billId": "CA-SB747",
+      "name": "Aisha Wahab",
       "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1702645",
-      "billId": "CA-AB1603",
-      "name": "James Gallagher",
+      "rollCallKey": "LS-1614008",
+      "billId": "CA-SB747",
+      "name": "Aisha Wahab",
       "state": "CA",
-      "chamber": "House",
-      "district": "HD-003",
-      "reason": "chamber mismatch",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1702645",
-      "billId": "CA-AB1603",
-      "name": "Tasha Boerner Horvath",
-      "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1726180",
-      "billId": "CA-AB1603",
-      "name": "Tasha Boerner Horvath",
+      "rollCallKey": "LS-1614823",
+      "billId": "CA-SB747",
+      "name": "Aisha Wahab",
       "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1702617",
-      "billId": "CA-AB2510",
-      "name": "James Gallagher",
+      "rollCallKey": "LS-1616347",
+      "billId": "CA-SB747",
+      "name": "Aisha Wahab",
       "state": "CA",
-      "chamber": "House",
-      "district": "HD-003",
-      "reason": "chamber mismatch",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1702617",
-      "billId": "CA-AB2510",
-      "name": "Tasha Boerner Horvath",
-      "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1726329",
-      "billId": "CA-AB2510",
-      "name": "Tasha Boerner Horvath",
+      "rollCallKey": "LS-1617886",
+      "billId": "CA-SB747",
+      "name": "Aisha Wahab",
       "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1701264",
-      "billId": "CA-AB1932",
-      "name": "James Gallagher",
-      "state": "CA",
-      "chamber": "House",
-      "district": "HD-003",
-      "reason": "chamber mismatch",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1701264",
-      "billId": "CA-AB1932",
-      "name": "Tasha Boerner Horvath",
-      "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1726319",
-      "billId": "CA-AB1932",
-      "name": "Tasha Boerner Horvath",
-      "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     }

@@ -271549,6 +271549,494 @@
           "vote": "Yea"
         }
       ]
+    },
+    "LS-1612947": {
+      "key": "LS-1612947",
+      "billId": "MI-SB0433",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-12-11",
+      "desc": "Reported Favorably With Substitute S-1 12/10/2025",
+      "yea": 5,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 5,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2025-SJ-12-11-111.htm",
+      "votes": [
+        {
+          "people_id": 11179,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20798,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22414,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1712139": {
+      "key": "LS-1712139",
+      "billId": "MI-SB0433",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-25",
+      "desc": "Senate Third Reading: Passed Roll Call # 157",
+      "yea": 35,
+      "nay": 0,
+      "nv": 0,
+      "absent": 3,
+      "total": 38,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-06-25-058.htm",
+      "votes": [
+        {
+          "people_id": 2854,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 10842,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 10852,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11179,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11183,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11184,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11185,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14517,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14529,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14536,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14538,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17091,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 17094,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17096,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18737,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18740,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18742,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18747,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18749,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18750,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19699,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20647,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20693,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20798,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21022,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21042,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22414,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22466,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24344,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 24346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26671,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696795": {
+      "key": "LS-1696795",
+      "billId": "AK-HJR28",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-11",
+      "desc": "House: Third Reading Final Passage",
+      "yea": 37,
+      "nay": 3,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR28&Page=02499#2499",
+      "votes": [
+        {
+          "people_id": 6065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11277,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11301,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14389,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17251,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18974,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19096,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20423,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21261,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21271,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21272,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21614,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22861,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22863,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22865,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23890,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24187,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24586,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24587,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24590,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24591,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24593,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24789,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24790,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24791,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24792,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24793,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26273,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26346,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26351,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26353,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26560,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26561,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1699365": {
+      "key": "LS-1699365",
+      "billId": "AK-HJR28",
+      "state": "AK",
+      "session_id": "2171",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-17",
+      "desc": "Senate: Third Reading - Final Passage",
+      "yea": 20,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 20,
+      "passed": true,
+      "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HJR28&Page=02724#2724",
+      "votes": [
+        {
+          "people_id": 6052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6085,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6089,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 6093,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16680,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17255,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18610,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20963,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22857,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24409,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24544,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24545,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26355,
+          "vote": "Yea"
+        }
+      ]
     }
   },
   "people": {
@@ -322144,7 +322632,7 @@
     "2252",
     "2253"
   ],
-  "generated_at": "2026-09-22T11:03:29.010101+00:00",
+  "generated_at": "2026-09-24T11:12:29.307244+00:00",
   "people_by_session": {
     "2236": {
       "4747": {

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T11:12:29.307244+00:00",
+  "generated_at": "2026-09-25T11:17:40.028742+00:00",
   "source": "govinfo+legiscan",
-  "total": 9545,
+  "total": 9544,
   "bills": [
     {
       "billId": "US-119-HR120",
@@ -3548,6 +3548,17 @@
           "party": "D",
           "state": "CA",
           "district": "36",
+          "chamber": "House",
+          "type": "cosponsor"
+        },
+        {
+          "bioguide_id": "M001241",
+          "name": "Rep. Min, Dave [D-CA-47]",
+          "first_name": "Dave",
+          "last_name": "Min",
+          "party": "D",
+          "state": "CA",
+          "district": "47",
           "chamber": "House",
           "type": "cosponsor"
         }
@@ -7605,6 +7616,28 @@
           "party": "R",
           "state": "TN",
           "district": "1",
+          "chamber": "House",
+          "type": "cosponsor"
+        },
+        {
+          "bioguide_id": "B001307",
+          "name": "Rep. Baird, James R. [R-IN-4]",
+          "first_name": "James",
+          "last_name": "Baird",
+          "party": "R",
+          "state": "IN",
+          "district": "4",
+          "chamber": "House",
+          "type": "cosponsor"
+        },
+        {
+          "bioguide_id": "G000565",
+          "name": "Rep. Gosar, Paul A. [R-AZ-9]",
+          "first_name": "Paul",
+          "last_name": "Gosar",
+          "party": "R",
+          "state": "AZ",
+          "district": "9",
           "chamber": "House",
           "type": "cosponsor"
         }
@@ -19076,7 +19109,7 @@
           "party": "D",
           "role": "Rep",
           "district": "HD-014",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 26108,
@@ -19086,7 +19119,7 @@
           "party": "D",
           "role": "Rep",
           "district": "HD-006",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 26109,
@@ -19096,7 +19129,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-077",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 10995,
@@ -19106,7 +19139,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-007",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 26140,
@@ -19116,7 +19149,7 @@
           "party": "D",
           "role": "Rep",
           "district": "HD-015",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 26113,
@@ -19126,7 +19159,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-098",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 24467,
@@ -19136,7 +19169,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-082",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 26115,
@@ -19146,7 +19179,7 @@
           "party": "D",
           "role": "Rep",
           "district": "HD-005",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 24469,
@@ -19156,7 +19189,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-056",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 20320,
@@ -19166,7 +19199,7 @@
           "party": "D",
           "role": "Rep",
           "district": "HD-053",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 26119,
@@ -19176,7 +19209,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-080",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 20307,
@@ -19186,7 +19219,7 @@
           "party": "D",
           "role": "Rep",
           "district": "HD-007",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 22781,
@@ -19196,7 +19229,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-062",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 26124,
@@ -19206,7 +19239,7 @@
           "party": "D",
           "role": "Rep",
           "district": "HD-010",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 16994,
@@ -19216,7 +19249,7 @@
           "party": "D",
           "role": "Rep",
           "district": "HD-025",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 26128,
@@ -19226,7 +19259,7 @@
           "party": "D",
           "role": "Rep",
           "district": "HD-038",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 24477,
@@ -19236,7 +19269,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-044",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 24478,
@@ -19246,7 +19279,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-074",
-          "type": "cosponsor"
+          "type": "primary"
         },
         {
           "people_id": 22786,
@@ -19256,7 +19289,7 @@
           "party": "R",
           "role": "Rep",
           "district": "HD-037",
-          "type": "cosponsor"
+          "type": "primary"
         }
       ],
       "rollCalls": [
@@ -64280,7 +64313,7 @@
       "impact": "Medium",
       "summary": "Vaccine Administration Protection Amendment Act of 2026",
       "sponsor": "Phil Mendelson (D)",
-      "lastAction": "Public Hearing",
+      "lastAction": "Public Hearing Held",
       "lastActionDate": "2026-09-24",
       "actionCount": 0,
       "stoppedWithAction": false,
@@ -66015,7 +66048,7 @@
       "summary": "Surrender Of Infants; Inf. Safety Device",
       "sponsor": "Robert Myers (R)",
       "lastAction": "EFFECTIVE DATE(S) OF LAW 9/10/26",
-      "lastActionDate": "2026-09-09",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/SB9/2025",
@@ -87970,7 +88003,7 @@
       "state": "MI",
       "billNumber": "SB1185",
       "title": "Education: other; opportunities for school enrollment and transportation for children and youth experiencing homelessness; provide for. Amends secs. 1135 & 1321 of 1976 PA 451 (MCL 380.1135 & 380.1321) & adds sec. 1562.",
-      "status": "Introduced",
+      "status": "In Committee",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -87985,7 +88018,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/SB1185/2025",
       "legiscan_bill_id": 2158754,
-      "session_id": 2183,
       "sponsorships": [
         {
           "people_id": 18749,
@@ -87997,7 +88029,8 @@
           "district": "SD-012",
           "type": "primary"
         }
-      ]
+      ],
+      "session_id": 2183
     },
     {
       "billId": "MI-HB4935",
@@ -88025,7 +88058,7 @@
       "state": "MI",
       "billNumber": "SB0433",
       "title": "State agencies (existing): health and human services; educational materials regarding health dangers for youth using high-potency THC and cannabis products; require the department to provide. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1509.",
-      "status": "In Committee",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -88040,37 +88073,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/SB0433/2025",
       "legiscan_bill_id": 2037953,
-      "rollCalls": [
-        {
-          "key": "LS-1612947",
-          "legiscan_roll_call_id": 1612947,
-          "date": "2025-12-11",
-          "desc": "Reported Favorably With Substitute S-1 12/10/2025",
-          "chamber": "Senate",
-          "yea": 5,
-          "nay": 0,
-          "nv": 0,
-          "absent": 0,
-          "total": 5,
-          "passed": true,
-          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2025-SJ-12-11-111.htm"
-        },
-        {
-          "key": "LS-1712139",
-          "legiscan_roll_call_id": 1712139,
-          "date": "2026-06-25",
-          "desc": "Senate Third Reading: Passed Roll Call # 157",
-          "chamber": "Senate",
-          "yea": 35,
-          "nay": 0,
-          "nv": 0,
-          "absent": 3,
-          "total": 38,
-          "passed": true,
-          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-06-25-058.htm"
-        }
-      ],
-      "session_id": 2183,
       "sponsorships": [
         {
           "people_id": 20798,
@@ -88102,7 +88104,38 @@
           "district": "SD-003",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "rollCalls": [
+        {
+          "key": "LS-1612947",
+          "legiscan_roll_call_id": 1612947,
+          "date": "2025-12-11",
+          "desc": "Reported Favorably With Substitute S-1 12/10/2025",
+          "chamber": "Senate",
+          "yea": 5,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 5,
+          "passed": true,
+          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2025-SJ-12-11-111.htm"
+        },
+        {
+          "key": "LS-1712139",
+          "legiscan_roll_call_id": 1712139,
+          "date": "2026-06-25",
+          "desc": "Senate Third Reading: Passed Roll Call # 157",
+          "chamber": "Senate",
+          "yea": 35,
+          "nay": 0,
+          "nv": 0,
+          "absent": 3,
+          "total": 38,
+          "passed": true,
+          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-06-25-058.htm"
+        }
+      ],
+      "session_id": 2183
     },
     {
       "billId": "MI-HB4108",
@@ -115969,27 +116002,6 @@
       "legiscan_bill_id": 2045301
     },
     {
-      "billId": "DC-PR26-0470",
-      "state": "DC",
-      "billNumber": "PR26-0470",
-      "title": "Commission on Out of School Time Grants and Youth Outcomes Daniela Grigioni Confirmation Resolution of 2025",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Commission on Out of School Time Grants and Youth Outcomes Daniela Grigioni Confirmation Resolution of 2025",
-      "sponsor": "",
-      "lastAction": "Approved with Resolution Number R26-0323",
-      "lastActionDate": "2026-02-03",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/DC/bill/PR26-0470/2025",
-      "legiscan_bill_id": 2058513
-    },
-    {
       "billId": "DC-PR26-0553",
       "state": "DC",
       "billNumber": "PR26-0553",
@@ -116051,6 +116063,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/PR26-0687/2025",
       "legiscan_bill_id": 2148363
+    },
+    {
+      "billId": "DC-PR26-0470",
+      "state": "DC",
+      "billNumber": "PR26-0470",
+      "title": "Commission on Out of School Time Grants and Youth Outcomes Daniela Grigioni Confirmation Resolution of 2025",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Commission on Out of School Time Grants and Youth Outcomes Daniela Grigioni Confirmation Resolution of 2025",
+      "sponsor": "",
+      "lastAction": "Resolution R26-0323, Effective from Feb 03, 2026 Published in DC Register Vol 73 and Page 012457",
+      "lastActionDate": "2026-09-18",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/DC/bill/PR26-0470/2025",
+      "legiscan_bill_id": 2058513
     },
     {
       "billId": "DC-B26-0440",
@@ -125990,27 +126023,6 @@
       "legiscan_bill_id": 1992178
     },
     {
-      "billId": "MI-SB0359",
-      "state": "MI",
-      "billNumber": "SB0359",
-      "title": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
-      "sponsor": "",
-      "lastAction": "Referred To Committee Of The Whole",
-      "lastActionDate": "2025-06-12",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MI/bill/SB0359/2025",
-      "legiscan_bill_id": 2035569
-    },
-    {
       "billId": "MI-HB5403",
       "state": "MI",
       "billNumber": "HB5403",
@@ -126030,6 +126042,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/HB5403/2025",
       "legiscan_bill_id": 2060167
+    },
+    {
+      "billId": "MI-SB0359",
+      "state": "MI",
+      "billNumber": "SB0359",
+      "title": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
+      "sponsor": "",
+      "lastAction": "Referred To Committee Of The Whole",
+      "lastActionDate": "2025-06-12",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MI/bill/SB0359/2025",
+      "legiscan_bill_id": 2035569
     },
     {
       "billId": "MI-SB0617",
@@ -143773,7 +143806,7 @@
       "state": "AK",
       "billNumber": "HJR28",
       "title": "Support Kids Online Safety Act",
-      "status": "Passed Both Chambers",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -143788,37 +143821,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HJR28/2025",
       "legiscan_bill_id": 2092041,
-      "rollCalls": [
-        {
-          "key": "LS-1696795",
-          "legiscan_roll_call_id": 1696795,
-          "date": "2026-05-11",
-          "desc": "House: Third Reading Final Passage",
-          "chamber": "House",
-          "yea": 37,
-          "nay": 3,
-          "nv": 0,
-          "absent": 0,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR28&Page=02499#2499"
-        },
-        {
-          "key": "LS-1699365",
-          "legiscan_roll_call_id": 1699365,
-          "date": "2026-05-17",
-          "desc": "Senate: Third Reading - Final Passage",
-          "chamber": "Senate",
-          "yea": 20,
-          "nay": 0,
-          "nv": 0,
-          "absent": 0,
-          "total": 20,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HJR28&Page=02724#2724"
-        }
-      ],
-      "session_id": 2171,
       "sponsorships": [
         {
           "people_id": 26348,
@@ -144010,7 +144012,38 @@
           "district": "SD-C",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "rollCalls": [
+        {
+          "key": "LS-1696795",
+          "legiscan_roll_call_id": 1696795,
+          "date": "2026-05-11",
+          "desc": "House: Third Reading Final Passage",
+          "chamber": "House",
+          "yea": 37,
+          "nay": 3,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR28&Page=02499#2499"
+        },
+        {
+          "key": "LS-1699365",
+          "legiscan_roll_call_id": 1699365,
+          "date": "2026-05-17",
+          "desc": "Senate: Third Reading - Final Passage",
+          "chamber": "Senate",
+          "yea": 20,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 20,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HJR28&Page=02724#2724"
+        }
+      ],
+      "session_id": 2171
     },
     {
       "billId": "AZ-HB2402",
@@ -161840,27 +161873,6 @@
       }
     },
     {
-      "billId": "MA-H2424",
-      "state": "MA",
-      "billNumber": "H2424",
-      "title": "Requiring automatic external defibrillator devices in health clubs",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Requiring automatic external defibrillator devices in health clubs",
-      "sponsor": "",
-      "lastAction": "Committee recommended bill ought to pass and referred to the committee on House Ways and Means",
-      "lastActionDate": "2025-12-04",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MA/bill/H2424/2025",
-      "legiscan_bill_id": 2001529
-    },
-    {
       "billId": "MA-H4271",
       "state": "MA",
       "billNumber": "H4271",
@@ -161880,6 +161892,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MA/bill/H4271/2025",
       "legiscan_bill_id": 2039391
+    },
+    {
+      "billId": "MA-H2424",
+      "state": "MA",
+      "billNumber": "H2424",
+      "title": "Requiring automatic external defibrillator devices in health clubs",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Requiring automatic external defibrillator devices in health clubs",
+      "sponsor": "",
+      "lastAction": "Committee recommended bill ought to pass and referred to the committee on House Ways and Means",
+      "lastActionDate": "2025-12-04",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MA/bill/H2424/2025",
+      "legiscan_bill_id": 2001529
     },
     {
       "billId": "MA-S2543",
@@ -162461,7 +162494,7 @@
       "state": "MI",
       "billNumber": "SB0947",
       "title": "Natural resources: inland lakes; dam safety regulations; provide for. Amends and adds (See bill).",
-      "status": "Introduced",
+      "status": "In Committee",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -162469,13 +162502,116 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Natural resources: inland lakes; dam safety regulations; provide for. Amends and adds (See bill).",
-      "sponsor": "",
+      "sponsor": "Mallory McMorrow (D)",
       "lastAction": "Returned To Senate",
       "lastActionDate": "2026-09-22",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/SB0947/2025",
-      "legiscan_bill_id": 2148470
+      "legiscan_bill_id": 2148470,
+      "rollCalls": [
+        {
+          "key": "LS-1711521",
+          "legiscan_roll_call_id": 1711521,
+          "date": "2026-06-23",
+          "desc": "Reported Favorably With Substitute S-1 6/18/2026",
+          "chamber": "Senate",
+          "yea": 8,
+          "nay": 3,
+          "nv": 0,
+          "absent": 0,
+          "total": 11,
+          "passed": true,
+          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-06-23-056.htm"
+        },
+        {
+          "key": "LS-1713892",
+          "legiscan_roll_call_id": 1713892,
+          "date": "2026-07-02",
+          "desc": "Senate Third Reading: Passed Roll Call # 173",
+          "chamber": "Senate",
+          "yea": 22,
+          "nay": 15,
+          "nv": 0,
+          "absent": 1,
+          "total": 38,
+          "passed": true,
+          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-02-061.htm"
+        }
+      ],
+      "session_id": 2183,
+      "sponsorships": [
+        {
+          "people_id": 21022,
+          "name": "Mallory McMorrow",
+          "first_name": "Mallory",
+          "last_name": "McMorrow",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-008",
+          "type": "primary"
+        },
+        {
+          "people_id": 24346,
+          "name": "Sue Shink",
+          "first_name": "Sue",
+          "last_name": "Shink",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-014",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 14536,
+          "name": "Samir Singh",
+          "first_name": "Samir",
+          "last_name": "Singh",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-028",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24343,
+          "name": "Veronica Klinefelt",
+          "first_name": "Veronica",
+          "last_name": "Klinefelt",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-011",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 11179,
+          "name": "Jeff Irwin",
+          "first_name": "Jeff",
+          "last_name": "Irwin",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-015",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 21042,
+          "name": "Rosemary Bayer",
+          "first_name": "Rosemary",
+          "last_name": "Bayer",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-013",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 19699,
+          "name": "Sarah Anthony",
+          "first_name": "Sarah",
+          "last_name": "Anthony",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-021",
+          "type": "cosponsor"
+        }
+      ]
     },
     {
       "billId": "MI-SB0046",
@@ -178092,27 +178228,6 @@
       "legiscan_bill_id": 2151959
     },
     {
-      "billId": "PA-SB375",
-      "state": "PA",
-      "billNumber": "SB375",
-      "title": "In certification of teachers, repealing provisions relating to CPR instruction; in school safety and security, further providing for School Safety and Security Grant Program; and, in school health services, further providing for definitions, repealing provisions relating to automatic external defibrillators, providing for AED and CPR instruction and procedure, establishing the Automated External Defibrillator Program and providing for availability and specifications of automated external defibrillators.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "In certification of teachers, repealing provisions relating to CPR instruction; in school safety and security, further providing for School Safety and Security Grant Program; and, in school health services, further providing for definitions, repealing provisions relating to automatic external defibrillators, providing for AED and CPR instruction and procedure, establishing the Automated External Defibrillator Program and providing for availability and specifications of automated external defibrillators.",
-      "sponsor": "",
-      "lastAction": "Act No. 17 of 2026",
-      "lastActionDate": "2026-05-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/SB375/2025",
-      "legiscan_bill_id": 2036053
-    },
-    {
       "billId": "PA-HB2238",
       "state": "PA",
       "billNumber": "HB2238",
@@ -178134,10 +178249,10 @@
       "legiscan_bill_id": 2121137
     },
     {
-      "billId": "PA-SB507",
+      "billId": "PA-SB375",
       "state": "PA",
-      "billNumber": "SB507",
-      "title": "Amending the act of December 20, 1985 (P.L.457, No.112), entitled \"An act relating to the right to practice medicine and surgery and the right to practice medically related acts; reestablishing the State Board of Medical Education and Licensure as the State Board of Medicine and providing for its composition, powers and duties; providing for the issuance of licenses and certificates and the suspension and revocation of licenses and certificates; provided penalties; and making repeals,\" further providing for definitions, for midwifery and for nurse-midwife license; and providing for certified midwife license.",
+      "billNumber": "SB375",
+      "title": "In certification of teachers, repealing provisions relating to CPR instruction; in school safety and security, further providing for School Safety and Security Grant Program; and, in school health services, further providing for definitions, repealing provisions relating to automatic external defibrillators, providing for AED and CPR instruction and procedure, establishing the Automated External Defibrillator Program and providing for availability and specifications of automated external defibrillators.",
       "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
@@ -178145,14 +178260,14 @@
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
-      "summary": "Amending the act of December 20, 1985 (P.L.457, No.112), entitled \"An act relating to the right to practice medicine and surgery and the right to practice medically related acts; reestablishing the State Board of Medical Education and Licensure as the State Board of Medicine and providing for its composition, powers and duties; providing for the issuance of licenses and certificates and the suspension and revocation of licenses and certificates; provided penalties; and making repeals,\" further providing for definitions, for midwifery and for nurse-midwife license; and providing for certified midwife license.",
+      "summary": "In certification of teachers, repealing provisions relating to CPR instruction; in school safety and security, further providing for School Safety and Security Grant Program; and, in school health services, further providing for definitions, repealing provisions relating to automatic external defibrillators, providing for AED and CPR instruction and procedure, establishing the Automated External Defibrillator Program and providing for availability and specifications of automated external defibrillators.",
       "sponsor": "",
-      "lastAction": "Act No. 14 of 2026",
-      "lastActionDate": "2026-05-06",
+      "lastAction": "Act No. 17 of 2026",
+      "lastActionDate": "2026-05-13",
       "actionCount": 0,
       "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/SB507/2025",
-      "legiscan_bill_id": 2012498
+      "sourceUrl": "https://legiscan.com/PA/bill/SB375/2025",
+      "legiscan_bill_id": 2036053
     },
     {
       "billId": "PA-HB1700",
@@ -178174,6 +178289,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/PA/bill/HB1700/2025",
       "legiscan_bill_id": 2038800
+    },
+    {
+      "billId": "PA-SB507",
+      "state": "PA",
+      "billNumber": "SB507",
+      "title": "Amending the act of December 20, 1985 (P.L.457, No.112), entitled \"An act relating to the right to practice medicine and surgery and the right to practice medically related acts; reestablishing the State Board of Medical Education and Licensure as the State Board of Medicine and providing for its composition, powers and duties; providing for the issuance of licenses and certificates and the suspension and revocation of licenses and certificates; provided penalties; and making repeals,\" further providing for definitions, for midwifery and for nurse-midwife license; and providing for certified midwife license.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Amending the act of December 20, 1985 (P.L.457, No.112), entitled \"An act relating to the right to practice medicine and surgery and the right to practice medically related acts; reestablishing the State Board of Medical Education and Licensure as the State Board of Medicine and providing for its composition, powers and duties; providing for the issuance of licenses and certificates and the suspension and revocation of licenses and certificates; provided penalties; and making repeals,\" further providing for definitions, for midwifery and for nurse-midwife license; and providing for certified midwife license.",
+      "sponsor": "",
+      "lastAction": "Act No. 14 of 2026",
+      "lastActionDate": "2026-05-06",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/SB507/2025",
+      "legiscan_bill_id": 2012498
     },
     {
       "billId": "PA-HB812",
@@ -178414,6 +178550,110 @@
       "legiscan_bill_id": 1944204
     },
     {
+      "billId": "PA-SB1465",
+      "state": "PA",
+      "billNumber": "SB1465",
+      "title": "Establishing the Office of Health Care for the purpose of creating a universal single-payer health care system; providing for powers and duties of the Office of Health Care; establishing the Pennsylvania Health Care Board; providing for eligible participants; establishing the Health Care Restricted Account; and providing for sources of revenue.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishing the Office of Health Care for the purpose of creating a universal single-payer health care system; providing for powers and duties of the Office of Health Care; establishing the Pennsylvania Health Care Board; providing for eligible participants; establishing the Health Care Restricted Account; and providing for sources of revenue.",
+      "sponsor": "Nikil Saval (D)",
+      "lastAction": "Referred to Health & Human Services",
+      "lastActionDate": "2026-09-24",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/SB1465/2025",
+      "legiscan_bill_id": 2159050,
+      "session_id": 2192,
+      "sponsorships": [
+        {
+          "people_id": 22081,
+          "name": "Nikil Saval",
+          "first_name": "Nikil",
+          "last_name": "Saval",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-001",
+          "type": "primary"
+        },
+        {
+          "people_id": 20816,
+          "name": "Katie Muth",
+          "first_name": "Katie",
+          "last_name": "Muth",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-044",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 477,
+          "name": "Wayne Fontana",
+          "first_name": "Wayne",
+          "last_name": "Fontana",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-042",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 503,
+          "name": "Christine Tartaglione",
+          "first_name": "Christine",
+          "last_name": "Tartaglione",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-002",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 16957,
+          "name": "Arthur Haywood",
+          "first_name": "Arthur",
+          "last_name": "Haywood",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-004",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 18220,
+          "name": "Carolyn Comitta",
+          "first_name": "Carolyn",
+          "last_name": "Comitta",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-019",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 20815,
+          "name": "Timothy Kearney",
+          "first_name": "Timothy",
+          "last_name": "Kearney",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-026",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22079,
+          "name": "Amanda Cappelletti",
+          "first_name": "Amanda",
+          "last_name": "Cappelletti",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-017",
+          "type": "cosponsor"
+        }
+      ]
+    },
+    {
       "billId": "PA-SB146",
       "state": "PA",
       "billNumber": "SB146",
@@ -178475,27 +178715,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/PA/bill/HB2394/2025",
       "legiscan_bill_id": 2143338
-    },
-    {
-      "billId": "PA-SB654",
-      "state": "PA",
-      "billNumber": "SB654",
-      "title": "In miscellaneous provisions, establishing the Veterans Mental Health Services Program.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "In miscellaneous provisions, establishing the Veterans Mental Health Services Program.",
-      "sponsor": "",
-      "lastAction": "Referred to Veterans Affairs & Emergency Preparedness",
-      "lastActionDate": "2025-04-21",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/SB654/2025",
-      "legiscan_bill_id": 2025331
     },
     {
       "billId": "RI-S2685",
@@ -188963,7 +189182,7 @@
       "impact": "Medium",
       "summary": "Student Health Care Amendment Act of 2026",
       "sponsor": "Phil Mendelson (D)",
-      "lastAction": "Public Hearing",
+      "lastAction": "Public Hearing Held",
       "lastActionDate": "2026-09-24",
       "actionCount": 0,
       "stoppedWithAction": false,
@@ -189555,7 +189774,7 @@
       "state": "DC",
       "billNumber": "B26-0663",
       "title": "Fiscal Year 2026 Revised Local Budget Temporary Act of 2026",
-      "status": "Introduced",
+      "status": "In Committee",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -189563,13 +189782,70 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Fiscal Year 2026 Revised Local Budget Temporary Act of 2026",
-      "sponsor": "",
+      "sponsor": "Phil Mendelson (D)",
       "lastAction": "Final Reading, CC",
       "lastActionDate": "2026-09-22",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/B26-0663/2025",
-      "legiscan_bill_id": 2144264
+      "legiscan_bill_id": 2144264,
+      "rollCalls": [
+        {
+          "key": "LS-1711424",
+          "legiscan_roll_call_id": 1711424,
+          "date": "2026-06-23",
+          "desc": "Mendelson (ANS)",
+          "chamber": "C",
+          "yea": 13,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 13,
+          "passed": true,
+          "sourceUrl": "https://lims.dccouncil.gov/Legislation/B26-0663"
+        },
+        {
+          "key": "LS-1711425",
+          "legiscan_roll_call_id": 1711425,
+          "date": "2026-06-23",
+          "desc": "First Reading",
+          "chamber": "C",
+          "yea": 13,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 13,
+          "passed": true,
+          "sourceUrl": "https://lims.dccouncil.gov/Legislation/B26-0663"
+        },
+        {
+          "key": "LS-1727753",
+          "legiscan_roll_call_id": 1727753,
+          "date": "2026-09-22",
+          "desc": "Final Reading, CC",
+          "chamber": "C",
+          "yea": 12,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 13,
+          "passed": true,
+          "sourceUrl": "https://lims.dccouncil.gov/Legislation/B26-0663"
+        }
+      ],
+      "session_id": 2198,
+      "sponsorships": [
+        {
+          "people_id": 14679,
+          "name": "Phil Mendelson",
+          "first_name": "Phil",
+          "last_name": "Mendelson",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-000",
+          "type": "primary"
+        }
+      ]
     },
     {
       "billId": "DC-B26-0194",
@@ -209732,6 +210008,80 @@
       "legiscan_bill_id": 1950534
     },
     {
+      "billId": "PA-SB1463",
+      "state": "PA",
+      "billNumber": "SB1463",
+      "title": "Providing for cyclosporiasis.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Providing for cyclosporiasis.",
+      "sponsor": "Amanda Cappelletti (D)",
+      "lastAction": "Referred to Health & Human Services",
+      "lastActionDate": "2026-09-24",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/SB1463/2025",
+      "legiscan_bill_id": 2159047,
+      "session_id": 2192,
+      "sponsorships": [
+        {
+          "people_id": 22079,
+          "name": "Amanda Cappelletti",
+          "first_name": "Amanda",
+          "last_name": "Cappelletti",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-017",
+          "type": "primary"
+        },
+        {
+          "people_id": 20563,
+          "name": "Maria Collett",
+          "first_name": "Maria",
+          "last_name": "Collett",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-012",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 503,
+          "name": "Christine Tartaglione",
+          "first_name": "Christine",
+          "last_name": "Tartaglione",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-002",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 16957,
+          "name": "Arthur Haywood",
+          "first_name": "Arthur",
+          "last_name": "Haywood",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-004",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22078,
+          "name": "John Kane",
+          "first_name": "John",
+          "last_name": "Kane",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-009",
+          "type": "cosponsor"
+        }
+      ]
+    },
+    {
       "billId": "PA-HB1975",
       "state": "PA",
       "billNumber": "HB1975",
@@ -210793,27 +211143,6 @@
         "status": "monitor_confirmed",
         "second_pass": ""
       }
-    },
-    {
-      "billId": "PA-HB2745",
-      "state": "PA",
-      "billNumber": "HB2745",
-      "title": "Authorizing the Commonwealth of Pennsylvania to join the Interstate Podiatric Medical Licensure Compact; providing for the form of the compact; and imposing additional powers and duties on the Governor and the Secretary of the Commonwealth.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Authorizing the Commonwealth of Pennsylvania to join the Interstate Podiatric Medical Licensure Compact; providing for the form of the compact; and imposing additional powers and duties on the Governor and the Secretary of the Commonwealth.",
-      "sponsor": "",
-      "lastAction": "Referred to Professional Licensure",
-      "lastActionDate": "2026-08-24",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/HB2745/2025",
-      "legiscan_bill_id": 2157494
     },
     {
       "billId": "RI-S3305",
@@ -247046,27 +247375,6 @@
       "legiscan_bill_id": 1997594
     },
     {
-      "billId": "MA-H4530",
-      "state": "MA",
-      "billNumber": "H4530",
-      "title": "Making appropriations for fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects",
-      "status": "Signed into Law",
-      "isActive": "No",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Making appropriations for fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects",
-      "sponsor": "",
-      "lastAction": "Signed by the Governor, Chapter 33 of the Acts of 2025",
-      "lastActionDate": "2025-09-22",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MA/bill/H4530/2025",
-      "legiscan_bill_id": 2044124
-    },
-    {
       "billId": "MA-H5555",
       "state": "MA",
       "billNumber": "H5555",
@@ -247100,6 +247408,27 @@
         "status": "monitor_confirmed",
         "second_pass": ""
       }
+    },
+    {
+      "billId": "MA-H4530",
+      "state": "MA",
+      "billNumber": "H4530",
+      "title": "Making appropriations for fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects",
+      "status": "Signed into Law",
+      "isActive": "No",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Making appropriations for fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects",
+      "sponsor": "",
+      "lastAction": "Signed by the Governor, Chapter 33 of the Acts of 2025",
+      "lastActionDate": "2025-09-22",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MA/bill/H4530/2025",
+      "legiscan_bill_id": 2044124
     },
     {
       "billId": "MA-H2",
@@ -248007,27 +248336,6 @@
       "legiscan_bill_id": 2011092
     },
     {
-      "billId": "MI-HB4354",
-      "state": "MI",
-      "billNumber": "HB4354",
-      "title": "Water supply: systems; authority as municipal authority; modify. Amends sec. 2 of 1965 PA 203 (MCL 28.602). TIE BAR WITH: HB 4352'25",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Water supply: systems; authority as municipal authority; modify. Amends sec. 2 of 1965 PA 203 (MCL 28.602). TIE BAR WITH: HB 4352'25",
-      "sponsor": "",
-      "lastAction": "Referred To Committee On Local Government",
-      "lastActionDate": "2026-01-14",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MI/bill/HB4354/2025",
-      "legiscan_bill_id": 2025527
-    },
-    {
       "billId": "MI-HB4807",
       "state": "MI",
       "billNumber": "HB4807",
@@ -248047,6 +248355,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/HB4807/2025",
       "legiscan_bill_id": 2042707
+    },
+    {
+      "billId": "MI-HB4354",
+      "state": "MI",
+      "billNumber": "HB4354",
+      "title": "Water supply: systems; authority as municipal authority; modify. Amends sec. 2 of 1965 PA 203 (MCL 28.602). TIE BAR WITH: HB 4352'25",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Water supply: systems; authority as municipal authority; modify. Amends sec. 2 of 1965 PA 203 (MCL 28.602). TIE BAR WITH: HB 4352'25",
+      "sponsor": "",
+      "lastAction": "Referred To Committee On Local Government",
+      "lastActionDate": "2026-01-14",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MI/bill/HB4354/2025",
+      "legiscan_bill_id": 2025527
     },
     {
       "billId": "MI-HB5948",
@@ -248175,27 +248504,6 @@
       "legiscan_bill_id": 2135488
     },
     {
-      "billId": "MI-HB4706",
-      "state": "MI",
-      "billNumber": "HB4706",
-      "title": "Appropriations: omnibus; appropriations for multiple departments and branches for the fiscal year 2025-2026 and supplemental appropriations for fiscal year 2024-2025; provide for. Creates appropriation act.",
-      "status": "Signed into Law",
-      "isActive": "No",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Appropriations: omnibus; appropriations for multiple departments and branches for the fiscal year 2025-2026 and supplemental appropriations for fiscal year 2024-2025; provide for. Creates appropriation act.",
-      "sponsor": "",
-      "lastAction": "Assigned Pa 22'25 With Immediate Effect",
-      "lastActionDate": "2025-10-08",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MI/bill/HB4706/2025",
-      "legiscan_bill_id": 2038856
-    },
-    {
       "billId": "MI-HB5644",
       "state": "MI",
       "billNumber": "HB5644",
@@ -248217,25 +248525,25 @@
       "legiscan_bill_id": 2128340
     },
     {
-      "billId": "MI-SB0351",
+      "billId": "MI-HB4706",
       "state": "MI",
-      "billNumber": "SB0351",
-      "title": "Consumer protection: marketing and advertising; telephone solicitation act; create. Creates new act. TIE BAR WITH: SB 0352'25, SB 0353'25, SB 0354'25, SB 0355'25",
-      "status": "In Committee",
-      "isActive": "Yes",
+      "billNumber": "HB4706",
+      "title": "Appropriations: omnibus; appropriations for multiple departments and branches for the fiscal year 2025-2026 and supplemental appropriations for fiscal year 2024-2025; provide for. Creates appropriation act.",
+      "status": "Signed into Law",
+      "isActive": "No",
       "billType": "monitor",
       "stance": "Monitor",
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
-      "summary": "Consumer protection: marketing and advertising; telephone solicitation act; create. Creates new act. TIE BAR WITH: SB 0352'25, SB 0353'25, SB 0354'25, SB 0355'25",
+      "summary": "Appropriations: omnibus; appropriations for multiple departments and branches for the fiscal year 2025-2026 and supplemental appropriations for fiscal year 2024-2025; provide for. Creates appropriation act.",
       "sponsor": "",
-      "lastAction": "Referred To Committee On Regulatory Reform",
-      "lastActionDate": "2026-02-03",
+      "lastAction": "Assigned Pa 22'25 With Immediate Effect",
+      "lastActionDate": "2025-10-08",
       "actionCount": 0,
       "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/MI/bill/SB0351/2025",
-      "legiscan_bill_id": 2035357
+      "sourceUrl": "https://legiscan.com/MI/bill/HB4706/2025",
+      "legiscan_bill_id": 2038856
     },
     {
       "billId": "MI-SB0973",
@@ -248257,6 +248565,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/SB0973/2025",
       "legiscan_bill_id": 2149751
+    },
+    {
+      "billId": "MI-SB0351",
+      "state": "MI",
+      "billNumber": "SB0351",
+      "title": "Consumer protection: marketing and advertising; telephone solicitation act; create. Creates new act. TIE BAR WITH: SB 0352'25, SB 0353'25, SB 0354'25, SB 0355'25",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Consumer protection: marketing and advertising; telephone solicitation act; create. Creates new act. TIE BAR WITH: SB 0352'25, SB 0353'25, SB 0354'25, SB 0355'25",
+      "sponsor": "",
+      "lastAction": "Referred To Committee On Regulatory Reform",
+      "lastActionDate": "2026-02-03",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/MI/bill/SB0351/2025",
+      "legiscan_bill_id": 2035357
     },
     {
       "billId": "MI-HB4161",
@@ -253434,27 +253763,6 @@
       }
     },
     {
-      "billId": "NJ-A1896",
-      "state": "NJ",
-      "billNumber": "A1896",
-      "title": "Establishes certain benefits for Class Two special law enforcement officers; allows arson investigators to carry a firearm at all times.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Establishes certain benefits for Class Two special law enforcement officers; allows arson investigators to carry a firearm at all times.",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Public Safety and Preparedness Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/A1896/2026",
-      "legiscan_bill_id": 2099218
-    },
-    {
       "billId": "NJ-S2771",
       "state": "NJ",
       "billNumber": "S2771",
@@ -253474,6 +253782,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/S2771/2026",
       "legiscan_bill_id": 2075119
+    },
+    {
+      "billId": "NJ-A1896",
+      "state": "NJ",
+      "billNumber": "A1896",
+      "title": "Establishes certain benefits for Class Two special law enforcement officers; allows arson investigators to carry a firearm at all times.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishes certain benefits for Class Two special law enforcement officers; allows arson investigators to carry a firearm at all times.",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Public Safety and Preparedness Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A1896/2026",
+      "legiscan_bill_id": 2099218
     },
     {
       "billId": "NJ-S3601",
@@ -253531,27 +253860,6 @@
       "legiscan_bill_id": 2154526
     },
     {
-      "billId": "NJ-A5337",
-      "state": "NJ",
-      "billNumber": "A5337",
-      "title": "Makes various changes to SHBP governance and administration.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Makes various changes to SHBP governance and administration.",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Budget Committee",
-      "lastActionDate": "2026-06-23",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/A5337/2026",
-      "legiscan_bill_id": 2154587
-    },
-    {
       "billId": "NJ-A1400",
       "state": "NJ",
       "billNumber": "A1400",
@@ -253571,6 +253879,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A1400/2026",
       "legiscan_bill_id": 2095880
+    },
+    {
+      "billId": "NJ-A5337",
+      "state": "NJ",
+      "billNumber": "A5337",
+      "title": "Makes various changes to SHBP governance and administration.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Makes various changes to SHBP governance and administration.",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Budget Committee",
+      "lastActionDate": "2026-06-23",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A5337/2026",
+      "legiscan_bill_id": 2154587
     },
     {
       "billId": "NM-HM52",
@@ -254525,27 +254854,6 @@
       "legiscan_bill_id": 2029727
     },
     {
-      "billId": "NY-S07797",
-      "state": "NY",
-      "billNumber": "S07797",
-      "title": "Provides for emergency appropriation through May 9, 2025 for the support of government.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Provides for emergency appropriation through May 9, 2025 for the support of government.",
-      "sponsor": "",
-      "lastAction": "REFERRED TO FINANCE",
-      "lastActionDate": "2026-01-07",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NY/bill/S07797/2025",
-      "legiscan_bill_id": 2029754
-    },
-    {
       "billId": "NY-A11010",
       "state": "NY",
       "billNumber": "A11010",
@@ -254565,6 +254873,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NY/bill/A11010/2025",
       "legiscan_bill_id": 2144029
+    },
+    {
+      "billId": "NY-S07797",
+      "state": "NY",
+      "billNumber": "S07797",
+      "title": "Provides for emergency appropriation through May 9, 2025 for the support of government.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Provides for emergency appropriation through May 9, 2025 for the support of government.",
+      "sponsor": "",
+      "lastAction": "REFERRED TO FINANCE",
+      "lastActionDate": "2026-01-07",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NY/bill/S07797/2025",
+      "legiscan_bill_id": 2029754
     },
     {
       "billId": "NY-S09963",
@@ -258419,27 +258748,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/PA/bill/HB1269/2025",
       "legiscan_bill_id": 2024854
-    },
-    {
-      "billId": "PA-SB708",
-      "state": "PA",
-      "billNumber": "SB708",
-      "title": "Providing for Attorney General notification; and promulgating regulations.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Providing for Attorney General notification; and promulgating regulations.",
-      "sponsor": "",
-      "lastAction": "Referred to Institutional Sustainability & Innovation",
-      "lastActionDate": "2025-05-16",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/SB708/2025",
-      "legiscan_bill_id": 2032081
     },
     {
       "billId": "RI-H8579",
@@ -265587,7 +265895,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/B26-0809/2025",
       "legiscan_bill_id": 2158694,
-      "session_id": 2198,
       "sponsorships": [
         {
           "people_id": 22082,
@@ -265599,7 +265906,8 @@
           "district": "SD-000",
           "type": "primary"
         }
-      ]
+      ],
+      "session_id": 2198
     },
     {
       "billId": "DC-B26-0752",
@@ -265615,8 +265923,8 @@
       "impact": "Medium",
       "summary": "Health and Human Service Programs and Benefits Eligibility and Delivery Data-Sharing Clarifications Temporary Amendment Act of 2026",
       "sponsor": "",
-      "lastAction": "First Reading",
-      "lastActionDate": "2026-07-14",
+      "lastAction": "Final Reading, CC",
+      "lastActionDate": "2026-09-22",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/B26-0752/2025",
@@ -265754,27 +266062,6 @@
       }
     },
     {
-      "billId": "DC-B26-0800",
-      "state": "DC",
-      "billNumber": "B26-0800",
-      "title": "Modification No. M003 to Contract No. DCRL-2026-C-0024 with Crawford Consulting and Mental Health Service, Inc. Approval and Payment Authorization Emergency Act of 2026",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Modification No. M003 to Contract No. DCRL-2026-C-0024 with Crawford Consulting and Mental Health Service, Inc. Approval and Payment Authorization Emergency Act of 2026",
-      "sponsor": "",
-      "lastAction": "Final Reading, CC",
-      "lastActionDate": "2026-09-22",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/DC/bill/B26-0800/2025",
-      "legiscan_bill_id": 2158713
-    },
-    {
       "billId": "DC-B26-0462",
       "state": "DC",
       "billNumber": "B26-0462",
@@ -265794,6 +266081,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/B26-0462/2025",
       "legiscan_bill_id": 2051480
+    },
+    {
+      "billId": "DC-B26-0800",
+      "state": "DC",
+      "billNumber": "B26-0800",
+      "title": "Modification No. M003 to Contract No. DCRL-2026-C-0024 with Crawford Consulting and Mental Health Service, Inc. Approval and Payment Authorization Emergency Act of 2026",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Modification No. M003 to Contract No. DCRL-2026-C-0024 with Crawford Consulting and Mental Health Service, Inc. Approval and Payment Authorization Emergency Act of 2026",
+      "sponsor": "",
+      "lastAction": "Final Reading, CC",
+      "lastActionDate": "2026-09-22",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/DC/bill/B26-0800/2025",
+      "legiscan_bill_id": 2158713
     },
     {
       "billId": "DC-B26-0753",

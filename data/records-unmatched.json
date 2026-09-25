@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T11:12:29.307244+00:00",
-  "count": 529,
+  "generated_at": "2026-09-25T11:17:40.028742+00:00",
+  "count": 532,
   "unmatched": [
     {
       "billId": "US-119-HR1111",
@@ -27,6 +27,14 @@
       "role": "cosponsor"
     },
     {
+      "billId": "CO-SB032",
+      "state": "CO",
+      "chamber": "House",
+      "district": "HD-032",
+      "name": "Manny Rutinel",
+      "role": "cosponsor"
+    },
+    {
       "billId": "MD-HB1135",
       "state": "MD",
       "chamber": "House",
@@ -40,7 +48,7 @@
       "chamber": "House",
       "district": "HD-005",
       "name": "Meredith Lawson-Rowe",
-      "role": "cosponsor"
+      "role": "primary"
     },
     {
       "billId": "TX-HB4535",
@@ -102,8 +110,24 @@
       "billId": "TX-HB3441",
       "state": "TX",
       "chamber": "House",
+      "district": "HD-087",
+      "name": "Caroline Fairly",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "TX-HB3441",
+      "state": "TX",
+      "chamber": "House",
       "district": "HD-093",
       "name": "Nate Schatzline",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "TX-HB3441",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "name": "Gary Vandeaver",
       "role": "cosponsor"
     },
     {
@@ -1387,6 +1411,16 @@
     {
       "rollCallKey": "LS-1631618",
       "billId": "NH-HB1584",
+      "name": "Michael Vose",
+      "state": "NH",
+      "chamber": "House",
+      "district": "HD-05-ROC",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1631618",
+      "billId": "NH-HB1584",
       "name": "Kate Murray",
       "state": "NH",
       "chamber": "House",
@@ -1697,6 +1731,16 @@
     {
       "rollCallKey": "LS-1660769",
       "billId": "NH-HB1022",
+      "name": "Michael Vose",
+      "state": "NH",
+      "chamber": "House",
+      "district": "HD-05-ROC",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1660769",
+      "billId": "NH-HB1022",
       "name": "Kate Murray",
       "state": "NH",
       "chamber": "House",
@@ -1831,6 +1875,16 @@
       "state": "NH",
       "chamber": "House",
       "district": "HD-06-HIL",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1632295",
+      "billId": "NH-HB1719",
+      "name": "Michael Vose",
+      "state": "NH",
+      "chamber": "House",
+      "district": "HD-05-ROC",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -2141,6 +2195,16 @@
       "state": "NH",
       "chamber": "House",
       "district": "HD-06-HIL",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1638723",
+      "billId": "NH-HB1811",
+      "name": "Michael Vose",
+      "state": "NH",
+      "chamber": "House",
+      "district": "HD-05-ROC",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -2487,6 +2551,16 @@
     {
       "rollCallKey": "LS-1572469",
       "billId": "TX-HB3441",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1572469",
+      "billId": "TX-HB3441",
       "name": "Claudia Ordaz Perez",
       "state": "TX",
       "chamber": "House",
@@ -2505,6 +2579,26 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1572469",
+      "billId": "TX-HB3441",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1572782",
+      "billId": "TX-HB3441",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1572782",
       "billId": "TX-HB3441",
       "name": "Claudia Ordaz Perez",
@@ -2521,6 +2615,16 @@
       "state": "TX",
       "chamber": "House",
       "district": "HD-093",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1572782",
+      "billId": "TX-HB3441",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -2887,6 +2991,16 @@
     {
       "rollCallKey": "LS-1570909",
       "billId": "TX-HB4076",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1570909",
+      "billId": "TX-HB4076",
       "name": "Claudia Ordaz Perez",
       "state": "TX",
       "chamber": "House",
@@ -2905,6 +3019,26 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1570909",
+      "billId": "TX-HB4076",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1571015",
+      "billId": "TX-HB4076",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1571015",
       "billId": "TX-HB4076",
       "name": "Claudia Ordaz Perez",
@@ -2921,6 +3055,16 @@
       "state": "TX",
       "chamber": "House",
       "district": "HD-093",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1571015",
+      "billId": "TX-HB4076",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -3167,6 +3311,16 @@
     {
       "rollCallKey": "LS-1570785",
       "billId": "TX-HB1586",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1570785",
+      "billId": "TX-HB1586",
       "name": "Claudia Ordaz Perez",
       "state": "TX",
       "chamber": "House",
@@ -3185,6 +3339,26 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1570785",
+      "billId": "TX-HB1586",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1570786",
+      "billId": "TX-HB1586",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1570786",
       "billId": "TX-HB1586",
       "name": "Claudia Ordaz Perez",
@@ -3201,6 +3375,26 @@
       "state": "TX",
       "chamber": "House",
       "district": "HD-093",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1570786",
+      "billId": "TX-HB1586",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1570787",
+      "billId": "TX-HB1586",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -3225,6 +3419,26 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1570787",
+      "billId": "TX-HB1586",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1570788",
+      "billId": "TX-HB1586",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1570788",
       "billId": "TX-HB1586",
       "name": "Claudia Ordaz Perez",
@@ -3241,6 +3455,26 @@
       "state": "TX",
       "chamber": "House",
       "district": "HD-093",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1570788",
+      "billId": "TX-HB1586",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1570789",
+      "billId": "TX-HB1586",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -3265,6 +3499,26 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1570789",
+      "billId": "TX-HB1586",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1570923",
+      "billId": "TX-HB1586",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1570923",
       "billId": "TX-HB1586",
       "name": "Claudia Ordaz Perez",
@@ -3285,6 +3539,26 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1570923",
+      "billId": "TX-HB1586",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1571090",
+      "billId": "TX-HB1586",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1571090",
       "billId": "TX-HB1586",
       "name": "Claudia Ordaz Perez",
@@ -3301,6 +3575,16 @@
       "state": "TX",
       "chamber": "House",
       "district": "HD-093",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1571090",
+      "billId": "TX-HB1586",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -4005,6 +4289,36 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1662376",
+      "billId": "CO-SB032",
+      "name": "Manny Rutinel",
+      "state": "CO",
+      "chamber": "House",
+      "district": "HD-032",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1662377",
+      "billId": "CO-SB032",
+      "name": "Manny Rutinel",
+      "state": "CO",
+      "chamber": "House",
+      "district": "HD-032",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1663504",
+      "billId": "CO-SB032",
+      "name": "Manny Rutinel",
+      "state": "CO",
+      "chamber": "House",
+      "district": "HD-032",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1719235",
       "billId": "IL-HB5411",
       "name": "Harry Benton",
@@ -4237,6 +4551,16 @@
     {
       "rollCallKey": "LS-1707741",
       "billId": "OH-HB664",
+      "name": "Sharon Ray",
+      "state": "OH",
+      "chamber": "House",
+      "district": "HD-066",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1707741",
+      "billId": "OH-HB664",
       "name": "Meredith Lawson-Rowe",
       "state": "OH",
       "chamber": "House",
@@ -4307,6 +4631,16 @@
     {
       "rollCallKey": "LS-1571425",
       "billId": "TX-HB4535",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1571425",
+      "billId": "TX-HB4535",
       "name": "Claudia Ordaz Perez",
       "state": "TX",
       "chamber": "House",
@@ -4325,6 +4659,26 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1571425",
+      "billId": "TX-HB4535",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1571426",
+      "billId": "TX-HB4535",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1571426",
       "billId": "TX-HB4535",
       "name": "Claudia Ordaz Perez",
@@ -4345,6 +4699,26 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1571426",
+      "billId": "TX-HB4535",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1572183",
+      "billId": "TX-HB4535",
+      "name": "Gary Vandeaver",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-001",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1572183",
       "billId": "TX-HB4535",
       "name": "Claudia Ordaz Perez",
@@ -4361,6 +4735,16 @@
       "state": "TX",
       "chamber": "House",
       "district": "HD-093",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1572183",
+      "billId": "TX-HB4535",
+      "name": "Caroline Fairly",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-087",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -4871,366 +5255,6 @@
       "state": "ND",
       "chamber": "House",
       "district": "HD-011",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1495855",
-      "billId": "ND-HB1457",
-      "name": "Cynthia Schreiber-Beck",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-025",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1495855",
-      "billId": "ND-HB1457",
-      "name": "Emily O'Brien",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-042",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1495855",
-      "billId": "ND-HB1457",
-      "name": "Jared Hagert",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-020",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1495855",
-      "billId": "ND-HB1457",
-      "name": "Liz Conmy",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-011",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1503068",
-      "billId": "MT-HB747",
-      "name": "Ron Marshall",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1499419",
-      "billId": "MT-HB498",
-      "name": "Ron Marshall",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1494351",
-      "billId": "ND-HB1605",
-      "name": "Cynthia Schreiber-Beck",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-025",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1494351",
-      "billId": "ND-HB1605",
-      "name": "Emily O'Brien",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-042",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1494351",
-      "billId": "ND-HB1605",
-      "name": "Jared Hagert",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-020",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1494351",
-      "billId": "ND-HB1605",
-      "name": "Liz Conmy",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-011",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1609766",
-      "billId": "OH-HB455",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1708669",
-      "billId": "OH-HB455",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1708877",
-      "billId": "OH-SB276",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1584904",
-      "billId": "OH-HB210",
-      "name": "Sedrick Denson",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-026",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1584904",
-      "billId": "OH-HB210",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1708770",
-      "billId": "OH-HB210",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1645491",
-      "billId": "OH-HB292",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1653319",
-      "billId": "OH-HB292",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1709002",
-      "billId": "OH-HB292",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1609076",
-      "billId": "OH-HB195",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1707820",
-      "billId": "OH-HB195",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1708775",
-      "billId": "OH-SB315",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1604402",
-      "billId": "OH-HB268",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1645462",
-      "billId": "OH-HB479",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1708720",
-      "billId": "OH-HB479",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1707782",
-      "billId": "OH-SB273",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588986",
-      "billId": "OH-HB31",
-      "name": "Sedrick Denson",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-026",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588986",
-      "billId": "OH-HB31",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1700739",
-      "billId": "OH-HB31",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1562909",
-      "billId": "CA-SB747",
-      "name": "Aisha Wahab",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1573491",
-      "billId": "CA-SB747",
-      "name": "Aisha Wahab",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1577305",
-      "billId": "CA-SB747",
-      "name": "Aisha Wahab",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1614008",
-      "billId": "CA-SB747",
-      "name": "Aisha Wahab",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1614823",
-      "billId": "CA-SB747",
-      "name": "Aisha Wahab",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1616347",
-      "billId": "CA-SB747",
-      "name": "Aisha Wahab",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1617886",
-      "billId": "CA-SB747",
-      "name": "Aisha Wahab",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     }

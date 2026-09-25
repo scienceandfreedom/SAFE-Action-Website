@@ -1,15 +1,15 @@
 {
   "summary": {
-    "legislators": 7879,
-    "with_classified_activity": 3061,
+    "legislators": 7874,
+    "with_classified_activity": 3058,
     "classified_bills": 287,
     "classified_bills_with_sponsor_data": 280,
-    "pro_acts": 3510,
-    "anti_acts": 4316,
-    "sponsorships": 1627,
+    "pro_acts": 3509,
+    "anti_acts": 4305,
+    "sponsorships": 1625,
     "primary": 388,
-    "cosponsor": 1239,
-    "votes": 6199,
+    "cosponsor": 1237,
+    "votes": 6189,
     "bills_with_sponsor_data": 279,
     "bills_with_roll_calls": 63
   },
@@ -7244,6 +7244,57 @@
       }
     },
     {
+      "slug": "az-house-gosar-9",
+      "name": "Paul A. Gosar",
+      "party": "Republican",
+      "state": "AZ",
+      "chamber": "House",
+      "district": "9",
+      "level": "Federal",
+      "office": "U.S. House",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 4,
+      "anti_primary": 1,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 4,
+      "net": -4,
+      "by_topic": {
+        "Health": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 0
+        },
+        "Education": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
+        },
+        "Armed Forces and National Security": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
+        },
+        "Government Operations and Politics": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
+        }
+      }
+    },
+    {
       "slug": "tx-state-house-shofner-11",
       "name": "Joanne Shofner",
       "party": "Republican",
@@ -7300,57 +7351,6 @@
           "votes": 0
         },
         "informed-consent": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        }
-      }
-    },
-    {
-      "slug": "az-house-gosar-9",
-      "name": "Paul A. Gosar",
-      "party": "Republican",
-      "state": "AZ",
-      "chamber": "House",
-      "district": "9",
-      "level": "Federal",
-      "office": "U.S. House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 4,
-      "anti_primary": 1,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 4,
-      "net": -4,
-      "by_topic": {
-        "Health": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 1,
-          "votes": 0
-        },
-        "Education": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        },
-        "Armed Forces and National Security": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        },
-        "Government Operations and Politics": {
           "pro": 0,
           "anti": 1,
           "sponsored": 1,
@@ -9882,6 +9882,28 @@
       }
     },
     {
+      "slug": "ca-house-min-47",
+      "name": "Dave Min",
+      "party": "Democratic",
+      "state": "CA",
+      "chamber": "House",
+      "district": "47",
+      "level": "Federal",
+      "office": "U.S. House",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "tx-state-house-lowe-91",
       "name": "David Lowe",
       "party": "Republican",
@@ -11857,28 +11879,6 @@
       "by_topic": {}
     },
     {
-      "slug": "ca-house-min-47",
-      "name": "Dave Min",
-      "party": "Democratic",
-      "state": "CA",
-      "chamber": "House",
-      "district": "47",
-      "level": "Federal",
-      "office": "U.S. House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "ca-house-valadao-22",
       "name": "David G. Valadao",
       "party": "Republican",
@@ -12323,6 +12323,28 @@
       "name": "Jake Auchincloss",
       "party": "Democratic",
       "state": "MA",
+      "chamber": "House",
+      "district": "4",
+      "level": "Federal",
+      "office": "U.S. House",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
+      "slug": "in-house-baird-4",
+      "name": "James R. Baird",
+      "party": "Republican",
+      "state": "IN",
       "chamber": "House",
       "district": "4",
       "level": "Federal",
@@ -15495,28 +15517,6 @@
       "state": "TX",
       "chamber": "House",
       "district": "6",
-      "level": "Federal",
-      "office": "U.S. House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
-      "slug": "in-house-baird-4",
-      "name": "James R. Baird",
-      "party": "Republican",
-      "state": "IN",
-      "chamber": "House",
-      "district": "4",
       "level": "Federal",
       "office": "U.S. House",
       "pro_sponsored": 0,
@@ -21249,28 +21249,6 @@
       "by_topic": {}
     },
     {
-      "slug": "oh-state-house-ray-66",
-      "name": "Sharon Ray",
-      "party": "Republican",
-      "state": "OH",
-      "chamber": "House",
-      "district": "66",
-      "level": "State",
-      "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "tx-state-house-slawson-59",
       "name": "Shelby Slawson",
       "party": "Republican",
@@ -23595,50 +23573,6 @@
       }
     },
     {
-      "slug": "tx-state-house-fairly-87",
-      "name": "Caroline Fairly",
-      "party": "Republican",
-      "state": "TX",
-      "chamber": "House",
-      "district": "87",
-      "level": "State",
-      "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 3,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 4,
-      "net": -4,
-      "by_topic": {
-        "vaccine-injury": {
-          "pro": 0,
-          "anti": 2,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 1
-        },
-        "vaccine-discrimination": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        },
-        "vaccine-exemption": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "ny-state-house-cruz-39",
       "name": "Catalina Cruz",
       "party": "Democratic",
@@ -23975,50 +23909,6 @@
           "votes": 1
         },
         "vaccine-discrimination": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "tx-state-house-vandeaver-1",
-      "name": "Gary VanDeaver",
-      "party": "Republican",
-      "state": "TX",
-      "chamber": "House",
-      "district": "1",
-      "level": "State",
-      "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 3,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 4,
-      "net": -4,
-      "by_topic": {
-        "vaccine-injury": {
-          "pro": 0,
-          "anti": 2,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 1
-        },
-        "vaccine-discrimination": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        },
-        "vaccine-exemption": {
           "pro": 0,
           "anti": 1,
           "sponsored": 0,
@@ -30781,6 +30671,28 @@
       "district": "8",
       "level": "State",
       "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
+      "slug": "dc-state-legislature-mendelson-chairman",
+      "name": "Phil Mendelson",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "CHAIRMAN",
+      "level": "State",
+      "office": "State Legislature",
       "pro_sponsored": 0,
       "pro_primary": 0,
       "anti_sponsored": 0,
@@ -38381,6 +38293,43 @@
       }
     },
     {
+      "slug": "mi-state-senate-runestad-23",
+      "name": "Jim Runestad",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "23",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 2,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 2,
+      "net": -1,
+      "by_topic": {
+        "vaccine-exemption": {
+          "pro": 0,
+          "anti": 2,
+          "sponsored": 2,
+          "primary": 0,
+          "votes": 0
+        },
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "ny-state-house-giglio-2",
       "name": "Jodi Giglio",
       "party": "Republican/Conservative",
@@ -38668,6 +38617,36 @@
           "votes": 4
         },
         "vaccine-injury": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-hertel-12",
+      "name": "Kevin Hertel",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "12",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -43041,6 +43020,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-polehanki-5",
+      "name": "Dayna Polehanki",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "5",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "md-state-house-davis-28",
       "name": "Debra Davis",
       "party": "Democratic",
@@ -43681,6 +43690,36 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 3
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-geiss-1",
+      "name": "Erika Geiss",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "1",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -45053,43 +45092,6 @@
           "votes": 2
         },
         "fluoride": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-runestad-23",
-      "name": "Jim Runestad",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "23",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 2,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 2,
-      "net": -1,
-      "by_topic": {
-        "vaccine-exemption": {
-          "pro": 0,
-          "anti": 2,
-          "sponsored": 2,
-          "primary": 0,
-          "votes": 0
-        },
-        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -48518,6 +48520,36 @@
       "by_topic": {}
     },
     {
+      "slug": "mi-state-senate-wojno-10",
+      "name": "Paul Wojno",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "10",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "mi-state-house-herzberg-25",
       "name": "Peter Herzberg",
       "party": "Democratic",
@@ -48546,28 +48578,6 @@
           "votes": 1
         }
       }
-    },
-    {
-      "slug": "dc-state-legislature-mendelson-chairman",
-      "name": "Phil Mendelson",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "CHAIRMAN",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
     },
     {
       "slug": "me-state-senate-ross-28",
@@ -48902,6 +48912,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-hauck-34",
+      "name": "Roger Hauck",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "34",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "nd-state-house-maki-26",
       "name": "Roger Maki",
       "party": "Republican",
@@ -49004,6 +49044,36 @@
           "votes": 1
         },
         "vaccine-discrimination": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-bayer-13",
+      "name": "Rosemary Bayer",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "13",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -49405,6 +49475,36 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
+    },
+    {
+      "slug": "mi-state-senate-chang-3",
+      "name": "Stephanie Chang",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "3",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "md-state-house-smith-45",
@@ -49812,6 +49912,36 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 2
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-santana-2",
+      "name": "Sylvia Santana",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "2",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 1,
+      "pro_primary": 1,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 2,
+      "anti_acts": 0,
+      "net": 2,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
         }
       }
     },
@@ -50405,6 +50535,36 @@
           "votes": 1
         },
         "mRNA-reclassification": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-klinefelt-11",
+      "name": "Veronica Klinefelt",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "11",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -51433,6 +51593,28 @@
           "votes": 3
         }
       }
+    },
+    {
+      "slug": "dc-state-legislature-pinto-ward-2",
+      "name": "Brooke Pinto",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "WARD 2",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
     },
     {
       "slug": "me-state-senate-bickford-20",
@@ -52741,36 +52923,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-geiss-1",
-      "name": "Erika Geiss",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "1",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "mt-state-house-nave-56",
       "name": "Fiona Nave",
       "party": "Republican",
@@ -53294,6 +53446,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-irwin-15",
+      "name": "Jeff Irwin",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "15",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "me-state-senate-timberlake-17",
       "name": "Jeff Timberlake",
       "party": "Republican",
@@ -53662,6 +53844,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-bellino-16",
+      "name": "Joe Bellino",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "16",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "me-state-senate-martin-19",
       "name": "Joe Martin",
       "party": "Republican",
@@ -53783,6 +53995,36 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 4
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-damoose-37",
+      "name": "John Damoose",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "37",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -54524,36 +54766,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-hertel-12",
-      "name": "Kevin Hertel",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "12",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "az-state-senate-sears-9",
       "name": "Kiana Sears",
       "party": "Democratic",
@@ -54829,6 +55041,43 @@
         "public-health": {
           "pro": 0,
           "anti": 1,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-theis-22",
+      "name": "Lana Theis",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "22",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 2,
+      "anti_primary": 1,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 2,
+      "net": -1,
+      "by_topic": {
+        "vaccine-exemption": {
+          "pro": 0,
+          "anti": 2,
+          "sponsored": 2,
+          "primary": 1,
+          "votes": 0
+        },
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
           "sponsored": 0,
           "primary": 0,
           "votes": 1
@@ -55462,6 +55711,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-huizenga-30",
+      "name": "Mark Huizenga",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "30",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "me-state-senate-lawrence-35",
       "name": "Mark Lawrence",
       "party": "Democratic",
@@ -55876,6 +56155,36 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 2
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-webber-9",
+      "name": "Michael Webber",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "9",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -56477,36 +56786,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-wojno-10",
-      "name": "Paul Wojno",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "10",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "ny-state-house-kay-100",
       "name": "Paula Kay",
       "party": "Democratic",
@@ -56949,6 +57228,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-outman-33",
+      "name": "Rick Outman",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "33",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "ok-state-house-west-3",
       "name": "Rick West",
       "party": "Republican",
@@ -57063,6 +57372,43 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 4
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-victory-31",
+      "name": "Roger Victory",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "31",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 2,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 2,
+      "net": -1,
+      "by_topic": {
+        "vaccine-exemption": {
+          "pro": 0,
+          "anti": 2,
+          "sponsored": 2,
+          "primary": 0,
+          "votes": 0
+        },
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -57183,6 +57529,43 @@
           "votes": 1
         },
         "vaccine-exemption": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-johnson-24",
+      "name": "Ruth Johnson",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "24",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 2,
+      "anti_primary": 1,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 2,
+      "net": -1,
+      "by_topic": {
+        "vaccine-exemption": {
+          "pro": 0,
+          "anti": 2,
+          "sponsored": 2,
+          "primary": 1,
+          "votes": 0
+        },
+        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -57394,6 +57777,36 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 4
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-singh-28",
+      "name": "Sam Singh",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "28",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -58062,6 +58475,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-shink-14",
+      "name": "Sue Shink",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "14",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "ri-state-house-donovan-69",
       "name": "Susan Donovan",
       "party": "Democratic",
@@ -58088,36 +58531,6 @@
           "sponsored": 1,
           "primary": 1,
           "votes": 2
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-santana-2",
-      "name": "Sylvia Santana",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "2",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 1,
-      "pro_primary": 1,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 2,
-      "anti_acts": 0,
-      "net": 2,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 2,
-          "anti": 0,
-          "sponsored": 1,
-          "primary": 1,
-          "votes": 1
         }
       }
     },
@@ -59567,6 +59980,28 @@
       "by_topic": {}
     },
     {
+      "slug": "dc-state-legislature-bonds-at-large",
+      "name": "Anita Bonds",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "nh-state-house-burroughs-carroll-2",
       "name": "Anita Burroughs",
       "party": "Democratic",
@@ -60934,6 +61369,28 @@
       }
     },
     {
+      "slug": "dc-state-legislature-nadeau-ward-1",
+      "name": "Brianne Nadeau",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "WARD 1",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "nh-state-house-morse-merrimack-3",
       "name": "Bryan Morse",
       "party": "Republican",
@@ -61998,6 +62455,28 @@
       "by_topic": {}
     },
     {
+      "slug": "dc-state-legislature-henderson-at-large",
+      "name": "Christina Henderson",
+      "party": "Independent",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "me-state-house-mitchell-110",
       "name": "Christina Mitchell",
       "party": "Democratic",
@@ -62922,6 +63401,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-camilleri-4",
+      "name": "Darrin Camilleri",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "4",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "pa-state-house-madsen-104",
       "name": "Dave Madsen",
       "party": "Democratic",
@@ -63503,36 +64012,6 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 2
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-polehanki-5",
-      "name": "Dayna Polehanki",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "5",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
         }
       }
     },
@@ -68977,36 +69456,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-damoose-37",
-      "name": "John Damoose",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "37",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "me-state-house-eder-136",
       "name": "John Eder",
       "party": "Republican",
@@ -71714,43 +72163,6 @@
       "by_topic": {}
     },
     {
-      "slug": "mi-state-senate-theis-22",
-      "name": "Lana Theis",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "22",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 2,
-      "anti_primary": 1,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 2,
-      "net": -1,
-      "by_topic": {
-        "vaccine-exemption": {
-          "pro": 0,
-          "anti": 2,
-          "sponsored": 2,
-          "primary": 1,
-          "votes": 0
-        },
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "mt-state-house-brewster-43",
       "name": "Larry Brewster",
       "party": "Republican",
@@ -73479,6 +73891,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-mcmorrow-8",
+      "name": "Mallory McMorrow",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "8",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "me-state-house-abdi-95",
       "name": "Mana Abdi",
       "party": "Democratic",
@@ -73529,28 +73971,6 @@
       "state": "CO",
       "chamber": "House",
       "district": "42",
-      "level": "State",
-      "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
-      "slug": "co-state-house-rutinel-32",
-      "name": "Manny Rutinel",
-      "party": "Democratic",
-      "state": "CO",
-      "chamber": "House",
-      "district": "32",
       "level": "State",
       "office": "State House",
       "pro_sponsored": 0,
@@ -74030,36 +74450,6 @@
           "votes": 1
         },
         "vaccine-exemption": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-huizenga-30",
-      "name": "Mark Huizenga",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "30",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -74764,6 +75154,28 @@
           "votes": 2
         }
       }
+    },
+    {
+      "slug": "dc-state-legislature-frumin-ward-3",
+      "name": "Matt Frumin",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "WARD 3",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
     },
     {
       "slug": "mi-state-house-longjohn-40",
@@ -75512,73 +75924,6 @@
           "votes": 1
         },
         "vaccine-exemption": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "nh-state-house-vose-rockingham-5",
-      "name": "Michael Vose",
-      "party": "Republican",
-      "state": "NH",
-      "chamber": "House",
-      "district": "ROCKINGHAM 5",
-      "level": "State",
-      "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 3,
-      "votes_against_anti": 1,
-      "pro_acts": 1,
-      "anti_acts": 3,
-      "net": -2,
-      "by_topic": {
-        "vaccine-exemption": {
-          "pro": 0,
-          "anti": 2,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 2
-        },
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 2
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-webber-9",
-      "name": "Michael Webber",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "9",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -78772,73 +79117,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-hauck-34",
-      "name": "Roger Hauck",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "34",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-victory-31",
-      "name": "Roger Victory",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "31",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 2,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 2,
-      "net": -1,
-      "by_topic": {
-        "vaccine-exemption": {
-          "pro": 0,
-          "anti": 2,
-          "sponsored": 2,
-          "primary": 0,
-          "votes": 0
-        },
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "me-state-house-olsen-86",
       "name": "Rolf Olsen",
       "party": "Republican",
@@ -79142,43 +79420,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-johnson-24",
-      "name": "Ruth Johnson",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "24",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 2,
-      "anti_primary": 1,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 2,
-      "net": -1,
-      "by_topic": {
-        "vaccine-exemption": {
-          "pro": 0,
-          "anti": 2,
-          "sponsored": 2,
-          "primary": 1,
-          "votes": 0
-        },
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "pa-state-house-warner-52",
       "name": "Ryan Warner",
       "party": "Republican",
@@ -79461,6 +79702,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-anthony-21",
+      "name": "Sarah Anthony",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "21",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "ct-state-house-keitt-134",
       "name": "Sarah Keitt",
       "party": "Democratic",
@@ -79660,6 +79931,36 @@
         "vaccine-exemption": {
           "pro": 0,
           "anti": 1,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-mccann-19",
+      "name": "Sean McCann",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "19",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
           "sponsored": 0,
           "primary": 0,
           "votes": 1
@@ -80295,36 +80596,6 @@
         "vaccine-exemption": {
           "pro": 0,
           "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-chang-3",
-      "name": "Stephanie Chang",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "3",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
           "sponsored": 0,
           "primary": 0,
           "votes": 1
@@ -82527,6 +82798,28 @@
       }
     },
     {
+      "slug": "dc-state-legislature-white-ward-8",
+      "name": "Trayon White",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "WARD 8",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "nh-state-house-tellez-hillsborough-40",
       "name": "Trinidad Tellez",
       "party": "Democratic",
@@ -82819,36 +83112,6 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 2
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-klinefelt-11",
-      "name": "Veronica Klinefelt",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "11",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
         }
       }
     },
@@ -83168,6 +83431,28 @@
           "votes": 1
         }
       }
+    },
+    {
+      "slug": "dc-state-legislature-felder-ward-7",
+      "name": "Wendell Felder",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "WARD 7",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
     },
     {
       "slug": "pa-state-house-fink-94",
@@ -83514,6 +83799,28 @@
           "votes": 1
         }
       }
+    },
+    {
+      "slug": "dc-state-legislature-parker-ward-5",
+      "name": "Zachary Parker",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "WARD 5",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
     },
     {
       "slug": "nh-state-house-manos-rockingham-12",
@@ -83932,6 +84239,36 @@
       "by_topic": {}
     },
     {
+      "slug": "pa-state-senate-cappelletti-17",
+      "name": "Amanda Cappelletti",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "17",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 1,
+      "net": -1,
+      "by_topic": {
+        "public-health": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
+        }
+      }
+    },
+    {
       "slug": "sd-state-house-arlint-12",
       "name": "Amber Arlint",
       "party": "Republican",
@@ -84233,6 +84570,66 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 2
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-nesbitt-20",
+      "name": "Aric Nesbitt",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "20",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "pa-state-senate-haywood-4",
+      "name": "Art Haywood",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "4",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 1,
+      "net": -1,
+      "by_topic": {
+        "public-health": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
         }
       }
     },
@@ -85165,6 +85562,28 @@
       "by_topic": {}
     },
     {
+      "slug": "dc-state-legislature-allen-ward-6",
+      "name": "Charles Allen",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "WARD 6",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "md-state-senate-sydnor-44",
       "name": "Charles Sydnor",
       "party": "Democratic",
@@ -85860,6 +86279,36 @@
           "pro": 2,
           "anti": 0,
           "sponsored": 1,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-lauwers-25",
+      "name": "Dan Lauwers",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "25",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
           "primary": 0,
           "votes": 1
         }
@@ -86741,6 +87190,28 @@
           "votes": 1
         }
       }
+    },
+    {
+      "slug": "mi-state-senate-mcbroom-38",
+      "name": "Ed McBroom",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "38",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
     },
     {
       "slug": "pa-state-house-neilson-174",
@@ -87792,6 +88263,28 @@
       }
     },
     {
+      "slug": "dc-state-legislature-george-ward-4",
+      "name": "Janeese Lewis George",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "WARD 4",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "ok-state-house-deck-44",
       "name": "Jared Deck",
       "party": "Democratic",
@@ -88037,36 +88530,6 @@
       "by_topic": {}
     },
     {
-      "slug": "mi-state-senate-irwin-15",
-      "name": "Jeff Irwin",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "15",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "nd-state-senate-magrum-8",
       "name": "Jeff Magrum",
       "party": "Republican",
@@ -88303,6 +88766,36 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
+    },
+    {
+      "slug": "mi-state-senate-moss-7",
+      "name": "Jeremy Moss",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "7",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "pa-state-house-topper-78",
@@ -88656,36 +89149,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-bellino-16",
-      "name": "Joe Bellino",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "16",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "pa-state-house-ciresi-146",
       "name": "Joe Ciresi",
       "party": "Democratic",
@@ -88802,6 +89265,36 @@
           "sponsored": 1,
           "primary": 0,
           "votes": 2
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-cherry-27",
+      "name": "John Cherry",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "27",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -89134,6 +89627,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-bumstead-32",
+      "name": "Jon Bumstead",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "32",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "nc-state-house-almond-73",
       "name": "Jonathan Almond",
       "party": "Republican",
@@ -89174,6 +89697,36 @@
           "sponsored": 1,
           "primary": 1,
           "votes": 0
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-lindsey-17",
+      "name": "Jonathan Lindsey",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "17",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 1,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 1,
+      "net": -1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -89907,6 +90460,36 @@
       "net": 1,
       "by_topic": {
         "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-daley-26",
+      "name": "Kevin Daley",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "26",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -90993,6 +91576,36 @@
       }
     },
     {
+      "slug": "mi-state-senate-cavanagh-6",
+      "name": "Mary Cavanagh",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "6",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "sd-state-house-fitzgerald-31",
       "name": "Mary Fitzgerald",
       "party": "Republican",
@@ -91373,6 +91986,36 @@
         "vaccine-mandate": {
           "pro": 0,
           "anti": 1,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-hoitenga-36",
+      "name": "Michele Hoitenga",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "36",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 1,
+          "anti": 0,
           "sponsored": 0,
           "primary": 0,
           "votes": 1
@@ -92919,36 +93562,6 @@
       "by_topic": {}
     },
     {
-      "slug": "mi-state-senate-outman-33",
-      "name": "Rick Outman",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "33",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "co-state-house-taggart-55",
       "name": "Rick Taggart",
       "party": "Republican",
@@ -93036,6 +93649,28 @@
           "votes": 1
         }
       }
+    },
+    {
+      "slug": "dc-state-legislature-white-at-large",
+      "name": "Robert White",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
     },
     {
       "slug": "sd-state-house-degroot-7",
@@ -93148,36 +93783,6 @@
       "net": 1,
       "by_topic": {
         "medical-freedom": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-bayer-13",
-      "name": "Rosemary Bayer",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "13",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -94392,6 +94997,36 @@
       "by_topic": {}
     },
     {
+      "slug": "mi-state-senate-albert-18",
+      "name": "Thomas Albert",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "18",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 1,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 1,
+      "net": -1,
+      "by_topic": {
+        "vaccine-mandate": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
       "slug": "ky-state-house-huff-49",
       "name": "Thomas Huff",
       "party": "Republican",
@@ -94745,6 +95380,36 @@
           "sponsored": 1,
           "primary": 0,
           "votes": 2
+        }
+      }
+    },
+    {
+      "slug": "pa-state-senate-tartaglione-2",
+      "name": "Tina Tartaglione",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "2",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 1,
+      "net": -1,
+      "by_topic": {
+        "public-health": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
         }
       }
     },
@@ -95319,6 +95984,36 @@
           "votes": 1
         },
         "vaccine-discrimination": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "mi-state-senate-brinks-29",
+      "name": "Winnie Brinks",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "29",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 1,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "vaccine-mandate": {
           "pro": 1,
           "anti": 0,
           "sponsored": 0,
@@ -96906,36 +97601,6 @@
       "by_topic": {}
     },
     {
-      "slug": "mi-state-senate-nesbitt-20",
-      "name": "Aric Nesbitt",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "20",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "ct-state-house-jensen-131",
       "name": "Arnie Jensen",
       "party": "Republican",
@@ -98497,28 +99162,6 @@
       "by_topic": {}
     },
     {
-      "slug": "dc-state-legislature-pinto-ward-2",
-      "name": "Brooke Pinto",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "WARD 2",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "or-state-senate-starr-12",
       "name": "Bruce Starr",
       "party": "Republican",
@@ -99316,6 +99959,28 @@
       "district": "CHITTENDEN-5",
       "level": "State",
       "office": "State House",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
+      "slug": "mi-state-senate-greene-35",
+      "name": "Chedrick Greene",
+      "party": "Democratic",
+      "state": "MI",
+      "chamber": "Senate",
+      "district": "35",
+      "level": "State",
+      "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
       "anti_sponsored": 0,
@@ -100698,36 +101363,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-lauwers-25",
-      "name": "Dan Lauwers",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "25",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "vt-state-house-noyes-lamoille-2",
       "name": "Dan Noyes",
       "party": "Democratic",
@@ -100950,36 +101585,6 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
-    },
-    {
-      "slug": "mi-state-senate-camilleri-4",
-      "name": "Darrin Camilleri",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "4",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
     },
     {
       "slug": "la-state-house-deshotel-28",
@@ -102613,28 +103218,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-mcbroom-38",
-      "name": "Ed McBroom",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "38",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "la-state-house-murray-97",
       "name": "Ed Murray",
       "party": "Democratic",
@@ -102857,6 +103440,28 @@
           "votes": 0
         }
       }
+    },
+    {
+      "slug": "dc-state-legislature-silverman-at-large",
+      "name": "Elissa Silverman",
+      "party": "Independent",
+      "state": "DC",
+      "chamber": "Legislature",
+      "district": "",
+      "level": "State",
+      "office": "State Legislature",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
     },
     {
       "slug": "vt-state-house-burrows-windsor-1",
@@ -106096,36 +106701,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-moss-7",
-      "name": "Jeremy Moss",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "7",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "pa-state-house-shaffer-28",
       "name": "Jeremy Shaffer",
       "party": "Republican",
@@ -107106,36 +107681,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-cherry-27",
-      "name": "John Cherry",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "27",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "tn-state-house-crawford-1",
       "name": "John Crawford",
       "party": "Republican",
@@ -107214,6 +107759,36 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "pa-state-senate-kane-9",
+      "name": "John Kane",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "9",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 1,
+      "net": -1,
+      "by_topic": {
+        "public-health": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
         }
       }
     },
@@ -107448,36 +108023,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-bumstead-32",
-      "name": "Jon Bumstead",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "32",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "vt-state-house-cooper-bennington-1",
       "name": "Jonathan Cooper",
       "party": "Democratic",
@@ -107520,36 +108065,6 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
-    },
-    {
-      "slug": "mi-state-senate-lindsey-17",
-      "name": "Jonathan Lindsey",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "17",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 1,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
     },
     {
       "slug": "nd-state-senate-sickler-17",
@@ -109281,36 +109796,6 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
-    },
-    {
-      "slug": "mi-state-senate-daley-26",
-      "name": "Kevin Daley",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "26",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
     },
     {
       "slug": "ky-state-house-jackson-20",
@@ -111160,36 +111645,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-mcmorrow-8",
-      "name": "Mallory McMorrow",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "8",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "la-state-house-landry-91",
       "name": "Mandie Landry",
       "party": "Democratic",
@@ -111384,6 +111839,36 @@
           "pro": 2,
           "anti": 0,
           "sponsored": 2,
+          "primary": 1,
+          "votes": 0
+        }
+      }
+    },
+    {
+      "slug": "pa-state-senate-collett-12",
+      "name": "Maria Collett",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "12",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 1,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 1,
+      "net": -1,
+      "by_topic": {
+        "public-health": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
           "primary": 1,
           "votes": 0
         }
@@ -111929,36 +112414,6 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 2
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-cavanagh-6",
-      "name": "Mary Cavanagh",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "6",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
         }
       }
     },
@@ -112934,36 +113389,6 @@
         "vaccine-mandate": {
           "pro": 0,
           "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-hoitenga-36",
-      "name": "Michele Hoitenga",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "36",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
           "sponsored": 0,
           "primary": 0,
           "votes": 1
@@ -114185,6 +114610,36 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "pa-state-senate-saval-1",
+      "name": "Nikil Saval",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "1",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 1,
+      "net": -1,
+      "by_topic": {
+        "public-health": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
         }
       }
     },
@@ -116669,36 +117124,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-singh-28",
-      "name": "Sam Singh",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "28",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "ky-state-house-heavrin-18",
       "name": "Samara Heavrin",
       "party": "Republican",
@@ -116801,36 +117226,6 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
-    },
-    {
-      "slug": "mi-state-senate-anthony-21",
-      "name": "Sarah Anthony",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "21",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
     },
     {
       "slug": "mi-state-house-lightner-45",
@@ -117274,36 +117669,6 @@
         "public-health": {
           "pro": 0,
           "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "mi-state-senate-mccann-19",
-      "name": "Sean McCann",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "19",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
           "sponsored": 0,
           "primary": 0,
           "votes": 1
@@ -118423,36 +118788,6 @@
       "by_topic": {}
     },
     {
-      "slug": "mi-state-senate-shink-14",
-      "name": "Sue Shink",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "14",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "ri-state-senate-sosnowski-37",
       "name": "Sue Sosnowski",
       "party": "Democratic",
@@ -118863,36 +119198,6 @@
       }
     },
     {
-      "slug": "mi-state-senate-albert-18",
-      "name": "Thomas Albert",
-      "party": "Republican",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "18",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 1,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "ri-state-senate-paolino-17",
       "name": "Thomas Paolino",
       "party": "Republican",
@@ -119023,6 +119328,36 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "pa-state-senate-kearney-26",
+      "name": "Tim Kearney",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "26",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 1,
+      "net": -1,
+      "by_topic": {
+        "public-health": {
+          "pro": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
         }
       }
     },
@@ -120838,36 +121173,6 @@
       "by_topic": {}
     },
     {
-      "slug": "mi-state-senate-brinks-29",
-      "name": "Winnie Brinks",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "29",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 1,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "vaccine-mandate": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
-          "votes": 1
-        }
-      }
-    },
-    {
       "slug": "vt-state-house-page-orleans-2",
       "name": "Woody Page",
       "party": "Republican",
@@ -121676,36 +121981,6 @@
       "by_topic": {}
     },
     {
-      "slug": "pa-state-senate-cappelletti-17",
-      "name": "Amanda Cappelletti",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "17",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "public-health": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        }
-      }
-    },
-    {
       "slug": "ok-state-house-clinton-71",
       "name": "Amanda Clinton",
       "party": "Democratic",
@@ -122272,28 +122547,6 @@
       "by_topic": {}
     },
     {
-      "slug": "dc-state-legislature-bonds-at-large",
-      "name": "Anita Bonds",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "nm-state-house-gonzales-70",
       "name": "Anita Gonzales",
       "party": "Democratic",
@@ -122594,36 +122847,6 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 1
-        }
-      }
-    },
-    {
-      "slug": "pa-state-senate-haywood-4",
-      "name": "Art Haywood",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "4",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "public-health": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
         }
       }
     },
@@ -124664,28 +124887,6 @@
       }
     },
     {
-      "slug": "dc-state-legislature-nadeau-ward-1",
-      "name": "Brianne Nadeau",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "WARD 1",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "id-state-house-raybould-34b",
       "name": "Britt Raybould",
       "party": "Republican",
@@ -125398,6 +125599,28 @@
       }
     },
     {
+      "slug": "pa-state-senate-comitta-19",
+      "name": "Carolyn Comitta",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "19",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "ms-state-house-crawford-121",
       "name": "Carolyn Crawford",
       "party": "Republican",
@@ -125908,28 +126131,6 @@
           "votes": 1
         }
       }
-    },
-    {
-      "slug": "mi-state-senate-greene-35",
-      "name": "Chedrick Greene",
-      "party": "Democratic",
-      "state": "MI",
-      "chamber": "Senate",
-      "district": "35",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
     },
     {
       "slug": "ia-state-senate-westrich-13",
@@ -126480,28 +126681,6 @@
           "votes": 1
         }
       }
-    },
-    {
-      "slug": "dc-state-legislature-henderson-at-large",
-      "name": "Christina Henderson",
-      "party": "Independent",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
     },
     {
       "slug": "or-state-senate-drazan-26",
@@ -130388,28 +130567,6 @@
           "votes": 1
         }
       }
-    },
-    {
-      "slug": "dc-state-legislature-silverman-at-large",
-      "name": "Elissa Silverman",
-      "party": "Independent",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
     },
     {
       "slug": "ia-state-house-wilson-73",
@@ -135936,36 +136093,6 @@
       }
     },
     {
-      "slug": "pa-state-senate-kane-9",
-      "name": "John Kane",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "9",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "public-health": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        }
-      }
-    },
-    {
       "slug": "wa-state-house-ley-18",
       "name": "John Ley",
       "party": "Republican",
@@ -137702,6 +137829,28 @@
       "state": "OR",
       "chamber": "Senate",
       "district": "21",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
+      "slug": "pa-state-senate-muth-44",
+      "name": "Katie Muth",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "44",
       "level": "State",
       "office": "State Senate",
       "pro_sponsored": 0,
@@ -140136,36 +140285,6 @@
       "by_topic": {}
     },
     {
-      "slug": "pa-state-senate-collett-12",
-      "name": "Maria Collett",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "12",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 1,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "public-health": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 1,
-          "votes": 0
-        }
-      }
-    },
-    {
       "slug": "nm-state-house-matthews-27",
       "name": "Marian Matthews",
       "party": "Democratic",
@@ -141216,28 +141335,6 @@
       "district": "10",
       "level": "State",
       "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
-      "slug": "dc-state-legislature-frumin-ward-3",
-      "name": "Matt Frumin",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "WARD 3",
-      "level": "State",
-      "office": "State Legislature",
       "pro_sponsored": 0,
       "pro_primary": 0,
       "anti_sponsored": 0,
@@ -143600,36 +143697,6 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
-    },
-    {
-      "slug": "pa-state-senate-saval-1",
-      "name": "Nikil Saval",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "1",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "public-health": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        }
-      }
     },
     {
       "slug": "wa-state-senate-torres-15",
@@ -149468,36 +149535,6 @@
       "by_topic": {}
     },
     {
-      "slug": "pa-state-senate-kearney-26",
-      "name": "Tim Kearney",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "26",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "public-health": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        }
-      }
-    },
-    {
       "slug": "ok-state-house-turner-15",
       "name": "Tim Turner",
       "party": "Republican",
@@ -149540,36 +149577,6 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
-    },
-    {
-      "slug": "pa-state-senate-tartaglione-2",
-      "name": "Tina Tartaglione",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "2",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "public-health": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        }
-      }
     },
     {
       "slug": "tn-state-senate-gardenhire-10",
@@ -150292,28 +150299,6 @@
       "by_topic": {}
     },
     {
-      "slug": "dc-state-legislature-white-ward-8",
-      "name": "Trayon White",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "WARD 8",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "id-state-senate-bernt-21",
       "name": "Treg Bernt",
       "party": "Republican",
@@ -150804,6 +150789,28 @@
       }
     },
     {
+      "slug": "pa-state-senate-fontana-42",
+      "name": "Wayne Fontana",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "Senate",
+      "district": "42",
+      "level": "State",
+      "office": "State Senate",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "pa-state-senate-langerholc-35",
       "name": "Wayne Langerholc",
       "party": "Republican",
@@ -150862,28 +150869,6 @@
           "votes": 0
         }
       }
-    },
-    {
-      "slug": "dc-state-legislature-felder-ward-7",
-      "name": "Wendell Felder",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "WARD 7",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
     },
     {
       "slug": "or-state-house-reschke-55",
@@ -151174,28 +151159,6 @@
       "district": "49",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
-      "slug": "dc-state-legislature-parker-ward-5",
-      "name": "Zachary Parker",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "WARD 5",
-      "level": "State",
-      "office": "State Legislature",
       "pro_sponsored": 0,
       "pro_primary": 0,
       "anti_sponsored": 0,
@@ -160516,6 +160479,28 @@
       "by_topic": {}
     },
     {
+      "slug": "tx-state-house-dunmoyer-87",
+      "name": "Caroline Dunmoyer",
+      "party": "Republican",
+      "state": "TX",
+      "chamber": "House",
+      "district": "87",
+      "level": "State",
+      "office": "State House",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
       "slug": "ks-state-house-caiharr-33",
       "name": "Carolyn Caiharr",
       "party": "Republican",
@@ -160546,28 +160531,6 @@
       "district": "33",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
-      "slug": "pa-state-senate-comitta-19",
-      "name": "Carolyn Comitta",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "19",
-      "level": "State",
-      "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
       "anti_sponsored": 0,
@@ -161184,28 +161147,6 @@
       "district": "51",
       "level": "State",
       "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
-      "slug": "dc-state-legislature-allen-ward-6",
-      "name": "Charles Allen",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "WARD 6",
-      "level": "State",
-      "office": "State Legislature",
       "pro_sponsored": 0,
       "pro_primary": 0,
       "anti_sponsored": 0,
@@ -175058,28 +174999,6 @@
       "by_topic": {}
     },
     {
-      "slug": "dc-state-legislature-george-ward-4",
-      "name": "Janeese Lewis George",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "WARD 4",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "ms-state-house-owen-106",
       "name": "Jansen Owen",
       "party": "Republican",
@@ -180360,28 +180279,6 @@
       "by_topic": {}
     },
     {
-      "slug": "ar-state-senate-dismang-18",
-      "name": "Jonathan Dismang",
-      "party": "Republican",
-      "state": "AR",
-      "chamber": "Senate",
-      "district": "18",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "wv-state-house-kyle-66",
       "name": "Jonathan Kyle",
       "party": "Republican",
@@ -182876,28 +182773,6 @@
       "district": "61A",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
-      "slug": "pa-state-senate-muth-44",
-      "name": "Katie Muth",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "44",
-      "level": "State",
-      "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
       "anti_sponsored": 0,
@@ -199896,28 +199771,6 @@
       "by_topic": {}
     },
     {
-      "slug": "dc-state-legislature-white-at-large",
-      "name": "Robert White",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "Legislature",
-      "district": "",
-      "level": "State",
-      "office": "State Legislature",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "sc-state-house-williams-62",
       "name": "Robert Williams",
       "party": "Democratic",
@@ -210962,28 +210815,6 @@
       "by_topic": {}
     },
     {
-      "slug": "pa-state-senate-fontana-42",
-      "name": "Wayne Fontana",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "Senate",
-      "district": "42",
-      "level": "State",
-      "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "ut-state-senate-harper-16",
       "name": "Wayne Harper",
       "party": "Republican",
@@ -212150,5 +211981,5 @@
       "by_topic": {}
     }
   ],
-  "generated_at": "2026-09-24T11:12:29.307244+00:00"
+  "generated_at": "2026-09-25T11:17:40.028742+00:00"
 }

@@ -272037,6 +272037,453 @@
           "vote": "Yea"
         }
       ]
+    },
+    "LS-1711521": {
+      "key": "LS-1711521",
+      "billId": "MI-SB0947",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-23",
+      "desc": "Reported Favorably With Substitute S-1 6/18/2026",
+      "yea": 8,
+      "nay": 3,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-06-23-056.htm",
+      "votes": [
+        {
+          "people_id": 10852,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11184,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14536,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18740,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18742,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18747,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18749,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20798,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21042,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24346,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1713892": {
+      "key": "LS-1713892",
+      "billId": "MI-SB0947",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-07-02",
+      "desc": "Senate Third Reading: Passed Roll Call # 173",
+      "yea": 22,
+      "nay": 15,
+      "nv": 0,
+      "absent": 1,
+      "total": 38,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-02-061.htm",
+      "votes": [
+        {
+          "people_id": 2854,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 10842,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 10852,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11179,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11183,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11184,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11185,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 14517,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14529,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 14536,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14538,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17091,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17094,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17096,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18737,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18740,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18742,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18747,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18749,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18750,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19699,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20647,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20654,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20693,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20798,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21022,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21042,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21058,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22414,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22466,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24344,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26671,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1711424": {
+      "key": "LS-1711424",
+      "billId": "DC-B26-0663",
+      "state": "DC",
+      "session_id": "2198",
+      "level": "State",
+      "chamber": "C",
+      "date": "2026-06-23",
+      "desc": "Mendelson (ANS)",
+      "yea": 13,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 13,
+      "passed": true,
+      "sourceUrl": "https://lims.dccouncil.gov/Legislation/B26-0663",
+      "votes": [
+        {
+          "people_id": 14679,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 15940,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16441,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16442,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17972,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18426,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22082,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23687,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23688,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25964,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26619,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1711425": {
+      "key": "LS-1711425",
+      "billId": "DC-B26-0663",
+      "state": "DC",
+      "session_id": "2198",
+      "level": "State",
+      "chamber": "C",
+      "date": "2026-06-23",
+      "desc": "First Reading",
+      "yea": 13,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 13,
+      "passed": true,
+      "sourceUrl": "https://lims.dccouncil.gov/Legislation/B26-0663",
+      "votes": [
+        {
+          "people_id": 14679,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 15940,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16441,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16442,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17972,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18426,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22082,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23687,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23688,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25964,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26619,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1727753": {
+      "key": "LS-1727753",
+      "billId": "DC-B26-0663",
+      "state": "DC",
+      "session_id": "2198",
+      "level": "State",
+      "chamber": "C",
+      "date": "2026-09-22",
+      "desc": "Final Reading, CC",
+      "yea": 12,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 13,
+      "passed": true,
+      "sourceUrl": "https://lims.dccouncil.gov/Legislation/B26-0663",
+      "votes": [
+        {
+          "people_id": 14679,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 15940,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16441,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16442,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17972,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18426,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22082,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22083,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23687,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23688,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25964,
+          "vote": "Yea"
+        }
+      ]
     }
   },
   "people": {
@@ -322592,6 +323039,141 @@
       "role": "Rep",
       "district": "HD-026",
       "state": "AK"
+    },
+    "14679": {
+      "name": "Phil Mendelson",
+      "first_name": "Phil",
+      "last_name": "Mendelson",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-000",
+      "state": "DC"
+    },
+    "14683": {
+      "name": "Kenyan McDuffie",
+      "first_name": "Kenyan",
+      "last_name": "McDuffie",
+      "party": "I",
+      "role": "Sen",
+      "district": "SD-000",
+      "state": "DC"
+    },
+    "15940": {
+      "name": "Anita Bonds",
+      "first_name": "Anita",
+      "last_name": "Bonds",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-000",
+      "state": "DC"
+    },
+    "16440": {
+      "name": "Elissa Silverman",
+      "first_name": "Elissa",
+      "last_name": "Silverman",
+      "party": "I",
+      "role": "Sen",
+      "district": "SD-000",
+      "state": "DC"
+    },
+    "16441": {
+      "name": "Charles Allen",
+      "first_name": "Charles",
+      "last_name": "Allen",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-006",
+      "state": "DC"
+    },
+    "16442": {
+      "name": "Brianne Nadeau",
+      "first_name": "Brianne",
+      "last_name": "Nadeau",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-001",
+      "state": "DC"
+    },
+    "17972": {
+      "name": "Robert White",
+      "first_name": "Robert",
+      "last_name": "White",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-000",
+      "state": "DC"
+    },
+    "18426": {
+      "name": "Trayon White",
+      "first_name": "Trayon",
+      "last_name": "White",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-008",
+      "state": "DC"
+    },
+    "21658": {
+      "name": "Brooke Pinto",
+      "first_name": "Brooke",
+      "last_name": "Pinto",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-002",
+      "state": "DC"
+    },
+    "22082": {
+      "name": "Christina Henderson",
+      "first_name": "Christina",
+      "last_name": "Henderson",
+      "party": "I",
+      "role": "Sen",
+      "district": "SD-000",
+      "state": "DC"
+    },
+    "22083": {
+      "name": "Janeese Lewis George",
+      "first_name": "Janeese",
+      "last_name": "George",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-004",
+      "state": "DC"
+    },
+    "23687": {
+      "name": "Zachary Parker",
+      "first_name": "Zachary",
+      "last_name": "Parker",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-005",
+      "state": "DC"
+    },
+    "23688": {
+      "name": "Matthew Frumin",
+      "first_name": "Matthew",
+      "last_name": "Frumin",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-003",
+      "state": "DC"
+    },
+    "25964": {
+      "name": "Wendell Felder",
+      "first_name": "Wendell",
+      "last_name": "Felder",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-007",
+      "state": "DC"
+    },
+    "26619": {
+      "name": "Doni Crawford",
+      "first_name": "Doni",
+      "last_name": "Crawford",
+      "party": "",
+      "role": "Sen",
+      "district": "SD-000",
+      "state": "DC"
     }
   },
   "sessions_fetched": [
@@ -322613,6 +323195,7 @@
     "2192",
     "2195",
     "2197",
+    "2198",
     "2213",
     "2214",
     "2219",
@@ -322632,7 +323215,7 @@
     "2252",
     "2253"
   ],
-  "generated_at": "2026-09-24T11:12:29.307244+00:00",
+  "generated_at": "2026-09-25T11:17:40.028742+00:00",
   "people_by_session": {
     "2236": {
       "4747": {
@@ -373257,6 +373840,143 @@
         "role": "Rep",
         "district": "HD-026",
         "state": "AK"
+      }
+    },
+    "2198": {
+      "14679": {
+        "name": "Phil Mendelson",
+        "first_name": "Phil",
+        "last_name": "Mendelson",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-000",
+        "state": "DC"
+      },
+      "14683": {
+        "name": "Kenyan McDuffie",
+        "first_name": "Kenyan",
+        "last_name": "McDuffie",
+        "party": "I",
+        "role": "Sen",
+        "district": "SD-000",
+        "state": "DC"
+      },
+      "15940": {
+        "name": "Anita Bonds",
+        "first_name": "Anita",
+        "last_name": "Bonds",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-000",
+        "state": "DC"
+      },
+      "16440": {
+        "name": "Elissa Silverman",
+        "first_name": "Elissa",
+        "last_name": "Silverman",
+        "party": "I",
+        "role": "Sen",
+        "district": "SD-000",
+        "state": "DC"
+      },
+      "16441": {
+        "name": "Charles Allen",
+        "first_name": "Charles",
+        "last_name": "Allen",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-006",
+        "state": "DC"
+      },
+      "16442": {
+        "name": "Brianne Nadeau",
+        "first_name": "Brianne",
+        "last_name": "Nadeau",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-001",
+        "state": "DC"
+      },
+      "17972": {
+        "name": "Robert White",
+        "first_name": "Robert",
+        "last_name": "White",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-000",
+        "state": "DC"
+      },
+      "18426": {
+        "name": "Trayon White",
+        "first_name": "Trayon",
+        "last_name": "White",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-008",
+        "state": "DC"
+      },
+      "21658": {
+        "name": "Brooke Pinto",
+        "first_name": "Brooke",
+        "last_name": "Pinto",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-002",
+        "state": "DC"
+      },
+      "22082": {
+        "name": "Christina Henderson",
+        "first_name": "Christina",
+        "last_name": "Henderson",
+        "party": "I",
+        "role": "Sen",
+        "district": "SD-000",
+        "state": "DC"
+      },
+      "22083": {
+        "name": "Janeese Lewis George",
+        "first_name": "Janeese",
+        "last_name": "George",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-004",
+        "state": "DC"
+      },
+      "23687": {
+        "name": "Zachary Parker",
+        "first_name": "Zachary",
+        "last_name": "Parker",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-005",
+        "state": "DC"
+      },
+      "23688": {
+        "name": "Matthew Frumin",
+        "first_name": "Matthew",
+        "last_name": "Frumin",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-003",
+        "state": "DC"
+      },
+      "25964": {
+        "name": "Wendell Felder",
+        "first_name": "Wendell",
+        "last_name": "Felder",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-007",
+        "state": "DC"
+      },
+      "26619": {
+        "name": "Doni Crawford",
+        "first_name": "Doni",
+        "last_name": "Crawford",
+        "party": "",
+        "role": "Sen",
+        "district": "SD-000",
+        "state": "DC"
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:12:29.307244+00:00",
+  "generated_at": "2026-09-25T11:17:40.028742+00:00",
   "targets": [
     {
       "legislator_id": "RI-Senate-Whitehouse",
@@ -16076,24 +16076,6 @@
       }
     },
     {
-      "legislator_id": "AR-State-Senate-Dismang-18",
-      "name": "Jonathan Dismang",
-      "state": "AR",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "AR-State-Senate-Bryant-32",
       "name": "Josh Bryant",
       "state": "AR",
@@ -20542,24 +20524,6 @@
     {
       "legislator_id": "CO-State-House-Lindsay-42",
       "name": "Mandy Lindsay",
-      "state": "CO",
-      "party": "Democratic",
-      "reason": "Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
-      "legislator_id": "CO-State-House-Rutinel-32",
-      "name": "Manny Rutinel",
       "state": "CO",
       "party": "Democratic",
       "reason": "Fence-sitter — persuadable",
@@ -85268,24 +85232,6 @@
       }
     },
     {
-      "legislator_id": "NH-State-House-Vose-Rockingham-5",
-      "name": "Michael Vose",
-      "state": "NH",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "NH-State-House-Bordes-Belknap-5",
       "name": "Mike Bordes",
       "state": "NH",
@@ -103162,24 +103108,6 @@
     {
       "legislator_id": "OH-State-Senate-Wilkin-17",
       "name": "Shane Wilkin",
-      "state": "OH",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
-      "legislator_id": "OH-State-House-Ray-66",
-      "name": "Sharon Ray",
       "state": "OH",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
@@ -122258,8 +122186,8 @@
       }
     },
     {
-      "legislator_id": "TX-State-House-Fairly-87",
-      "name": "Caroline Fairly",
+      "legislator_id": "TX-State-House-Dunmoyer-87",
+      "name": "Caroline Dunmoyer",
       "state": "TX",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
@@ -122908,24 +122836,6 @@
     {
       "legislator_id": "TX-State-House-Gates-28",
       "name": "Gary Gates",
-      "state": "TX",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
-      "legislator_id": "TX-State-House-VanDeaver-1",
-      "name": "Gary VanDeaver",
       "state": "TX",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",

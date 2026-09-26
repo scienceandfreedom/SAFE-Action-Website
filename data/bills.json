@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T11:17:40.028742+00:00",
+  "generated_at": "2026-09-26T10:54:16.045003+00:00",
   "source": "govinfo+legiscan",
-  "total": 9544,
+  "total": 9545,
   "bills": [
     {
       "billId": "US-119-HR120",
@@ -15254,6 +15254,58 @@
       "rollCalls": []
     },
     {
+      "billId": "US-119-S5501",
+      "billNumber": "S 5501",
+      "title": "A bill to amend the Alaska Power Administration Asset Sale and Termination Act to modify and continue an exemption from application of the Federal Power Act for the Snettisham Hydroelectric Project, and for other purposes.",
+      "state": "US",
+      "level": "Federal",
+      "billType": "monitor",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "impact": "Medium",
+      "category": "General",
+      "summary": "A bill to amend the Alaska Power Administration Asset Sale and Termination Act to modify and continue an exemption from application of the Federal Power Act for the Snettisham Hydroelectric Project, and for other purposes.",
+      "lastAction": "Introduced in Senate",
+      "lastActionDate": "2026-09-24",
+      "stance": "monitor",
+      "committee": "Energy and Natural Resources Committee",
+      "sponsors": [
+        {
+          "name": "Sen. Murkowski, Lisa [R-AK]",
+          "party": "R",
+          "state": "AK",
+          "bioguide_id": "M001153"
+        }
+      ],
+      "sponsorships": [
+        {
+          "bioguide_id": "M001153",
+          "name": "Sen. Murkowski, Lisa [R-AK]",
+          "first_name": "Lisa",
+          "last_name": "Murkowski",
+          "party": "R",
+          "state": "AK",
+          "district": "",
+          "chamber": "Senate",
+          "type": "primary"
+        },
+        {
+          "bioguide_id": "S001198",
+          "name": "Sen. Sullivan, Dan [R-AK]",
+          "first_name": "Dan",
+          "last_name": "Sullivan",
+          "party": "R",
+          "state": "AK",
+          "district": "",
+          "chamber": "Senate",
+          "type": "cosponsor"
+        }
+      ],
+      "subjects": [],
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5501",
+      "rollCalls": []
+    },
+    {
       "billId": "AL-SB278",
       "state": "AL",
       "billNumber": "SB278",
@@ -22427,7 +22479,7 @@
       "summary": "Pharmacists; Physician Associates",
       "sponsor": "Genevieve Mina (D)",
       "lastAction": "FN2: (CED)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB195/2025",
@@ -22612,7 +22664,7 @@
       "state": "AK",
       "billNumber": "HB263",
       "title": "Approp: Operating Budget;funds;supp",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -22622,7 +22674,7 @@
       "summary": "Approp: Operating Budget;funds;supp",
       "sponsor": "",
       "lastAction": "FISCAL NOTE MEMO TRANSMITTED TO GOVERNOR 9/11/26",
-      "lastActionDate": "2026-09-11",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB263/2025",
@@ -44354,6 +44406,27 @@
       "legiscan_bill_id": 2120113
     },
     {
+      "billId": "NJ-A5539",
+      "state": "NJ",
+      "billNumber": "A5539",
+      "title": "Permits pharmacists to administer certain long-acting injectable drugs.",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Permits pharmacists to administer certain long-acting injectable drugs.",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Health Committee",
+      "lastActionDate": "2026-09-24",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A5539/2026",
+      "legiscan_bill_id": 2158409
+    },
+    {
       "billId": "NJ-A1016",
       "state": "NJ",
       "billNumber": "A1016",
@@ -44948,27 +45021,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/S384/2026",
       "legiscan_bill_id": 2074904
-    },
-    {
-      "billId": "NJ-S2411",
-      "state": "NJ",
-      "billNumber": "S2411",
-      "title": "Permits dogs to visit at State veterans' residential facilities.",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Permits dogs to visit at State veterans' residential facilities.",
-      "sponsor": "",
-      "lastAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/S2411/2026",
-      "legiscan_bill_id": 2076067
     },
     {
       "billId": "NM-HB300",
@@ -66248,7 +66300,7 @@
       "summary": "Health Care/licensure Compacts/social Wrk",
       "sponsor": "Andrew Gray (D)",
       "lastAction": "FN6: (DPS)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB110/2025",
@@ -66436,7 +66488,7 @@
       "summary": "School Bd Terms, Training; City Councils",
       "sponsor": "Robert Yundt (R)",
       "lastAction": "FN4: (CC:HB263/EED)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/SB143/2025",
@@ -66591,7 +66643,7 @@
       "state": "AK",
       "billNumber": "HB173",
       "title": "Lic.: Occup/phys Therapy;speech;audiology",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -66599,13 +66651,220 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Lic.: Occup/phys Therapy;speech;audiology",
-      "sponsor": "",
+      "sponsor": "Nellie Jimmie (D)",
       "lastAction": "FN2: (CED)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB173/2025",
-      "legiscan_bill_id": 2021195
+      "legiscan_bill_id": 2021195,
+      "rollCalls": [
+        {
+          "key": "LS-1569964",
+          "legiscan_roll_call_id": 1569964,
+          "date": "2025-05-12",
+          "desc": "House: Third Reading Final Passage",
+          "chamber": "House",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB173&Page=01155#1155"
+        },
+        {
+          "key": "LS-1701642",
+          "legiscan_roll_call_id": 1701642,
+          "date": "2026-05-20",
+          "desc": "Senate: Third Reading - Final Passage",
+          "chamber": "Senate",
+          "yea": 14,
+          "nay": 6,
+          "nv": 0,
+          "absent": 0,
+          "total": 20,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB173&Page=02847#2847"
+        },
+        {
+          "key": "LS-1701643",
+          "legiscan_roll_call_id": 1701643,
+          "date": "2026-05-20",
+          "desc": "House: Concur",
+          "chamber": "House",
+          "yea": 39,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB173&Page=02994#2994"
+        }
+      ],
+      "session_id": 2171,
+      "sponsorships": [
+        {
+          "people_id": 26351,
+          "name": "Nellie Jimmie",
+          "first_name": "Nellie",
+          "last_name": "Jimmie",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-038",
+          "type": "primary"
+        },
+        {
+          "people_id": 21614,
+          "name": "Mike Prax",
+          "first_name": "Mike",
+          "last_name": "Prax",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-033",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 17251,
+          "name": "Louise Stutes",
+          "first_name": "Louise",
+          "last_name": "Stutes",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-005",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22863,
+          "name": "David Nelson",
+          "first_name": "David",
+          "last_name": "Nelson",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-018",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 26353,
+          "name": "Rebecca Schwanke",
+          "first_name": "Rebecca",
+          "last_name": "Schwanke",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-036",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 26347,
+          "name": "Jeremy Bynum",
+          "first_name": "Jeremy",
+          "last_name": "Bynum",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-001",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24792,
+          "name": "Rebecca Himschoot",
+          "first_name": "Rebecca",
+          "last_name": "Himschoot",
+          "party": "I",
+          "role": "Rep",
+          "district": "HD-002",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24187,
+          "name": "Genevieve Mina",
+          "first_name": "Genevieve",
+          "last_name": "Mina",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-019",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 14389,
+          "name": "Andrew Josephson",
+          "first_name": "Andrew",
+          "last_name": "Josephson",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-013",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 26346,
+          "name": "Robyn Frier",
+          "first_name": "Robyn",
+          "last_name": "Frier",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-040",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 21271,
+          "name": "Andrea Story",
+          "first_name": "Andrea",
+          "last_name": "Story",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-003",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 19096,
+          "name": "DeLena Johnson",
+          "first_name": "DeLena",
+          "last_name": "Johnson",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-025",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24791,
+          "name": "Alyse Galvin",
+          "first_name": "Alyse",
+          "last_name": "Galvin",
+          "party": "I",
+          "role": "Rep",
+          "district": "HD-014",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24587,
+          "name": "Andrew Gray",
+          "first_name": "Andrew",
+          "last_name": "Gray",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-020",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22865,
+          "name": "Calvin Schrage",
+          "first_name": "Calvin",
+          "last_name": "Schrage",
+          "party": "N",
+          "role": "Rep",
+          "district": "HD-012",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22728,
+          "name": "Robert Myers",
+          "first_name": "Robert",
+          "last_name": "Myers",
+          "party": "R",
+          "role": "Sen",
+          "district": "SD-Q",
+          "type": "cosponsor"
+        }
+      ]
     },
     {
       "billId": "AK-HB240",
@@ -66948,7 +67207,7 @@
       "state": "AK",
       "billNumber": "HB314",
       "title": "Arch, Eng, Surveyors; Reg Int Design",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -66956,13 +67215,178 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Arch, Eng, Surveyors; Reg Int Design",
-      "sponsor": "",
+      "sponsor": "Mike Prax (R)",
       "lastAction": "FN2: ZERO(DEC)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB314/2025",
-      "legiscan_bill_id": 2119384
+      "legiscan_bill_id": 2119384,
+      "rollCalls": [
+        {
+          "key": "LS-1692246",
+          "legiscan_roll_call_id": 1692246,
+          "date": "2026-04-30",
+          "desc": "House: Third Reading Final Passage",
+          "chamber": "House",
+          "yea": 35,
+          "nay": 4,
+          "nv": 0,
+          "absent": 1,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=02358#2358"
+        },
+        {
+          "key": "LS-1699284",
+          "legiscan_roll_call_id": 1699284,
+          "date": "2026-05-15",
+          "desc": "Senate: Third Reading - Final Passage Effective Date(s)",
+          "chamber": "Senate",
+          "yea": 16,
+          "nay": 3,
+          "nv": 0,
+          "absent": 1,
+          "total": 20,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB314&Page=02667#2667"
+        },
+        {
+          "key": "LS-1699353",
+          "legiscan_roll_call_id": 1699353,
+          "date": "2026-05-16",
+          "desc": "House: Concur",
+          "chamber": "House",
+          "yea": 29,
+          "nay": 11,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=02682#2682"
+        },
+        {
+          "key": "LS-1701955",
+          "legiscan_roll_call_id": 1701955,
+          "date": "2026-05-16",
+          "desc": "House: Concur",
+          "chamber": "House",
+          "yea": 29,
+          "nay": 11,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=02683#2683"
+        },
+        {
+          "key": "LS-1710463",
+          "legiscan_roll_call_id": 1710463,
+          "date": "2026-06-19",
+          "desc": "House: Veto Override",
+          "chamber": "House",
+          "yea": 29,
+          "nay": 11,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=03104#3104"
+        }
+      ],
+      "session_id": 2171,
+      "sponsorships": [
+        {
+          "people_id": 21614,
+          "name": "Mike Prax",
+          "first_name": "Mike",
+          "last_name": "Prax",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-033",
+          "type": "primary"
+        },
+        {
+          "people_id": 24591,
+          "name": "Will Stapp",
+          "first_name": "Will",
+          "last_name": "Stapp",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-032",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24593,
+          "name": "Frank Tomaszewski",
+          "first_name": "Frank",
+          "last_name": "Tomaszewski",
+          "party": "R",
+          "role": "Rep",
+          "district": "HD-034",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24791,
+          "name": "Alyse Galvin",
+          "first_name": "Alyse",
+          "last_name": "Galvin",
+          "party": "I",
+          "role": "Rep",
+          "district": "HD-014",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 17255,
+          "name": "Matt Claman",
+          "first_name": "Matt",
+          "last_name": "Claman",
+          "party": "D",
+          "role": "Rep",
+          "district": "SD-H",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 20962,
+          "name": "Elvi Gray-Jackson",
+          "first_name": "Elvira",
+          "last_name": "Gray-Jackson",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-G",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24544,
+          "name": "Jesse Bjorkman",
+          "first_name": "Jesse",
+          "last_name": "Bjorkman",
+          "party": "R",
+          "role": "Sen",
+          "district": "SD-D",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24409,
+          "name": "Forrest Dunbar",
+          "first_name": "Forrest",
+          "last_name": "Dunbar",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-J",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 22857,
+          "name": "Mike Cronk",
+          "first_name": "Mike",
+          "last_name": "Cronk",
+          "party": "R",
+          "role": "Rep",
+          "district": "SD-R",
+          "type": "cosponsor"
+        }
+      ]
     },
     {
       "billId": "AK-HB362",
@@ -103863,6 +104287,27 @@
       "legiscan_bill_id": 2014038
     },
     {
+      "billId": "PA-SB54",
+      "state": "PA",
+      "billNumber": "SB54",
+      "title": "In limitation of time, further providing for six months limitation; in matters affecting government units, further providing for exceptions to sovereign immunity, for limitations on damages and for exceptions to governmental immunity and providing for claims for compensation for wrongful conviction; in general administration, providing for services after wrongful conviction; and, in Pennsylvania Board of Probation and Parole, further providing for powers and duties of department.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "In limitation of time, further providing for six months limitation; in matters affecting government units, further providing for exceptions to sovereign immunity, for limitations on damages and for exceptions to governmental immunity and providing for claims for compensation for wrongful conviction; in general administration, providing for services after wrongful conviction; and, in Pennsylvania Board of Probation and Parole, further providing for powers and duties of department.",
+      "sponsor": "",
+      "lastAction": "Referred to Judiciary",
+      "lastActionDate": "2025-03-21",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/SB54/2025",
+      "legiscan_bill_id": 2012442
+    },
+    {
       "billId": "PA-HB2707",
       "state": "PA",
       "billNumber": "HB2707",
@@ -103895,27 +104340,6 @@
         "status": "monitor_confirmed",
         "second_pass": ""
       }
-    },
-    {
-      "billId": "PA-SB54",
-      "state": "PA",
-      "billNumber": "SB54",
-      "title": "In limitation of time, further providing for six months limitation; in matters affecting government units, further providing for exceptions to sovereign immunity, for limitations on damages and for exceptions to governmental immunity and providing for claims for compensation for wrongful conviction; in general administration, providing for services after wrongful conviction; and, in Pennsylvania Board of Probation and Parole, further providing for powers and duties of department.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "In limitation of time, further providing for six months limitation; in matters affecting government units, further providing for exceptions to sovereign immunity, for limitations on damages and for exceptions to governmental immunity and providing for claims for compensation for wrongful conviction; in general administration, providing for services after wrongful conviction; and, in Pennsylvania Board of Probation and Parole, further providing for powers and duties of department.",
-      "sponsor": "",
-      "lastAction": "Referred to Judiciary",
-      "lastActionDate": "2025-03-21",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/SB54/2025",
-      "legiscan_bill_id": 2012442
     },
     {
       "billId": "PA-HB545",
@@ -134835,27 +135259,6 @@
       "legiscan_bill_id": 2045672
     },
     {
-      "billId": "PA-HB670",
-      "state": "PA",
-      "billNumber": "HB670",
-      "title": "In abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "In abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
-      "sponsor": "",
-      "lastAction": "Laid on the table (Pursuant to House Rule 71)",
-      "lastActionDate": "2026-02-04",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/HB670/2025",
-      "legiscan_bill_id": 1974810
-    },
-    {
       "billId": "PA-SB837",
       "state": "PA",
       "billNumber": "SB837",
@@ -134889,6 +135292,27 @@
         "status": "monitor_confirmed",
         "second_pass": ""
       }
+    },
+    {
+      "billId": "PA-HB670",
+      "state": "PA",
+      "billNumber": "HB670",
+      "title": "In abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "In abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
+      "sponsor": "",
+      "lastAction": "Laid on the table (Pursuant to House Rule 71)",
+      "lastActionDate": "2026-02-04",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/HB670/2025",
+      "legiscan_bill_id": 1974810
     },
     {
       "billId": "PA-SR208",
@@ -143134,7 +143558,7 @@
       "summary": "Medical Major Emergencies; Cpr Curriculum",
       "sponsor": "",
       "lastAction": "FN2: (DOH)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB27/2025",
@@ -143302,7 +143726,7 @@
       "summary": "Complex Care Residential Homes",
       "sponsor": "",
       "lastAction": "FN5: (DOH)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB73/2025",
@@ -143449,7 +143873,7 @@
       "summary": "Approp: Mental Health Budget",
       "sponsor": "",
       "lastAction": "FISCAL NOTE MEMO TRANSMITTED TO GOVERNOR 9/11/26",
-      "lastActionDate": "2026-09-11",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB265/2025",
@@ -143669,7 +144093,7 @@
       "summary": "Big Game Comm. Svs Bd/bd Dental Examiners",
       "sponsor": "",
       "lastAction": "FN2: (CED)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/SB29/2025",
@@ -143711,7 +144135,7 @@
       "summary": "Expand Early Intervention Services",
       "sponsor": "",
       "lastAction": "FN4: (DOH)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/SB178/2025",
@@ -143816,7 +144240,7 @@
       "summary": "Support Kids Online Safety Act",
       "sponsor": "Ted Eischeid (D)",
       "lastAction": "PERMANENTLY FILED 9/22 LEGIS RESOLVE 36",
-      "lastActionDate": "2026-09-22",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HJR28/2025",
@@ -162494,7 +162918,7 @@
       "state": "MI",
       "billNumber": "SB0947",
       "title": "Natural resources: inland lakes; dam safety regulations; provide for. Amends and adds (See bill).",
-      "status": "In Committee",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -162509,37 +162933,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MI/bill/SB0947/2025",
       "legiscan_bill_id": 2148470,
-      "rollCalls": [
-        {
-          "key": "LS-1711521",
-          "legiscan_roll_call_id": 1711521,
-          "date": "2026-06-23",
-          "desc": "Reported Favorably With Substitute S-1 6/18/2026",
-          "chamber": "Senate",
-          "yea": 8,
-          "nay": 3,
-          "nv": 0,
-          "absent": 0,
-          "total": 11,
-          "passed": true,
-          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-06-23-056.htm"
-        },
-        {
-          "key": "LS-1713892",
-          "legiscan_roll_call_id": 1713892,
-          "date": "2026-07-02",
-          "desc": "Senate Third Reading: Passed Roll Call # 173",
-          "chamber": "Senate",
-          "yea": 22,
-          "nay": 15,
-          "nv": 0,
-          "absent": 1,
-          "total": 38,
-          "passed": true,
-          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-02-061.htm"
-        }
-      ],
-      "session_id": 2183,
       "sponsorships": [
         {
           "people_id": 21022,
@@ -162611,7 +163004,38 @@
           "district": "SD-021",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "rollCalls": [
+        {
+          "key": "LS-1711521",
+          "legiscan_roll_call_id": 1711521,
+          "date": "2026-06-23",
+          "desc": "Reported Favorably With Substitute S-1 6/18/2026",
+          "chamber": "Senate",
+          "yea": 8,
+          "nay": 3,
+          "nv": 0,
+          "absent": 0,
+          "total": 11,
+          "passed": true,
+          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-06-23-056.htm"
+        },
+        {
+          "key": "LS-1713892",
+          "legiscan_roll_call_id": 1713892,
+          "date": "2026-07-02",
+          "desc": "Senate Third Reading: Passed Roll Call # 173",
+          "chamber": "Senate",
+          "yea": 22,
+          "nay": 15,
+          "nv": 0,
+          "absent": 1,
+          "total": 38,
+          "passed": true,
+          "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-02-061.htm"
+        }
+      ],
+      "session_id": 2183
     },
     {
       "billId": "MI-SB0046",
@@ -175516,27 +175940,6 @@
       "legiscan_bill_id": 2142019
     },
     {
-      "billId": "OH-SB236",
-      "state": "OH",
-      "billNumber": "SB236",
-      "title": "Enact the Suicide Self-Defense Act",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Enact the Suicide Self-Defense Act",
-      "sponsor": "",
-      "lastAction": "Referred to committee: Armed Services, Veterans Affairs and Public Safety",
-      "lastActionDate": "2025-10-01",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/OH/bill/SB236/2025",
-      "legiscan_bill_id": 2041077
-    },
-    {
       "billId": "OH-SB158",
       "state": "OH",
       "billNumber": "SB158",
@@ -175556,6 +175959,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/OH/bill/SB158/2025",
       "legiscan_bill_id": 2018965
+    },
+    {
+      "billId": "OH-SB236",
+      "state": "OH",
+      "billNumber": "SB236",
+      "title": "Enact the Suicide Self-Defense Act",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Enact the Suicide Self-Defense Act",
+      "sponsor": "",
+      "lastAction": "Referred to committee: Armed Services, Veterans Affairs and Public Safety",
+      "lastActionDate": "2025-10-01",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/OH/bill/SB236/2025",
+      "legiscan_bill_id": 2041077
     },
     {
       "billId": "OH-HB687",
@@ -178228,27 +178652,6 @@
       "legiscan_bill_id": 2151959
     },
     {
-      "billId": "PA-HB2238",
-      "state": "PA",
-      "billNumber": "HB2238",
-      "title": "In emergency medical services system, further providing for support of emergency medical services.",
-      "status": "Introduced",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "In emergency medical services system, further providing for support of emergency medical services.",
-      "sponsor": "",
-      "lastAction": "Referred to Veterans Affairs & Emergency Preparedness",
-      "lastActionDate": "2026-02-20",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/HB2238/2025",
-      "legiscan_bill_id": 2121137
-    },
-    {
       "billId": "PA-SB375",
       "state": "PA",
       "billNumber": "SB375",
@@ -178270,10 +178673,10 @@
       "legiscan_bill_id": 2036053
     },
     {
-      "billId": "PA-HB1700",
+      "billId": "PA-HB2238",
       "state": "PA",
-      "billNumber": "HB1700",
-      "title": "In licensing of drivers, providing for communication barrier designation; and imposing penalties.",
+      "billNumber": "HB2238",
+      "title": "In emergency medical services system, further providing for support of emergency medical services.",
       "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
@@ -178281,14 +178684,14 @@
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
-      "summary": "In licensing of drivers, providing for communication barrier designation; and imposing penalties.",
+      "summary": "In emergency medical services system, further providing for support of emergency medical services.",
       "sponsor": "",
-      "lastAction": "Removed from table",
-      "lastActionDate": "2026-06-29",
+      "lastAction": "Referred to Veterans Affairs & Emergency Preparedness",
+      "lastActionDate": "2026-02-20",
       "actionCount": 0,
       "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/PA/bill/HB1700/2025",
-      "legiscan_bill_id": 2038800
+      "sourceUrl": "https://legiscan.com/PA/bill/HB2238/2025",
+      "legiscan_bill_id": 2121137
     },
     {
       "billId": "PA-SB507",
@@ -178310,6 +178713,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/PA/bill/SB507/2025",
       "legiscan_bill_id": 2012498
+    },
+    {
+      "billId": "PA-HB1700",
+      "state": "PA",
+      "billNumber": "HB1700",
+      "title": "In licensing of drivers, providing for communication barrier designation; and imposing penalties.",
+      "status": "Introduced",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "In licensing of drivers, providing for communication barrier designation; and imposing penalties.",
+      "sponsor": "",
+      "lastAction": "Removed from table",
+      "lastActionDate": "2026-06-29",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/PA/bill/HB1700/2025",
+      "legiscan_bill_id": 2038800
     },
     {
       "billId": "PA-HB812",
@@ -178569,7 +178993,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/PA/bill/SB1465/2025",
       "legiscan_bill_id": 2159050,
-      "session_id": 2192,
       "sponsorships": [
         {
           "people_id": 22081,
@@ -178651,7 +179074,8 @@
           "district": "SD-017",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "session_id": 2192
     },
     {
       "billId": "PA-SB146",
@@ -189774,7 +190198,7 @@
       "state": "DC",
       "billNumber": "B26-0663",
       "title": "Fiscal Year 2026 Revised Local Budget Temporary Act of 2026",
-      "status": "In Committee",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -189789,6 +190213,18 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/B26-0663/2025",
       "legiscan_bill_id": 2144264,
+      "sponsorships": [
+        {
+          "people_id": 14679,
+          "name": "Phil Mendelson",
+          "first_name": "Phil",
+          "last_name": "Mendelson",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-000",
+          "type": "primary"
+        }
+      ],
       "rollCalls": [
         {
           "key": "LS-1711424",
@@ -189833,19 +190269,7 @@
           "sourceUrl": "https://lims.dccouncil.gov/Legislation/B26-0663"
         }
       ],
-      "session_id": 2198,
-      "sponsorships": [
-        {
-          "people_id": 14679,
-          "name": "Phil Mendelson",
-          "first_name": "Phil",
-          "last_name": "Mendelson",
-          "party": "D",
-          "role": "Sen",
-          "district": "SD-000",
-          "type": "primary"
-        }
-      ]
+      "session_id": 2198
     },
     {
       "billId": "DC-B26-0194",
@@ -210027,7 +210451,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/PA/bill/SB1463/2025",
       "legiscan_bill_id": 2159047,
-      "session_id": 2192,
       "sponsorships": [
         {
           "people_id": 22079,
@@ -210079,7 +210502,8 @@
           "district": "SD-009",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "session_id": 2192
     },
     {
       "billId": "PA-HB1975",
@@ -236081,7 +236505,7 @@
       "summary": "Crime/cntrl Subst/address Confidentiality",
       "sponsor": "",
       "lastAction": "FN22: (AJS)",
-      "lastActionDate": "2026-09-08",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB239/2025",
@@ -236186,7 +236610,7 @@
       "summary": "Rural Health Transformation Program",
       "sponsor": "",
       "lastAction": "PERMANENTLY FILED 9/22 LEGIS RESOLVE 28",
-      "lastActionDate": "2026-09-22",
+      "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HJR32/2025",
@@ -253763,27 +254187,6 @@
       }
     },
     {
-      "billId": "NJ-S2771",
-      "state": "NJ",
-      "billNumber": "S2771",
-      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "sponsor": "",
-      "lastAction": "Introduced in the Senate, Referred to Senate Judiciary Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/S2771/2026",
-      "legiscan_bill_id": 2075119
-    },
-    {
       "billId": "NJ-A1896",
       "state": "NJ",
       "billNumber": "A1896",
@@ -253803,6 +254206,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A1896/2026",
       "legiscan_bill_id": 2099218
+    },
+    {
+      "billId": "NJ-S2771",
+      "state": "NJ",
+      "billNumber": "S2771",
+      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "sponsor": "",
+      "lastAction": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/S2771/2026",
+      "legiscan_bill_id": 2075119
     },
     {
       "billId": "NJ-S3601",
@@ -253860,27 +254284,6 @@
       "legiscan_bill_id": 2154526
     },
     {
-      "billId": "NJ-A1400",
-      "state": "NJ",
-      "billNumber": "A1400",
-      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "status": "In Committee",
-      "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
-      "category": "public-health",
-      "level": "State",
-      "impact": "Medium",
-      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
-      "sponsor": "",
-      "lastAction": "Introduced, Referred to Assembly Oversight, Reform and Federal Relations Committee",
-      "lastActionDate": "2026-01-13",
-      "actionCount": 0,
-      "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/NJ/bill/A1400/2026",
-      "legiscan_bill_id": 2095880
-    },
-    {
       "billId": "NJ-A5337",
       "state": "NJ",
       "billNumber": "A5337",
@@ -253900,6 +254303,27 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/NJ/bill/A5337/2026",
       "legiscan_bill_id": 2154587
+    },
+    {
+      "billId": "NJ-A1400",
+      "state": "NJ",
+      "billNumber": "A1400",
+      "title": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "status": "In Committee",
+      "isActive": "Yes",
+      "billType": "monitor",
+      "stance": "Monitor",
+      "category": "public-health",
+      "level": "State",
+      "impact": "Medium",
+      "summary": "Establishes protections for immigrants interacting with government agencies; designates \"New Jersey Immigrant Trust Act.\"",
+      "sponsor": "",
+      "lastAction": "Introduced, Referred to Assembly Oversight, Reform and Federal Relations Committee",
+      "lastActionDate": "2026-01-13",
+      "actionCount": 0,
+      "stoppedWithAction": false,
+      "sourceUrl": "https://legiscan.com/NJ/bill/A1400/2026",
+      "legiscan_bill_id": 2095880
     },
     {
       "billId": "NM-HM52",
@@ -266116,13 +266540,26 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Health and Human Service Programs and Benefits Eligibility and Delivery Data-Sharing Clarifications Amendment Act of 2026",
-      "sponsor": "",
-      "lastAction": "Notice of Intent to Act on B26-0753 Published in the DC Register",
-      "lastActionDate": "2026-07-17",
+      "sponsor": "Phil Mendelson (D)",
+      "lastAction": "Public Hearing",
+      "lastActionDate": "2026-10-22",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/B26-0753/2025",
-      "legiscan_bill_id": 2155708
+      "legiscan_bill_id": 2155708,
+      "session_id": 2198,
+      "sponsorships": [
+        {
+          "people_id": 14679,
+          "name": "Phil Mendelson",
+          "first_name": "Phil",
+          "last_name": "Mendelson",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-000",
+          "type": "primary"
+        }
+      ]
     },
     {
       "billId": "DC-B26-0025",

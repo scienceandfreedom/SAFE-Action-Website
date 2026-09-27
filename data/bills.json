@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:54:16.045003+00:00",
+  "generated_at": "2026-09-27T11:30:45.846852+00:00",
   "source": "govinfo+legiscan",
   "total": 9545,
   "bills": [
@@ -66643,7 +66643,7 @@
       "state": "AK",
       "billNumber": "HB173",
       "title": "Lic.: Occup/phys Therapy;speech;audiology",
-      "status": "Passed Both Chambers",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -66658,51 +66658,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB173/2025",
       "legiscan_bill_id": 2021195,
-      "rollCalls": [
-        {
-          "key": "LS-1569964",
-          "legiscan_roll_call_id": 1569964,
-          "date": "2025-05-12",
-          "desc": "House: Third Reading Final Passage",
-          "chamber": "House",
-          "yea": 40,
-          "nay": 0,
-          "nv": 0,
-          "absent": 0,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB173&Page=01155#1155"
-        },
-        {
-          "key": "LS-1701642",
-          "legiscan_roll_call_id": 1701642,
-          "date": "2026-05-20",
-          "desc": "Senate: Third Reading - Final Passage",
-          "chamber": "Senate",
-          "yea": 14,
-          "nay": 6,
-          "nv": 0,
-          "absent": 0,
-          "total": 20,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB173&Page=02847#2847"
-        },
-        {
-          "key": "LS-1701643",
-          "legiscan_roll_call_id": 1701643,
-          "date": "2026-05-20",
-          "desc": "House: Concur",
-          "chamber": "House",
-          "yea": 39,
-          "nay": 0,
-          "nv": 0,
-          "absent": 1,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB173&Page=02994#2994"
-        }
-      ],
-      "session_id": 2171,
       "sponsorships": [
         {
           "people_id": 26351,
@@ -66864,7 +66819,52 @@
           "district": "SD-Q",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "rollCalls": [
+        {
+          "key": "LS-1569964",
+          "legiscan_roll_call_id": 1569964,
+          "date": "2025-05-12",
+          "desc": "House: Third Reading Final Passage",
+          "chamber": "House",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB173&Page=01155#1155"
+        },
+        {
+          "key": "LS-1701642",
+          "legiscan_roll_call_id": 1701642,
+          "date": "2026-05-20",
+          "desc": "Senate: Third Reading - Final Passage",
+          "chamber": "Senate",
+          "yea": 14,
+          "nay": 6,
+          "nv": 0,
+          "absent": 0,
+          "total": 20,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB173&Page=02847#2847"
+        },
+        {
+          "key": "LS-1701643",
+          "legiscan_roll_call_id": 1701643,
+          "date": "2026-05-20",
+          "desc": "House: Concur",
+          "chamber": "House",
+          "yea": 39,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB173&Page=02994#2994"
+        }
+      ],
+      "session_id": 2171
     },
     {
       "billId": "AK-HB240",
@@ -67207,7 +67207,7 @@
       "state": "AK",
       "billNumber": "HB314",
       "title": "Arch, Eng, Surveyors; Reg Int Design",
-      "status": "Passed Both Chambers",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -67222,79 +67222,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB314/2025",
       "legiscan_bill_id": 2119384,
-      "rollCalls": [
-        {
-          "key": "LS-1692246",
-          "legiscan_roll_call_id": 1692246,
-          "date": "2026-04-30",
-          "desc": "House: Third Reading Final Passage",
-          "chamber": "House",
-          "yea": 35,
-          "nay": 4,
-          "nv": 0,
-          "absent": 1,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=02358#2358"
-        },
-        {
-          "key": "LS-1699284",
-          "legiscan_roll_call_id": 1699284,
-          "date": "2026-05-15",
-          "desc": "Senate: Third Reading - Final Passage Effective Date(s)",
-          "chamber": "Senate",
-          "yea": 16,
-          "nay": 3,
-          "nv": 0,
-          "absent": 1,
-          "total": 20,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB314&Page=02667#2667"
-        },
-        {
-          "key": "LS-1699353",
-          "legiscan_roll_call_id": 1699353,
-          "date": "2026-05-16",
-          "desc": "House: Concur",
-          "chamber": "House",
-          "yea": 29,
-          "nay": 11,
-          "nv": 0,
-          "absent": 0,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=02682#2682"
-        },
-        {
-          "key": "LS-1701955",
-          "legiscan_roll_call_id": 1701955,
-          "date": "2026-05-16",
-          "desc": "House: Concur",
-          "chamber": "House",
-          "yea": 29,
-          "nay": 11,
-          "nv": 0,
-          "absent": 0,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=02683#2683"
-        },
-        {
-          "key": "LS-1710463",
-          "legiscan_roll_call_id": 1710463,
-          "date": "2026-06-19",
-          "desc": "House: Veto Override",
-          "chamber": "House",
-          "yea": 29,
-          "nay": 11,
-          "nv": 0,
-          "absent": 0,
-          "total": 40,
-          "passed": true,
-          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=03104#3104"
-        }
-      ],
-      "session_id": 2171,
       "sponsorships": [
         {
           "people_id": 21614,
@@ -67386,7 +67313,80 @@
           "district": "SD-R",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "rollCalls": [
+        {
+          "key": "LS-1692246",
+          "legiscan_roll_call_id": 1692246,
+          "date": "2026-04-30",
+          "desc": "House: Third Reading Final Passage",
+          "chamber": "House",
+          "yea": 35,
+          "nay": 4,
+          "nv": 0,
+          "absent": 1,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=02358#2358"
+        },
+        {
+          "key": "LS-1699284",
+          "legiscan_roll_call_id": 1699284,
+          "date": "2026-05-15",
+          "desc": "Senate: Third Reading - Final Passage Effective Date(s)",
+          "chamber": "Senate",
+          "yea": 16,
+          "nay": 3,
+          "nv": 0,
+          "absent": 1,
+          "total": 20,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB314&Page=02667#2667"
+        },
+        {
+          "key": "LS-1699353",
+          "legiscan_roll_call_id": 1699353,
+          "date": "2026-05-16",
+          "desc": "House: Concur",
+          "chamber": "House",
+          "yea": 29,
+          "nay": 11,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=02682#2682"
+        },
+        {
+          "key": "LS-1701955",
+          "legiscan_roll_call_id": 1701955,
+          "date": "2026-05-16",
+          "desc": "House: Concur",
+          "chamber": "House",
+          "yea": 29,
+          "nay": 11,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=02683#2683"
+        },
+        {
+          "key": "LS-1710463",
+          "legiscan_roll_call_id": 1710463,
+          "date": "2026-06-19",
+          "desc": "House: Veto Override",
+          "chamber": "House",
+          "yea": 29,
+          "nay": 11,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB314&Page=03104#3104"
+        }
+      ],
+      "session_id": 2171
     },
     {
       "billId": "AK-HB362",
@@ -69703,8 +69703,8 @@
       "impact": "Medium",
       "summary": "Peace officers: tribal police.",
       "sponsor": "",
-      "lastAction": "Enrolled and presented to the Governor at 4 p.m.",
-      "lastActionDate": "2026-08-31",
+      "lastAction": "Chaptered by Secretary of State - Chapter 450, Statutes of 2026.",
+      "lastActionDate": "2026-09-25",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/CA/bill/AB31/2025",
@@ -143548,7 +143548,7 @@
       "state": "AK",
       "billNumber": "HB27",
       "title": "Medical Major Emergencies; Cpr Curriculum",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -143556,13 +143556,130 @@
       "level": "State",
       "impact": "Medium",
       "summary": "Medical Major Emergencies; Cpr Curriculum",
-      "sponsor": "",
+      "sponsor": "Genevieve Mina (D)",
       "lastAction": "FN2: (DOH)",
       "lastActionDate": "2026-09-30",
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB27/2025",
-      "legiscan_bill_id": 1912481
+      "legiscan_bill_id": 1912481,
+      "rollCalls": [
+        {
+          "key": "LS-1573012",
+          "legiscan_roll_call_id": 1573012,
+          "date": "2025-05-18",
+          "desc": "House: Third Reading Final Passage",
+          "chamber": "House",
+          "yea": 29,
+          "nay": 10,
+          "nv": 0,
+          "absent": 1,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB27&Page=01298#1298"
+        },
+        {
+          "key": "LS-1699366",
+          "legiscan_roll_call_id": 1699366,
+          "date": "2026-05-17",
+          "desc": "Senate: Third Reading - Final Passage Effective Date(s)",
+          "chamber": "Senate",
+          "yea": 20,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 20,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB27&Page=02716#2716"
+        },
+        {
+          "key": "LS-1700388",
+          "legiscan_roll_call_id": 1700388,
+          "date": "2026-05-19",
+          "desc": "House: Concur",
+          "chamber": "House",
+          "yea": 27,
+          "nay": 13,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB27&Page=02945#2945"
+        }
+      ],
+      "session_id": 2171,
+      "sponsorships": [
+        {
+          "people_id": 24187,
+          "name": "Genevieve Mina",
+          "first_name": "Genevieve",
+          "last_name": "Mina",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-019",
+          "type": "primary"
+        },
+        {
+          "people_id": 24791,
+          "name": "Alyse Galvin",
+          "first_name": "Alyse",
+          "last_name": "Galvin",
+          "party": "I",
+          "role": "Rep",
+          "district": "HD-014",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 14389,
+          "name": "Andrew Josephson",
+          "first_name": "Andrew",
+          "last_name": "Josephson",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-013",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 24587,
+          "name": "Andrew Gray",
+          "first_name": "Andrew",
+          "last_name": "Gray",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-020",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 21271,
+          "name": "Andrea Story",
+          "first_name": "Andrea",
+          "last_name": "Story",
+          "party": "D",
+          "role": "Rep",
+          "district": "HD-003",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 20962,
+          "name": "Elvi Gray-Jackson",
+          "first_name": "Elvira",
+          "last_name": "Gray-Jackson",
+          "party": "D",
+          "role": "Sen",
+          "district": "SD-G",
+          "type": "cosponsor"
+        },
+        {
+          "people_id": 17255,
+          "name": "Matt Claman",
+          "first_name": "Matt",
+          "last_name": "Claman",
+          "party": "D",
+          "role": "Rep",
+          "district": "SD-H",
+          "type": "cosponsor"
+        }
+      ]
     },
     {
       "billId": "AK-HB289",
@@ -143716,7 +143833,7 @@
       "state": "AK",
       "billNumber": "HB73",
       "title": "Complex Care Residential Homes",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -143730,7 +143847,66 @@
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/AK/bill/HB73/2025",
-      "legiscan_bill_id": 1942660
+      "legiscan_bill_id": 1942660,
+      "rollCalls": [
+        {
+          "key": "LS-1571827",
+          "legiscan_roll_call_id": 1571827,
+          "date": "2025-05-14",
+          "desc": "House: Third Reading Final Passage",
+          "chamber": "House",
+          "yea": 40,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB73&Page=01203#1203"
+        },
+        {
+          "key": "LS-1701726",
+          "legiscan_roll_call_id": 1701726,
+          "date": "2026-05-20",
+          "desc": "Senate: Second Reading Withdraw Amendment No. 1",
+          "chamber": "Senate",
+          "yea": 20,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 20,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB73&Page=02846#AM1"
+        },
+        {
+          "key": "LS-1701727",
+          "legiscan_roll_call_id": 1701727,
+          "date": "2026-05-20",
+          "desc": "Senate: Third Reading - Final Passage Effective Date(s)",
+          "chamber": "Senate",
+          "yea": 20,
+          "nay": 0,
+          "nv": 0,
+          "absent": 0,
+          "total": 20,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB73&Page=02846#2846"
+        },
+        {
+          "key": "LS-1701728",
+          "legiscan_roll_call_id": 1701728,
+          "date": "2026-05-20",
+          "desc": "House: Concur",
+          "chamber": "House",
+          "yea": 39,
+          "nay": 0,
+          "nv": 0,
+          "absent": 1,
+          "total": 40,
+          "passed": true,
+          "sourceUrl": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB73&Page=02992#2992"
+        }
+      ],
+      "session_id": 2171
     },
     {
       "billId": "AK-HB56",
@@ -143863,7 +144039,7 @@
       "state": "AK",
       "billNumber": "HB265",
       "title": "Approp: Mental Health Budget",
-      "status": "Introduced",
+      "status": "Passed Both Chambers",
       "isActive": "Yes",
       "billType": "monitor",
       "stance": "Monitor",
@@ -266547,7 +266723,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/DC/bill/B26-0753/2025",
       "legiscan_bill_id": 2155708,
-      "session_id": 2198,
       "sponsorships": [
         {
           "people_id": 14679,
@@ -266559,7 +266734,8 @@
           "district": "SD-000",
           "type": "primary"
         }
-      ]
+      ],
+      "session_id": 2198
     },
     {
       "billId": "DC-B26-0025",

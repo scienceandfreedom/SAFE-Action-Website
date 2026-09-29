@@ -275146,6 +275146,1004 @@
           "vote": "Yea"
         }
       ]
+    },
+    "LS-1727877": {
+      "key": "LS-1727877",
+      "billId": "PA-HB2378",
+      "state": "PA",
+      "session_id": "2192",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-09-28",
+      "desc": "House Appropriations: PN3632, Re-report Bill As Committed",
+      "yea": 37,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 37,
+      "passed": true,
+      "sourceUrl": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=2808&sessYr=2025&sessInd=0",
+      "votes": [
+        {
+          "people_id": 14153,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17933,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19982,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19985,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19989,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19994,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19995,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20000,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20002,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21366,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21626,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22027,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22029,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22033,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22047,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22990,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23134,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24730,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24731,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24734,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24736,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24737,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24749,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24831,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24833,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24838,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24840,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24846,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24848,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24896,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25708,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1727878": {
+      "key": "LS-1727878",
+      "billId": "PA-HB2378",
+      "state": "PA",
+      "session_id": "2192",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-09-28",
+      "desc": "House Floor: PN3632, FINAL PASSAGE",
+      "yea": 157,
+      "nay": 46,
+      "nv": 0,
+      "absent": 0,
+      "total": 203,
+      "passed": true,
+      "sourceUrl": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1369",
+      "votes": [
+        {
+          "people_id": 268,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 283,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 287,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 311,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 312,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 330,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 342,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 378,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 392,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 402,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 408,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 413,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 450,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 907,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 909,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 913,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 914,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 915,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 924,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 925,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11531,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 11533,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11812,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11814,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11817,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11821,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 13962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14145,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14152,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 14153,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14154,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14162,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14169,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16239,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16744,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16745,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 16773,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17174,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17262,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17305,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17329,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17363,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17508,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17571,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17605,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17707,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17710,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17712,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17933,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18217,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18225,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18234,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18236,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19478,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19656,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19657,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19967,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19968,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19969,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19970,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19972,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19973,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19974,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19976,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19978,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19979,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19981,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19982,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19983,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19985,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19986,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19987,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19989,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19990,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19991,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19994,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19995,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19999,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20000,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20002,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20003,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20005,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21286,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21366,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21383,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21622,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21625,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21626,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21627,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22023,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22025,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22027,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22028,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22029,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22030,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22033,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22034,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22035,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22036,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22038,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22039,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22043,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22045,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22047,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22935,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22936,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22990,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23134,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24729,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24730,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24731,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24732,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24734,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24735,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24736,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24737,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24738,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24740,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24741,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24743,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24744,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24745,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24746,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24747,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24748,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24749,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24830,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24831,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24832,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24833,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24835,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24836,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24837,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24838,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24839,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24840,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24841,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24842,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24843,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24844,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24845,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24846,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24847,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24848,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24849,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24850,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24851,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24895,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24896,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24944,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24945,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24957,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25177,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25203,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25699,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25700,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25701,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25702,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25703,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25704,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25705,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25706,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25707,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25708,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25709,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25710,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25711,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25712,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25713,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26458,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26642,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26643,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26656,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26657,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26672,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26684,
+          "vote": "Yea"
+        }
+      ]
     }
   },
   "people": {
@@ -325877,7 +326875,7 @@
     "2252",
     "2253"
   ],
-  "generated_at": "2026-09-28T13:03:51.708669+00:00",
+  "generated_at": "2026-09-29T12:14:24.093470+00:00",
   "people_by_session": {
     "2236": {
       "4747": {

@@ -276422,6 +276422,1585 @@
           "vote": "Yea"
         }
       ]
+    },
+    "LS-1674073": {
+      "key": "LS-1674073",
+      "billId": "DC-B26-0633",
+      "state": "DC",
+      "session_id": "2198",
+      "level": "State",
+      "chamber": "C",
+      "date": "2026-03-31",
+      "desc": "First Reading",
+      "yea": 8,
+      "nay": 3,
+      "nv": 2,
+      "absent": 0,
+      "total": 13,
+      "passed": true,
+      "sourceUrl": "https://lims.dccouncil.gov/Legislation/B26-0633",
+      "votes": [
+        {
+          "people_id": 14679,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 15940,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16441,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 16442,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17972,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18426,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22082,
+          "vote": "NV"
+        },
+        {
+          "people_id": 22083,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23687,
+          "vote": "NV"
+        },
+        {
+          "people_id": 23688,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25964,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26619,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1562410": {
+      "key": "LS-1562410",
+      "billId": "NC-S445",
+      "state": "NC",
+      "session_id": "2189",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-04-30",
+      "desc": "Second Reading",
+      "yea": 46,
+      "nay": 0,
+      "nv": 0,
+      "absent": 4,
+      "total": 50,
+      "passed": true,
+      "sourceUrl": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/S/152",
+      "votes": [
+        {
+          "people_id": 2033,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2154,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11853,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11858,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11862,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11937,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12009,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12031,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12032,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 12033,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14615,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 16251,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17147,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 17163,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17437,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17457,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17504,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17936,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18454,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18465,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19669,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20504,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20505,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20510,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20513,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20518,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20524,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21633,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21663,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22423,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22424,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22425,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22426,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25250,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25858,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25859,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25860,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26462,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1715981": {
+      "key": "LS-1715981",
+      "billId": "NC-S445",
+      "state": "NC",
+      "session_id": "2189",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-07-29",
+      "desc": "Conference Rpt Motion 8 To Adopt",
+      "yea": 37,
+      "nay": 0,
+      "nv": 0,
+      "absent": 13,
+      "total": 50,
+      "passed": true,
+      "sourceUrl": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/S/701",
+      "votes": [
+        {
+          "people_id": 2033,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 2154,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11853,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11858,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11862,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11937,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12009,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12031,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12032,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 12033,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14615,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17147,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 17163,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17437,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17457,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17504,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17936,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18454,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18465,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19669,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20216,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 20220,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 20222,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 20223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20225,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 20504,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20505,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 20513,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20518,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20524,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21633,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21663,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22423,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22424,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22425,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22426,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 24220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25250,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25858,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25859,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25860,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26462,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26664,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26670,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1717834": {
+      "key": "LS-1717834",
+      "billId": "IL-HB3408",
+      "state": "IL",
+      "session_id": "2176",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-04-14",
+      "desc": "House Third Reading",
+      "yea": 111,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 111,
+      "passed": true,
+      "sourceUrl": "https://www.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3408_04142026_012000T.pdf",
+      "votes": [
+        {
+          "people_id": 940,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 972,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 977,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 983,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1004,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1112,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 4407,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 5847,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 9627,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11595,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11653,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12077,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13122,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13124,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13949,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13951,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13972,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14028,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14571,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14572,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 15691,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 15693,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 15695,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16240,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17366,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18542,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18732,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18945,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19104,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19117,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19125,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19131,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19571,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19668,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20194,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20788,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20900,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20901,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20903,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20904,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21028,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21041,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21047,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21107,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21117,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21119,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21325,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21364,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21376,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21378,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21538,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21539,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22088,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22246,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22518,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22538,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22560,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22579,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22636,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22746,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22759,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22790,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22791,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22793,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22890,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23380,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23754,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24517,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24643,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24644,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24645,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24646,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24647,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24648,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24649,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24650,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24651,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24653,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24655,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24656,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24657,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24778,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24817,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24885,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24930,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24961,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25121,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25122,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25132,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25194,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25232,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25768,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26131,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26132,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26133,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26134,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26135,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26136,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26504,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26548,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1687225": {
+      "key": "LS-1687225",
+      "billId": "MO-HB2974",
+      "state": "MO",
+      "session_id": "2239",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-04-21",
+      "desc": "Senate: Third Reading",
+      "yea": 28,
+      "nay": 3,
+      "nv": 0,
+      "absent": 2,
+      "total": 33,
+      "passed": true,
+      "sourceUrl": "https://www.senate.mo.gov/26info/Journals/RDay5304211050-1063.pdf#1058",
+      "votes": [
+        {
+          "people_id": 7655,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12942,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12947,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 12949,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12968,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13002,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13872,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16177,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17512,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18097,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18243,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 18819,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18833,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19250,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19466,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19714,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19715,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19939,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20403,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20712,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21155,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21710,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21712,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21714,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21913,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22388,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22394,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23200,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24095,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25360,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1694880": {
+      "key": "LS-1694880",
+      "billId": "SC-H3021",
+      "state": "SC",
+      "session_id": "2194",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-06",
+      "desc": "Senate: 2nd Reading",
+      "yea": 40,
+      "nay": 0,
+      "nv": 0,
+      "absent": 5,
+      "total": 45,
+      "passed": true,
+      "sourceUrl": "https://www.scstatehouse.gov/votehistory.php?KEY=27618",
+      "votes": [
+        {
+          "people_id": 2203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2239,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2294,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2324,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2325,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2327,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2330,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2335,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 2339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2360,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2369,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 2370,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14186,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14450,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17736,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18031,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18088,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19395,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21753,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21754,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21756,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21778,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21893,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23126,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23375,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25027,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26262,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26263,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26265,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26266,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26267,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26268,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26269,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26270,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1618372": {
+      "key": "LS-1618372",
+      "billId": "FL-H4059",
+      "state": "FL",
+      "session_id": "2220",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-01-28",
+      "desc": "House Criminal Justice Subcommittee",
+      "yea": 14,
+      "nay": 0,
+      "nv": 0,
+      "absent": 3,
+      "total": 17,
+      "passed": true,
+      "sourceUrl": "https://www.flhouse.gov/Sections/Committees/billvote.aspx?VoteId=75643&IsPCB=0&BillId=83613",
+      "votes": [
+        {
+          "people_id": 1714,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20422,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20540,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21701,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21781,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22660,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23318,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23347,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23360,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24808,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25375,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25383,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1706814": {
+      "key": "LS-1706814",
+      "billId": "PA-SB1261",
+      "state": "PA",
+      "session_id": "2192",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-08",
+      "desc": "Senate Appropriations: PN1625, Re-Reported as Committed",
+      "yea": 22,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 22,
+      "passed": true,
+      "sourceUrl": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=837&sessYr=2025&sessInd=0",
+      "votes": [
+        {
+          "people_id": 470,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 481,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 902,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 903,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11810,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13010,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14156,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16870,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16957,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18516,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18795,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18900,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18946,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20815,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21371,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22040,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22080,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23555,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25714,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1714711": {
+      "key": "LS-1714711",
+      "billId": "RI-S3301",
+      "state": "RI",
+      "session_id": "2253",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-02",
+      "desc": "Senate Committee on Housing & Municipal Government: Passage",
+      "yea": 9,
+      "nay": 0,
+      "nv": 0,
+      "absent": 2,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://status.rilegislature.gov/committee_vote_detail.aspx?id=43066",
+      "votes": [
+        {
+          "people_id": 5210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21088,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22511,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22533,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22639,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23995,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24096,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25045,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26557,
+          "vote": "Yea"
+        }
+      ]
     }
   },
   "people": {
@@ -327112,6 +328691,1743 @@
       "role": "Sen",
       "district": "SD-000",
       "state": "DC"
+    },
+    "7655": {
+      "name": "Stephen Webber",
+      "first_name": "Stephen",
+      "last_name": "Webber",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-019",
+      "state": "MO"
+    },
+    "12942": {
+      "name": "Mike Bernskoetter",
+      "first_name": "Mike",
+      "last_name": "Bernskoetter",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-006",
+      "state": "MO"
+    },
+    "12944": {
+      "name": "Rick Brattin",
+      "first_name": "Rick",
+      "last_name": "Brattin",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-031",
+      "state": "MO"
+    },
+    "12947": {
+      "name": "Mike Cierpiot",
+      "first_name": "Mike",
+      "last_name": "Cierpiot",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-008",
+      "state": "MO"
+    },
+    "12949": {
+      "name": "Sandy Crawford",
+      "first_name": "Sandy",
+      "last_name": "Crawford",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-028",
+      "state": "MO"
+    },
+    "12968": {
+      "name": "Karla May",
+      "first_name": "Karla",
+      "last_name": "May",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-004",
+      "state": "MO"
+    },
+    "13002": {
+      "name": "Lincoln Hough",
+      "first_name": "Lincoln",
+      "last_name": "Hough",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-030",
+      "state": "MO"
+    },
+    "13872": {
+      "name": "Tracy McCreery",
+      "first_name": "Tracy",
+      "last_name": "McCreery",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-024",
+      "state": "MO"
+    },
+    "16177": {
+      "name": "Mike Moon",
+      "first_name": "Mike",
+      "last_name": "Moon",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-029",
+      "state": "MO"
+    },
+    "17512": {
+      "name": "Travis Fitzwater",
+      "first_name": "Travis",
+      "last_name": "Fitzwater",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-010",
+      "state": "MO"
+    },
+    "18054": {
+      "name": "Nick Schroer",
+      "first_name": "Nick",
+      "last_name": "Schroer",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-002",
+      "state": "MO"
+    },
+    "18055": {
+      "name": "Mike Henderson",
+      "first_name": "Mike",
+      "last_name": "Henderson",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-003",
+      "state": "MO"
+    },
+    "18097": {
+      "name": "Doug Beck",
+      "first_name": "Doug",
+      "last_name": "Beck",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-001",
+      "state": "MO"
+    },
+    "18243": {
+      "name": "Steven Roberts",
+      "first_name": "Steven",
+      "last_name": "Roberts",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-005",
+      "state": "MO"
+    },
+    "18819": {
+      "name": "David Gregory",
+      "first_name": "David",
+      "last_name": "Gregory",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-015",
+      "state": "MO"
+    },
+    "18824": {
+      "name": "Mark Matthiesen",
+      "first_name": "Mark",
+      "last_name": "Matthiesen",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-107",
+      "state": "MO"
+    },
+    "18833": {
+      "name": "Curtis Trent",
+      "first_name": "Curtis",
+      "last_name": "Trent",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-020",
+      "state": "MO"
+    },
+    "19250": {
+      "name": "Rusty Black",
+      "first_name": "Rusty",
+      "last_name": "Black",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-012",
+      "state": "MO"
+    },
+    "19466": {
+      "name": "Barbara Washington",
+      "first_name": "Barbara",
+      "last_name": "Washington",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-009",
+      "state": "MO"
+    },
+    "19593": {
+      "name": "Jeff Knight",
+      "first_name": "Jeff",
+      "last_name": "Knight",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-142",
+      "state": "MO"
+    },
+    "19633": {
+      "name": "Peggy McGaugh",
+      "first_name": "Peggy",
+      "last_name": "McGaugh",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-007",
+      "state": "MO"
+    },
+    "19714": {
+      "name": "Cindy O'Laughlin",
+      "first_name": "Cindy",
+      "last_name": "O'Laughlin",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-018",
+      "state": "MO"
+    },
+    "19715": {
+      "name": "Tony Luetkemeyer",
+      "first_name": "Tony",
+      "last_name": "Luetkemeyer",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-034",
+      "state": "MO"
+    },
+    "19735": {
+      "name": "Ann Kelley",
+      "first_name": "Ann",
+      "last_name": "Kelley",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-127",
+      "state": "MO"
+    },
+    "19736": {
+      "name": "Jim Murphy",
+      "first_name": "Jim",
+      "last_name": "Murphy",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-094",
+      "state": "MO"
+    },
+    "19939": {
+      "name": "Adam Schnelting",
+      "first_name": "Adam",
+      "last_name": "Schnelting",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-023",
+      "state": "MO"
+    },
+    "19941": {
+      "name": "Mike McGirl",
+      "first_name": "Michael",
+      "last_name": "McGirl",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-118",
+      "state": "MO"
+    },
+    "19956": {
+      "name": "Mary Coleman",
+      "first_name": "Mary",
+      "last_name": "Coleman",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-022",
+      "state": "MO"
+    },
+    "19962": {
+      "name": "Robert Bromley",
+      "first_name": "Robert",
+      "last_name": "Bromley",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-162",
+      "state": "MO"
+    },
+    "19966": {
+      "name": "Raychel Proudie",
+      "first_name": "Raychel",
+      "last_name": "Proudie",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-073",
+      "state": "MO"
+    },
+    "20162": {
+      "name": "Brenda Shields",
+      "first_name": "Brenda",
+      "last_name": "Shields",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-011",
+      "state": "MO"
+    },
+    "20403": {
+      "name": "Brian Williams",
+      "first_name": "Brian",
+      "last_name": "Williams",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-014",
+      "state": "MO"
+    },
+    "20430": {
+      "name": "Dave Griffith",
+      "first_name": "Dave",
+      "last_name": "Griffith",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-060",
+      "state": "MO"
+    },
+    "20695": {
+      "name": "Ladonna Appelbaum",
+      "first_name": "Ladonna",
+      "last_name": "Appelbaum",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-071",
+      "state": "MO"
+    },
+    "20696": {
+      "name": "Hardy Billington",
+      "first_name": "Hardy",
+      "last_name": "Billington",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-152",
+      "state": "MO"
+    },
+    "20697": {
+      "name": "John Black",
+      "first_name": "John",
+      "last_name": "Black",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-129",
+      "state": "MO"
+    },
+    "20699": {
+      "name": "Lakeysha Bosley",
+      "first_name": "Lakeysha",
+      "last_name": "Bosley",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-079",
+      "state": "MO"
+    },
+    "20701": {
+      "name": "Danny Busick",
+      "first_name": "Danny",
+      "last_name": "Busick",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-003",
+      "state": "MO"
+    },
+    "20702": {
+      "name": "Steve Butz",
+      "first_name": "Stephen",
+      "last_name": "Butz",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-081",
+      "state": "MO"
+    },
+    "20703": {
+      "name": "Doug Clemens",
+      "first_name": "Doug",
+      "last_name": "Clemens",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-072",
+      "state": "MO"
+    },
+    "20704": {
+      "name": "Jeff Coleman",
+      "first_name": "Jeff",
+      "last_name": "Coleman",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-032",
+      "state": "MO"
+    },
+    "20705": {
+      "name": "Dirk Deaton",
+      "first_name": "Dirk",
+      "last_name": "Deaton",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-159",
+      "state": "MO"
+    },
+    "20708": {
+      "name": "Bill Falkner",
+      "first_name": "Bill",
+      "last_name": "Falkner",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-010",
+      "state": "MO"
+    },
+    "20710": {
+      "name": "Kent Haden",
+      "first_name": "Kent",
+      "last_name": "Haden",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-043",
+      "state": "MO"
+    },
+    "20711": {
+      "name": "Barry Hovis",
+      "first_name": "Barry",
+      "last_name": "Hovis",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-146",
+      "state": "MO"
+    },
+    "20712": {
+      "name": "Brad Hudson",
+      "first_name": "Brad",
+      "last_name": "Hudson",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-033",
+      "state": "MO"
+    },
+    "20713": {
+      "name": "Keri Ingle",
+      "first_name": "Keri",
+      "last_name": "Ingle",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-035",
+      "state": "MO"
+    },
+    "20714": {
+      "name": "Ian Mackey",
+      "first_name": "Ian",
+      "last_name": "Mackey",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-099",
+      "state": "MO"
+    },
+    "20715": {
+      "name": "Don Mayhew",
+      "first_name": "Don",
+      "last_name": "Mayhew",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-124",
+      "state": "MO"
+    },
+    "20717": {
+      "name": "Jonathan Patterson",
+      "first_name": "Jonathan",
+      "last_name": "Patterson",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-030",
+      "state": "MO"
+    },
+    "20718": {
+      "name": "Bradley Pollitt",
+      "first_name": "Bradley",
+      "last_name": "Pollitt",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-052",
+      "state": "MO"
+    },
+    "20722": {
+      "name": "Rodger Reedy",
+      "first_name": "Rodger",
+      "last_name": "Reedy",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-057",
+      "state": "MO"
+    },
+    "20724": {
+      "name": "Louis Riggs",
+      "first_name": "Louis",
+      "last_name": "Riggs",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-005",
+      "state": "MO"
+    },
+    "20725": {
+      "name": "Lane Roberts",
+      "first_name": "Lane",
+      "last_name": "Roberts",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-161",
+      "state": "MO"
+    },
+    "20729": {
+      "name": "Greg Sharpe",
+      "first_name": "Gregory",
+      "last_name": "Sharpe",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-004",
+      "state": "MO"
+    },
+    "20731": {
+      "name": "John Simmons",
+      "first_name": "John",
+      "last_name": "Simmons",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-109",
+      "state": "MO"
+    },
+    "20732": {
+      "name": "Rudy Veit",
+      "first_name": "Rudy",
+      "last_name": "Veit",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-059",
+      "state": "MO"
+    },
+    "20733": {
+      "name": "Dale Wright",
+      "first_name": "Dale",
+      "last_name": "Wright",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-116",
+      "state": "MO"
+    },
+    "21155": {
+      "name": "Justin Brown",
+      "first_name": "Justin",
+      "last_name": "Brown",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-016",
+      "state": "MO"
+    },
+    "21428": {
+      "name": "Mark Sharp",
+      "first_name": "Mark",
+      "last_name": "Sharp",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-037",
+      "state": "MO"
+    },
+    "21430": {
+      "name": "Yolanda Young",
+      "first_name": "Yolanda",
+      "last_name": "Young",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-022",
+      "state": "MO"
+    },
+    "21533": {
+      "name": "Scott Cupps",
+      "first_name": "Scott",
+      "last_name": "Cupps",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-158",
+      "state": "MO"
+    },
+    "21703": {
+      "name": "Bridget Walsh Moore",
+      "first_name": "Bridget",
+      "last_name": "Walsh Moore",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-093",
+      "state": "MO"
+    },
+    "21704": {
+      "name": "Bill Hardwick",
+      "first_name": "Bill",
+      "last_name": "Hardwick",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-121",
+      "state": "MO"
+    },
+    "21705": {
+      "name": "Chad Perkins",
+      "first_name": "Chad",
+      "last_name": "Perkins",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-040",
+      "state": "MO"
+    },
+    "21706": {
+      "name": "Bishop Davidson",
+      "first_name": "Bishop",
+      "last_name": "Davidson",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-130",
+      "state": "MO"
+    },
+    "21707": {
+      "name": "Marlene Terry",
+      "first_name": "Marlene",
+      "last_name": "Terry",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-066",
+      "state": "MO"
+    },
+    "21708": {
+      "name": "Terry Thompson",
+      "first_name": "Terry",
+      "last_name": "Thompson",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-053",
+      "state": "MO"
+    },
+    "21709": {
+      "name": "Ed Lewis",
+      "first_name": "Ed",
+      "last_name": "Lewis",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-006",
+      "state": "MO"
+    },
+    "21710": {
+      "name": "Patty Lewis",
+      "first_name": "Patty",
+      "last_name": "Lewis",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-007",
+      "state": "MO"
+    },
+    "21712": {
+      "name": "Jason Bean",
+      "first_name": "Jason",
+      "last_name": "Bean",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-025",
+      "state": "MO"
+    },
+    "21714": {
+      "name": "Angela Mosley",
+      "first_name": "Angela",
+      "last_name": "Mosley",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-013",
+      "state": "MO"
+    },
+    "21738": {
+      "name": "Tim Taylor",
+      "first_name": "Tim",
+      "last_name": "Taylor",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-048",
+      "state": "MO"
+    },
+    "21759": {
+      "name": "Jim Kalberloh",
+      "first_name": "Jim",
+      "last_name": "Kalberloh",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-126",
+      "state": "MO"
+    },
+    "21764": {
+      "name": "Josh Hurlbert",
+      "first_name": "Josh",
+      "last_name": "Hurlbert",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-008",
+      "state": "MO"
+    },
+    "21785": {
+      "name": "Bill Owen",
+      "first_name": "Bill",
+      "last_name": "Owen",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-131",
+      "state": "MO"
+    },
+    "21891": {
+      "name": "Alex Riley",
+      "first_name": "Alex",
+      "last_name": "Riley",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-134",
+      "state": "MO"
+    },
+    "21913": {
+      "name": "Kurtis Gregory",
+      "first_name": "Kurtis",
+      "last_name": "Gregory",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-021",
+      "state": "MO"
+    },
+    "22085": {
+      "name": "Jo Doll",
+      "first_name": "Jo",
+      "last_name": "Doll",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-091",
+      "state": "MO"
+    },
+    "22086": {
+      "name": "Michael Davis",
+      "first_name": "Michael",
+      "last_name": "Davis",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-056",
+      "state": "MO"
+    },
+    "22132": {
+      "name": "Kimberly-Ann Collins",
+      "first_name": "Kimberly-Ann",
+      "last_name": "Collins",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-077",
+      "state": "MO"
+    },
+    "22280": {
+      "name": "Marlon Anderson",
+      "first_name": "Marlon",
+      "last_name": "Anderson",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-076",
+      "state": "MO"
+    },
+    "22281": {
+      "name": "Michael Johnson",
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-023",
+      "state": "MO"
+    },
+    "22384": {
+      "name": "Ashley Aune",
+      "first_name": "Ashley",
+      "last_name": "Aune",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-014",
+      "state": "MO"
+    },
+    "22385": {
+      "name": "Mitch Boggs",
+      "first_name": "Mitch",
+      "last_name": "Boggs",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-157",
+      "state": "MO"
+    },
+    "22386": {
+      "name": "Chris Brown",
+      "first_name": "Chris",
+      "last_name": "Brown",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-016",
+      "state": "MO"
+    },
+    "22388": {
+      "name": "Jamie Burger",
+      "first_name": "Jamie",
+      "last_name": "Burger",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-027",
+      "state": "MO"
+    },
+    "22389": {
+      "name": "Michael Burton",
+      "first_name": "Michael",
+      "last_name": "Burton",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-092",
+      "state": "MO"
+    },
+    "22390": {
+      "name": "Bennie Cook",
+      "first_name": "Bennie",
+      "last_name": "Cook",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-143",
+      "state": "MO"
+    },
+    "22392": {
+      "name": "Betsy Fogle",
+      "first_name": "Betsy",
+      "last_name": "Fogle",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-135",
+      "state": "MO"
+    },
+    "22393": {
+      "name": "Willard Haley",
+      "first_name": "Willard",
+      "last_name": "Haley",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-058",
+      "state": "MO"
+    },
+    "22394": {
+      "name": "Maggie Nurrenbern",
+      "first_name": "Maggie",
+      "last_name": "Nurrenbern",
+      "party": "D",
+      "role": "Sen",
+      "district": "SD-017",
+      "state": "MO"
+    },
+    "22396": {
+      "name": "Sean Pouche",
+      "first_name": "Sean",
+      "last_name": "Pouche",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-013",
+      "state": "MO"
+    },
+    "22397": {
+      "name": "Bruce Sassmann",
+      "first_name": "Bruce",
+      "last_name": "Sassmann",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-061",
+      "state": "MO"
+    },
+    "22398": {
+      "name": "Brian Seitz",
+      "first_name": "Brian",
+      "last_name": "Seitz",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-156",
+      "state": "MO"
+    },
+    "22401": {
+      "name": "Dean Van Schoiack",
+      "first_name": "Dean",
+      "last_name": "Van Schoiack",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-009",
+      "state": "MO"
+    },
+    "22403": {
+      "name": "Emily Weber",
+      "first_name": "Emily",
+      "last_name": "Weber",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-024",
+      "state": "MO"
+    },
+    "22404": {
+      "name": "Richard West",
+      "first_name": "Richard",
+      "last_name": "West",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-102",
+      "state": "MO"
+    },
+    "22922": {
+      "name": "David Smith",
+      "first_name": "David",
+      "last_name": "Smith",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-046",
+      "state": "MO"
+    },
+    "23193": {
+      "name": "Mazzie Christensen",
+      "first_name": "Mazzie",
+      "last_name": "Christensen",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-002",
+      "state": "MO"
+    },
+    "23194": {
+      "name": "Aaron Crossley",
+      "first_name": "Aaron",
+      "last_name": "Crossley",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-029",
+      "state": "MO"
+    },
+    "23195": {
+      "name": "Jeff Myers",
+      "first_name": "Jeff",
+      "last_name": "Myers",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-042",
+      "state": "MO"
+    },
+    "23196": {
+      "name": "Adrian Plank",
+      "first_name": "Adrian",
+      "last_name": "Plank",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-047",
+      "state": "MO"
+    },
+    "23198": {
+      "name": "Melanie Stinnett",
+      "first_name": "Melanie",
+      "last_name": "Stinnett",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-133",
+      "state": "MO"
+    },
+    "23199": {
+      "name": "Bob Titus",
+      "first_name": "Bob",
+      "last_name": "Titus",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-139",
+      "state": "MO"
+    },
+    "23200": {
+      "name": "Jill Carter",
+      "first_name": "Jill",
+      "last_name": "Carter",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-032",
+      "state": "MO"
+    },
+    "23316": {
+      "name": "Donnie Brown",
+      "first_name": "Donnie",
+      "last_name": "Brown",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-149",
+      "state": "MO"
+    },
+    "23387": {
+      "name": "Brad Banderman",
+      "first_name": "Brad",
+      "last_name": "Banderman",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-119",
+      "state": "MO"
+    },
+    "23608": {
+      "name": "Brad Christ",
+      "first_name": "Brad",
+      "last_name": "Christ",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-096",
+      "state": "MO"
+    },
+    "23609": {
+      "name": "Bill Allen",
+      "first_name": "Bill",
+      "last_name": "Allen",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-017",
+      "state": "MO"
+    },
+    "23610": {
+      "name": "Kemp Strickler",
+      "first_name": "Kemp",
+      "last_name": "Strickler",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-034",
+      "state": "MO"
+    },
+    "23611": {
+      "name": "Ben Keathley",
+      "first_name": "Ben",
+      "last_name": "Keathley",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-101",
+      "state": "MO"
+    },
+    "23747": {
+      "name": "Phil Amato",
+      "first_name": "Phil",
+      "last_name": "Amato",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-113",
+      "state": "MO"
+    },
+    "23748": {
+      "name": "Travis Wilson",
+      "first_name": "Travis",
+      "last_name": "Wilson",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-106",
+      "state": "MO"
+    },
+    "23978": {
+      "name": "Eric Woods",
+      "first_name": "Eric",
+      "last_name": "Woods",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-018",
+      "state": "MO"
+    },
+    "23979": {
+      "name": "Stephanie Hein",
+      "first_name": "Stephanie",
+      "last_name": "Hein",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-136",
+      "state": "MO"
+    },
+    "24095": {
+      "name": "Ben Brown",
+      "first_name": "Ben",
+      "last_name": "Brown",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-026",
+      "state": "MO"
+    },
+    "24127": {
+      "name": "Tricia Byrnes",
+      "first_name": "Tricia",
+      "last_name": "Byrnes",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-063",
+      "state": "MO"
+    },
+    "24128": {
+      "name": "David Casteel",
+      "first_name": "David",
+      "last_name": "Casteel",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-097",
+      "state": "MO"
+    },
+    "24129": {
+      "name": "Darin Chappell",
+      "first_name": "Darin",
+      "last_name": "Chappell",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-137",
+      "state": "MO"
+    },
+    "24130": {
+      "name": "Dane Diehl",
+      "first_name": "Dane",
+      "last_name": "Diehl",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-125",
+      "state": "MO"
+    },
+    "24131": {
+      "name": "Anthony Ealy",
+      "first_name": "Anthony",
+      "last_name": "Ealy",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-036",
+      "state": "MO"
+    },
+    "24132": {
+      "name": "Jeff Farnan",
+      "first_name": "Jeff",
+      "last_name": "Farnan",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-001",
+      "state": "MO"
+    },
+    "24133": {
+      "name": "Yolonda Fountain Henderson",
+      "first_name": "Yolonda",
+      "last_name": "Fountain Henderson",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-085",
+      "state": "MO"
+    },
+    "24134": {
+      "name": "Sherri Gallick",
+      "first_name": "Sherri",
+      "last_name": "Gallick",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-062",
+      "state": "MO"
+    },
+    "24135": {
+      "name": "Jamie Gragg",
+      "first_name": "Jamie",
+      "last_name": "Gragg",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-140",
+      "state": "MO"
+    },
+    "24136": {
+      "name": "Wendy Hausman",
+      "first_name": "Wendy",
+      "last_name": "Hausman",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-065",
+      "state": "MO"
+    },
+    "24137": {
+      "name": "Dave Hinman",
+      "first_name": "David",
+      "last_name": "Hinman",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-103",
+      "state": "MO"
+    },
+    "24139": {
+      "name": "Holly Jones",
+      "first_name": "Holly",
+      "last_name": "Jones",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-088",
+      "state": "MO"
+    },
+    "24141": {
+      "name": "Philip Oehlerking",
+      "first_name": "Philip",
+      "last_name": "Oehlerking",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-100",
+      "state": "MO"
+    },
+    "24142": {
+      "name": "Cameron Bunting Parker",
+      "first_name": "Cameron",
+      "last_name": "Bunting Parker",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-150",
+      "state": "MO"
+    },
+    "24143": {
+      "name": "Tara Peters",
+      "first_name": "Tara",
+      "last_name": "Peters",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-122",
+      "state": "MO"
+    },
+    "24144": {
+      "name": "Renee Reuter",
+      "first_name": "Renee",
+      "last_name": "Reuter",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-112",
+      "state": "MO"
+    },
+    "24145": {
+      "name": "Jim Schulte",
+      "first_name": "Jim",
+      "last_name": "Schulte",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-049",
+      "state": "MO"
+    },
+    "24146": {
+      "name": "Kathy Steinhoff",
+      "first_name": "Kathy",
+      "last_name": "Steinhoff",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-045",
+      "state": "MO"
+    },
+    "24147": {
+      "name": "Del Taylor",
+      "first_name": "Del",
+      "last_name": "Taylor",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-084",
+      "state": "MO"
+    },
+    "24148": {
+      "name": "John Voss",
+      "first_name": "John",
+      "last_name": "Voss",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-147",
+      "state": "MO"
+    },
+    "24547": {
+      "name": "Doyle Justus",
+      "first_name": "Doyle",
+      "last_name": "Justus",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-041",
+      "state": "MO"
+    },
+    "25251": {
+      "name": "Donna Barnes",
+      "first_name": "Donna",
+      "last_name": "Barnes",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-028",
+      "state": "MO"
+    },
+    "25252": {
+      "name": "Stephanie Boykin",
+      "first_name": "Stephanie",
+      "last_name": "Boykin",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-070",
+      "state": "MO"
+    },
+    "25253": {
+      "name": "Mark Boyko",
+      "first_name": "Mark",
+      "last_name": "Boyko",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-090",
+      "state": "MO"
+    },
+    "25254": {
+      "name": "Gregg Bush",
+      "first_name": "Gregg",
+      "last_name": "Bush",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-050",
+      "state": "MO"
+    },
+    "25255": {
+      "name": "Carolyn Caton",
+      "first_name": "Carolyn",
+      "last_name": "Caton",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-033",
+      "state": "MO"
+    },
+    "25256": {
+      "name": "Mike Costlow",
+      "first_name": "Mike",
+      "last_name": "Costlow",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-108",
+      "state": "MO"
+    },
+    "25257": {
+      "name": "Jeremy Dean",
+      "first_name": "Jeremy",
+      "last_name": "Dean",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-132",
+      "state": "MO"
+    },
+    "25258": {
+      "name": "David Dolan",
+      "first_name": "David",
+      "last_name": "Dolan",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-148",
+      "state": "MO"
+    },
+    "25259": {
+      "name": "Melissa Douglas",
+      "first_name": "Melissa",
+      "last_name": "Douglas",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-027",
+      "state": "MO"
+    },
+    "25260": {
+      "name": "Lisa Durnell",
+      "first_name": "Lisa",
+      "last_name": "Durnell",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-154",
+      "state": "MO"
+    },
+    "25261": {
+      "name": "Keith Elliott",
+      "first_name": "Keith",
+      "last_name": "Elliott",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-153",
+      "state": "MO"
+    },
+    "25262": {
+      "name": "Ron Fowler",
+      "first_name": "Ron",
+      "last_name": "Fowler",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-031",
+      "state": "MO"
+    },
+    "25263": {
+      "name": "Elizabeth Fuchs",
+      "first_name": "Elizabeth",
+      "last_name": "Fuchs",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-080",
+      "state": "MO"
+    },
+    "25264": {
+      "name": "Jeff Hales",
+      "first_name": "Jeff",
+      "last_name": "Hales",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-086",
+      "state": "MO"
+    },
+    "25265": {
+      "name": "Tony Harbison",
+      "first_name": "Tony",
+      "last_name": "Harbison",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-144",
+      "state": "MO"
+    },
+    "25266": {
+      "name": "John Hewkin",
+      "first_name": "John",
+      "last_name": "Hewkin",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-120",
+      "state": "MO"
+    },
+    "25267": {
+      "name": "George Hruza",
+      "first_name": "George",
+      "last_name": "Hruza",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-089",
+      "state": "MO"
+    },
+    "25268": {
+      "name": "Bill Irwin",
+      "first_name": "William",
+      "last_name": "Irwin",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-055",
+      "state": "MO"
+    },
+    "25269": {
+      "name": "Martin Jacobs",
+      "first_name": "Martin",
+      "last_name": "Jacobs",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-038",
+      "state": "MO"
+    },
+    "25270": {
+      "name": "Ken Jamison",
+      "first_name": "Kenneth",
+      "last_name": "Jamison",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-015",
+      "state": "MO"
+    },
+    "25271": {
+      "name": "Will Jobe",
+      "first_name": "Will",
+      "last_name": "Jobe",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-021",
+      "state": "MO"
+    },
+    "25272": {
+      "name": "Mike Jones",
+      "first_name": "Mike",
+      "last_name": "Jones",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-012",
+      "state": "MO"
+    },
+    "25273": {
+      "name": "Steve Jordan",
+      "first_name": "Steven",
+      "last_name": "Jordan",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-151",
+      "state": "MO"
+    },
+    "25274": {
+      "name": "Nick Kimble",
+      "first_name": "Nick",
+      "last_name": "Kimble",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-082",
+      "state": "MO"
+    },
+    "25275": {
+      "name": "Becky Laubinger",
+      "first_name": "Becky",
+      "last_name": "Laubinger",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-117",
+      "state": "MO"
+    },
+    "25276": {
+      "name": "Cathy Loy",
+      "first_name": "Cathy",
+      "last_name": "Loy",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-163",
+      "state": "MO"
+    },
+    "25277": {
+      "name": "Bill Lucas",
+      "first_name": "Bill",
+      "last_name": "Lucas",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-115",
+      "state": "MO"
+    },
+    "25278": {
+      "name": "Pattie Mansur",
+      "first_name": "Patricia",
+      "last_name": "Mansur",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-025",
+      "state": "MO"
+    },
+    "25279": {
+      "name": "John Martin",
+      "first_name": "John",
+      "last_name": "Martin",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-044",
+      "state": "MO"
+    },
+    "25280": {
+      "name": "Mark Meirath",
+      "first_name": "Mark",
+      "last_name": "Meirath",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-039",
+      "state": "MO"
+    },
+    "25281": {
+      "name": "Scott Miller",
+      "first_name": "Scott",
+      "last_name": "Miller",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-069",
+      "state": "MO"
+    },
+    "25282": {
+      "name": "Chanel Mosley",
+      "first_name": "Chanel",
+      "last_name": "Mosley",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-075",
+      "state": "MO"
+    },
+    "25283": {
+      "name": "Marty Murray",
+      "first_name": "Marty",
+      "last_name": "Murray",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-078",
+      "state": "MO"
+    },
+    "25284": {
+      "name": "Mark Nolte",
+      "first_name": "Mark",
+      "last_name": "Nolte",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-051",
+      "state": "MO"
+    },
+    "25285": {
+      "name": "Matthew Overcast",
+      "first_name": "Matthew",
+      "last_name": "Overcast",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-155",
+      "state": "MO"
+    },
+    "25286": {
+      "name": "Brandon Phelps",
+      "first_name": "Brandon",
+      "last_name": "Phelps",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-054",
+      "state": "MO"
+    },
+    "25287": {
+      "name": "Tiffany Price",
+      "first_name": "Tiffany",
+      "last_name": "Price",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-026",
+      "state": "MO"
+    },
+    "25288": {
+      "name": "Ray Reed",
+      "first_name": "Raymond",
+      "last_name": "Reed",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-083",
+      "state": "MO"
+    },
+    "25289": {
+      "name": "Tonya Rush",
+      "first_name": "Tonya",
+      "last_name": "Rush",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-067",
+      "state": "MO"
+    },
+    "25290": {
+      "name": "Melissa Schmidt",
+      "first_name": "Melissa",
+      "last_name": "Schmidt",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-141",
+      "state": "MO"
+    },
+    "25291": {
+      "name": "Deanna Self",
+      "first_name": "Deanna",
+      "last_name": "Self",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-064",
+      "state": "MO"
+    },
+    "25292": {
+      "name": "Kem Smith",
+      "first_name": "Kem",
+      "last_name": "Smith",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-068",
+      "state": "MO"
+    },
+    "25293": {
+      "name": "Marla Smith",
+      "first_name": "Marla",
+      "last_name": "Smith",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-074",
+      "state": "MO"
+    },
+    "25294": {
+      "name": "Connie Steinmetz",
+      "first_name": "Connie",
+      "last_name": "Steinmetz",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-087",
+      "state": "MO"
+    },
+    "25295": {
+      "name": "Mike Steinmeyer",
+      "first_name": "Michael",
+      "last_name": "Steinmeyer",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-020",
+      "state": "MO"
+    },
+    "25296": {
+      "name": "Wick Thomas",
+      "first_name": "Nicholas",
+      "last_name": "Thomas",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-019",
+      "state": "MO"
+    },
+    "25297": {
+      "name": "Jeff Vernetti",
+      "first_name": "Jeff",
+      "last_name": "Vernetti",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-123",
+      "state": "MO"
+    },
+    "25298": {
+      "name": "Terri Violet",
+      "first_name": "Terri",
+      "last_name": "Violet",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-104",
+      "state": "MO"
+    },
+    "25299": {
+      "name": "Christopher Warwick",
+      "first_name": "Christopher",
+      "last_name": "Warwick",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-128",
+      "state": "MO"
+    },
+    "25300": {
+      "name": "Colin Wellenkamp",
+      "first_name": "Colin",
+      "last_name": "Wellenkamp",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-105",
+      "state": "MO"
+    },
+    "25301": {
+      "name": "Burt Whaley",
+      "first_name": "Burt",
+      "last_name": "Whaley",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-138",
+      "state": "MO"
+    },
+    "25302": {
+      "name": "Cecelie Williams",
+      "first_name": "Cecelie",
+      "last_name": "Williams",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-111",
+      "state": "MO"
+    },
+    "25303": {
+      "name": "Bryant Wolfin",
+      "first_name": "Bryant",
+      "last_name": "Wolfin",
+      "party": "R",
+      "role": "Rep",
+      "district": "HD-145",
+      "state": "MO"
+    },
+    "25304": {
+      "name": "Jaclyn Zimmermann",
+      "first_name": "Jaclyn",
+      "last_name": "Zimmermann",
+      "party": "D",
+      "role": "Rep",
+      "district": "HD-098",
+      "state": "MO"
+    },
+    "25360": {
+      "name": "Joe Nicola",
+      "first_name": "Joe",
+      "last_name": "Nicola",
+      "party": "R",
+      "role": "Sen",
+      "district": "SD-011",
+      "state": "MO"
     }
   },
   "sessions_fetched": [
@@ -327120,6 +330436,7 @@
     "2159",
     "2160",
     "2161",
+    "2163",
     "2166",
     "2171",
     "2172",
@@ -327129,8 +330446,10 @@
     "2183",
     "2185",
     "2188",
+    "2189",
     "2190",
     "2192",
+    "2194",
     "2195",
     "2197",
     "2198",
@@ -327142,7 +330461,9 @@
     "2235",
     "2236",
     "2237",
+    "2239",
     "2240",
+    "2242",
     "2243",
     "2244",
     "2246",
@@ -327153,7 +330474,7 @@
     "2252",
     "2253"
   ],
-  "generated_at": "2026-09-30T12:00:14.026183+00:00",
+  "generated_at": "2026-10-01T12:33:16.051845+00:00",
   "people_by_session": {
     "2236": {
       "4747": {
@@ -377916,6 +381237,1749 @@
         "district": "SD-000",
         "state": "DC"
       }
-    }
+    },
+    "2189": {},
+    "2163": {},
+    "2239": {
+      "7655": {
+        "name": "Stephen Webber",
+        "first_name": "Stephen",
+        "last_name": "Webber",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-019",
+        "state": "MO"
+      },
+      "12942": {
+        "name": "Mike Bernskoetter",
+        "first_name": "Mike",
+        "last_name": "Bernskoetter",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-006",
+        "state": "MO"
+      },
+      "12944": {
+        "name": "Rick Brattin",
+        "first_name": "Rick",
+        "last_name": "Brattin",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-031",
+        "state": "MO"
+      },
+      "12947": {
+        "name": "Mike Cierpiot",
+        "first_name": "Mike",
+        "last_name": "Cierpiot",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-008",
+        "state": "MO"
+      },
+      "12949": {
+        "name": "Sandy Crawford",
+        "first_name": "Sandy",
+        "last_name": "Crawford",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-028",
+        "state": "MO"
+      },
+      "12968": {
+        "name": "Karla May",
+        "first_name": "Karla",
+        "last_name": "May",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-004",
+        "state": "MO"
+      },
+      "13002": {
+        "name": "Lincoln Hough",
+        "first_name": "Lincoln",
+        "last_name": "Hough",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-030",
+        "state": "MO"
+      },
+      "13872": {
+        "name": "Tracy McCreery",
+        "first_name": "Tracy",
+        "last_name": "McCreery",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-024",
+        "state": "MO"
+      },
+      "16177": {
+        "name": "Mike Moon",
+        "first_name": "Mike",
+        "last_name": "Moon",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-029",
+        "state": "MO"
+      },
+      "17512": {
+        "name": "Travis Fitzwater",
+        "first_name": "Travis",
+        "last_name": "Fitzwater",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-010",
+        "state": "MO"
+      },
+      "18054": {
+        "name": "Nick Schroer",
+        "first_name": "Nick",
+        "last_name": "Schroer",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-002",
+        "state": "MO"
+      },
+      "18055": {
+        "name": "Mike Henderson",
+        "first_name": "Mike",
+        "last_name": "Henderson",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-003",
+        "state": "MO"
+      },
+      "18097": {
+        "name": "Doug Beck",
+        "first_name": "Doug",
+        "last_name": "Beck",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-001",
+        "state": "MO"
+      },
+      "18243": {
+        "name": "Steven Roberts",
+        "first_name": "Steven",
+        "last_name": "Roberts",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-005",
+        "state": "MO"
+      },
+      "18819": {
+        "name": "David Gregory",
+        "first_name": "David",
+        "last_name": "Gregory",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-015",
+        "state": "MO"
+      },
+      "18824": {
+        "name": "Mark Matthiesen",
+        "first_name": "Mark",
+        "last_name": "Matthiesen",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-107",
+        "state": "MO"
+      },
+      "18833": {
+        "name": "Curtis Trent",
+        "first_name": "Curtis",
+        "last_name": "Trent",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-020",
+        "state": "MO"
+      },
+      "19250": {
+        "name": "Rusty Black",
+        "first_name": "Rusty",
+        "last_name": "Black",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-012",
+        "state": "MO"
+      },
+      "19466": {
+        "name": "Barbara Washington",
+        "first_name": "Barbara",
+        "last_name": "Washington",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-009",
+        "state": "MO"
+      },
+      "19593": {
+        "name": "Jeff Knight",
+        "first_name": "Jeff",
+        "last_name": "Knight",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-142",
+        "state": "MO"
+      },
+      "19633": {
+        "name": "Peggy McGaugh",
+        "first_name": "Peggy",
+        "last_name": "McGaugh",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-007",
+        "state": "MO"
+      },
+      "19714": {
+        "name": "Cindy O'Laughlin",
+        "first_name": "Cindy",
+        "last_name": "O'Laughlin",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-018",
+        "state": "MO"
+      },
+      "19715": {
+        "name": "Tony Luetkemeyer",
+        "first_name": "Tony",
+        "last_name": "Luetkemeyer",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-034",
+        "state": "MO"
+      },
+      "19735": {
+        "name": "Ann Kelley",
+        "first_name": "Ann",
+        "last_name": "Kelley",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-127",
+        "state": "MO"
+      },
+      "19736": {
+        "name": "Jim Murphy",
+        "first_name": "Jim",
+        "last_name": "Murphy",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-094",
+        "state": "MO"
+      },
+      "19939": {
+        "name": "Adam Schnelting",
+        "first_name": "Adam",
+        "last_name": "Schnelting",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-023",
+        "state": "MO"
+      },
+      "19941": {
+        "name": "Mike McGirl",
+        "first_name": "Michael",
+        "last_name": "McGirl",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-118",
+        "state": "MO"
+      },
+      "19956": {
+        "name": "Mary Coleman",
+        "first_name": "Mary",
+        "last_name": "Coleman",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-022",
+        "state": "MO"
+      },
+      "19962": {
+        "name": "Robert Bromley",
+        "first_name": "Robert",
+        "last_name": "Bromley",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-162",
+        "state": "MO"
+      },
+      "19966": {
+        "name": "Raychel Proudie",
+        "first_name": "Raychel",
+        "last_name": "Proudie",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-073",
+        "state": "MO"
+      },
+      "20162": {
+        "name": "Brenda Shields",
+        "first_name": "Brenda",
+        "last_name": "Shields",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-011",
+        "state": "MO"
+      },
+      "20403": {
+        "name": "Brian Williams",
+        "first_name": "Brian",
+        "last_name": "Williams",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-014",
+        "state": "MO"
+      },
+      "20430": {
+        "name": "Dave Griffith",
+        "first_name": "Dave",
+        "last_name": "Griffith",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-060",
+        "state": "MO"
+      },
+      "20695": {
+        "name": "Ladonna Appelbaum",
+        "first_name": "Ladonna",
+        "last_name": "Appelbaum",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-071",
+        "state": "MO"
+      },
+      "20696": {
+        "name": "Hardy Billington",
+        "first_name": "Hardy",
+        "last_name": "Billington",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-152",
+        "state": "MO"
+      },
+      "20697": {
+        "name": "John Black",
+        "first_name": "John",
+        "last_name": "Black",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-129",
+        "state": "MO"
+      },
+      "20699": {
+        "name": "Lakeysha Bosley",
+        "first_name": "Lakeysha",
+        "last_name": "Bosley",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-079",
+        "state": "MO"
+      },
+      "20701": {
+        "name": "Danny Busick",
+        "first_name": "Danny",
+        "last_name": "Busick",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-003",
+        "state": "MO"
+      },
+      "20702": {
+        "name": "Steve Butz",
+        "first_name": "Stephen",
+        "last_name": "Butz",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-081",
+        "state": "MO"
+      },
+      "20703": {
+        "name": "Doug Clemens",
+        "first_name": "Doug",
+        "last_name": "Clemens",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-072",
+        "state": "MO"
+      },
+      "20704": {
+        "name": "Jeff Coleman",
+        "first_name": "Jeff",
+        "last_name": "Coleman",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-032",
+        "state": "MO"
+      },
+      "20705": {
+        "name": "Dirk Deaton",
+        "first_name": "Dirk",
+        "last_name": "Deaton",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-159",
+        "state": "MO"
+      },
+      "20708": {
+        "name": "Bill Falkner",
+        "first_name": "Bill",
+        "last_name": "Falkner",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-010",
+        "state": "MO"
+      },
+      "20710": {
+        "name": "Kent Haden",
+        "first_name": "Kent",
+        "last_name": "Haden",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-043",
+        "state": "MO"
+      },
+      "20711": {
+        "name": "Barry Hovis",
+        "first_name": "Barry",
+        "last_name": "Hovis",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-146",
+        "state": "MO"
+      },
+      "20712": {
+        "name": "Brad Hudson",
+        "first_name": "Brad",
+        "last_name": "Hudson",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-033",
+        "state": "MO"
+      },
+      "20713": {
+        "name": "Keri Ingle",
+        "first_name": "Keri",
+        "last_name": "Ingle",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-035",
+        "state": "MO"
+      },
+      "20714": {
+        "name": "Ian Mackey",
+        "first_name": "Ian",
+        "last_name": "Mackey",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-099",
+        "state": "MO"
+      },
+      "20715": {
+        "name": "Don Mayhew",
+        "first_name": "Don",
+        "last_name": "Mayhew",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-124",
+        "state": "MO"
+      },
+      "20717": {
+        "name": "Jonathan Patterson",
+        "first_name": "Jonathan",
+        "last_name": "Patterson",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-030",
+        "state": "MO"
+      },
+      "20718": {
+        "name": "Bradley Pollitt",
+        "first_name": "Bradley",
+        "last_name": "Pollitt",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-052",
+        "state": "MO"
+      },
+      "20722": {
+        "name": "Rodger Reedy",
+        "first_name": "Rodger",
+        "last_name": "Reedy",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-057",
+        "state": "MO"
+      },
+      "20724": {
+        "name": "Louis Riggs",
+        "first_name": "Louis",
+        "last_name": "Riggs",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-005",
+        "state": "MO"
+      },
+      "20725": {
+        "name": "Lane Roberts",
+        "first_name": "Lane",
+        "last_name": "Roberts",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-161",
+        "state": "MO"
+      },
+      "20729": {
+        "name": "Greg Sharpe",
+        "first_name": "Gregory",
+        "last_name": "Sharpe",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-004",
+        "state": "MO"
+      },
+      "20731": {
+        "name": "John Simmons",
+        "first_name": "John",
+        "last_name": "Simmons",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-109",
+        "state": "MO"
+      },
+      "20732": {
+        "name": "Rudy Veit",
+        "first_name": "Rudy",
+        "last_name": "Veit",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-059",
+        "state": "MO"
+      },
+      "20733": {
+        "name": "Dale Wright",
+        "first_name": "Dale",
+        "last_name": "Wright",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-116",
+        "state": "MO"
+      },
+      "21155": {
+        "name": "Justin Brown",
+        "first_name": "Justin",
+        "last_name": "Brown",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-016",
+        "state": "MO"
+      },
+      "21428": {
+        "name": "Mark Sharp",
+        "first_name": "Mark",
+        "last_name": "Sharp",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-037",
+        "state": "MO"
+      },
+      "21430": {
+        "name": "Yolanda Young",
+        "first_name": "Yolanda",
+        "last_name": "Young",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-022",
+        "state": "MO"
+      },
+      "21533": {
+        "name": "Scott Cupps",
+        "first_name": "Scott",
+        "last_name": "Cupps",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-158",
+        "state": "MO"
+      },
+      "21703": {
+        "name": "Bridget Walsh Moore",
+        "first_name": "Bridget",
+        "last_name": "Walsh Moore",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-093",
+        "state": "MO"
+      },
+      "21704": {
+        "name": "Bill Hardwick",
+        "first_name": "Bill",
+        "last_name": "Hardwick",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-121",
+        "state": "MO"
+      },
+      "21705": {
+        "name": "Chad Perkins",
+        "first_name": "Chad",
+        "last_name": "Perkins",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-040",
+        "state": "MO"
+      },
+      "21706": {
+        "name": "Bishop Davidson",
+        "first_name": "Bishop",
+        "last_name": "Davidson",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-130",
+        "state": "MO"
+      },
+      "21707": {
+        "name": "Marlene Terry",
+        "first_name": "Marlene",
+        "last_name": "Terry",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-066",
+        "state": "MO"
+      },
+      "21708": {
+        "name": "Terry Thompson",
+        "first_name": "Terry",
+        "last_name": "Thompson",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-053",
+        "state": "MO"
+      },
+      "21709": {
+        "name": "Ed Lewis",
+        "first_name": "Ed",
+        "last_name": "Lewis",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-006",
+        "state": "MO"
+      },
+      "21710": {
+        "name": "Patty Lewis",
+        "first_name": "Patty",
+        "last_name": "Lewis",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-007",
+        "state": "MO"
+      },
+      "21712": {
+        "name": "Jason Bean",
+        "first_name": "Jason",
+        "last_name": "Bean",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-025",
+        "state": "MO"
+      },
+      "21714": {
+        "name": "Angela Mosley",
+        "first_name": "Angela",
+        "last_name": "Mosley",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-013",
+        "state": "MO"
+      },
+      "21738": {
+        "name": "Tim Taylor",
+        "first_name": "Tim",
+        "last_name": "Taylor",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-048",
+        "state": "MO"
+      },
+      "21759": {
+        "name": "Jim Kalberloh",
+        "first_name": "Jim",
+        "last_name": "Kalberloh",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-126",
+        "state": "MO"
+      },
+      "21764": {
+        "name": "Josh Hurlbert",
+        "first_name": "Josh",
+        "last_name": "Hurlbert",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-008",
+        "state": "MO"
+      },
+      "21785": {
+        "name": "Bill Owen",
+        "first_name": "Bill",
+        "last_name": "Owen",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-131",
+        "state": "MO"
+      },
+      "21891": {
+        "name": "Alex Riley",
+        "first_name": "Alex",
+        "last_name": "Riley",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-134",
+        "state": "MO"
+      },
+      "21913": {
+        "name": "Kurtis Gregory",
+        "first_name": "Kurtis",
+        "last_name": "Gregory",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-021",
+        "state": "MO"
+      },
+      "22085": {
+        "name": "Jo Doll",
+        "first_name": "Jo",
+        "last_name": "Doll",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-091",
+        "state": "MO"
+      },
+      "22086": {
+        "name": "Michael Davis",
+        "first_name": "Michael",
+        "last_name": "Davis",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-056",
+        "state": "MO"
+      },
+      "22132": {
+        "name": "Kimberly-Ann Collins",
+        "first_name": "Kimberly-Ann",
+        "last_name": "Collins",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-077",
+        "state": "MO"
+      },
+      "22280": {
+        "name": "Marlon Anderson",
+        "first_name": "Marlon",
+        "last_name": "Anderson",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-076",
+        "state": "MO"
+      },
+      "22281": {
+        "name": "Michael Johnson",
+        "first_name": "Michael",
+        "last_name": "Johnson",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-023",
+        "state": "MO"
+      },
+      "22384": {
+        "name": "Ashley Aune",
+        "first_name": "Ashley",
+        "last_name": "Aune",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-014",
+        "state": "MO"
+      },
+      "22385": {
+        "name": "Mitch Boggs",
+        "first_name": "Mitch",
+        "last_name": "Boggs",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-157",
+        "state": "MO"
+      },
+      "22386": {
+        "name": "Chris Brown",
+        "first_name": "Chris",
+        "last_name": "Brown",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-016",
+        "state": "MO"
+      },
+      "22388": {
+        "name": "Jamie Burger",
+        "first_name": "Jamie",
+        "last_name": "Burger",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-027",
+        "state": "MO"
+      },
+      "22389": {
+        "name": "Michael Burton",
+        "first_name": "Michael",
+        "last_name": "Burton",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-092",
+        "state": "MO"
+      },
+      "22390": {
+        "name": "Bennie Cook",
+        "first_name": "Bennie",
+        "last_name": "Cook",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-143",
+        "state": "MO"
+      },
+      "22392": {
+        "name": "Betsy Fogle",
+        "first_name": "Betsy",
+        "last_name": "Fogle",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-135",
+        "state": "MO"
+      },
+      "22393": {
+        "name": "Willard Haley",
+        "first_name": "Willard",
+        "last_name": "Haley",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-058",
+        "state": "MO"
+      },
+      "22394": {
+        "name": "Maggie Nurrenbern",
+        "first_name": "Maggie",
+        "last_name": "Nurrenbern",
+        "party": "D",
+        "role": "Sen",
+        "district": "SD-017",
+        "state": "MO"
+      },
+      "22396": {
+        "name": "Sean Pouche",
+        "first_name": "Sean",
+        "last_name": "Pouche",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-013",
+        "state": "MO"
+      },
+      "22397": {
+        "name": "Bruce Sassmann",
+        "first_name": "Bruce",
+        "last_name": "Sassmann",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-061",
+        "state": "MO"
+      },
+      "22398": {
+        "name": "Brian Seitz",
+        "first_name": "Brian",
+        "last_name": "Seitz",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-156",
+        "state": "MO"
+      },
+      "22401": {
+        "name": "Dean Van Schoiack",
+        "first_name": "Dean",
+        "last_name": "Van Schoiack",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-009",
+        "state": "MO"
+      },
+      "22403": {
+        "name": "Emily Weber",
+        "first_name": "Emily",
+        "last_name": "Weber",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-024",
+        "state": "MO"
+      },
+      "22404": {
+        "name": "Richard West",
+        "first_name": "Richard",
+        "last_name": "West",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-102",
+        "state": "MO"
+      },
+      "22922": {
+        "name": "David Smith",
+        "first_name": "David",
+        "last_name": "Smith",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-046",
+        "state": "MO"
+      },
+      "23193": {
+        "name": "Mazzie Christensen",
+        "first_name": "Mazzie",
+        "last_name": "Christensen",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-002",
+        "state": "MO"
+      },
+      "23194": {
+        "name": "Aaron Crossley",
+        "first_name": "Aaron",
+        "last_name": "Crossley",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-029",
+        "state": "MO"
+      },
+      "23195": {
+        "name": "Jeff Myers",
+        "first_name": "Jeff",
+        "last_name": "Myers",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-042",
+        "state": "MO"
+      },
+      "23196": {
+        "name": "Adrian Plank",
+        "first_name": "Adrian",
+        "last_name": "Plank",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-047",
+        "state": "MO"
+      },
+      "23198": {
+        "name": "Melanie Stinnett",
+        "first_name": "Melanie",
+        "last_name": "Stinnett",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-133",
+        "state": "MO"
+      },
+      "23199": {
+        "name": "Bob Titus",
+        "first_name": "Bob",
+        "last_name": "Titus",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-139",
+        "state": "MO"
+      },
+      "23200": {
+        "name": "Jill Carter",
+        "first_name": "Jill",
+        "last_name": "Carter",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-032",
+        "state": "MO"
+      },
+      "23316": {
+        "name": "Donnie Brown",
+        "first_name": "Donnie",
+        "last_name": "Brown",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-149",
+        "state": "MO"
+      },
+      "23387": {
+        "name": "Brad Banderman",
+        "first_name": "Brad",
+        "last_name": "Banderman",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-119",
+        "state": "MO"
+      },
+      "23608": {
+        "name": "Brad Christ",
+        "first_name": "Brad",
+        "last_name": "Christ",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-096",
+        "state": "MO"
+      },
+      "23609": {
+        "name": "Bill Allen",
+        "first_name": "Bill",
+        "last_name": "Allen",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-017",
+        "state": "MO"
+      },
+      "23610": {
+        "name": "Kemp Strickler",
+        "first_name": "Kemp",
+        "last_name": "Strickler",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-034",
+        "state": "MO"
+      },
+      "23611": {
+        "name": "Ben Keathley",
+        "first_name": "Ben",
+        "last_name": "Keathley",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-101",
+        "state": "MO"
+      },
+      "23747": {
+        "name": "Phil Amato",
+        "first_name": "Phil",
+        "last_name": "Amato",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-113",
+        "state": "MO"
+      },
+      "23748": {
+        "name": "Travis Wilson",
+        "first_name": "Travis",
+        "last_name": "Wilson",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-106",
+        "state": "MO"
+      },
+      "23978": {
+        "name": "Eric Woods",
+        "first_name": "Eric",
+        "last_name": "Woods",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-018",
+        "state": "MO"
+      },
+      "23979": {
+        "name": "Stephanie Hein",
+        "first_name": "Stephanie",
+        "last_name": "Hein",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-136",
+        "state": "MO"
+      },
+      "24095": {
+        "name": "Ben Brown",
+        "first_name": "Ben",
+        "last_name": "Brown",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-026",
+        "state": "MO"
+      },
+      "24127": {
+        "name": "Tricia Byrnes",
+        "first_name": "Tricia",
+        "last_name": "Byrnes",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-063",
+        "state": "MO"
+      },
+      "24128": {
+        "name": "David Casteel",
+        "first_name": "David",
+        "last_name": "Casteel",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-097",
+        "state": "MO"
+      },
+      "24129": {
+        "name": "Darin Chappell",
+        "first_name": "Darin",
+        "last_name": "Chappell",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-137",
+        "state": "MO"
+      },
+      "24130": {
+        "name": "Dane Diehl",
+        "first_name": "Dane",
+        "last_name": "Diehl",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-125",
+        "state": "MO"
+      },
+      "24131": {
+        "name": "Anthony Ealy",
+        "first_name": "Anthony",
+        "last_name": "Ealy",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-036",
+        "state": "MO"
+      },
+      "24132": {
+        "name": "Jeff Farnan",
+        "first_name": "Jeff",
+        "last_name": "Farnan",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-001",
+        "state": "MO"
+      },
+      "24133": {
+        "name": "Yolonda Fountain Henderson",
+        "first_name": "Yolonda",
+        "last_name": "Fountain Henderson",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-085",
+        "state": "MO"
+      },
+      "24134": {
+        "name": "Sherri Gallick",
+        "first_name": "Sherri",
+        "last_name": "Gallick",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-062",
+        "state": "MO"
+      },
+      "24135": {
+        "name": "Jamie Gragg",
+        "first_name": "Jamie",
+        "last_name": "Gragg",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-140",
+        "state": "MO"
+      },
+      "24136": {
+        "name": "Wendy Hausman",
+        "first_name": "Wendy",
+        "last_name": "Hausman",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-065",
+        "state": "MO"
+      },
+      "24137": {
+        "name": "Dave Hinman",
+        "first_name": "David",
+        "last_name": "Hinman",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-103",
+        "state": "MO"
+      },
+      "24139": {
+        "name": "Holly Jones",
+        "first_name": "Holly",
+        "last_name": "Jones",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-088",
+        "state": "MO"
+      },
+      "24141": {
+        "name": "Philip Oehlerking",
+        "first_name": "Philip",
+        "last_name": "Oehlerking",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-100",
+        "state": "MO"
+      },
+      "24142": {
+        "name": "Cameron Bunting Parker",
+        "first_name": "Cameron",
+        "last_name": "Bunting Parker",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-150",
+        "state": "MO"
+      },
+      "24143": {
+        "name": "Tara Peters",
+        "first_name": "Tara",
+        "last_name": "Peters",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-122",
+        "state": "MO"
+      },
+      "24144": {
+        "name": "Renee Reuter",
+        "first_name": "Renee",
+        "last_name": "Reuter",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-112",
+        "state": "MO"
+      },
+      "24145": {
+        "name": "Jim Schulte",
+        "first_name": "Jim",
+        "last_name": "Schulte",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-049",
+        "state": "MO"
+      },
+      "24146": {
+        "name": "Kathy Steinhoff",
+        "first_name": "Kathy",
+        "last_name": "Steinhoff",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-045",
+        "state": "MO"
+      },
+      "24147": {
+        "name": "Del Taylor",
+        "first_name": "Del",
+        "last_name": "Taylor",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-084",
+        "state": "MO"
+      },
+      "24148": {
+        "name": "John Voss",
+        "first_name": "John",
+        "last_name": "Voss",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-147",
+        "state": "MO"
+      },
+      "24547": {
+        "name": "Doyle Justus",
+        "first_name": "Doyle",
+        "last_name": "Justus",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-041",
+        "state": "MO"
+      },
+      "25251": {
+        "name": "Donna Barnes",
+        "first_name": "Donna",
+        "last_name": "Barnes",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-028",
+        "state": "MO"
+      },
+      "25252": {
+        "name": "Stephanie Boykin",
+        "first_name": "Stephanie",
+        "last_name": "Boykin",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-070",
+        "state": "MO"
+      },
+      "25253": {
+        "name": "Mark Boyko",
+        "first_name": "Mark",
+        "last_name": "Boyko",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-090",
+        "state": "MO"
+      },
+      "25254": {
+        "name": "Gregg Bush",
+        "first_name": "Gregg",
+        "last_name": "Bush",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-050",
+        "state": "MO"
+      },
+      "25255": {
+        "name": "Carolyn Caton",
+        "first_name": "Carolyn",
+        "last_name": "Caton",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-033",
+        "state": "MO"
+      },
+      "25256": {
+        "name": "Mike Costlow",
+        "first_name": "Mike",
+        "last_name": "Costlow",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-108",
+        "state": "MO"
+      },
+      "25257": {
+        "name": "Jeremy Dean",
+        "first_name": "Jeremy",
+        "last_name": "Dean",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-132",
+        "state": "MO"
+      },
+      "25258": {
+        "name": "David Dolan",
+        "first_name": "David",
+        "last_name": "Dolan",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-148",
+        "state": "MO"
+      },
+      "25259": {
+        "name": "Melissa Douglas",
+        "first_name": "Melissa",
+        "last_name": "Douglas",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-027",
+        "state": "MO"
+      },
+      "25260": {
+        "name": "Lisa Durnell",
+        "first_name": "Lisa",
+        "last_name": "Durnell",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-154",
+        "state": "MO"
+      },
+      "25261": {
+        "name": "Keith Elliott",
+        "first_name": "Keith",
+        "last_name": "Elliott",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-153",
+        "state": "MO"
+      },
+      "25262": {
+        "name": "Ron Fowler",
+        "first_name": "Ron",
+        "last_name": "Fowler",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-031",
+        "state": "MO"
+      },
+      "25263": {
+        "name": "Elizabeth Fuchs",
+        "first_name": "Elizabeth",
+        "last_name": "Fuchs",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-080",
+        "state": "MO"
+      },
+      "25264": {
+        "name": "Jeff Hales",
+        "first_name": "Jeff",
+        "last_name": "Hales",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-086",
+        "state": "MO"
+      },
+      "25265": {
+        "name": "Tony Harbison",
+        "first_name": "Tony",
+        "last_name": "Harbison",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-144",
+        "state": "MO"
+      },
+      "25266": {
+        "name": "John Hewkin",
+        "first_name": "John",
+        "last_name": "Hewkin",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-120",
+        "state": "MO"
+      },
+      "25267": {
+        "name": "George Hruza",
+        "first_name": "George",
+        "last_name": "Hruza",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-089",
+        "state": "MO"
+      },
+      "25268": {
+        "name": "Bill Irwin",
+        "first_name": "William",
+        "last_name": "Irwin",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-055",
+        "state": "MO"
+      },
+      "25269": {
+        "name": "Martin Jacobs",
+        "first_name": "Martin",
+        "last_name": "Jacobs",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-038",
+        "state": "MO"
+      },
+      "25270": {
+        "name": "Ken Jamison",
+        "first_name": "Kenneth",
+        "last_name": "Jamison",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-015",
+        "state": "MO"
+      },
+      "25271": {
+        "name": "Will Jobe",
+        "first_name": "Will",
+        "last_name": "Jobe",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-021",
+        "state": "MO"
+      },
+      "25272": {
+        "name": "Mike Jones",
+        "first_name": "Mike",
+        "last_name": "Jones",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-012",
+        "state": "MO"
+      },
+      "25273": {
+        "name": "Steve Jordan",
+        "first_name": "Steven",
+        "last_name": "Jordan",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-151",
+        "state": "MO"
+      },
+      "25274": {
+        "name": "Nick Kimble",
+        "first_name": "Nick",
+        "last_name": "Kimble",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-082",
+        "state": "MO"
+      },
+      "25275": {
+        "name": "Becky Laubinger",
+        "first_name": "Becky",
+        "last_name": "Laubinger",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-117",
+        "state": "MO"
+      },
+      "25276": {
+        "name": "Cathy Loy",
+        "first_name": "Cathy",
+        "last_name": "Loy",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-163",
+        "state": "MO"
+      },
+      "25277": {
+        "name": "Bill Lucas",
+        "first_name": "Bill",
+        "last_name": "Lucas",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-115",
+        "state": "MO"
+      },
+      "25278": {
+        "name": "Pattie Mansur",
+        "first_name": "Patricia",
+        "last_name": "Mansur",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-025",
+        "state": "MO"
+      },
+      "25279": {
+        "name": "John Martin",
+        "first_name": "John",
+        "last_name": "Martin",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-044",
+        "state": "MO"
+      },
+      "25280": {
+        "name": "Mark Meirath",
+        "first_name": "Mark",
+        "last_name": "Meirath",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-039",
+        "state": "MO"
+      },
+      "25281": {
+        "name": "Scott Miller",
+        "first_name": "Scott",
+        "last_name": "Miller",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-069",
+        "state": "MO"
+      },
+      "25282": {
+        "name": "Chanel Mosley",
+        "first_name": "Chanel",
+        "last_name": "Mosley",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-075",
+        "state": "MO"
+      },
+      "25283": {
+        "name": "Marty Murray",
+        "first_name": "Marty",
+        "last_name": "Murray",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-078",
+        "state": "MO"
+      },
+      "25284": {
+        "name": "Mark Nolte",
+        "first_name": "Mark",
+        "last_name": "Nolte",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-051",
+        "state": "MO"
+      },
+      "25285": {
+        "name": "Matthew Overcast",
+        "first_name": "Matthew",
+        "last_name": "Overcast",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-155",
+        "state": "MO"
+      },
+      "25286": {
+        "name": "Brandon Phelps",
+        "first_name": "Brandon",
+        "last_name": "Phelps",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-054",
+        "state": "MO"
+      },
+      "25287": {
+        "name": "Tiffany Price",
+        "first_name": "Tiffany",
+        "last_name": "Price",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-026",
+        "state": "MO"
+      },
+      "25288": {
+        "name": "Ray Reed",
+        "first_name": "Raymond",
+        "last_name": "Reed",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-083",
+        "state": "MO"
+      },
+      "25289": {
+        "name": "Tonya Rush",
+        "first_name": "Tonya",
+        "last_name": "Rush",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-067",
+        "state": "MO"
+      },
+      "25290": {
+        "name": "Melissa Schmidt",
+        "first_name": "Melissa",
+        "last_name": "Schmidt",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-141",
+        "state": "MO"
+      },
+      "25291": {
+        "name": "Deanna Self",
+        "first_name": "Deanna",
+        "last_name": "Self",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-064",
+        "state": "MO"
+      },
+      "25292": {
+        "name": "Kem Smith",
+        "first_name": "Kem",
+        "last_name": "Smith",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-068",
+        "state": "MO"
+      },
+      "25293": {
+        "name": "Marla Smith",
+        "first_name": "Marla",
+        "last_name": "Smith",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-074",
+        "state": "MO"
+      },
+      "25294": {
+        "name": "Connie Steinmetz",
+        "first_name": "Connie",
+        "last_name": "Steinmetz",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-087",
+        "state": "MO"
+      },
+      "25295": {
+        "name": "Mike Steinmeyer",
+        "first_name": "Michael",
+        "last_name": "Steinmeyer",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-020",
+        "state": "MO"
+      },
+      "25296": {
+        "name": "Wick Thomas",
+        "first_name": "Nicholas",
+        "last_name": "Thomas",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-019",
+        "state": "MO"
+      },
+      "25297": {
+        "name": "Jeff Vernetti",
+        "first_name": "Jeff",
+        "last_name": "Vernetti",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-123",
+        "state": "MO"
+      },
+      "25298": {
+        "name": "Terri Violet",
+        "first_name": "Terri",
+        "last_name": "Violet",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-104",
+        "state": "MO"
+      },
+      "25299": {
+        "name": "Christopher Warwick",
+        "first_name": "Christopher",
+        "last_name": "Warwick",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-128",
+        "state": "MO"
+      },
+      "25300": {
+        "name": "Colin Wellenkamp",
+        "first_name": "Colin",
+        "last_name": "Wellenkamp",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-105",
+        "state": "MO"
+      },
+      "25301": {
+        "name": "Burt Whaley",
+        "first_name": "Burt",
+        "last_name": "Whaley",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-138",
+        "state": "MO"
+      },
+      "25302": {
+        "name": "Cecelie Williams",
+        "first_name": "Cecelie",
+        "last_name": "Williams",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-111",
+        "state": "MO"
+      },
+      "25303": {
+        "name": "Bryant Wolfin",
+        "first_name": "Bryant",
+        "last_name": "Wolfin",
+        "party": "R",
+        "role": "Rep",
+        "district": "HD-145",
+        "state": "MO"
+      },
+      "25304": {
+        "name": "Jaclyn Zimmermann",
+        "first_name": "Jaclyn",
+        "last_name": "Zimmermann",
+        "party": "D",
+        "role": "Rep",
+        "district": "HD-098",
+        "state": "MO"
+      },
+      "25360": {
+        "name": "Joe Nicola",
+        "first_name": "Joe",
+        "last_name": "Nicola",
+        "party": "R",
+        "role": "Sen",
+        "district": "SD-011",
+        "state": "MO"
+      }
+    },
+    "2194": {},
+    "2242": {}
   }
 }

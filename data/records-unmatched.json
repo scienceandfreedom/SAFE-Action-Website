@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T12:00:14.026183+00:00",
-  "count": 532,
+  "generated_at": "2026-10-01T12:33:16.051845+00:00",
+  "count": 426,
   "unmatched": [
     {
       "billId": "US-119-HR1111",
@@ -43,27 +43,11 @@
       "role": "cosponsor"
     },
     {
-      "billId": "OH-HB664",
-      "state": "OH",
+      "billId": "CA-ACR219",
+      "state": "CA",
       "chamber": "House",
-      "district": "HD-005",
-      "name": "Meredith Lawson-Rowe",
-      "role": "primary"
-    },
-    {
-      "billId": "TX-HB4535",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "name": "Kelly Hancock",
-      "role": "primary"
-    },
-    {
-      "billId": "TX-HB4535",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "name": "Charles Creighton",
+      "district": "HD-077",
+      "name": "Tasha Boerner Horvath",
       "role": "cosponsor"
     },
     {
@@ -83,60 +67,36 @@
       "role": "cosponsor"
     },
     {
-      "billId": "NH-HB1811",
-      "state": "NH",
+      "billId": "CO-HB1425",
+      "state": "CO",
       "chamber": "House",
-      "district": "HD-01-HIL",
-      "name": "Tom Mannion",
+      "district": "HD-032",
+      "name": "Manny Rutinel",
       "role": "cosponsor"
     },
     {
-      "billId": "NY-S01570",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-047",
-      "name": "Brad Hoylman-Sigal",
+      "billId": "LA-HB1247",
+      "state": "LA",
+      "chamber": "House",
+      "district": "HD-064",
+      "name": "Kellee Dickerson",
       "role": "cosponsor"
     },
     {
-      "billId": "NY-S00453",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-047",
-      "name": "Brad Hoylman-Sigal",
-      "role": "primary"
-    },
-    {
-      "billId": "TX-HB3441",
-      "state": "TX",
+      "billId": "LA-HB1247",
+      "state": "LA",
       "chamber": "House",
-      "district": "HD-087",
-      "name": "Caroline Fairly",
+      "district": "HD-092",
+      "name": "Joseph Stagni",
       "role": "cosponsor"
     },
     {
-      "billId": "TX-HB3441",
-      "state": "TX",
+      "billId": "WV-HB4510",
+      "state": "WV",
       "chamber": "House",
-      "district": "HD-093",
-      "name": "Nate Schatzline",
+      "district": "HD-050",
+      "name": "Elliott Pritt",
       "role": "cosponsor"
-    },
-    {
-      "billId": "TX-HB3441",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-001",
-      "name": "Gary Vandeaver",
-      "role": "cosponsor"
-    },
-    {
-      "billId": "TX-HB1356",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-093",
-      "name": "Nate Schatzline",
-      "role": "primary"
     },
     {
       "billId": "WV-HB5090",
@@ -163,99 +123,11 @@
       "role": "cosponsor"
     },
     {
-      "billId": "WV-HB4510",
-      "state": "WV",
+      "billId": "CO-HB1194",
+      "state": "CO",
       "chamber": "House",
-      "district": "HD-050",
-      "name": "Elliott Pritt",
-      "role": "cosponsor"
-    },
-    {
-      "billId": "WV-HB4681",
-      "state": "WV",
-      "chamber": "House",
-      "district": "HD-094",
-      "name": "Larry Kump",
-      "role": "cosponsor"
-    },
-    {
-      "billId": "AK-SB9",
-      "state": "AK",
-      "chamber": "House",
-      "district": "SD-M",
-      "name": "Shelley Hughes",
-      "role": "cosponsor"
-    },
-    {
-      "billId": "CA-SB747",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
-      "name": "Aisha Wahab",
-      "role": "primary"
-    },
-    {
-      "billId": "CA-SB747",
-      "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
-      "name": "Tasha Boerner Horvath",
-      "role": "cosponsor"
-    },
-    {
-      "billId": "CA-SB1004",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
-      "name": "Aisha Wahab",
-      "role": "primary"
-    },
-    {
-      "billId": "ME-LD727",
-      "state": "ME",
-      "chamber": "House",
-      "district": "HD-029",
-      "name": "Kathy Javner",
-      "role": "cosponsor"
-    },
-    {
-      "billId": "NY-S03200",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-047",
-      "name": "Brad Hoylman-Sigal",
-      "role": "primary"
-    },
-    {
-      "billId": "PA-HB94",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-012",
-      "name": "Stephenie Scialabba",
-      "role": "cosponsor"
-    },
-    {
-      "billId": "CA-AB2017",
-      "state": "CA",
-      "chamber": "Senate",
-      "district": "SD-010",
-      "name": "Aisha Wahab",
-      "role": "cosponsor"
-    },
-    {
-      "billId": "MN-SF3424",
-      "state": "MN",
-      "chamber": "Senate",
-      "district": "SD-029",
-      "name": "Bruce Anderson",
-      "role": "cosponsor"
-    },
-    {
-      "billId": "CA-SB58",
-      "state": "CA",
-      "chamber": "House",
-      "district": "HD-077",
-      "name": "Tasha Boerner Horvath",
+      "district": "HD-032",
+      "name": "Manny Rutinel",
       "role": "cosponsor"
     },
     {
@@ -1399,276 +1271,6 @@
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Suzanne Vail",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-06-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Michael Vose",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-05-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Kate Murray",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-22-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Charlie St. Clair",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-05-BEL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Harry Bean",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-06-BEL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Jaci Grote",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-24-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "William Dolan",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-09-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Linda Haskins",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-11-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Tom Mannion",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Sandra Panek",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Suraj Budathoki",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-40-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Erica deVries",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-29-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Tim Hartnett",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-41-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Tim Mannion",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Jonathan Morton",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-39-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Thomas Oppel",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-09-GRA",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631618",
-      "billId": "NH-HB1584",
-      "name": "Matt Sabourin",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-30-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1707865",
-      "billId": "RI-H7625",
-      "name": "Julie Casimiro",
-      "state": "RI",
-      "chamber": "House",
-      "district": "HD-031",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1706267",
-      "billId": "NY-A09140",
-      "name": "Michael Gianaris",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1585574",
-      "billId": "NY-A08680",
-      "name": "Zohran Kwame Mamdani",
-      "state": "NY",
-      "chamber": "House",
-      "district": "HD-036",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1586070",
-      "billId": "NY-A08680",
-      "name": "Harvey Epstein",
-      "state": "NY",
-      "chamber": "House",
-      "district": "HD-074",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588938",
-      "billId": "NY-A08680",
-      "name": "D. Billy Jones",
-      "state": "NY",
-      "chamber": "House",
-      "district": "HD-115",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588938",
-      "billId": "NY-A08680",
-      "name": "Harvey Epstein",
-      "state": "NY",
-      "chamber": "House",
-      "district": "HD-074",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588938",
-      "billId": "NY-A08680",
-      "name": "Zohran Kwame Mamdani",
-      "state": "NY",
-      "chamber": "House",
-      "district": "HD-036",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1705196",
-      "billId": "NY-A08680",
-      "name": "Michael Gianaris",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1699998",
-      "billId": "NY-A03254",
-      "name": "Michael Gianaris",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1689755",
-      "billId": "NY-A10711",
-      "name": "Michael Gianaris",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
       "rollCallKey": "LS-1696545",
       "billId": "LA-HB926",
       "name": "Joseph Stagni",
@@ -1685,356 +1287,6 @@
       "state": "LA",
       "chamber": "House",
       "district": "HD-064",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1663593",
-      "billId": "OK-SB2028",
-      "name": "Darrell Weaver",
-      "state": "OK",
-      "chamber": "Senate",
-      "district": "SD-024",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1680986",
-      "billId": "OK-SB2028",
-      "name": "Arturo Alonso-Sandoval",
-      "state": "OK",
-      "chamber": "House",
-      "district": "HD-089",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1692885",
-      "billId": "OK-SB2028",
-      "name": "Arturo Alonso-Sandoval",
-      "state": "OK",
-      "chamber": "House",
-      "district": "HD-089",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Suzanne Vail",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-06-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Michael Vose",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-05-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Kate Murray",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-22-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Charlie St. Clair",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-05-BEL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Jaci Grote",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-24-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "William Dolan",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-09-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Linda Haskins",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-11-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Tom Mannion",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Suraj Budathoki",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-40-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Erica deVries",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-29-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Tim Hartnett",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-41-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Tim Mannion",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Jonathan Morton",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-39-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Thomas Oppel",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-09-GRA",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1660769",
-      "billId": "NH-HB1022",
-      "name": "Matt Sabourin",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-30-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Suzanne Vail",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-06-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Michael Vose",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-05-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Kate Murray",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-22-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Charlie St. Clair",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-05-BEL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Harry Bean",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-06-BEL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Jaci Grote",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-24-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "William Dolan",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-09-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Linda Haskins",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-11-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Tom Mannion",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Sandra Panek",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Suraj Budathoki",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-40-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Erica deVries",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-29-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Tim Hartnett",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-41-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Tim Mannion",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Jonathan Morton",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-39-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Thomas Oppel",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-09-GRA",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1632295",
-      "billId": "NH-HB1719",
-      "name": "Matt Sabourin",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-30-ROC",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -2129,1186 +1381,6 @@
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1655324",
-      "billId": "NY-S05852",
-      "name": "Michael Gianaris",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1587066",
-      "billId": "NY-S08334",
-      "name": "Michael Gianaris",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1587066",
-      "billId": "NY-S08334",
-      "name": "Brad Hoylman-Sigal",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-047",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1587067",
-      "billId": "NY-S08334",
-      "name": "Michael Gianaris",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1587067",
-      "billId": "NY-S08334",
-      "name": "Brad Hoylman-Sigal",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-047",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1655722",
-      "billId": "NY-S08334",
-      "name": "Michael Gianaris",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Suzanne Vail",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-06-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Michael Vose",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-05-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Kate Murray",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-22-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Charlie St. Clair",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-05-BEL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Jaci Grote",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-24-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "William Dolan",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-09-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Linda Haskins",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-11-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Tom Mannion",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Sandra Panek",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Suraj Budathoki",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-40-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Erica deVries",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-29-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Tim Hartnett",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-41-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Tim Mannion",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-01-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Jonathan Morton",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-39-HIL",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Thomas Oppel",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-09-GRA",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1638723",
-      "billId": "NH-HB1811",
-      "name": "Matt Sabourin",
-      "state": "NH",
-      "chamber": "House",
-      "district": "HD-30-ROC",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1576188",
-      "billId": "NY-S06744",
-      "name": "Michael Gianaris",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1576188",
-      "billId": "NY-S06744",
-      "name": "Brad Hoylman-Sigal",
-      "state": "NY",
-      "chamber": "Senate",
-      "district": "SD-047",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1603725",
-      "billId": "PA-HB1881",
-      "name": "Torren Ecker",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-193",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1603726",
-      "billId": "PA-HB1881",
-      "name": "Torren Ecker",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-193",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1609602",
-      "billId": "PA-HB1881",
-      "name": "Seth Grove",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-196",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1609602",
-      "billId": "PA-HB1881",
-      "name": "Leanne Krueger-Braneky",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-161",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1609602",
-      "billId": "PA-HB1881",
-      "name": "Torren Ecker",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-193",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1609602",
-      "billId": "PA-HB1881",
-      "name": "Natalie Mihalek",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-040",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1609602",
-      "billId": "PA-HB1881",
-      "name": "Louis Schmitt",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-079",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1609602",
-      "billId": "PA-HB1881",
-      "name": "Joshua Siegel",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1609602",
-      "billId": "PA-HB1881",
-      "name": "Stephenie Scialabba",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1610584",
-      "billId": "PA-HB1881",
-      "name": "Torren Ecker",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-193",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1610584",
-      "billId": "PA-HB1881",
-      "name": "Joshua Siegel",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1610617",
-      "billId": "PA-HB1881",
-      "name": "Seth Grove",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-196",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1610617",
-      "billId": "PA-HB1881",
-      "name": "Leanne Krueger-Braneky",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-161",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1610617",
-      "billId": "PA-HB1881",
-      "name": "Torren Ecker",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-193",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1610617",
-      "billId": "PA-HB1881",
-      "name": "Natalie Mihalek",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-040",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1610617",
-      "billId": "PA-HB1881",
-      "name": "Louis Schmitt",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-079",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1610617",
-      "billId": "PA-HB1881",
-      "name": "Joshua Siegel",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1610617",
-      "billId": "PA-HB1881",
-      "name": "Stephenie Scialabba",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-012",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572469",
-      "billId": "TX-HB3441",
-      "name": "Gary Vandeaver",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-001",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572469",
-      "billId": "TX-HB3441",
-      "name": "Claudia Ordaz Perez",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-079",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572469",
-      "billId": "TX-HB3441",
-      "name": "Nate Schatzline",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-093",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572469",
-      "billId": "TX-HB3441",
-      "name": "Caroline Fairly",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572782",
-      "billId": "TX-HB3441",
-      "name": "Gary Vandeaver",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-001",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572782",
-      "billId": "TX-HB3441",
-      "name": "Claudia Ordaz Perez",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-079",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572782",
-      "billId": "TX-HB3441",
-      "name": "Nate Schatzline",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-093",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572782",
-      "billId": "TX-HB3441",
-      "name": "Caroline Fairly",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581095",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581095",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581095",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581096",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581096",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581096",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581097",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581097",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581097",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581098",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581098",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581098",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581568",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581568",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581568",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581569",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581569",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581569",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581570",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581570",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581570",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581571",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581571",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1581571",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588677",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588677",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588677",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588678",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588678",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588678",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588679",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588679",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588679",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588680",
-      "billId": "TX-HB3441",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588680",
-      "billId": "TX-HB3441",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1588680",
-      "billId": "TX-HB3441",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1570909",
-      "billId": "TX-HB4076",
-      "name": "Gary Vandeaver",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-001",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1570909",
-      "billId": "TX-HB4076",
-      "name": "Claudia Ordaz Perez",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-079",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1570909",
-      "billId": "TX-HB4076",
-      "name": "Nate Schatzline",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-093",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1570909",
-      "billId": "TX-HB4076",
-      "name": "Caroline Fairly",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571015",
-      "billId": "TX-HB4076",
-      "name": "Gary Vandeaver",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-001",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571015",
-      "billId": "TX-HB4076",
-      "name": "Claudia Ordaz Perez",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-079",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571015",
-      "billId": "TX-HB4076",
-      "name": "Nate Schatzline",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-093",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571015",
-      "billId": "TX-HB4076",
-      "name": "Caroline Fairly",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578155",
-      "billId": "TX-HB4076",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578155",
-      "billId": "TX-HB4076",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578155",
-      "billId": "TX-HB4076",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578156",
-      "billId": "TX-HB4076",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578156",
-      "billId": "TX-HB4076",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578156",
-      "billId": "TX-HB4076",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578157",
-      "billId": "TX-HB4076",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578157",
-      "billId": "TX-HB4076",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578157",
-      "billId": "TX-HB4076",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578158",
-      "billId": "TX-HB4076",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578158",
-      "billId": "TX-HB4076",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578158",
-      "billId": "TX-HB4076",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578785",
-      "billId": "TX-HB4076",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578785",
-      "billId": "TX-HB4076",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578785",
-      "billId": "TX-HB4076",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578786",
-      "billId": "TX-HB4076",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578786",
-      "billId": "TX-HB4076",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578786",
-      "billId": "TX-HB4076",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578787",
-      "billId": "TX-HB4076",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578787",
-      "billId": "TX-HB4076",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578787",
-      "billId": "TX-HB4076",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578788",
-      "billId": "TX-HB4076",
-      "name": "Charles Creighton",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-004",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578788",
-      "billId": "TX-HB4076",
-      "name": "Kelly Hancock",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-009",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578788",
-      "billId": "TX-HB4076",
-      "name": "Brian Birdwell",
-      "state": "TX",
-      "chamber": "Senate",
-      "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
       "rollCallKey": "LS-1570785",
       "billId": "TX-HB1586",
       "name": "Gary Vandeaver",
@@ -3769,106 +1841,6 @@
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1498218",
-      "billId": "ND-HB1454",
-      "name": "Cynthia Schreiber-Beck",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-025",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1498218",
-      "billId": "ND-HB1454",
-      "name": "Emily O'Brien",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-042",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1498218",
-      "billId": "ND-HB1454",
-      "name": "Jared Hagert",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-020",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1498218",
-      "billId": "ND-HB1454",
-      "name": "Liz Conmy",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-011",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1533058",
-      "billId": "ND-HB1454",
-      "name": "Joshua Boschee",
-      "state": "ND",
-      "chamber": "Senate",
-      "district": "SD-044",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1558470",
-      "billId": "ND-HB1454",
-      "name": "Cynthia Schreiber-Beck",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-025",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1558470",
-      "billId": "ND-HB1454",
-      "name": "Emily O'Brien",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-042",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1558470",
-      "billId": "ND-HB1454",
-      "name": "Jared Hagert",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-020",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1558470",
-      "billId": "ND-HB1454",
-      "name": "Liz Conmy",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-011",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1559197",
-      "billId": "ND-HB1454",
-      "name": "Joshua Boschee",
-      "state": "ND",
-      "chamber": "Senate",
-      "district": "SD-044",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
       "rollCallKey": "LS-1565496",
       "billId": "TX-SB2119",
       "name": "Charles Creighton",
@@ -4015,26 +1987,6 @@
       "state": "TX",
       "chamber": "Senate",
       "district": "SD-022",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1606376",
-      "billId": "OK-HB2152",
-      "name": "Ajay Pittman",
-      "state": "OK",
-      "chamber": "House",
-      "district": "HD-099",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1606377",
-      "billId": "OK-HB2152",
-      "name": "Ajay Pittman",
-      "state": "OK",
-      "chamber": "House",
-      "district": "HD-099",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -4059,16 +2011,6 @@
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1707836",
-      "billId": "RI-S2379",
-      "name": "Julie Casimiro",
-      "state": "RI",
-      "chamber": "House",
-      "district": "HD-031",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
       "rollCallKey": "LS-1675666",
       "billId": "ME-LD2071",
       "name": "Tiffany Roberts-Lovell",
@@ -4085,36 +2027,6 @@
       "state": "FL",
       "chamber": "House",
       "district": "HD-062",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1566124",
-      "billId": "ME-LD174",
-      "name": "Kristen Cloutier",
-      "state": "ME",
-      "chamber": "House",
-      "district": "HD-094",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1566124",
-      "billId": "ME-LD174",
-      "name": "Kathy Javner",
-      "state": "ME",
-      "chamber": "House",
-      "district": "HD-029",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1566124",
-      "billId": "ME-LD174",
-      "name": "Tiffany Roberts-Lovell",
-      "state": "ME",
-      "chamber": "House",
-      "district": "HD-149",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -4165,26 +2077,6 @@
       "state": "FL",
       "chamber": "Senate",
       "district": "SD-039",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1620126",
-      "billId": "UT-HB0152",
-      "name": "Tyler Clancy",
-      "state": "UT",
-      "chamber": "House",
-      "district": "HD-060",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1620127",
-      "billId": "UT-HB0152",
-      "name": "Tyler Clancy",
-      "state": "UT",
-      "chamber": "House",
-      "district": "HD-060",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -4389,56 +2281,6 @@
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1511922",
-      "billId": "IA-HF299",
-      "name": "Michael Sexton",
-      "state": "IA",
-      "chamber": "House",
-      "district": "HD-007",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1511922",
-      "billId": "IA-HF299",
-      "name": "Sami Scheetz",
-      "state": "IA",
-      "chamber": "House",
-      "district": "HD-078",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1560174",
-      "billId": "IA-HF299",
-      "name": "Julian Garrett",
-      "state": "IA",
-      "chamber": "Senate",
-      "district": "SD-011",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1560174",
-      "billId": "IA-HF299",
-      "name": "Claire Celsi",
-      "state": "IA",
-      "chamber": "Senate",
-      "district": "SD-016",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1560174",
-      "billId": "IA-HF299",
-      "name": "Rocky De Witt",
-      "state": "IA",
-      "chamber": "Senate",
-      "district": "SD-001",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
       "rollCallKey": "LS-1691574",
       "billId": "LA-SCR37",
       "name": "Larry Selders",
@@ -4509,66 +2351,6 @@
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1495895",
-      "billId": "ND-HB1519",
-      "name": "Cynthia Schreiber-Beck",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-025",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1495895",
-      "billId": "ND-HB1519",
-      "name": "Emily O'Brien",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-042",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1495895",
-      "billId": "ND-HB1519",
-      "name": "Jared Hagert",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-020",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1495895",
-      "billId": "ND-HB1519",
-      "name": "Liz Conmy",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-011",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1707741",
-      "billId": "OH-HB664",
-      "name": "Sharon Ray",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-066",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1707741",
-      "billId": "OH-HB664",
-      "name": "Meredith Lawson-Rowe",
-      "state": "OH",
-      "chamber": "House",
-      "district": "HD-005",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
       "rollCallKey": "LS-1648116",
       "billId": "OR-HB4135",
       "name": "Vikki Breese-Iverson",
@@ -4579,682 +2361,1437 @@
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1713299",
-      "billId": "PA-HB2378",
-      "name": "Leanne Krueger-Braneky",
-      "state": "PA",
-      "chamber": "House",
-      "district": "HD-161",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1506145",
-      "billId": "TN-HJR0098",
-      "name": "Jeff Burkhart",
-      "state": "TN",
-      "chamber": "House",
-      "district": "HD-075",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1516542",
-      "billId": "TN-HJR0098",
-      "name": "Jeff Burkhart",
-      "state": "TN",
-      "chamber": "House",
-      "district": "HD-075",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1518929",
-      "billId": "TN-HJR0098",
-      "name": "Joe Towns",
-      "state": "TN",
-      "chamber": "House",
-      "district": "HD-084",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1518929",
-      "billId": "TN-HJR0098",
-      "name": "Jeff Burkhart",
-      "state": "TN",
-      "chamber": "House",
-      "district": "HD-075",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571425",
-      "billId": "TX-HB4535",
-      "name": "Gary Vandeaver",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-001",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571425",
-      "billId": "TX-HB4535",
-      "name": "Claudia Ordaz Perez",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-079",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571425",
-      "billId": "TX-HB4535",
-      "name": "Nate Schatzline",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-093",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571425",
-      "billId": "TX-HB4535",
-      "name": "Caroline Fairly",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571426",
-      "billId": "TX-HB4535",
-      "name": "Gary Vandeaver",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-001",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571426",
-      "billId": "TX-HB4535",
-      "name": "Claudia Ordaz Perez",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-079",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571426",
-      "billId": "TX-HB4535",
-      "name": "Nate Schatzline",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-093",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1571426",
-      "billId": "TX-HB4535",
-      "name": "Caroline Fairly",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572183",
-      "billId": "TX-HB4535",
-      "name": "Gary Vandeaver",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-001",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572183",
-      "billId": "TX-HB4535",
-      "name": "Claudia Ordaz Perez",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-079",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572183",
-      "billId": "TX-HB4535",
-      "name": "Nate Schatzline",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-093",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1572183",
-      "billId": "TX-HB4535",
-      "name": "Caroline Fairly",
-      "state": "TX",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1578610",
-      "billId": "TX-HB4535",
-      "name": "Charles Creighton",
-      "state": "TX",
+      "rollCallKey": "LS-1693332",
+      "billId": "CA-SB1089",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-004",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1578610",
-      "billId": "TX-HB4535",
-      "name": "Kelly Hancock",
-      "state": "TX",
+      "rollCallKey": "LS-1699008",
+      "billId": "CA-SB1089",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-009",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1578610",
-      "billId": "TX-HB4535",
-      "name": "Brian Birdwell",
-      "state": "TX",
+      "rollCallKey": "LS-1702559",
+      "billId": "CA-SB1089",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-022",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1578611",
-      "billId": "TX-HB4535",
-      "name": "Charles Creighton",
-      "state": "TX",
+      "rollCallKey": "LS-1725776",
+      "billId": "CA-SB1089",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1726749",
+      "billId": "CA-SB1089",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-004",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1578611",
-      "billId": "TX-HB4535",
-      "name": "Kelly Hancock",
-      "state": "TX",
+      "rollCallKey": "LS-1702645",
+      "billId": "CA-AB1603",
+      "name": "James Gallagher",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-003",
+      "reason": "chamber mismatch",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1702645",
+      "billId": "CA-AB1603",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1726179",
+      "billId": "CA-AB1603",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-009",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1578611",
-      "billId": "TX-HB4535",
-      "name": "Brian Birdwell",
-      "state": "TX",
+      "rollCallKey": "LS-1726180",
+      "billId": "CA-AB1603",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1691813",
+      "billId": "CA-SB1296",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-022",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1578612",
-      "billId": "TX-HB4535",
-      "name": "Charles Creighton",
-      "state": "TX",
+      "rollCallKey": "LS-1699712",
+      "billId": "CA-SB1296",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-004",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1578612",
-      "billId": "TX-HB4535",
-      "name": "Kelly Hancock",
-      "state": "TX",
+      "rollCallKey": "LS-1726576",
+      "billId": "CA-SB1296",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1726881",
+      "billId": "CA-SB1296",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-009",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1578612",
-      "billId": "TX-HB4535",
-      "name": "Brian Birdwell",
-      "state": "TX",
+      "rollCallKey": "LS-1693214",
+      "billId": "CA-AB1918",
+      "name": "James Gallagher",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-003",
+      "reason": "chamber mismatch",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1693214",
+      "billId": "CA-AB1918",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1710109",
+      "billId": "CA-AB1918",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-022",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1616510",
-      "billId": "VT-H0545",
-      "name": "Philip Hooper",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-ORA",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1616510",
-      "billId": "VT-H0545",
-      "name": "Robert Hooper",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-CHI18",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1616510",
-      "billId": "VT-H0545",
-      "name": "Michael Hoyt",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-WIN4",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1616510",
-      "billId": "VT-H0545",
-      "name": "Karen Lueders",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-ADD4",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1661170",
-      "billId": "VT-H0545",
-      "name": "Philip Hooper",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-ORA",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1661170",
-      "billId": "VT-H0545",
-      "name": "Robert Hooper",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-CHI18",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1661170",
-      "billId": "VT-H0545",
-      "name": "Michael Hoyt",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-WIN4",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1661170",
-      "billId": "VT-H0545",
-      "name": "Karen Lueders",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-ADD4",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1661170",
-      "billId": "VT-H0545",
-      "name": "Jack Brigham",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-FRA8",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1631017",
-      "billId": "WA-HB2242",
-      "name": "Mari Leavitt",
-      "state": "WA",
-      "chamber": "House",
-      "district": "HD-028A",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1552805",
-      "billId": "NV-AB487",
-      "name": "Ken Gray",
-      "state": "NV",
-      "chamber": "House",
-      "district": "HD-039",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1552805",
-      "billId": "NV-AB487",
-      "name": "Thaddeus Yurek",
-      "state": "NV",
-      "chamber": "House",
-      "district": "HD-019",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1576759",
-      "billId": "NV-AB487",
-      "name": "Michelee Cruz-Crawford",
-      "state": "NV",
+      "rollCallKey": "LS-1726021",
+      "billId": "CA-AB1918",
+      "name": "Aisha Wahab",
+      "state": "CA",
       "chamber": "Senate",
-      "district": "SD-001",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1541893",
-      "billId": "MT-SB474",
-      "name": "Ed Stafman",
-      "state": "MT",
+      "rollCallKey": "LS-1726756",
+      "billId": "CA-AB1918",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
       "chamber": "House",
-      "district": "HD-062",
+      "district": "HD-077",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1544434",
-      "billId": "MT-SB474",
-      "name": "Bill Mercer",
-      "state": "MT",
+      "rollCallKey": "LS-1701385",
+      "billId": "CA-AB1906",
+      "name": "James Gallagher",
+      "state": "CA",
       "chamber": "House",
-      "district": "HD-046",
+      "district": "HD-003",
+      "reason": "chamber mismatch",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1701385",
+      "billId": "CA-AB1906",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1545784",
-      "billId": "MT-SB474",
-      "name": "Julie Dooling",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-070",
+      "rollCallKey": "LS-1712318",
+      "billId": "CA-AB1906",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1545784",
-      "billId": "MT-SB474",
-      "name": "Bill Mercer",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-046",
+      "rollCallKey": "LS-1725191",
+      "billId": "CA-AB1906",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1545784",
-      "billId": "MT-SB474",
-      "name": "Marta Bertoglio",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-075",
+      "rollCallKey": "LS-1726451",
+      "billId": "CA-AB1906",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1545784",
-      "billId": "MT-SB474",
-      "name": "Ed Stafman",
-      "state": "MT",
+      "rollCallKey": "LS-1726765",
+      "billId": "CA-AB1906",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
       "chamber": "House",
-      "district": "HD-062",
+      "district": "HD-077",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1487354",
-      "billId": "MT-HB371",
-      "name": "Ed Stafman",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-062",
+      "rollCallKey": "LS-1690202",
+      "billId": "CA-SB895",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1493459",
-      "billId": "MT-HB371",
-      "name": "Julie Dooling",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-070",
+      "rollCallKey": "LS-1698347",
+      "billId": "CA-SB895",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1493459",
-      "billId": "MT-HB371",
-      "name": "Bill Mercer",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-046",
+      "rollCallKey": "LS-1702484",
+      "billId": "CA-SB895",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1493459",
-      "billId": "MT-HB371",
-      "name": "Marta Bertoglio",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-075",
+      "rollCallKey": "LS-1726981",
+      "billId": "CA-SB895",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1493459",
-      "billId": "MT-HB371",
-      "name": "Ed Stafman",
-      "state": "MT",
+      "rollCallKey": "LS-1726982",
+      "billId": "CA-SB895",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
       "chamber": "House",
-      "district": "HD-062",
+      "district": "HD-077",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1493459",
-      "billId": "MT-HB371",
-      "name": "Ron Marshall",
-      "state": "MT",
+      "rollCallKey": "LS-1696747",
+      "billId": "CA-AB1999",
+      "name": "James Gallagher",
+      "state": "CA",
       "chamber": "House",
-      "district": "HD-087",
+      "district": "HD-003",
+      "reason": "chamber mismatch",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1696747",
+      "billId": "CA-AB1999",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1559084",
-      "billId": "MT-HB371",
-      "name": "Ed Stafman",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-062",
+      "rollCallKey": "LS-1709555",
+      "billId": "CA-AB1999",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1499410",
-      "billId": "MT-HB418",
-      "name": "Julie Dooling",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-070",
+      "rollCallKey": "LS-1712500",
+      "billId": "CA-AB1999",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1503015",
-      "billId": "MT-HB807",
-      "name": "Ron Marshall",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-087",
+      "rollCallKey": "LS-1725485",
+      "billId": "CA-AB1999",
+      "name": "Aisha Wahab",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1507740",
-      "billId": "MT-HB807",
-      "name": "Julie Dooling",
-      "state": "MT",
+      "rollCallKey": "LS-1725661",
+      "billId": "CA-AB1999",
+      "name": "Tasha Boerner Horvath",
+      "state": "CA",
       "chamber": "House",
-      "district": "HD-070",
+      "district": "HD-077",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1507740",
-      "billId": "MT-HB807",
-      "name": "Bill Mercer",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-046",
+      "rollCallKey": "LS-1711424",
+      "billId": "DC-B26-0663",
+      "name": "Doni Crawford",
+      "state": "DC",
+      "chamber": "Senate",
+      "district": "SD-000",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1507740",
-      "billId": "MT-HB807",
-      "name": "Marta Bertoglio",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-075",
+      "rollCallKey": "LS-1711425",
+      "billId": "DC-B26-0663",
+      "name": "Doni Crawford",
+      "state": "DC",
+      "chamber": "Senate",
+      "district": "SD-000",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1507740",
-      "billId": "MT-HB807",
-      "name": "Ed Stafman",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-062",
+      "rollCallKey": "LS-1674073",
+      "billId": "DC-B26-0633",
+      "name": "Doni Crawford",
+      "state": "DC",
+      "chamber": "Senate",
+      "district": "SD-000",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1507740",
-      "billId": "MT-HB807",
-      "name": "Ron Marshall",
-      "state": "MT",
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "2033",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "2154",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "11853",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "11858",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "11862",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "11937",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "12009",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "12031",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "12032",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "12033",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "14615",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "16251",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "17147",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "17163",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "17437",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "17457",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "17504",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "17936",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "18454",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "18465",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "19669",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20216",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20220",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20222",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20223",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20225",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20504",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20505",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20510",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20513",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20518",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "20524",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "21633",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "21663",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "22423",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "22424",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "22425",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "22426",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "24220",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "24222",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "24223",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "24224",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "24225",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "24226",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "25212",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "25250",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "25858",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "25859",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "25860",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1562410",
+      "billId": "NC-S445",
+      "people_id": "26462",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "2033",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "2154",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "11853",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "11858",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "11862",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "11937",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "12009",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "12031",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "12032",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "12033",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "14615",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "17147",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "17163",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "17437",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "17457",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "17504",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "17936",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "18454",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "18465",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "19669",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20216",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20220",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20222",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20223",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20225",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20504",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20505",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20513",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20518",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "20524",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "21633",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "21663",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "22423",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "22424",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "22425",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "22426",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "24220",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "24222",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "24223",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "24224",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "24225",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "24226",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "25212",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "25250",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "25858",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "25859",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "25860",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "26462",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "26664",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1715981",
+      "billId": "NC-S445",
+      "people_id": "26670",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1717834",
+      "billId": "IL-HB3408",
+      "name": "Anne Stava-Murray",
+      "state": "IL",
       "chamber": "House",
-      "district": "HD-087",
+      "district": "HD-081",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1508582",
-      "billId": "MT-HB807",
-      "name": "Julie Dooling",
-      "state": "MT",
+      "rollCallKey": "LS-1717834",
+      "billId": "IL-HB3408",
+      "name": "Harry Benton",
+      "state": "IL",
       "chamber": "House",
-      "district": "HD-070",
+      "district": "HD-097",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1508582",
-      "billId": "MT-HB807",
-      "name": "Bill Mercer",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-046",
+      "rollCallKey": "LS-1687225",
+      "billId": "MO-HB2974",
+      "name": "Travis Fitzwater",
+      "state": "MO",
+      "chamber": "Senate",
+      "district": "SD-010",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1508582",
-      "billId": "MT-HB807",
-      "name": "Marta Bertoglio",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-075",
-      "reason": "unresolved",
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2203",
+      "reason": "no person record",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1508582",
-      "billId": "MT-HB807",
-      "name": "Ed Stafman",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-062",
-      "reason": "unresolved",
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2239",
+      "reason": "no person record",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1508582",
-      "billId": "MT-HB807",
-      "name": "Ron Marshall",
-      "state": "MT",
-      "chamber": "House",
-      "district": "HD-087",
-      "reason": "unresolved",
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2294",
+      "reason": "no person record",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1494270",
-      "billId": "ND-HB1457",
-      "name": "Cynthia Schreiber-Beck",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-025",
-      "reason": "unresolved",
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2324",
+      "reason": "no person record",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1494270",
-      "billId": "ND-HB1457",
-      "name": "Emily O'Brien",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-042",
-      "reason": "unresolved",
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2325",
+      "reason": "no person record",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1494270",
-      "billId": "ND-HB1457",
-      "name": "Jared Hagert",
-      "state": "ND",
-      "chamber": "House",
-      "district": "HD-020",
-      "reason": "unresolved",
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2327",
+      "reason": "no person record",
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1494270",
-      "billId": "ND-HB1457",
-      "name": "Liz Conmy",
-      "state": "ND",
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2330",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2334",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2335",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2339",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2341",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2342",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2350",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2351",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2358",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2360",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2369",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "2370",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "11118",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "11221",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "14032",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "14070",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "14186",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "14450",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "16116",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "17736",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "18031",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "18088",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "19395",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "21753",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "21754",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "21756",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "21778",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "21893",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "23126",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "23375",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "25027",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "26262",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "26263",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "26265",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "26266",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "26267",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "26268",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "26269",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1694880",
+      "billId": "SC-H3021",
+      "people_id": "26270",
+      "reason": "no person record",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1618372",
+      "billId": "FL-H4059",
+      "name": "Kevin Steele",
+      "state": "FL",
       "chamber": "House",
-      "district": "HD-011",
+      "district": "HD-055",
       "reason": "unresolved",
       "kind": "vote"
     }

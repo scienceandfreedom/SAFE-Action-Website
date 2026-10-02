@@ -278001,6 +278001,8590 @@
           "vote": "Yea"
         }
       ]
+    },
+    "LS-1727828": {
+      "key": "LS-1727828",
+      "billId": "MI-SB0433",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-09-22",
+      "desc": "House Third Reading: Given Immediate Effect Roll Call #371",
+      "yea": 99,
+      "nay": 4,
+      "nv": 0,
+      "absent": 0,
+      "total": 103,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/House/htm/2026-HJ-09-22-069.htm",
+      "votes": [
+        {
+          "people_id": 11180,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14523,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18767,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20368,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20419,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20643,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20644,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20646,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20652,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20657,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20659,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20660,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20662,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20663,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20665,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20666,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20668,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20670,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20671,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20673,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20675,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20676,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21281,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21624,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22460,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22462,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22464,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22465,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22469,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22471,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22472,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22473,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22474,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22475,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22477,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22480,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22481,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22482,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22747,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24269,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24270,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24313,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24314,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24315,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24317,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24318,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24319,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24320,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24321,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24322,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24323,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24325,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24326,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24327,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24328,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24329,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24330,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24355,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24360,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24361,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24362,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24364,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24365,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24366,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24369,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25198,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25199,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25807,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25808,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25810,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25811,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25812,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25813,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25814,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25815,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25817,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25818,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1584001": {
+      "key": "LS-1584001",
+      "billId": "MI-HB4301",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "House",
+      "date": "2025-05-20",
+      "desc": "Reported With Recommendation Without Amendment",
+      "yea": 13,
+      "nay": 1,
+      "nv": 0,
+      "absent": 0,
+      "total": 14,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/House/htm/2025-HJ-05-20-049.htm",
+      "votes": [
+        {
+          "people_id": 20368,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20657,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22465,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22747,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24269,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24313,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24365,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25807,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25810,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25818,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1587924": {
+      "key": "LS-1587924",
+      "billId": "MI-HB4301",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "House",
+      "date": "2025-06-04",
+      "desc": "House Third Reading: Given Immediate Effect Roll Call #138",
+      "yea": 108,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 108,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/House/htm/2025-HJ-06-04-053.htm",
+      "votes": [
+        {
+          "people_id": 11180,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14523,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18767,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20368,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20419,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20643,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20644,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20645,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20646,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20652,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20657,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20659,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20660,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20662,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20663,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20665,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20666,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20668,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20670,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20671,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20673,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20675,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20676,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21281,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21624,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22460,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22462,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22464,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22465,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22469,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22471,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22472,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22473,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22474,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22475,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22476,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22477,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22480,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22481,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22482,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22747,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24269,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24270,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24313,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24314,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24315,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24317,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24318,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24319,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24320,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24321,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24322,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24323,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24325,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24326,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24327,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24328,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24329,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24330,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24360,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24361,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24362,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24363,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24364,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24365,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24366,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24369,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25198,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25199,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25807,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25808,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25810,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25811,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25812,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25813,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25814,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25815,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25816,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25817,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25818,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1610279": {
+      "key": "LS-1610279",
+      "billId": "MI-HB4301",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-12-04",
+      "desc": "Reported Favorably Without Amendment 12/3/2025",
+      "yea": 4,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 4,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2025-SJ-12-04-108.htm",
+      "votes": [
+        {
+          "people_id": 10852,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18749,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24344,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1715720": {
+      "key": "LS-1715720",
+      "billId": "MI-HB5485",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-07-03",
+      "desc": "House Third Reading: Given Immediate Effect Roll Call #298",
+      "yea": 100,
+      "nay": 8,
+      "nv": 0,
+      "absent": 0,
+      "total": 108,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/House/htm/2026-HJ-07-03-056.htm",
+      "votes": [
+        {
+          "people_id": 11180,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14523,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18767,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20368,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20419,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20643,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20644,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20645,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20646,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20652,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20657,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20659,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20660,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20662,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20663,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20665,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20666,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20668,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20670,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20671,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20673,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20675,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20676,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21281,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21624,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22460,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22462,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22464,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22465,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22469,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22471,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22472,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22473,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22474,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22475,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22476,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22477,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22480,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22481,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22482,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22747,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24269,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24270,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24313,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24314,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24315,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24317,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24318,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24319,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24320,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24321,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24322,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24323,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24325,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24326,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24327,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24328,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24329,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24330,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24347,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24350,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24354,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24360,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24361,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24363,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24364,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24365,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24366,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24369,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25198,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25199,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25807,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25808,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25810,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25811,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25812,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25813,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25814,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25815,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25816,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25817,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25818,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1711905": {
+      "key": "LS-1711905",
+      "billId": "MI-HB6007",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-06-18",
+      "desc": "Reported With Recommendation For Referral To Committee On Rules With Substitute H-2",
+      "yea": 13,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 13,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/House/htm/2026-HJ-06-18-049.htm",
+      "votes": [
+        {
+          "people_id": 20646,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20675,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20676,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21624,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22480,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24323,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24364,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25808,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25811,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1712602": {
+      "key": "LS-1712602",
+      "billId": "MI-HB6007",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-06-25",
+      "desc": "Reported With Recommendation With Substitute H-2",
+      "yea": 9,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 9,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/House/htm/2026-HJ-06-25-052.htm",
+      "votes": [
+        {
+          "people_id": 20673,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22469,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22472,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24321,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25198,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1712603": {
+      "key": "LS-1712603",
+      "billId": "MI-HB6007",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-06-25",
+      "desc": "House Third Reading: Given Immediate Effect Roll Call #258",
+      "yea": 107,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 107,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/House/htm/2026-HJ-06-25-052.htm",
+      "votes": [
+        {
+          "people_id": 11180,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14523,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18767,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20368,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20419,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20643,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20644,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20645,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20652,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20657,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20659,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20660,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20662,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20663,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20665,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20666,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20668,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20670,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20671,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20673,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20675,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20676,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21281,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21624,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22460,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22462,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22464,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22465,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22469,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22471,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22472,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22473,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22474,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22475,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22476,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22477,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22480,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22481,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22482,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22747,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24269,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24270,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24313,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24314,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24315,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24317,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24318,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24319,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24321,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24322,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24323,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24325,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24326,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24327,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24328,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24329,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24330,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24360,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24361,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24362,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24363,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24364,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24365,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24366,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24369,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25198,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25199,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25807,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25808,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25810,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25811,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25812,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25813,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25814,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25815,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25816,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25817,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25818,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1728103": {
+      "key": "LS-1728103",
+      "billId": "MI-SB0947",
+      "state": "MI",
+      "session_id": "2183",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-09-22",
+      "desc": "House Third Reading: Given Immediate Effect Roll Call #366",
+      "yea": 96,
+      "nay": 7,
+      "nv": 0,
+      "absent": 0,
+      "total": 103,
+      "passed": true,
+      "sourceUrl": "https://legislature.mi.gov/documents/2025-2026/Journal/House/htm/2026-HJ-09-22-069.htm",
+      "votes": [
+        {
+          "people_id": 11180,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14523,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18767,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20368,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20419,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20643,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20644,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20646,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20652,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20657,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20659,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20660,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20662,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20663,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20665,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20666,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20668,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20670,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20671,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20673,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20675,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20676,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21281,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21624,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22460,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22462,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22464,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22465,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22469,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22471,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22472,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22473,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22474,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22475,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22477,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22480,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22481,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22482,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22747,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24269,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24270,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24313,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24314,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24315,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24317,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24318,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24319,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24320,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24321,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24322,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24323,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24325,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24326,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24327,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24328,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24329,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24330,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24354,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24355,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24358,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24360,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24361,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24362,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24364,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24365,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24366,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24369,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25198,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25199,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25807,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25808,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25810,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25811,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25812,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25813,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25814,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25815,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25817,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25818,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1728147": {
+      "key": "LS-1728147",
+      "billId": "NJ-S2046",
+      "state": "NJ",
+      "session_id": "2250",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-10-01",
+      "desc": "Senate Labor Committee: Reported with Amendments",
+      "yea": 5,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 5,
+      "passed": true,
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2046",
+      "votes": [
+        {
+          "people_id": 3104,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 3108,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17863,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23381,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1555897": {
+      "key": "LS-1555897",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-04-23",
+      "desc": "Do pass, but first be re-referred to the Committee on [Local Government]",
+      "yea": 6,
+      "nay": 0,
+      "nv": 0,
+      "absent": 2,
+      "total": 8,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 19727,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1562924": {
+      "key": "LS-1562924",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-04-30",
+      "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+      "yea": 5,
+      "nay": 1,
+      "nv": 0,
+      "absent": 1,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1573505": {
+      "key": "LS-1573505",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-05-19",
+      "desc": "Placed on suspense file",
+      "yea": 5,
+      "nay": 0,
+      "nv": 0,
+      "absent": 2,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1577361": {
+      "key": "LS-1577361",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-05-23",
+      "desc": "Do pass as amended",
+      "yea": 4,
+      "nay": 0,
+      "nv": 0,
+      "absent": 3,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1614022": {
+      "key": "LS-1614022",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-01-14",
+      "desc": "Do pass and be ordered to the Consent Calendar",
+      "yea": 7,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1614845": {
+      "key": "LS-1614845",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-01-20",
+      "desc": "Consent Calendar 2nd SB607 Wiener",
+      "yea": 37,
+      "nay": 0,
+      "nv": 0,
+      "absent": 3,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1603,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 11611,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 16308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1710754": {
+      "key": "LS-1710754",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-06-22",
+      "desc": "Do pass and be re-referred to the Committee on [Local Government] with recommendation: To Consent Calendar",
+      "yea": 16,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 16,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1713779": {
+      "key": "LS-1713779",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-07-01",
+      "desc": "Do pass as amended. To Consent Calendar",
+      "yea": 9,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 10,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Absent"
+        }
+      ]
+    },
+    "LS-1716642": {
+      "key": "LS-1716642",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-08-06",
+      "desc": "SB 607 Wiener Consent Calendar Second Day Regular Session",
+      "yea": 71,
+      "nay": 0,
+      "nv": 0,
+      "absent": 8,
+      "total": 79,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 14116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16288,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18069,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18078,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19721,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23152,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23155,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23214,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23223,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25333,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25345,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1724527": {
+      "key": "LS-1724527",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-08-11",
+      "desc": "That the Assembly amendments be concurred in",
+      "yea": 13,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 13,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 1603,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1725336": {
+      "key": "LS-1725336",
+      "billId": "CA-SB607",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-08-17",
+      "desc": "Unfinished Business SB607 Wiener et al. Concurrence",
+      "yea": 40,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB607",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1603,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11611,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1688157": {
+      "key": "LS-1688157",
+      "billId": "CA-AB2274",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-04-21",
+      "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 9,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 9,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2274",
+      "votes": [
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696155": {
+      "key": "LS-1696155",
+      "billId": "CA-AB2274",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-05-06",
+      "desc": "Do pass",
+      "yea": 14,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 15,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2274",
+      "votes": [
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1699736": {
+      "key": "LS-1699736",
+      "billId": "CA-AB2274",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-05-18",
+      "desc": "AB 2274 Bains Assembly Third Reading",
+      "yea": 69,
+      "nay": 0,
+      "nv": 0,
+      "absent": 11,
+      "total": 80,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2274",
+      "votes": [
+        {
+          "people_id": 14116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14118,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 16287,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16288,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18065,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19721,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21719,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23152,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23155,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23214,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25345,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1711768": {
+      "key": "LS-1711768",
+      "billId": "CA-AB2274",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-23",
+      "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 6,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 6,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2274",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1725523": {
+      "key": "LS-1725523",
+      "billId": "CA-AB2274",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-08-20",
+      "desc": "Assembly 3rd Reading AB2274 Bains By Caballero",
+      "yea": 38,
+      "nay": 0,
+      "nv": 0,
+      "absent": 2,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2274",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1603,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11611,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1552950": {
+      "key": "LS-1552950",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-04-21",
+      "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Military and Veterans Affairs]",
+      "yea": 5,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 5,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 18075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1559503": {
+      "key": "LS-1559503",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-04-28",
+      "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 4,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 5,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 11611,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25355,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1569770": {
+      "key": "LS-1569770",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-05-12",
+      "desc": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1613733": {
+      "key": "LS-1613733",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-01-13",
+      "desc": "Do pass, but first be re-referred to the Committee on [Judiciary]",
+      "yea": 5,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 6,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1614017": {
+      "key": "LS-1614017",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-01-13",
+      "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+      "yea": 13,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 13,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1614830": {
+      "key": "LS-1614830",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-01-20",
+      "desc": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1616337": {
+      "key": "LS-1616337",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-01-22",
+      "desc": "Do pass as amended",
+      "yea": 7,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1617893": {
+      "key": "LS-1617893",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-01-27",
+      "desc": "Senate 3rd Reading SB99 Blakespear",
+      "yea": 40,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1603,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11611,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1707748": {
+      "key": "LS-1707748",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-06-09",
+      "desc": "Do pass and be re-referred to the Committee on [Public Safety]",
+      "yea": 12,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 12,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1711262": {
+      "key": "LS-1711262",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-06-23",
+      "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 9,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 9,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1716574": {
+      "key": "LS-1716574",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-08-05",
+      "desc": "Do pass",
+      "yea": 15,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 15,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 19459,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1726501": {
+      "key": "LS-1726501",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-08-27",
+      "desc": "SB 99 Blakespear Senate Third Reading By Stefani",
+      "yea": 78,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 79,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 14116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16288,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19721,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23152,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23155,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23214,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25345,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1727449": {
+      "key": "LS-1727449",
+      "billId": "CA-SB99",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-08-30",
+      "desc": "Unfinished Business SB99 Blakespear et al. Concurrence",
+      "yea": 40,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB99",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1603,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11611,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1683768": {
+      "key": "LS-1683768",
+      "billId": "CA-AB2418",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-04-15",
+      "desc": "Do pass and be re-referred to the Committee on [Judiciary]",
+      "yea": 10,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 10,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2418",
+      "votes": [
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1686987": {
+      "key": "LS-1686987",
+      "billId": "CA-AB2418",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-04-21",
+      "desc": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+      "yea": 12,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 12,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2418",
+      "votes": [
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1697937": {
+      "key": "LS-1697937",
+      "billId": "CA-AB2418",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-05-13",
+      "desc": "Do pass",
+      "yea": 15,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 15,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2418",
+      "votes": [
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1702002": {
+      "key": "LS-1702002",
+      "billId": "CA-AB2418",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-05-26",
+      "desc": "AB 2418 Mark González Assembly Third Reading",
+      "yea": 78,
+      "nay": 0,
+      "nv": 0,
+      "absent": 2,
+      "total": 80,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2418",
+      "votes": [
+        {
+          "people_id": 14116,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 14118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16287,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16288,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19721,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23152,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23155,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23214,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25345,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1711157": {
+      "key": "LS-1711157",
+      "billId": "CA-AB2418",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-23",
+      "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Judiciary]",
+      "yea": 7,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2418",
+      "votes": [
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1713428": {
+      "key": "LS-1713428",
+      "billId": "CA-AB2418",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-30",
+      "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 13,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 13,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2418",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1725421": {
+      "key": "LS-1725421",
+      "billId": "CA-AB2418",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-08-19",
+      "desc": "Assembly 3rd Reading AB2418 Mark González et al. By Arreguín",
+      "yea": 38,
+      "nay": 0,
+      "nv": 0,
+      "absent": 2,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2418",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1603,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11611,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18075,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1725619": {
+      "key": "LS-1725619",
+      "billId": "CA-AB2418",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-08-20",
+      "desc": "AB 2418 Mark González Concurrence in Senate Amendments",
+      "yea": 76,
+      "nay": 0,
+      "nv": 0,
+      "absent": 3,
+      "total": 79,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2418",
+      "votes": [
+        {
+          "people_id": 14116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16288,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19721,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23152,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23155,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23214,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25336,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25345,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1683764": {
+      "key": "LS-1683764",
+      "billId": "CA-AB1693",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-04-15",
+      "desc": "Do pass and be re-referred to the Committee on [Business and Professions]",
+      "yea": 10,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 10,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1693",
+      "votes": [
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1687210": {
+      "key": "LS-1687210",
+      "billId": "CA-AB1693",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-04-21",
+      "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 18,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 19,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1693",
+      "votes": [
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696183": {
+      "key": "LS-1696183",
+      "billId": "CA-AB1693",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-05-06",
+      "desc": "Do pass",
+      "yea": 14,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 15,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1693",
+      "votes": [
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1698420": {
+      "key": "LS-1698420",
+      "billId": "CA-AB1693",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-05-14",
+      "desc": "AB 1693 Zbur Assembly Third Reading",
+      "yea": 77,
+      "nay": 0,
+      "nv": 0,
+      "absent": 3,
+      "total": 80,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1693",
+      "votes": [
+        {
+          "people_id": 14116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16287,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16288,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19721,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23152,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23155,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23214,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25345,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1710065": {
+      "key": "LS-1710065",
+      "billId": "CA-AB1693",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-17",
+      "desc": "Do pass, but first be re-referred to the Committee on [Business, Professions and Economic Development]",
+      "yea": 6,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1693",
+      "votes": [
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1710714": {
+      "key": "LS-1710714",
+      "billId": "CA-AB1693",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-22",
+      "desc": "Do pass, but first be re-referred to the Committee on [Judiciary]",
+      "yea": 10,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1693",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1603,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1713639": {
+      "key": "LS-1713639",
+      "billId": "CA-AB1693",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-06-30",
+      "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 12,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 13,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1693",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1726356": {
+      "key": "LS-1726356",
+      "billId": "CA-AB1693",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-08-26",
+      "desc": "Assembly 3rd Reading AB1693 Zbur et al. By Grayson",
+      "yea": 39,
+      "nay": 0,
+      "nv": 0,
+      "absent": 1,
+      "total": 40,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1693",
+      "votes": [
+        {
+          "people_id": 1507,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 1603,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 11611,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16304,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16308,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18075,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18079,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19727,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19733,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21374,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21440,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21724,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21725,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21726,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21728,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22918,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23227,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23229,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23230,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25353,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25354,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25355,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25356,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25357,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25358,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1726357": {
+      "key": "LS-1726357",
+      "billId": "CA-AB1693",
+      "state": "CA",
+      "session_id": "2172",
+      "level": "State",
+      "chamber": "A",
+      "date": "2026-08-26",
+      "desc": "AB 1693 Zbur Concurrence in Senate Amendments",
+      "yea": 79,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 79,
+      "passed": true,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1693",
+      "votes": [
+        {
+          "people_id": 14116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14118,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16288,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16291,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16293,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18073,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19459,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19658,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19716,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19720,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19721,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21717,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21718,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21719,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22654,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22932,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23099,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23152,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23155,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23202,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23203,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23204,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23205,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23206,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23209,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23210,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23211,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23212,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23213,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23214,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23215,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23216,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23217,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23218,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23221,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23224,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23906,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25331,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25332,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25335,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25336,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25337,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25338,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25340,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25341,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25342,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25343,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25344,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25345,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25346,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25347,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25348,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25349,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25350,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25351,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25352,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25359,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26421,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26495,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1707743": {
+      "key": "LS-1707743",
+      "billId": "OH-HB346",
+      "state": "OH",
+      "session_id": "2190",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-06-09",
+      "desc": "House Favorable Passage",
+      "yea": 10,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 10,
+      "passed": true,
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb346/votes",
+      "votes": [
+        {
+          "people_id": 16994,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20322,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20326,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21345,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21367,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21389,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22774,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22941,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24478,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26114,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1707744": {
+      "key": "LS-1707744",
+      "billId": "OH-HB346",
+      "state": "OH",
+      "session_id": "2190",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-06-09",
+      "desc": "House Passed",
+      "yea": 96,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 96,
+      "passed": true,
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb346/votes",
+      "votes": [
+        {
+          "people_id": 562,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 578,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 10995,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 12036,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13938,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16994,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19550,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19551,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19689,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20307,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20309,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20316,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20320,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20322,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20326,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20327,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20333,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20334,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21168,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21345,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21367,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21389,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21390,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22770,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22771,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22772,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22774,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22775,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22776,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22777,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22780,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22781,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22783,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22784,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22785,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22786,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22803,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22871,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22872,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22941,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22958,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23183,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24454,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24455,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24456,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24457,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24458,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24459,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24461,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24464,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24465,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24466,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24467,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24468,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24469,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24470,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24471,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24472,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24473,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24474,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24475,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24476,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24477,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24478,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24940,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24941,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25029,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25136,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25196,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25208,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26107,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26108,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26109,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26110,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26111,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26113,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26114,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26115,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26116,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26117,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26119,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26120,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26121,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26122,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26123,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26124,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26125,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26126,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26127,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26128,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26129,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26130,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26140,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26485,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26501,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1727951": {
+      "key": "LS-1727951",
+      "billId": "PA-SB1328",
+      "state": "PA",
+      "session_id": "2192",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-09-29",
+      "desc": "Senate Labor &amp; Industry: PN1720 A04288, Adopt Amendment",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=13&rollcallid=1028&sessYr=2025&sessInd=0",
+      "votes": [
+        {
+          "people_id": 465,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 503,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 903,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14146,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18900,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22041,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22080,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25714,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1727952": {
+      "key": "LS-1727952",
+      "billId": "PA-SB1328",
+      "state": "PA",
+      "session_id": "2192",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-09-29",
+      "desc": "Senate Labor &amp; Industry: PN1720, Reported as Amended",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=13&rollcallid=1029&sessYr=2025&sessInd=0",
+      "votes": [
+        {
+          "people_id": 465,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 503,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 903,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14146,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18900,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22041,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22078,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22080,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25714,
+          "vote": "Yea"
+        }
+      ]
     }
   },
   "people": {
@@ -330474,7 +339058,7 @@
     "2252",
     "2253"
   ],
-  "generated_at": "2026-10-01T12:33:16.051845+00:00",
+  "generated_at": "2026-10-02T11:58:31.717590+00:00",
   "people_by_session": {
     "2236": {
       "4747": {

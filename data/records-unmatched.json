@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T11:58:31.717590+00:00",
-  "count": 531,
+  "generated_at": "2026-10-03T11:11:55.021670+00:00",
+  "count": 541,
   "unmatched": [
     {
       "billId": "US-119-HR1111",
@@ -187,6 +187,30 @@
       "role": "cosponsor"
     },
     {
+      "billId": "CA-SB747",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "name": "Aisha Wahab",
+      "role": "primary"
+    },
+    {
+      "billId": "CA-SB747",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
+      "name": "Tasha Boerner Horvath",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "CA-SB1004",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "name": "Aisha Wahab",
+      "role": "primary"
+    },
+    {
       "billId": "CO-HB1425",
       "state": "CO",
       "chamber": "House",
@@ -219,6 +243,22 @@
       "role": "cosponsor"
     },
     {
+      "billId": "OH-HB268",
+      "state": "OH",
+      "chamber": "House",
+      "district": "HD-005",
+      "name": "Meredith Lawson-Rowe",
+      "role": "primary"
+    },
+    {
+      "billId": "PA-HB2480",
+      "state": "PA",
+      "chamber": "House",
+      "district": "HD-040",
+      "name": "Natalie Mihalek",
+      "role": "cosponsor"
+    },
+    {
       "billId": "CO-HB1194",
       "state": "CO",
       "chamber": "House",
@@ -235,6 +275,14 @@
       "role": "primary"
     },
     {
+      "billId": "CA-SB1303",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "name": "Aisha Wahab",
+      "role": "primary"
+    },
+    {
       "billId": "OH-HB292",
       "state": "OH",
       "chamber": "House",
@@ -243,11 +291,43 @@
       "role": "primary"
     },
     {
+      "billId": "CA-SB959",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "name": "Aisha Wahab",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "CA-AB2017",
+      "state": "CA",
+      "chamber": "Senate",
+      "district": "SD-010",
+      "name": "Aisha Wahab",
+      "role": "cosponsor"
+    },
+    {
       "billId": "MN-SF3424",
       "state": "MN",
       "chamber": "Senate",
       "district": "SD-029",
       "name": "Bruce Anderson",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "CA-SB58",
+      "state": "CA",
+      "chamber": "House",
+      "district": "HD-077",
+      "name": "Tasha Boerner Horvath",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "PA-HB1411",
+      "state": "PA",
+      "chamber": "House",
+      "district": "HD-161",
+      "name": "Leanne Krueger-Braneky",
       "role": "cosponsor"
     },
     {

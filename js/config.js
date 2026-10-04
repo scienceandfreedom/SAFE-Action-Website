@@ -61,7 +61,7 @@ const SAFE_CONFIG = {
     ],
 
     // Dead-end statuses
-    DEAD_STATUSES: ['Vetoed', 'Died in Committee', 'Tabled', 'Withdrawn'],
+    DEAD_STATUSES: ['Vetoed', 'Died in Committee', 'Failed', 'Tabled', 'Withdrawn'],
 
     // Intelligence data path (relative to site root)
     INTELLIGENCE_DATA_PATH: 'data/',

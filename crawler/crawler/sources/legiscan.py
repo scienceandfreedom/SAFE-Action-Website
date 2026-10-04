@@ -175,12 +175,16 @@ _CATEGORY_PATTERNS = {
 
 # Status mapping from LegiScan status codes to our labels
 _STATUS_MAP = {
+    # LegiScan status codes (https://legiscan.com/gaits/documentation/legiscan):
+    # 1 Introduced, 2 Engrossed, 3 Enrolled, 4 Passed, 5 Vetoed, 6 Failed.
+    # These were shifted by one until 2026-10-04 (4 "Passed" = enacted showed as
+    # "Passed Both Chambers"; 6 "Failed" showed as "Signed into Law").
     1: "Introduced",
-    2: "In Committee",         # Engrossed (passed originating chamber)
-    3: "Passed One Chamber",   # Enrolled (passed both chambers)
-    4: "Passed Both Chambers",
+    2: "Passed One Chamber",    # Engrossed
+    3: "Passed Both Chambers",  # Enrolled
+    4: "Signed into Law",       # Passed (enacted, incl. law without signature)
     5: "Vetoed",
-    6: "Signed into Law",      # Enacted (sometimes)
+    6: "Failed",
 }
 
 # LegiScan progress codes for active/dead determination
@@ -253,7 +257,12 @@ def _determine_status(bill: dict) -> tuple[str, str]:
     last_action = bill.get("last_action", "")
     la_lower = last_action.lower() if last_action else ""
 
-    if "signed" in la_lower or "enacted" in la_lower or "approved" in la_lower:
+    # "Signed in the Senate" is an enrollment step, not the governor: only
+    # governor/chaptering language means the bill became law.
+    law_words = ("signed by governor", "signed by the governor", "approved by governor",
+                 "approved by the governor", "chaptered", "became law", "become law",
+                 "enacted", "effective on", "public law", "act no.")
+    if any(w in la_lower for w in law_words):
         status_label = "Signed into Law"
     elif "vetoed" in la_lower or "veto" in la_lower:
         status_label = "Vetoed"
@@ -271,7 +280,7 @@ def _determine_status(bill: dict) -> tuple[str, str]:
         status_label = "Introduced"
 
     # Determine if active
-    dead_statuses = {"Vetoed", "Died in Committee", "Tabled", "Withdrawn", "Signed into Law"}
+    dead_statuses = {"Vetoed", "Died in Committee", "Failed", "Tabled", "Withdrawn", "Signed into Law"}
     is_active = "No" if status_label in dead_statuses else "Yes"
 
     return status_label, is_active

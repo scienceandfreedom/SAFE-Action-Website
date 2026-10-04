@@ -101,6 +101,9 @@ async def run_full_crawl(news_only: bool = False):
                 carried = _carry_forward_sponsorships(all_bills, previous_bills)
                 if carried:
                     print(f"  Carried forward sponsorships for {carried} bills from the previous run")
+                applied = _apply_stance_overrides(all_bills)
+                if applied:
+                    print(f"  Applied {applied} human-reviewed stance overrides")
                 save_cached_data("bills", all_bills)
                 update_cache_timestamp("bills")
                 print(f"  Fetched {len(all_bills)} bills via {bill_source}")
@@ -278,6 +281,33 @@ def _read_data_json(name: str, key: str | None = None):
     if key and isinstance(doc, dict):
         return doc.get(key)
     return doc
+
+
+def _apply_stance_overrides(bills: list[dict]) -> int:
+    """Human review wins over every automated classification.
+
+    data/stance-overrides.json is written from the review queue, never by the
+    crawler: {"overrides": {"<billId>": {"billType": "pro|anti|monitor", "note": "...", "reviewed_at": "..."}}}
+    """
+    path = DATA_DIR / "stance-overrides.json"
+    if not path.exists():
+        return 0
+    try:
+        overrides = json.loads(path.read_text()).get("overrides", {})
+    except (OSError, ValueError) as exc:
+        print(f"  WARNING: could not read stance overrides: {exc}")
+        return 0
+    stance_for = {"pro": "Support", "anti": "Oppose", "monitor": "Monitor"}
+    applied = 0
+    for b in bills:
+        ov = overrides.get(b.get("billId"))
+        if not ov or ov.get("billType") not in stance_for:
+            continue
+        b["billType"] = ov["billType"]
+        b["stance"] = stance_for[ov["billType"]]
+        b["review"] = {k: ov[k] for k in ("note", "reviewed_at", "reviewer") if k in ov}
+        applied += 1
+    return applied
 
 
 def _carry_forward_sponsorships(fresh: list[dict], previous: list[dict]) -> int:

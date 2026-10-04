@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>SAFE Live</title>
+<link rel="stylesheet" href="/css/fonts.css">
+<link rel="stylesheet" href="/css/live.css">
+</head>
+<body>
+<!--
+  Streamer mode. Built for Greg's reactcam OBS scene (1920x1080 window capture):
+    x 0-580      chat (top) + Greg cam: nothing important here
+    x 580-1780   the Shorts content crop (RC_CONTENT_CROP 1200:1080:580:0)
+    y 0-130      caption/seam zone at the top of the Short's content band: kept empty
+    x 1780-1920  stream-only rail (lost in Shorts)
+  Keys: 1 map, 2 docket, 3 spotlight, 4 versus, 5 pipeline, 6 zero club,
+        Space/Right next beat, Left back, Up/Down prev/next bill (or state),
+        Enter spotlight the current bill, Esc back, type a state code (WV) to jump,
+        "." highlight selected text, "," clear highlights, "!" toggle stamp, "?" help.
+-->
+<div id="viewport">
+  <div id="stage">
+    <div id="left-col" aria-hidden="true"></div>
+    <main id="crop">
+      <section id="scene"></section>
+      <footer id="cta"><span class="cta-k">Get involved</span><span id="cta-url">scienceandfreedom.com</span></footer>
+    </main>
+    <aside id="rail">
+      <div class="rail-brand"><i class="live-dot"></i>SAFE</div>
+      <div id="rail-week"></div>
+      <div id="rail-beats"></div>
+      <div id="rail-draft" hidden>DRAFT<br>DATA</div>
+    </aside>
+    <div id="picker" hidden><div id="picker-label"></div><div id="picker-buf"></div></div>
+    <div id="help" hidden>
+      <b>SAFE Live keys</b>
+      <div>1 map · 2 docket · 3 spotlight · 4 versus · 5 pipeline · 6 zero club</div>
+      <div>Space / → next beat · ← back · ↑ ↓ prev/next bill</div>
+      <div>Enter spotlight bill · Esc back · type WV to jump state</div>
+      <div>Versus: type two codes, e.g. TXMN</div>
+      <div>Select text + "." highlight · "," clear · "!" stamp · ? hide</div>
+    </div>
+  </div>
+</div>
+<script src="/js/live.js"></script>
+</body>
+</html>

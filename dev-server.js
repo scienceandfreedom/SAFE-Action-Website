@@ -19,6 +19,7 @@ const REWRITES = [
     { pattern: /^\/record\/([^/]+)$/, dest: () => '/record.html' },
     { pattern: /^\/admin$/, dest: () => '/admin.html' },
     { pattern: /^\/feed$/, dest: () => '/feed.html' },
+    { pattern: /^\/(a[klrz]|c[aot]|d[ce]|fl|ga|hi|i[adln]|k[sy]|la|m[adeinost]|n[cdehjmvy]|o[hkr]|pa|ri|s[cd]|t[nx]|ut|v[at]|w[aivy])$/i, dest: () => '/state.html' },
 ];
 
 http.createServer((req, res) => {

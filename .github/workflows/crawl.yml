@@ -66,6 +66,10 @@ jobs:
             python -m crawler.main
           fi
 
+      - name: Build streamer-mode snapshot
+        if: steps.mode.outputs.mode != 'news-only'
+        run: python scripts/build_live.py --repo .
+
       - name: Commit and push data files
         run: |
           git config user.name "github-actions[bot]"

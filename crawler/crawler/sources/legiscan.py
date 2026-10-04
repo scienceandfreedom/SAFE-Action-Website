@@ -11,6 +11,7 @@ Bill data is normalised to the same schema used by the SAFE Action website
 """
 
 import asyncio
+import re
 from datetime import datetime, timezone
 from typing import Any
 
@@ -125,6 +126,82 @@ _ANTI_KEYWORDS = [
     "no immunization mandate",
 ]
 
+# Anti keywords that say nothing about direction on their own: "exemption"
+# appears in bills that add exemptions and in bills that eliminate them;
+# "liability" in bills that strip vaccine-maker protections and in bills that
+# protect vaccinators. They can cancel out pro keywords (ties go to Monitor)
+# but never make a bill Oppose on their own.
+_DIRECTIONLESS_ANTI_KEYWORDS = {
+    "exemption", "exempt", "conscience", "voluntary", "liability",
+    "repeal", "prohibition", "experimental",
+}
+
+# Direction-aware rules, checked per sentence in order; the first rule that
+# matches decides that sentence. When any sentence matches, these decide the
+# bill and keyword counts are ignored, because keywords cannot tell "add an
+# exemption" from "eliminate an exemption". Sentences are not split on ";"
+# because LegiScan titles often read "Subject; detail; prohibition".
+_VERB_ADD = r"\b(?:add|adds|adding|expand\w*|allow\w*|permit\w*|establish\w*|creat\w*|provid\w*|grant\w*|authoriz\w*|recogniz\w*|broaden\w*|restor\w*|preserv\w*|protect\w*|accept\w*)\b"
+_VERB_REMOVE = r"\b(?:eliminat\w*|remov\w*|repeal\w*|prohibit\w*|restrict\w*|limit\w*|tighten\w*|end|ends|ending|narrow\w*|abolish\w*)\b"
+_VERB_BAN = r"\b(?:prohibit\w*|ban|bans|banning|bar|bars|barring|forbid\w*|preclud\w*|prevent\w*)\b"
+_C = r"[^.]"  # stay inside the sentence
+_DIRECTION_RULES = [
+    # Coded anti framing decides the sentence before anything else.
+    (r"informed consent|medical freedom|health freedom|right to refuse|bodily autonomy"
+     r"|vaccine[- ]injur|harmful vaccine|gene-based|genetic-based|bioweapon|weapons of mass destruction"
+     r"|who (?:refuse|decline)|vaccine discrimination|choos\w* (?:whether )?to (?:immunize|vaccinate)"
+     r"|more stringent than"
+     r"|(?:death|fatalit)\w*" + _C + r"{0,80}(?:resulting from|caused by|related to|and the administration of) vaccin"
+     r"|protect\w*" + _C + r"{0,40}\bfrom" + _C + r"{0,40}(?:mandat|compulsory|required)", "anti"),
+    # Liability aimed at vaccines (injury claims, manufacturer or employer liability).
+    (r"liab\w*" + _C + r"{0,80}injur|injur\w*" + _C + r"{0,80}liab|manufacturer\w*" + _C + r"{0,20}liab"
+     r"|liabilit\w*" + _C + r"{0,40}(?:vaccine|vaccination|immunization) (?:requirement|mandate)", "anti"),
+    # Banning mandates, passports, status discrimination, or administration.
+    (_VERB_BAN + _C + r"{0,80}(?:mandat|requir\w*" + _C + r"{0,40}(?:vaccin|immuniz)|compel|compulsory|passport|discriminat|administ\w*" + _C + r"{0,60}(?:vaccin|immuniz|mrna))", "anti"),
+    # Removing or restricting exemptions ("eliminating personal conviction
+    # exemption"; "use of an exemption ... prohibited").
+    (_VERB_REMOVE + _C + r"{0,80}exempt", "pro"),
+    (r"exempt" + _C + r"{0,120}" + _VERB_REMOVE, "pro"),
+    # Decoupling state law from federal (ACIP) guidance so the state can set
+    # its own schedule; must precede the "removing requirements" rule.
+    (r"\bremov\w*" + _C + r"{0,40}requirement\w*" + _C + r"{0,50}(?:federal guidance|advisory committee on immunization practices)", "pro"),
+    # Adding or expanding exemptions ("permitting religious exemptions";
+    # "vaccine exemption; authorize"; "to exempt all persons from").
+    (_VERB_ADD + _C + r"{0,60}exempt|exempt\w*" + _C + r"{0,40}" + _VERB_ADD + r"|\bexempt(?:s|ing)?\b" + _C + r"{0,80}\bfrom\b", "anti"),
+    # Removing vaccine requirements, or prohibiting them / mRNA / fluoride
+    # with the verb after the subject ("vaccine mandate; prohibition").
+    (r"\b(?:eliminat|remov|repeal|reduc|delet|strik|rescind)\w*" + _C + r"{0,80}(?:requir|mandat|compulsory|vaccination laws?)"
+     r"|(?:mandat|requir\w*|vaccin\w*|immuniz\w*|mrna|fluorid\w*|geoengineering)" + _C + r"{0,60}\bprohibit"
+     r"|\b(?:prohibit\w*|ban|bans|banning|remov\w*|eliminat\w*|end)\b" + _C + r"{0,60}(?:fluorid|geoengineering)", "anti"),
+    # Stripping liability protection vs. granting it.
+    (r"\b(?:eliminat|remov|repeal|waiv|strip|end)\w*" + _C + r"{0,60}liabilit\w*" + _C + r"{0,20}(?:protect|shield|immunit)", "anti"),
+    (r"liabilit\w*\s+(?:protect|shield|immunit)|protect\w*" + _C + r"{0,60}from" + _C + r"{0,20}liabilit", "pro"),
+    # Requiring vaccination (unless the sentence is about exemptions to it).
+    (r"^(?!.*exempt).*\b(?:require|requires|requiring|compulsory|mandatory)\s+(?:\w+\s+){0,2}(?:vaccinations?|immunizations?)\b", "pro"),
+    # Expanding who may vaccinate.
+    (r"administ\w*" + _C + r"{0,60}(?:vaccin|immuniz)", "pro"),
+    (r"\b(?:authoriz|allow|permit)\w*" + _C + r"{0,80}\bto (?:vaccinate|immunize|administer)\b", "pro"),
+    # Legalizing raw milk ("unpasteurized" also contains the pro keyword
+    # "pasteurized", which is why this needs a rule).
+    (r"(?:unpasteuri[sz]ed|raw) milk" + _C + r"{0,40}(?:sale|sell|authoriz|legaliz|allow|permit)|(?:authoriz|legaliz|allow|permit)\w*" + _C + r"{0,40}(?:unpasteuri[sz]ed|raw) milk", "anti"),
+]
+_DIRECTION_RULES = [(re.compile(pat), side) for pat, side in _DIRECTION_RULES]
+
+
+def _direction_scores(text: str) -> tuple[int, int]:
+    """Return (pro, anti) counts of sentences decided by a direction rule."""
+    pro = anti = 0
+    for clause in text.split("."):
+        for pattern, side in _DIRECTION_RULES:
+            if pattern.search(clause):
+                if side == "pro":
+                    pro += 1
+                else:
+                    anti += 1
+                break
+    return pro, anti
+
+
 # Pro-science keywords
 _PRO_KEYWORDS = [
     # Vaccine strengthening
@@ -219,18 +296,24 @@ def _classify_bill(title: str, description: str = "") -> tuple[str, str, str]:
         # Not about vaccines, raw milk, or fluoride — track but don't label
         return "monitor", "Monitor", category
 
-    # For core-topic bills, use keyword scoring
-    anti_score = sum(1 for kw in _ANTI_KEYWORDS if kw in text)
-    pro_score = sum(1 for kw in _PRO_KEYWORDS if kw in text)
+    # Direction rules first; keyword scoring only when none of them fire.
+    pro_score, anti_score = _direction_scores(text)
+    if not (pro_score or anti_score):
+        anti_hits = [kw for kw in _ANTI_KEYWORDS if kw in text]
+        pro_score = sum(1 for kw in _PRO_KEYWORDS if kw in text)
+        anti_score = len(anti_hits)
+        if all(kw in _DIRECTIONLESS_ANTI_KEYWORDS for kw in anti_hits):
+            anti_score = min(anti_score, pro_score)  # cannot win alone
 
     if pro_score > anti_score:
         bill_type = "pro"
         stance = "Support"
-    elif anti_score > 0:
+    elif anti_score > pro_score:
         bill_type = "anti"
         stance = "Oppose"
     else:
-        # Core topic but no clear anti/pro signals — monitor
+        # Core topic but no clear (or conflicting) signals: monitor, never
+        # Oppose on a guess
         bill_type = "monitor"
         stance = "Monitor"
 

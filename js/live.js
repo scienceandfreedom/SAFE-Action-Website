@@ -373,11 +373,13 @@
   });
 
   function fromHash() {
-    var p = location.hash.replace(/^#/, '').split('/');
+    var h = location.hash.replace(/^#/, ''), at = h.indexOf('@'), beat = 0;
+    if (at !== -1) { beat = parseInt(h.slice(at + 1), 10) || 0; h = h.slice(0, at); }
+    var p = h.split('/');
     if (!p[0] || !SCENES[p[0]]) return;
     if (p[0] === 'versus' && D.states[p[1]] && D.states[p[2]]) S.vs = [p[1], p[2]];
-    if (p[0] === 'spot') { var b = D.bills.filter(function (x) { return x.id === p[1]; })[0]; if (b) return spotlight(b); }
-    go(p[0], p[1]);
+    if (p[0] === 'spot') { var b = D.bills.filter(function (x) { return x.id === p[1]; })[0]; if (b) { spotlight(b); while (S.beat < beat) next(); return; } }
+    go(p[0], p[1], beat);
   }
   window.addEventListener('hashchange', function () { if (D) fromHash(); });
 

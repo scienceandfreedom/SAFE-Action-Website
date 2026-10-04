@@ -15,6 +15,9 @@ body{font-family:var(--sans);color:var(--ink);-webkit-font-smoothing:antialiased
 #stage{position:relative;width:1920px;height:1080px;flex:none;transform-origin:center center;
   background:radial-gradient(1100px 700px at 1180px 0,#1b2c62 0,rgba(11,20,48,0) 70%),var(--bg);overflow:hidden}
 #left-col{position:absolute;left:0;top:0;width:580px;height:1080px;background:#070d20}
+#home-link{position:absolute;left:36px;top:32px;display:block;width:240px;padding:14px 16px;border-radius:12px;background:#f6f2e8;transition:transform .15s}
+#home-link:hover{transform:scale(1.04)}
+#home-link img{display:block;width:100%;height:auto}
 
 /* ---- the Shorts crop: x580-1780 ---- */
 #crop{position:absolute;left:580px;top:0;width:1200px;height:1080px}
@@ -27,7 +30,7 @@ body{font-family:var(--sans);color:var(--ink);-webkit-font-smoothing:antialiased
 /* ---- stream-only rail ---- */
 #rail{position:absolute;left:1780px;top:0;width:140px;height:1080px;border-left:2px solid var(--line);
   display:flex;flex-direction:column;align-items:center;padding:30px 0;gap:26px}
-.rail-brand{font:700 20px var(--mono);letter-spacing:.2em;display:flex;align-items:center;gap:8px}
+.rail-brand{color:var(--ink);text-decoration:none;font:700 20px var(--mono);letter-spacing:.2em;display:flex;align-items:center;gap:8px}
 .live-dot{width:12px;height:12px;border-radius:50%;background:#ff5a47;box-shadow:0 0 0 5px rgba(255,90,71,.25)}
 #rail-week{font:400 40px var(--display);text-align:center;line-height:.95;color:var(--dim)}
 #rail-beats{display:flex;flex-direction:column;gap:10px}
@@ -78,7 +81,7 @@ body{font-family:var(--sans);color:var(--ink);-webkit-font-smoothing:antialiased
 .count.pro .n{color:var(--pro-soft)}.count.anti .n{color:var(--anti-soft)}
 .stamp{position:absolute;right:26px;top:96px;transform:rotate(-8deg);border:6px solid var(--gold);color:var(--gold);
   font:400 72px var(--display);padding:2px 18px;border-radius:12px;letter-spacing:.04em;line-height:1}
-.bill-now{margin-top:26px;border-radius:16px;padding:22px 28px;height:248px;cursor:pointer;position:relative}
+.bill-now{margin-top:26px;border-radius:16px;padding:22px 28px;min-height:248px;cursor:pointer;position:relative}
 .bill-now.anti{background:var(--paper);color:var(--paper-ink);border-left:16px solid var(--anti)}
 .bill-now.pro{background:var(--paper);color:var(--paper-ink);border-left:16px solid var(--pro)}
 .bill-now .row{display:flex;gap:18px;align-items:center}

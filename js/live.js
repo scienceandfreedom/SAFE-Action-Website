@@ -59,7 +59,7 @@
     var r = $('rail-beats'); r.innerHTML = '';
     for (var i = 0; i < beats; i++) { var d = document.createElement('i'); if (i < S.beat) d.className = 'on'; r.appendChild(d); }
     $('rail-draft').hidden = !draft;
-    var slug = (S.scene === 'map' || S.scene === 'zero' || S.scene === 'versus') ? '' : '/' + S.state.toLowerCase();
+    var slug = (S.scene === 'map' || S.scene === 'zero' || S.scene === 'versus' || S.scene === 'intro') ? '' : '/' + S.state.toLowerCase();
     $('cta-url').textContent = 'scienceandfreedom.com' + (S.state === 'US' ? '' : slug);
   }
 
@@ -73,6 +73,32 @@
 
   /* ---------- scenes ---------- */
   var SCENES = {
+
+    intro: { beats: 4, render: function (el) {
+      var tot = { a: 0, p: 0, t: 0 }; Object.keys(D.states).forEach(function (c) { var v = D.states[c]; tot.a += v.anti; tot.p += v.pro; tot.t += v.tracked; });
+      var zero = Object.keys(D.states).filter(function (c) { return c !== 'US' && c !== 'DC' && D.states[c].pro === 0; }).length;
+      el.innerHTML = '<div class="intro">' +
+        '<div class="intro-mark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 1.6l3 6.4 7 .85-5.15 4.85 1.35 6.9L12 17.1l-6.2 3.5 1.35-6.9L2 8.85 9 8z" fill="#c8930f" stroke="#f1f3fa" stroke-width="0.8" stroke-linejoin="round"/></svg>' +
+        '<div><div class="bb intro-word">SAFE <span>ACTION</span></div><div class="intro-sub">Science and Freedom for Everyone</div></div></div>' +
+        '<div class="intro-b reveal" id="ib1"><div class="eyebrow">What we do</div><div class="bb intro-line">We track science bills in <span>all 50 states</span> and Congress</div>' +
+          '<div class="intro-stat"><b id="it">0</b> bills tracked</div></div>' +
+        '<div class="intro-b reveal" id="ib2"><div class="intro-nums"><div class="anti"><b id="ia">0</b>anti-science</div><div class="pro"><b id="ip">0</b>pro-science</div>' +
+          '<div class="zero"><b id="iz">0</b>states with zero pro-science bills on our tracker</div></div></div>' +
+        '<div class="intro-b reveal" id="ib3"><div class="eyebrow">What you can do</div><div class="intro-steps">' +
+          '<div><i>1</i>Find your state<em>scienceandfreedom.com/your-state</em></div>' +
+          '<div><i>2</i>Message your lawmakers<em>Take Action: two minutes</em></div>' +
+          '<div><i>3</i>Join the team<em>Volunteer · follow @scienceandfreedom</em></div></div></div>' +
+        '<div class="intro-b reveal" id="ib4"><div class="bb intro-close">Every week. <span>State by state.</span></div></div>' +
+        '<div class="intro-legal">I founded SAFE Action, a 501(c)(4). Contributions are not tax-deductible.</div></div>';
+      el._tot = tot; el._zero = zero;
+      return unreviewed(D.bills);
+    }, beat: function (el, k) {
+      // one beat at a time in the slot under the logo: the newest replaces the last
+      // order: the numbers first (cold open), then what SAFE does, then what you can do, then the close
+      ['ib2', 'ib1', 'ib3', 'ib4'].forEach(function (id, i) { $(id).classList.toggle('in', i + 1 === k); });
+      if (k === 1) { countUp($('ia'), el._tot.a); countUp($('ip'), el._tot.p); countUp($('iz'), el._zero); }
+      if (k === 2) countUp($('it'), el._tot.t);
+    } },
     map: { beats: 2, render: function (el) {
       var tot = { a: 0, p: 0 }; Object.keys(D.states).forEach(function (c) { tot.a += D.states[c].anti; tot.p += D.states[c].pro; });
       var html = '<div class="eyebrow">Where the anti-science bills are · 2026 sessions</div><div class="map-wrap"><div class="map">';
@@ -278,7 +304,7 @@
   }
   function obsDot() { var d = document.querySelector('.live-dot'); if (d) d.style.background = OBS.ready ? '#2fb27f' : '#ff5a47'; }
   function obsMark() {
-    var key = S.scene === 'map' ? 'SAFE NATIONAL MAP' : S.scene === 'zero' ? 'SAFE NATIONAL ZERO CLUB'
+    var key = S.scene === 'intro' ? 'SAFE NATIONAL INTRO' : S.scene === 'map' ? 'SAFE NATIONAL MAP' : S.scene === 'zero' ? 'SAFE NATIONAL ZERO CLUB'
       : S.scene === 'versus' ? 'SAFE VS ' + S.vs[0] + ' ' + S.vs[1] : 'SAFE STATE ' + S.state;
     if (key === OBS.last) return;
     OBS.last = key;
@@ -348,7 +374,7 @@
         var a = buf.slice(0, 2), z = buf.slice(2, 4);
         if (D.states[a] && D.states[z]) { S.vs = [a, z]; go('versus'); }
       } else if (D.states[buf]) {
-        go(S.scene === 'map' || S.scene === 'zero' || S.scene === 'spot' ? 'docket' : S.scene, buf);
+        go(S.scene === 'map' || S.scene === 'zero' || S.scene === 'spot' || S.scene === 'intro' ? 'docket' : S.scene, buf);
       }
       setTimeout(clearBuf, 250); return;
     }
@@ -357,7 +383,7 @@
 
   document.addEventListener('keydown', function (e) {
     if (!D || e.metaKey || e.ctrlKey || e.altKey) return;
-    var k = e.key, map = { '1':'map','2':'docket','3':'spot','4':'versus','5':'pipeline','6':'zero' };
+    var k = e.key, map = { '0':'intro','1':'map','2':'docket','3':'spot','4':'versus','5':'pipeline','6':'zero' };
     if (map[k]) { e.preventDefault(); return go(map[k]); }
     if (k === ' ' || k === 'ArrowRight' || k === 'PageDown') { e.preventDefault(); return next(); }
     if (k === 'ArrowLeft' || k === 'PageUp') { e.preventDefault(); return prev(); }

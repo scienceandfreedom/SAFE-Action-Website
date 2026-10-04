@@ -166,3 +166,28 @@ mark.hl.on{background-size:100% 100%}
 .pill.watch{background:var(--gold);color:#1b1300}
 .bill-now.watch{background:var(--paper);color:var(--paper-ink);border-left:16px solid var(--gold)}
 .tok.watch{border-left-color:var(--gold)}
+
+/* ---- intro: what SAFE is (one beat per keypress) ---- */
+.intro{position:relative;height:100%}
+.intro-mark{display:flex;align-items:center;gap:26px;margin-top:6px}
+.intro-mark svg{width:118px;height:118px;flex:none}
+.intro-word{font-size:132px;line-height:.86}
+.intro-word span{color:var(--anti)}
+.intro-sub{font:700 30px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--dim);margin-top:6px}
+.intro-b{position:absolute;left:0;right:0;top:250px}
+.intro-line{font-size:110px;margin-top:8px}
+.intro-line span,.intro-close span{color:var(--gold)}
+.intro-stat{font:600 40px var(--sans);color:var(--dim);margin-top:8px}
+.intro-stat b{font:400 96px var(--display);color:var(--ink);margin-right:10px;vertical-align:-6px}
+.intro-nums{display:grid;grid-template-columns:1fr 1fr 1.3fr;gap:18px}
+.intro-nums div{border-radius:18px;padding:20px 24px;font:800 30px var(--sans);text-transform:uppercase;letter-spacing:.04em;line-height:1.15}
+.intro-nums b{display:block;font:400 190px var(--display);line-height:.9}
+.intro-nums .anti{background:rgba(226,74,55,.15);border:3px solid var(--anti);color:var(--anti-soft)}
+.intro-nums .pro{background:rgba(47,178,127,.13);border:3px solid var(--pro);color:var(--pro-soft)}
+.intro-nums .zero{background:rgba(255,213,106,.1);border:3px solid var(--gold);color:var(--gold)}
+.intro-steps{display:grid;grid-template-columns:1fr;gap:16px;margin-top:12px}
+.intro-steps div{background:var(--paper);color:var(--paper-ink);border-radius:16px;padding:16px 22px;font:800 44px/1.1 var(--sans);display:grid;grid-template-columns:70px 1fr;column-gap:18px;align-items:center}
+.intro-steps i{grid-row:span 2;display:flex;width:64px;height:64px;border-radius:50%;background:var(--gold);color:#1b1300;align-items:center;justify-content:center;font:400 44px var(--display);font-style:normal}
+.intro-steps em{display:block;font:600 28px var(--sans);font-style:normal;color:#59617a;margin-top:4px}
+.intro-close{font-size:120px;margin-top:40px}
+.intro-legal{position:absolute;left:0;right:0;bottom:-6px;font:600 18px var(--sans);color:var(--dim)}

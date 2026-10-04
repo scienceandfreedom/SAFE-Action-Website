@@ -66,6 +66,12 @@ jobs:
             python -m crawler.main
           fi
 
+      - name: Decide new bill stances (judge + text model + sponsor record must agree)
+        if: steps.mode.outputs.mode != 'news-only'
+        run: |
+          pip install --quiet scikit-learn
+          python scripts/stance_consensus.py --write --repo .
+
       - name: Build streamer-mode snapshot
         if: steps.mode.outputs.mode != 'news-only'
         run: python scripts/build_live.py --repo .

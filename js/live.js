@@ -44,14 +44,14 @@
   /* ---------- data ---------- */
   function index() {
     byState = {};
-    Object.keys(D.states).forEach(function (c) { byState[c] = { pro: [], anti: [] }; });
+    Object.keys(D.states).forEach(function (c) { byState[c] = { pro: [], anti: [], watch: [] }; });
     D.bills.forEach(function (b) { if (byState[b.state]) byState[b.state][b.type].push(b); });
     Object.keys(byState).forEach(function (c) {
       ['pro','anti'].forEach(function (t) { byState[c][t].sort(function (a, z) { return STAGE_RANK[z.stage] - STAGE_RANK[a.stage]; }); });
     });
   }
-  function billsFor(c) { var x = byState[c] || { pro: [], anti: [] }; return x.pro.concat(x.anti); }
-  function unreviewed(list) { return list.some(function (b) { return !b.reviewed; }); }
+  function billsFor(c) { var x = byState[c] || { pro: [], anti: [], watch: [] }; return x.pro.concat(x.anti, x.watch); }
+  function unreviewed(list) { return list.some(function (b) { return !b.reviewed && b.type !== 'watch'; }); }
 
   /* ---------- chrome ---------- */
   function setChrome(beats, draft) {
@@ -116,7 +116,7 @@
       if (S.billIdx < 0) { bn.innerHTML = k >= 2 && !list.length ? '<div class="bill-empty">No tracked bills this session</div>' : ''; return; }
       var b = list[S.billIdx];
       bn.innerHTML = '<div class="bill-now ' + b.type + ' scene-enter" id="bnow">' +
-        '<div class="row"><span class="num">' + esc(nice(b.number)) + '</span><span class="pill ' + b.type + '">' + (b.type === 'pro' ? 'PRO' : 'ANTI') + '</span>' +
+        '<div class="row"><span class="num">' + esc(nice(b.number)) + '</span><span class="pill ' + b.type + '">' + (b.type === 'pro' ? 'PRO' : b.type === 'watch' ? 'ONE TO WATCH' : 'ANTI') + '</span>' +
         '<span class="status">' + esc(b.status) + '</span>' + (b.reviewed ? (b.reviewBasis === 'sponsor_record' ? '<span class="pill unrev">INFERRED</span>' : '') : '<span class="pill unrev">UNREVIEWED</span>') + '</div>' +
         '<div class="ttl">' + esc(b.title) + '</div><div class="idx">' + (S.billIdx + 1) + ' / ' + list.length + '</div></div>';
       $('bnow').onclick = function () { spotlight(b); };
@@ -132,7 +132,7 @@
       var text = b.summary && b.summary.length > b.title.length ? b.summary : b.title;
       var sp = b.sponsors.filter(function (s) { return s.type === 'primary'; })[0] || b.sponsors[0];
       el.innerHTML = '<div class="spot"><div class="spot-head"><span class="pill code">' + esc(b.state + ' · ' + nice(b.number)) + '</span>' +
-        '<span class="pill ' + b.type + '">' + (b.type === 'pro' ? 'PRO-SCIENCE BILL' : 'ANTI-SCIENCE BILL') + '</span>' +
+        '<span class="pill ' + b.type + '">' + (b.type === 'pro' ? 'PRO-SCIENCE BILL' : b.type === 'watch' ? 'ONE TO WATCH' : 'ANTI-SCIENCE BILL') + '</span>' +
         (b.reviewed ? (b.reviewBasis === 'sponsor_record' ? '<span class="pill unrev">INFERRED</span>' : '') : '<span class="pill unrev">UNREVIEWED</span>') + '</div>' +
         '<div class="bb spot-title" id="stt">' + esc(b.title) + '</div>' +
         '<div class="pipe">' + pipe + '</div>' +

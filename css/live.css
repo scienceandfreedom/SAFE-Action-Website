@@ -161,3 +161,8 @@ mark.hl.on{background-size:100% 100%}
   font:500 19px/1.5 var(--sans);color:var(--ink);z-index:30}
 #help b{font:700 18px var(--mono);letter-spacing:.14em;color:var(--gold);display:block;margin-bottom:6px}
 .loading{font:400 80px var(--display);color:var(--dim);margin-top:200px;text-align:center}
+
+/* one to watch: text and sponsors disagree; never counted */
+.pill.watch{background:var(--gold);color:#1b1300}
+.bill-now.watch{background:var(--paper);color:var(--paper-ink);border-left:16px solid var(--gold)}
+.tok.watch{border-left-color:var(--gold)}

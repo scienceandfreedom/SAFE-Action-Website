@@ -73,9 +73,12 @@ def build(repo: Path) -> dict:
         bid = b.get("billId")
         ov = overrides.get(bid)
         bt = (ov or {}).get("billType") or b.get("billType", "monitor")
-        if bt not in ("pro", "anti"):
+        if (ov or {}).get("watch"):
+            bt = "watch"                      # shown on /live, never counted as pro or anti
+        elif bt not in ("pro", "anti"):
             continue
-        st[bt] += 1
+        else:
+            st[bt] += 1
         ver = b.get("verification") or {}
         last_date = b.get("lastActionDate") or ""
         out_bills.append({

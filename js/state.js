@@ -19,10 +19,10 @@
     document.getElementById('st-vol').href = 'volunteer.html?state=' + code;
     document.getElementById('st-asof').textContent = 'Data as of ' + (D.crawl_generated_at || D.generated_at).slice(0, 10) + '.';
     var bills = D.bills.filter(function (b) { return b.state === code; });
-    bills.sort(function (a, z) { return a.type === z.type ? 0 : a.type === 'pro' ? -1 : 1; });
+    var ORD = { pro: 0, anti: 1, watch: 2 }; bills.sort(function (a, z) { return ORD[a.type] - ORD[z.type]; });
     document.getElementById('st-rows').innerHTML = bills.length ? bills.map(function (b) {
       var num = b.source ? '<a href="' + esc(b.source) + '" rel="noopener">' + esc(b.number) + '</a>' : esc(b.number);
-      return '<tr><td class="num">' + num + '</td><td><span class="tag ' + b.type + '">' + b.type.toUpperCase() + '</span></td><td>' + esc(b.title) +
+      return '<tr><td class="num">' + num + '</td><td><span class="tag ' + b.type + '">' + (b.type === 'watch' ? 'ONE TO WATCH' : b.type.toUpperCase()) + '</span></td><td>' + esc(b.title) +
         '</td><td>' + esc(b.status) + '</td><td class="num" style="font-weight:400">' + esc(b.lastActionDate || '') + '</td></tr>';
     }).join('') : '<tr><td colspan="5">No pro- or anti-science bills on file for this session.</td></tr>';
   });

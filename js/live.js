@@ -105,7 +105,7 @@
       Object.keys(TILE).forEach(function (c) {
         var n = (D.states[c] || {}).anti || 0;
         var b = n === 0 ? 'b0' : n <= 2 ? 'b1' : n <= 6 ? 'b2' : n <= 12 ? 'b3' : 'b4';
-        html += '<div class="tile dim' + (c === 'US' ? ' us' : '') + '" data-b="' + b + '" data-st="' + c + '" style="grid-column:' + (TILE[c][0] + 1) + ';grid-row:' + (TILE[c][1] + 1) + '">' + c + '<b>' + n + '</b></div>';
+        html += '<div class="tile dim' + (c === 'US' ? ' us' : '') + (DONE[c] ? ' done' : '') + '" data-b="' + b + '" data-st="' + c + '" style="grid-column:' + (TILE[c][0] + 1) + ';grid-row:' + (TILE[c][1] + 1) + '">' + c + '<b>' + n + '</b></div>';
       });
       html += '<div class="map-key reveal" id="mk"><div class="big"><span>' + tot.a + '</span> anti · <em>' + tot.p + '</em> pro</div></div>' +
         '<div class="map-sub reveal" id="ms">' + (D.moved.length ? D.moved.length + ' bills moved this week' : 'Bills SAFE tracks, all 50 states + Congress') + '</div>' +
@@ -312,6 +312,28 @@
     OBS.ws.send(JSON.stringify({ op: 6, d: { requestType: 'CreateRecordChapter', requestId: String(Date.now()), requestData: { chapterName: key } } }));
   }
 
+
+  /* ---------- run sheet: which states are covered this week (saved in this browser) ---------- */
+  var DONE = {};
+  function doneKey() { return 'safe-live-done-' + (D ? D.week : ''); }
+  function loadDone() { try { DONE = JSON.parse(localStorage.getItem(doneKey()) || '{}'); } catch (e) { DONE = {}; } }
+  function saveDone() { try { localStorage.setItem(doneKey(), JSON.stringify(DONE)); } catch (e) {} }
+  function stateOrder() { return Object.keys(D.states).filter(function (c) { return c !== 'DC'; }).sort(function (a, z) { return a === 'US' ? 1 : z === 'US' ? -1 : D.states[a].name.localeCompare(D.states[z].name); }); }
+  function renderRunsheet() {
+    var codes = stateOrder(), n = codes.filter(function (c) { return DONE[c]; }).length;
+    $('rs-count').textContent = n + ' OF ' + codes.length + ' DONE';
+    var cur = (S.scene === 'docket' || S.scene === 'pipeline' || S.scene === 'spot') ? S.state : '';
+    $('rs-grid').innerHTML = codes.map(function (c) {
+      return '<button type="button" data-st="' + c + '" class="' + (DONE[c] ? 'done' : '') + (c === cur ? ' now' : '') + '">' + c + '<small>' + D.states[c].anti + '</small></button>';
+    }).join('');
+    $('rs-grid').querySelectorAll('button').forEach(function (b) { b.onclick = function () { b.blur(); go('docket', b.dataset.st); }; });
+  }
+  function nextUndone() {
+    var codes = stateOrder(), i = codes.indexOf(S.state);
+    for (var j = 1; j <= codes.length; j++) { var c = codes[(i + j) % codes.length]; if (!DONE[c]) return c; }
+    return null;
+  }
+
   /* ---------- navigation ---------- */
   function beatsOf(sc) { var b = SCENES[sc].beats; return typeof b === 'function' ? b() : b; }
 
@@ -324,6 +346,8 @@
     setChrome(beatsOf(S.scene), draft);
     setHash();
     obsMark();
+    if (S.scene === 'docket' && !DONE[S.state]) { DONE[S.state] = 1; saveDone(); }
+    renderRunsheet();
   }
 
   function go(scene, state, beat) {
@@ -395,6 +419,7 @@
     if (k === ',') { document.querySelectorAll('#ptxt mark.hl').forEach(function (m) { m.classList.remove('on'); }); return; }
     if (k === '!') { S.stamp = true; return showStamp(); }
     if (k === '?') { $('help').hidden = !$('help').hidden; return; }
+    if (k === 'Tab') { e.preventDefault(); var nx = nextUndone(); if (nx) go('docket', nx); return; }
     if (/^[a-zA-Z]$/.test(k)) return typeLetter(k);
   });
 
@@ -413,7 +438,9 @@
   obsInit();
   $('scene').innerHTML = '<div class="loading">Loading tracker…</div>';
   fetch('/data/live.json', { cache: 'no-store' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }).then(function (d) {
-    D = d; index();
+    D = d; index(); loadDone();
+    $('rs-reset').onclick = function () { DONE = {}; saveDone(); renderRunsheet(); if (S.scene === 'map') render(); };
+    $('home-link').onclick = function (ev) { ev.preventDefault(); go('map'); };
     if (location.hash) fromHash(); else render();
   }).catch(function (err) {
     $('scene').innerHTML = '<div class="loading">Could not load /data/live.json (' + esc(err.message) + '). Run scripts/build_live.py.</div>';

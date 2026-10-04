@@ -192,6 +192,19 @@ mark.hl.on{background-size:100% 100%}
 .intro-close{font-size:120px;margin-top:40px}
 .intro-legal{position:absolute;left:0;right:0;bottom:-6px;font:600 18px var(--sans);color:var(--dim)}
 
-/* operator key guide: sits under the chat overlay in OBS, never in the Shorts crop */
-#keyhint{position:absolute;left:36px;top:140px;width:500px;font:500 22px/1.7 var(--sans);color:#7d89aa}
-#keyhint b{display:inline-block;min-width:44px;padding:0 8px;border:2px solid #2b3a66;border-radius:7px;color:#cfd6ea;font:700 18px var(--mono);text-align:center}
+
+/* ---- operator panel (left column: under chat + cam in OBS, never in the Shorts crop) ---- */
+#keyhint{position:absolute;left:36px;top:118px;width:510px;font:500 17px/2 var(--sans);color:#7d89aa}
+#keyhint b{display:inline-block;padding:0 7px;border:2px solid #2b3a66;border-radius:6px;color:#cfd6ea;font:700 15px/1.5 var(--mono);margin-right:4px}
+#runsheet{position:absolute;left:36px;top:208px;width:510px;bottom:28px;display:flex;flex-direction:column}
+#rs-head{display:flex;justify-content:space-between;align-items:center;font:700 20px var(--mono);letter-spacing:.08em;color:#cfd6ea;margin-bottom:10px}
+#rs-reset{font:600 14px var(--mono);color:#7d89aa;background:none;border:1px solid #2b3a66;border-radius:6px;padding:4px 8px;cursor:pointer}
+#rs-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;overflow:auto}
+#rs-grid button{display:flex;justify-content:space-between;align-items:center;height:44px;padding:0 10px;border-radius:8px;border:2px solid #22305a;background:#0e1838;color:#cfd6ea;font:700 17px var(--mono);cursor:pointer}
+#rs-grid button small{font:600 14px var(--mono);color:#ff8a78}
+#rs-grid button.done{background:#13321f;border-color:#2fb27f;color:#9fe3c6}
+#rs-grid button.done small{color:#9fe3c6}
+#rs-grid button.done::after{content:"\2713";margin-left:4px}
+#rs-grid button.now{border-color:var(--gold);box-shadow:0 0 0 2px var(--gold)}
+.tile.done{position:relative}
+.tile.done::after{content:"\2713";position:absolute;top:2px;right:6px;font:800 18px var(--sans);color:#2fb27f}

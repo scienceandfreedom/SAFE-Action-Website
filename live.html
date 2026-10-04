@@ -23,9 +23,26 @@
 <div id="viewport">
   <div id="stage">
     <div id="left-col">
-      <a id="home-link" href="/live#map" title="Back to the start of SAFE Live" aria-label="SAFE Live start"><svg width="44" height="44" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 1.6l3 6.4 7 .85-5.15 4.85 1.35 6.9L12 17.1l-6.2 3.5 1.35-6.9L2 8.85 9 8z" fill="#c8930f" stroke="#16264d" stroke-width="1.2" stroke-linejoin="round"/></svg><span class="word">SAFE <span class="act">ACTION</span></span></a>
-      <div id="keyhint" aria-hidden="true"><b>SPACE</b> next <b>&larr;</b> back <b>TAB</b> next state <b>0</b> intro <b>1</b> map <b>?</b> keys</div>
-      <div id="runsheet"><div id="rs-head"><span id="rs-count"></span><button id="rs-reset" type="button">reset week</button></div><div id="rs-grid"></div></div>
+      <div id="panel">
+        <div class="pn-top">
+          <a id="home-link" href="/live#map" title="Back to the overview map"><svg width="34" height="34" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 1.6l3 6.4 7 .85-5.15 4.85 1.35 6.9L12 17.1l-6.2 3.5 1.35-6.9L2 8.85 9 8z" fill="#c8930f" stroke="#16264d" stroke-width="1.2" stroke-linejoin="round"/></svg><span class="word">SAFE <span class="act">LIVE</span></span></a>
+          <a class="pn-site" href="/" title="Open the main website">Main site &#8599;</a>
+        </div>
+        <section class="pn-now">
+          <div class="pn-where"><span id="pn-scene">Map</span><span id="pn-state"></span></div>
+          <div class="pn-step"><span id="pn-steptxt"></span><div id="pn-dots"></div></div>
+          <div class="pn-nav">
+            <button type="button" id="pn-back" class="pn-btn"><kbd>&larr;</kbd> Back</button>
+            <button type="button" id="pn-next" class="pn-btn pn-primary">Next <kbd>Space</kbd></button>
+          </div>
+          <div id="pn-ctx" class="pn-ctx"></div>
+        </section>
+        <section class="pn-scenes" id="pn-scenes"></section>
+        <section class="pn-states">
+          <div class="pn-sh"><span id="rs-count"></span><span class="pn-sh-r"><button type="button" id="pn-nextstate" class="pn-mini">Next state <kbd>Tab</kbd></button><button type="button" id="rs-reset" class="pn-mini pn-quiet">Reset</button></span></div>
+          <div id="rs-grid"></div>
+        </section>
+      </div>
     </div>
     <main id="crop">
       <section id="scene"></section>

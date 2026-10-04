@@ -334,6 +334,56 @@
     return null;
   }
 
+
+  /* ---------- control panel (left column) ---------- */
+  var LABEL = { intro: 'Intro', map: 'Map', docket: 'State', spot: 'Bill', versus: 'Versus', pipeline: 'Pipeline', zero: 'Zero Club' };
+  var KEYS = [['intro', '0'], ['map', '1'], ['docket', '2'], ['spot', '3'], ['versus', '4'], ['pipeline', '5'], ['zero', '6']];
+  function pbtn(id, html, fn, off) { return { id: id, html: html, fn: fn, off: off }; }
+  function renderPanel() {
+    if (!D) return;
+    $('pn-scene').textContent = LABEL[S.scene] || S.scene;
+    $('pn-state').textContent = S.scene === 'versus' ? stName(S.vs[0]) + ' vs ' + stName(S.vs[1])
+      : (S.scene === 'docket' || S.scene === 'pipeline' || S.scene === 'spot') ? stName(S.state) + (S.scene === 'spot' && S.spot ? ' · ' + nice(S.spot.number) : '') : '';
+    var n = beatsOf(S.scene);
+    $('pn-steptxt').textContent = S.beat >= n ? 'All shown' : 'Step ' + S.beat + ' of ' + n;
+    $('pn-dots').innerHTML = n <= 40 ? new Array(n + 1).join('<i></i>') : '';
+    [].forEach.call($('pn-dots').children, function (d, i) { if (i < S.beat) d.className = 'on'; });
+    $('pn-back').disabled = S.beat === 0; $('pn-next').disabled = S.beat >= n;
+    if (!$('pn-scenes').firstChild) {
+      $('pn-scenes').innerHTML = KEYS.map(function (k) { return '<button type="button" data-sc="' + k[0] + '">' + LABEL[k[0]] + '<kbd>' + k[1] + '</kbd></button>'; }).join('') +
+        '<button type="button" data-sc="help">Keys<kbd>?</kbd></button>';
+      $('pn-scenes').querySelectorAll('button').forEach(function (b) { b.onclick = function () { b.blur(); if (b.dataset.sc === 'help') { $('help').hidden = !$('help').hidden; return; } if (b.dataset.sc === 'spot' && !S.spot) { var l = billsFor(S.state); if (l.length) spotlight(l[Math.max(0, S.billIdx)]); return; } go(b.dataset.sc); }; });
+    }
+    $('pn-scenes').querySelectorAll('button').forEach(function (b) { b.classList.toggle('on', b.dataset.sc === S.scene); });
+    var ctx = [];
+    if (S.scene === 'docket') {
+      ctx.push(pbtn('c-prev', '<kbd>&uarr;</kbd> Prev bill', function () { stepBill(-1); }));
+      ctx.push(pbtn('c-nextb', 'Next bill <kbd>&darr;</kbd>', function () { stepBill(1); }));
+      ctx.push(pbtn('c-zoom', 'Zoom into bill <kbd>Enter</kbd>', function () { var l = billsFor(S.state); if (S.billIdx >= 0) spotlight(l[S.billIdx]); }, S.billIdx < 0));
+      ctx.push(pbtn('c-pipe', 'Pipeline view', function () { go('pipeline', S.state); }));
+    } else if (S.scene === 'spot') {
+      ctx.push(pbtn('c-up', '<kbd>Esc</kbd> Back to ' + S.state, escUp));
+      ctx.push(pbtn('c-prev', '<kbd>&uarr;</kbd> Prev bill', function () { stepBill(-1); }));
+      ctx.push(pbtn('c-nextb', 'Next bill <kbd>&darr;</kbd>', function () { stepBill(1); }));
+      ctx.push(pbtn('c-hl', 'Highlight selected text <kbd>.</kbd>', highlightSelection));
+      ctx.push(pbtn('c-stamp', 'Stamp <kbd>!</kbd>', function () { S.stamp = true; showStamp(); }));
+    } else if (S.scene === 'pipeline') {
+      ctx.push(pbtn('c-prev', '<kbd>&uarr;</kbd> Prev state', function () { stepBill(-1); }));
+      ctx.push(pbtn('c-nextb', 'Next state <kbd>&darr;</kbd>', function () { stepBill(1); }));
+      ctx.push(pbtn('c-dock', 'State docket', function () { go('docket', S.state); }));
+    }
+    var box = $('pn-ctx');
+    var opts = function (sel) { return Object.keys(D.states).filter(function (c) { return c !== 'DC'; }).map(function (c) { return '<option value="' + c + '"' + (c === sel ? ' selected' : '') + '>' + c + '</option>'; }).join(''); };
+    box.innerHTML = ctx.map(function (b) { return '<button type="button" class="pn-mini" id="' + b.id + '"' + (b.off ? ' disabled' : '') + '>' + b.html + '</button>'; }).join('') +
+      (S.scene === 'versus' ? '<select id="c-vs0" aria-label="First state">' + opts(S.vs[0]) + '</select><span style="align-self:center;color:#93a0c4;font-weight:700">vs</span><select id="c-vs1" aria-label="Second state">' + opts(S.vs[1]) + '</select>' : '');
+    ctx.forEach(function (b) { $(b.id).onclick = function () { $(b.id).blur(); b.fn(); }; });
+    if (S.scene === 'versus') ['c-vs0', 'c-vs1'].forEach(function (id, i) { $(id).onchange = function () { S.vs[i] = $(id).value; $(id).blur(); go('versus'); }; });
+  }
+  function escUp() {
+    if (S.scene === 'spot' && S.spot) { var l = billsFor(S.spot.state); return go('docket', S.spot.state, 3 + Math.max(0, l.indexOf(S.spot))); }
+    go('map');
+  }
+
   /* ---------- navigation ---------- */
   function beatsOf(sc) { var b = SCENES[sc].beats; return typeof b === 'function' ? b() : b; }
 
@@ -348,6 +398,7 @@
     obsMark();
     if (S.scene === 'docket' && !DONE[S.state]) { DONE[S.state] = 1; saveDone(); }
     renderRunsheet();
+    renderPanel();
   }
 
   function go(scene, state, beat) {
@@ -360,7 +411,7 @@
 
   function next() {
     var n = beatsOf(S.scene);
-    if (S.beat < n) { S.beat++; SCENES[S.scene].beat($('scene'), S.beat); setChrome(n, !$('rail-draft').hidden); }
+    if (S.beat < n) { S.beat++; SCENES[S.scene].beat($('scene'), S.beat); setChrome(n, !$('rail-draft').hidden); renderPanel(); }
   }
   function prev() { if (S.beat > 0) { S.beat--; render(); } }
 
@@ -372,9 +423,9 @@
     } else if (S.scene === 'spot' && S.spot) {
       var l = billsFor(S.spot.state), j = l.indexOf(S.spot) + d;
       if (j >= 0 && j < l.length) spotlight(l[j]);
-    } else {
-      var codes = Object.keys(D.states), k = codes.indexOf(S.state) + d;
-      if (k >= 0 && k < codes.length) go(S.scene, codes[k]);
+    } else if (S.scene === 'pipeline') {
+      var codes = stateOrder(), k = codes.indexOf(S.state) + d;
+      if (k >= 0 && k < codes.length) go('pipeline', codes[k]);
     }
   }
 
@@ -414,7 +465,7 @@
     if (k === 'ArrowDown') { e.preventDefault(); return stepBill(1); }
     if (k === 'ArrowUp') { e.preventDefault(); return stepBill(-1); }
     if (k === 'Enter') { var l = billsFor(S.state); if (S.scene === 'docket' && S.billIdx >= 0) spotlight(l[S.billIdx]); return; }
-    if (k === 'Escape') { if (buf) return clearBuf(); return go(S.scene === 'spot' ? S.prevScene : 'map', S.state, S.scene === 'spot' ? 3 + Math.max(0, S.billIdx) : 0); }
+    if (k === 'Escape') { if (buf) return clearBuf(); return escUp(); }
     if (k === '.') return highlightSelection();
     if (k === ',') { document.querySelectorAll('#ptxt mark.hl').forEach(function (m) { m.classList.remove('on'); }); return; }
     if (k === '!') { S.stamp = true; return showStamp(); }
@@ -441,6 +492,9 @@
     D = d; index(); loadDone();
     $('rs-reset').onclick = function () { DONE = {}; saveDone(); renderRunsheet(); if (S.scene === 'map') render(); };
     $('home-link').onclick = function (ev) { ev.preventDefault(); go('map'); };
+    $('pn-back').onclick = function () { $('pn-back').blur(); prev(); };
+    $('pn-next').onclick = function () { $('pn-next').blur(); next(); };
+    $('pn-nextstate').onclick = function () { $('pn-nextstate').blur(); var nx = nextUndone(); if (nx) go('docket', nx); };
     if (location.hash) fromHash(); else render();
   }).catch(function (err) {
     $('scene').innerHTML = '<div class="loading">Could not load /data/live.json (' + esc(err.message) + '). Run scripts/build_live.py.</div>';

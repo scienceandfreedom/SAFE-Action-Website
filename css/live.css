@@ -84,7 +84,7 @@ body{font-family:var(--sans);color:var(--ink);-webkit-font-smoothing:antialiased
 .bill-now .row{display:flex;gap:18px;align-items:center}
 .bill-now .num{font:400 64px var(--display);line-height:1}
 .bill-now .status{font:700 24px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:#5b647e}
-.bill-now .ttl{font:700 46px/1.12 var(--sans);margin-top:10px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.bill-now .ttl{display:none}
 .bill-now .idx{position:absolute;right:24px;top:24px;font:700 24px var(--mono);color:#8b93aa}
 .bill-empty{margin-top:26px;height:248px;border:3px dashed var(--line);border-radius:16px;display:flex;align-items:center;justify-content:center;
   font:400 64px var(--display);color:var(--dim)}
@@ -237,3 +237,14 @@ mark.hl.on{background-size:100% 100%}
 .tile.done{position:relative}
 .tile.done::after{content:"\2713";position:absolute;top:2px;right:6px;font:800 18px var(--sans);color:#2fb27f}
 #panel button:disabled{opacity:.35;cursor:default;filter:none}
+
+/* bill cards: plain-English headline big, what happened + when, official title small */
+.topic{font:700 20px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:#5b647e;border:2px solid #c9c2b2;border-radius:8px;padding:5px 10px}
+.hl-big{font:800 58px/1.08 var(--sans);margin-top:12px;letter-spacing:-.01em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.stat-line{display:inline-block;font:700 26px var(--mono);letter-spacing:.06em;text-transform:uppercase;margin-top:12px;color:#5b647e}
+.bill-now .stat-line.st-good{color:#1f7a5a}.bill-now .stat-line.st-bad{color:#b02e23}.bill-now .stat-line.st-near{color:#b5770a}
+.spot-sub .stat-line.st-good{color:var(--pro-soft)}.spot-sub .stat-line.st-bad{color:var(--anti-soft)}
+.off-title{font:500 22px/1.3 var(--sans);color:#6b7286;margin-top:8px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.spot-sub{display:flex;flex-direction:column;gap:2px;margin-top:6px}
+.spot-sub .stat-line{color:var(--gold);margin-top:0}
+.spot-sub .off-title{color:#93a0c4;-webkit-line-clamp:1}

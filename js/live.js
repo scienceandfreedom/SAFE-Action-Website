@@ -41,6 +41,20 @@
     requestAnimationFrame(step);
   }
 
+
+  var MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  function fmtDate(iso) { var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso || ''); return m ? MON[+m[2] - 1] + ' ' + (+m[3]) + ', ' + m[1] : ''; }
+  /* "DIED IN COMMITTEE · MAR 12, 2026": what happened last, and when */
+  function statusLine(b) { var d = fmtDate(b.lastActionDate); return (b.status || 'Introduced') + (d ? ' · ' + d : ''); }
+  function headline(b) { return b.headline || b.title; }
+  /* green when the outcome is good for science, red when bad: a dead anti bill is good news */
+  function stClass(b) {
+    var good = (b.stage === 'dead' && b.type === 'anti') || (b.stage === 'signed' && b.type === 'pro');
+    var bad = (b.stage === 'signed' && b.type === 'anti') || (b.stage === 'dead' && b.type === 'pro');
+    var near = b.stage === 'passed1' || b.stage === 'passed2';
+    return 'stat-line' + (good ? ' st-good' : bad ? ' st-bad' : near ? ' st-near' : '');
+  }
+
   /* ---------- data ---------- */
   function index() {
     byState = {};
@@ -143,8 +157,12 @@
       var b = list[S.billIdx];
       bn.innerHTML = '<div class="bill-now ' + b.type + ' scene-enter" id="bnow">' +
         '<div class="row"><span class="num">' + esc(nice(b.number)) + '</span><span class="pill ' + b.type + '">' + (b.type === 'pro' ? 'PRO' : b.type === 'watch' ? 'ONE TO WATCH' : 'ANTI') + '</span>' +
-        '<span class="status">' + esc(b.status) + '</span>' + (b.reviewed ? (b.reviewBasis === 'sponsor_record' ? '<span class="pill unrev">INFERRED</span>' : '') : '<span class="pill unrev">UNREVIEWED</span>') + '</div>' +
-        '<div class="ttl">' + esc(b.title) + '</div><div class="idx">' + (S.billIdx + 1) + ' / ' + list.length + '</div></div>';
+        (b.topic ? '<span class="topic">' + esc(b.topic) + '</span>' : '') +
+        (b.reviewed ? (b.reviewBasis === 'sponsor_record' ? '<span class="pill unrev">INFERRED</span>' : '') : '<span class="pill unrev">UNREVIEWED</span>') + '</div>' +
+        '<div class="hl-big">' + esc(headline(b)) + '</div>' +
+        '<div class="' + stClass(b) + '">' + esc(statusLine(b)) + '</div>' +
+        (b.headline ? '<div class="off-title">' + esc(b.title) + '</div>' : '') +
+        '<div class="idx">' + (S.billIdx + 1) + ' / ' + list.length + '</div></div>';
       $('bnow').onclick = function () { spotlight(b); };
     } },
 
@@ -160,7 +178,8 @@
       el.innerHTML = '<div class="spot"><div class="spot-head"><span class="pill code">' + esc(b.state + ' · ' + nice(b.number)) + '</span>' +
         '<span class="pill ' + b.type + '">' + (b.type === 'pro' ? 'PRO-SCIENCE BILL' : b.type === 'watch' ? 'ONE TO WATCH' : 'ANTI-SCIENCE BILL') + '</span>' +
         (b.reviewed ? (b.reviewBasis === 'sponsor_record' ? '<span class="pill unrev">INFERRED</span>' : '') : '<span class="pill unrev">UNREVIEWED</span>') + '</div>' +
-        '<div class="bb spot-title" id="stt">' + esc(b.title) + '</div>' +
+        '<div class="bb spot-title" id="stt">' + esc(headline(b)) + '</div>' +
+        '<div class="spot-sub"><span class="' + stClass(b) + '">' + esc(statusLine(b)) + '</span>' + (b.headline ? '<span class="off-title">' + esc(b.title) + '</span>' : '') + '</div>' +
         '<div class="pipe">' + pipe + '</div>' +
         '<div class="paper reveal" id="pp"><div class="txt" id="ptxt">' + markEvidence(text, b.evidence) + '</div>' +
         '<div class="meta"><span>' + esc(b.source.replace(/^https?:\/\//, '')) + '</span><span>' +

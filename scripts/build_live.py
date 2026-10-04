@@ -60,6 +60,8 @@ def build(repo: Path) -> dict:
     today = dt.date.today().isoformat()
     doc = json.loads((repo / "data/bills.json").read_text())
     bills = doc.get("bills", doc) if isinstance(doc, dict) else doc
+    hl_path = repo / "data/bill-headlines.json"
+    headlines = json.loads(hl_path.read_text()).get("headlines", {}) if hl_path.exists() else {}
     ov_path = repo / "data/stance-overrides.json"
     overrides = json.loads(ov_path.read_text()).get("overrides", {}) if ov_path.exists() else {}
 
@@ -86,6 +88,8 @@ def build(repo: Path) -> dict:
             "state": b["state"],
             "number": b.get("billNumber", ""),
             "title": (b.get("title") or "").strip(),
+            "headline": headlines.get(bid, {}).get("headline", ""),
+            "topic": headlines.get(bid, {}).get("topic", ""),
             "summary": (b.get("summary") or "").strip()[:900],
             "type": bt,
             "category": b.get("category", ""),

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T11:11:55.021670+00:00",
-  "count": 541,
+  "generated_at": "2026-10-04T11:51:41.914212+00:00",
+  "count": 545,
   "unmatched": [
     {
       "billId": "US-119-HR1111",
@@ -243,6 +243,22 @@
       "role": "cosponsor"
     },
     {
+      "billId": "OH-SB273",
+      "state": "OH",
+      "chamber": "House",
+      "district": "HD-005",
+      "name": "Meredith Lawson-Rowe",
+      "role": "primary"
+    },
+    {
+      "billId": "OH-HB462",
+      "state": "OH",
+      "chamber": "House",
+      "district": "HD-005",
+      "name": "Meredith Lawson-Rowe",
+      "role": "primary"
+    },
+    {
       "billId": "OH-HB268",
       "state": "OH",
       "chamber": "House",
@@ -267,11 +283,27 @@
       "role": "cosponsor"
     },
     {
+      "billId": "OH-HB31",
+      "state": "OH",
+      "chamber": "House",
+      "district": "HD-005",
+      "name": "Meredith Lawson-Rowe",
+      "role": "primary"
+    },
+    {
       "billId": "OH-HB314",
       "state": "OH",
       "chamber": "House",
       "district": "HD-066",
       "name": "Sharon Ray",
+      "role": "primary"
+    },
+    {
+      "billId": "DC-B26-0208",
+      "state": "DC",
+      "chamber": "Senate",
+      "district": "SD-000",
+      "name": "Kenyan McDuffie",
       "role": "primary"
     },
     {

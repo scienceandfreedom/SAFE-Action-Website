@@ -1,0 +1,978 @@
+{
+ "_doc": "Human/orchestrator-reviewed stances. Wins over the crawler. basis: text | sponsor_record (inferred: read text before quoting on air) | model+sponsor_record.",
+ "overrides": {
+  "MN-HF3239": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Limits conscientious-belief exemptions",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF3439": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Prohibits conscientious-belief exemptions",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF4458": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Prohibits conscientious-belief exemptions",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-HF3775": {
+   "billType": "pro",
+   "basis": "sponsor_record",
+   "note": "Modifies belief exemptions + education module; sponsors pro record",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WI-AB891": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Eliminates personal conviction exemption",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WI-SB950": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Eliminates personal conviction exemption",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "PA-HB1881": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Lets pharmacy technicians give vaccines",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "PA-SB1055": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Lets pharmacy technicians give vaccines",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NY-A02297": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Lets EMTs give vaccines",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NY-A01121": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Lets livestock owners give rabies vaccine",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NY-A09140": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Liability protection for vaccine providers",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NY-S09604": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Liability protection for vaccine providers",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF1126": {
+   "billType": "anti",
+   "basis": "text",
+   "note": "Authorizes unpasteurized milk sales",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WV-HB4146": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Text requires staff vaccination, but sponsors have 7 anti bills: possible protest bill. Read full text before airing",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "HI-HCR30": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Study request",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "HI-HR30": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Study request",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "HI-SCR38": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Study request",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "HI-SR37": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Study request",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MS-HB1391": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Fluoridation study task force",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NJ-A1099": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "First-responder forced entry; off topic",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NY-A01153": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Standardized medical exemption form",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MI-HB5349": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Exemption form standardization",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MI-HB5348": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Exemption form standardization",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB730": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Exemption affidavit form; sponsors 15 anti bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-SB94": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Exemption affidavit form; sponsor 5 anti bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB1586": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "School exemption bill, signed 6/20/2025; sponsors 133 anti bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB1082": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Claiming school exemptions; sponsor anti record",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB4927": {
+   "billType": "anti",
+   "basis": "text",
+   "note": "Exemption from vaccine requirements for medical/vet students",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-SB2119": {
+   "billType": "anti",
+   "basis": "text",
+   "note": "Exemption from vaccine requirements for medical/vet students",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB2755": {
+   "billType": "pro",
+   "basis": "sponsor_record",
+   "note": "Transparency of exemption reports; D sponsor, no anti record",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB772": {
+   "billType": "pro",
+   "basis": "sponsor_record",
+   "note": "Registry data; current pro, D sponsor",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-SB46": {
+   "billType": "pro",
+   "basis": "sponsor_record",
+   "note": "Registry data; current pro, D sponsors",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "FL-H0339": {
+   "billType": "anti",
+   "basis": "text",
+   "note": "\"Harmful vaccine\" advertising liability",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "FL-S0408": {
+   "billType": "anti",
+   "basis": "text",
+   "note": "\"Harmful vaccine\" advertising liability",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MS-SB2533": {
+   "billType": "anti",
+   "basis": "text",
+   "note": "\"Immunization privacy and parental rights\"",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NJ-AR16": {
+   "billType": "anti",
+   "basis": "text",
+   "note": "Urges HHS action under 1986 Vaccine Injury Act (anti-vaccine campaign theme)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NJ-SR23": {
+   "billType": "anti",
+   "basis": "text",
+   "note": "Same as NJ-AR16",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "SD-HB1171": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "mRNA vaccination status disclosure and blood donation; sponsors 4 anti bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "OK-HB2152": {
+   "billType": "anti",
+   "basis": "text",
+   "note": "Homemade Food Freedom Act, unpasteurized milk",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NH-HB1022": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Religious exemption; sponsors 5 anti bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WV-SB26": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Exemption process; sponsor anti record",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WV-SB606": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Employee exemptions from employer mandates",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WV-SB608": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Religious exemption; sponsors 4 anti bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WV-SB610": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Medical exemption; sponsors 4 anti bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "SC-S1029": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Vaccine exemptions; sponsors 2 anti bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "AZ-HB2335": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Vaccination status of patients; sponsors 4 anti bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "AZ-HB2005": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Vaccination status as unprofessional conduct; R sponsor",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MA-H2541": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "\"Protection of medical exemptions\"; sponsor anti record",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MA-S347": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Same as MA-H2541",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "CA-SB1377": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Medical exemptions (post SB 276); R sponsor",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF4017": {
+   "billType": "pro",
+   "basis": "sponsor_record",
+   "note": "Modifies belief exemptions; sponsors 3 pro bills",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MT-HB747": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Lets day-cares set immunization exemption policy",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WI-AB1091": {
+   "billType": "pro",
+   "basis": "text",
+   "note": "Insurance coverage of recommended vaccines",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR9672": {
+   "billType": "monitor",
+   "basis": "text",
+   "note": "Bipartisan VICP modernization; direction unclear",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "KY-HB103": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Water fluoridation programs; 35 R cosponsors, matches KY optional-fluoridation push. Read text before airing",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "KY-SB55": {
+   "billType": "anti",
+   "basis": "sponsor_record",
+   "note": "Same as KY-HB103. Read text before airing",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR120": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Explicitly aims to restrict or ban public-health vaccine requirements. (sponsors: 6 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR79": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Aims to restrict or prohibit public-health vaccine requirements. (sponsors: 11 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR87": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Directly targets and restricts the authority of public health agencies. (sponsors: 6 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR121": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Restricts public-health authority over infectious disease tracking or requirements. (sponsors: 6 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR119": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Explicitly bans or restricts vaccine requirements. (sponsors: 6 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR81": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Restricts public-health authority over infectious disease control measures. (sponsors: 7 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR1671": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Refers to vaccine-injury liability schemes often aimed at deterring vaccination. (sponsors: 14 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR1381": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Acts as a shield against public-health vaccine requirements. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR3044": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Explicitly restricts vaccine requirements in educational settings. (sponsors: 17 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR4668": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Targets vaccine injury liability shields to deter vaccination. (sponsors: 27 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR4207": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Restricts public health authority regarding international infectious disease agreements. (sponsors: 12 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR8425": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Expands vaccine access and strengthens public health programs. (sponsors: 7 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR6839": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Expands access to vaccines by facilitating transportation. (sponsors: 10 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-HR5448": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Protects and expands vaccine access and coverage. (sponsors: 17 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-S3853": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Targets vaccine injury liability shields to deter vaccination. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "US-119-S1983": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Restricts public health authority regarding international infectious disease agreements. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "GA-HB522": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Restricts vaccine requirements (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MD-HB1135": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "expands vaccine access (sponsors: 15 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MI-HB4475": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "weakens public health by banning vaccine mandates (sponsors: 40 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF694": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "framing used to restrict public health authority (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-HF92": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "framing used to restrict public health authority (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NY-J01608": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "raises awareness for infectious disease prevention (sponsors: 2 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NC-H803": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "restricts addition of vaccines to childhood schedule (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WI-SB1044": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Expands vaccine coverage. (sponsors: 11 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "AZ-HB2336": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Bans or restricts vaccine requirements. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "AZ-HB2334": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Bans or restricts mRNA technology. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MD-HB637": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Expands vaccine access and coverage (sponsors: 15 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MI-HB4552": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Restricts public-health authority over infectious disease. (sponsors: 22 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NH-HB1811": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Explicitly removes established evidence-based vaccine requirements. (sponsors: 5 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NH-HB1671": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Financial penalty meant to deter institutions from enforcing vaccine mandates. (sponsors: 5 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NH-HB1584": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Mandates proactive promotion of exemptions to undermine vaccine compliance. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF3859": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Expands vaccine coverage and establishes a science-based council. (sponsors: 4 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-HF3743": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Expands vaccine access by mandating coverage without cost-sharing. (sponsors: 2 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF717": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Bans or restricts enforcement of vaccine mandates. (sponsors: 7 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF4007": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Bans the establishment of vaccine requirements. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF389": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Weakens enforcement of vaccination requirements. (sponsors: 8 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF698": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Restricts public health authority regarding vaccine verification. (sponsors: 8 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-HF1300": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Weakens enforcement of vaccination requirements. (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF3456": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Bans or restricts mRNA vaccines based on conspiracy claims. (sponsors: 11 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-HF3219": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Bans mRNA vaccines based on conspiracy claims. (sponsors: 4 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "ND-HB1454": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Creates non-medical exemptions to bypass vaccine requirements. (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "ND-HB1457": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Explicitly adds an exemption to vaccine requirements. (sponsors: 4 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "OK-SB807": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Imposes mandatory informed consent requirements used to deter vaccination. (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "OK-HB1079": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Imposes transparency and consent standards to deter vaccination. (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "OK-SB1548": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Creates liability schemes to deter vaccine production or distribution. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "OK-SB1549": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Creates liability schemes to deter vaccine production or distribution. (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "OK-SB879": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Imposes targeted informed consent hurdles for infant vaccination. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "OK-SB1977": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Explicitly restricts vaccine requirements. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "OK-SB1656": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Creates medical freedom shields against vaccine mandates. (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "PA-SB1018": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Weakens public health by restricting mRNA vaccine requirements. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "PA-SB957": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Stigmatizes vaccinated blood, catering to anti-vaccine conspiracy theories. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "PA-SB193": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Expands non-medical vaccine exemptions. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NY-S00453": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Strengthens immunization registries by requiring reporting for adult vaccinations. (sponsors: 6 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NY-S09893": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Strengthens immunization registries by requiring adult vaccine reporting. (sponsors: 6 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NY-A00765": {
+   "billType": "pro",
+   "basis": "model+sponsor_record",
+   "note": "Strengthens immunization registries by requiring adult vaccine reporting. (sponsors: 5 pro, 0 anti)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NC-H89": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Medical freedom acts regarding vaccination typically restrict institutional authority to mandate vaccines. (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB3441": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "liability scheme targeting manufacturers to deter vaccination (sponsors: 82 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB4076": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "restricts vaccine requirements in healthcare settings (sponsors: 69 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB943": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "mandates misleading informed consent scripts targeting COVID-19 (sponsors: 14 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-SB96": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "protects or expands non-medical vaccine exemptions (sponsors: 4 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB3304": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "bans or restricts vaccine requirements (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-SB95": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "mandates misleading informed consent and imposes liability schemes (sponsors: 5 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HCR105": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "amplifies vaccine injury concerns to deter vaccination (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB962": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "aims to artificially inflate adverse event reporting to deter vaccination (sponsors: 18 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-SB91": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "liability scheme aimed at deterring employer vaccine mandates (sponsors: 4 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB1468": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "expands or protects vaccine exemptions in healthcare facilities (sponsors: 20 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-HB3392": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "restricts vaccine requirements in healthcare settings (sponsors: 7 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WV-HB4510": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Bans vaccine requirements. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "ME-LD174": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "expands non-medical vaccine exemptions (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "ME-LD727": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "bans or restricts vaccine requirements (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MI-SB0798": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "restricts public-health authority (sponsors: 4 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MI-HB5635": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "restricts public-health authority (sponsors: 30 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WV-SB609": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Adds or expands non-medical vaccine exemptions. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WI-SJR89": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Promotes vaccine-injury concepts aimed at deterring vaccination. (sponsors: 13 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "WI-AJR100": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Promotes vaccine-injury concepts aimed at deterring vaccination. (sponsors: 13 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "GA-HB950": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Promotes awareness of non-medical vaccine exemptions. (sponsors: 2 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MI-HB4553": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Weakens public health by preventing stringent requirements for vaccine exemptions. (sponsors: 18 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MI-SB0797": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Weakens public health by preventing stringent requirements for vaccine exemptions. (sponsors: 4 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MI-HB5634": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Weakens public health by preventing stringent requirements for vaccine exemptions. (sponsors: 30 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "NC-H609": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Promotes or deregulates raw milk consumption. (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "MN-SF3424": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Explicitly prohibits fluoridation of water. (sponsors: 8 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "ND-HB1605": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Bans water fluoridation and penalizes it. (sponsors: 3 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  },
+  "TX-SB2653": {
+   "billType": "anti",
+   "basis": "model+sponsor_record",
+   "note": "Banning water fluoridation weakens evidence-based public health policy. (sponsors: 4 anti, 0 pro)",
+   "reviewer": "orchestrator",
+   "reviewed_at": "2026-10-04T17:59:26+00:00"
+  }
+ }
+}

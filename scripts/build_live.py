@@ -97,6 +97,7 @@ def build(repo: Path) -> dict:
             "evidence": [e for e in (ver.get("evidence") or []) if isinstance(e, str)][:3],
             "reviewed": bool(ov),
             "reviewNote": (ov or {}).get("note", ""),
+            "reviewBasis": (ov or {}).get("basis", ""),
         })
 
     year, week, _ = dt.date.today().isocalendar()

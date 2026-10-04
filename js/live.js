@@ -117,7 +117,7 @@
       var b = list[S.billIdx];
       bn.innerHTML = '<div class="bill-now ' + b.type + ' scene-enter" id="bnow">' +
         '<div class="row"><span class="num">' + esc(nice(b.number)) + '</span><span class="pill ' + b.type + '">' + (b.type === 'pro' ? 'PRO' : 'ANTI') + '</span>' +
-        '<span class="status">' + esc(b.status) + '</span>' + (b.reviewed ? '' : '<span class="pill unrev">UNREVIEWED</span>') + '</div>' +
+        '<span class="status">' + esc(b.status) + '</span>' + (b.reviewed ? (b.reviewBasis === 'sponsor_record' ? '<span class="pill unrev">INFERRED</span>' : '') : '<span class="pill unrev">UNREVIEWED</span>') + '</div>' +
         '<div class="ttl">' + esc(b.title) + '</div><div class="idx">' + (S.billIdx + 1) + ' / ' + list.length + '</div></div>';
       $('bnow').onclick = function () { spotlight(b); };
     } },
@@ -133,7 +133,7 @@
       var sp = b.sponsors.filter(function (s) { return s.type === 'primary'; })[0] || b.sponsors[0];
       el.innerHTML = '<div class="spot"><div class="spot-head"><span class="pill code">' + esc(b.state + ' · ' + nice(b.number)) + '</span>' +
         '<span class="pill ' + b.type + '">' + (b.type === 'pro' ? 'PRO-SCIENCE BILL' : 'ANTI-SCIENCE BILL') + '</span>' +
-        (b.reviewed ? '' : '<span class="pill unrev">UNREVIEWED</span>') + '</div>' +
+        (b.reviewed ? (b.reviewBasis === 'sponsor_record' ? '<span class="pill unrev">INFERRED</span>' : '') : '<span class="pill unrev">UNREVIEWED</span>') + '</div>' +
         '<div class="bb spot-title" id="stt">' + esc(b.title) + '</div>' +
         '<div class="pipe">' + pipe + '</div>' +
         '<div class="paper reveal" id="pp"><div class="txt" id="ptxt">' + markEvidence(text, b.evidence) + '</div>' +

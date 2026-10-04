@@ -1,0 +1,1569 @@
+{
+"_doc": "Plain-English on-screen headlines (writer role, 2026-10-04). Built from the official title/summary only; vague titles get vague headlines.",
+"headlines": {
+"AL-HB12": {
+"headline": "Bars bias against people who refuse vaccines",
+"topic": "Discrimination"
+},
+"AL-HB24": {
+"headline": "Expands religious exemption for school vaccines",
+"topic": "Exemptions"
+},
+"AL-SB278": {
+"headline": "Requires insurers to cover flu shots",
+"topic": "Vaccine access"
+},
+"AZ-HB2005": {
+"headline": "Changes vaccine status rules for professionals",
+"topic": "Discrimination"
+},
+"AZ-HB2086": {
+"headline": "Bans vaccine and mask mandates",
+"topic": "Mandates"
+},
+"AZ-HB2248": {
+"headline": "Prohibits certain medical interventions",
+"topic": "Public health"
+},
+"AZ-HB2334": {
+"headline": "Bans and labels mRNA in food",
+"topic": "mRNA"
+},
+"AZ-HB2335": {
+"headline": "Changes vaccine status rules for providers",
+"topic": "Discrimination"
+},
+"AZ-HB2336": {
+"headline": "Bars health insurers from vaccine mandates",
+"topic": "Mandates"
+},
+"AZ-SB1019": {
+"headline": "Bans fluoride in public water systems",
+"topic": "Fluoride"
+},
+"AZ-SB1194": {
+"headline": "Bars denials based on vaccination status",
+"topic": "Discrimination"
+},
+"CA-SB1377": {
+"headline": "Changes medical exemption rules for vaccines",
+"topic": "Exemptions"
+},
+"CA-SB504": {
+"headline": "Changes HIV reporting rules",
+"topic": "Records & data"
+},
+"CO-SB032": {
+"headline": "Promotes access to immunizations",
+"topic": "Vaccine access"
+},
+"DC-B26-0605": {
+"headline": "Protects vaccine administration (temporary)",
+"topic": "Vaccine access"
+},
+"DC-B26-0606": {
+"headline": "Protects vaccine administration in DC",
+"topic": "Vaccine access"
+},
+"DE-HB422": {
+"headline": "Adds infant vaccine consent and SUID records",
+"topic": "Informed consent"
+},
+"FL-H0339": {
+"headline": "Regulates ads for vaccines deemed harmful",
+"topic": "Vaccine injury"
+},
+"FL-S0006": {
+"headline": "Enacts a medical freedom law",
+"topic": "Mandates"
+},
+"FL-S0408": {
+"headline": "Regulates ads for vaccines deemed harmful",
+"topic": "Vaccine injury"
+},
+"FL-S1756": {
+"headline": "Medical Freedom Act; limits vaccine incentives",
+"topic": "Mandates"
+},
+"FL-S1244": {
+"headline": "Recognizes Immunization Awareness Month",
+"topic": "Resolution"
+},
+"GA-HB1242": {
+"headline": "Enacts a medical freedom act",
+"topic": "Mandates"
+},
+"GA-HB1350": {
+"headline": "Enacts the Georgia Medical Freedom Act",
+"topic": "Mandates"
+},
+"GA-HB522": {
+"headline": "Bars organ transplant denial over vaccine status",
+"topic": "Discrimination"
+},
+"GA-HB950": {
+"headline": "Requires schools to share vaccine exemption info",
+"topic": "Exemptions"
+},
+"GA-HR1202": {
+"headline": "Backs Immunization Week and vaccine access",
+"topic": "Resolution"
+},
+"GA-HR1203": {
+"headline": "Creates fund for free kid and senior vaccines",
+"topic": "Vaccine access"
+},
+"GA-HR1476": {
+"headline": "Recognizes August as Immunization Month",
+"topic": "Resolution"
+},
+"GA-HR554": {
+"headline": "Honors 70th anniversary of polio vaccine drive",
+"topic": "Resolution"
+},
+"GA-SR367": {
+"headline": "Honors 70th anniversary of polio vaccine drive",
+"topic": "Resolution"
+},
+"HI-SCR24": {
+"headline": "Backs joining the West Coast Health Alliance",
+"topic": "Resolution"
+},
+"HI-SR21": {
+"headline": "Backs joining the West Coast Health Alliance",
+"topic": "Resolution"
+},
+"IA-HF2087": {
+"headline": "Limits emergency powers over religious groups",
+"topic": "Public health"
+},
+"IA-HF2287": {
+"headline": "Changes liability for vaccine injuries",
+"topic": "Vaccine injury"
+},
+"IA-HF2288": {
+"headline": "Adds vaccine exemptions for clinical students",
+"topic": "Exemptions"
+},
+"IA-HF2368": {
+"headline": "Limits required medical interventions",
+"topic": "Mandates"
+},
+"IA-HF2710": {
+"headline": "Limits emergency powers over religious groups",
+"topic": "Public health"
+},
+"IA-HF35": {
+"headline": "Adds COVID shot exemptions for clinical students",
+"topic": "Exemptions"
+},
+"IA-HF712": {
+"headline": "Changes liability for vaccine injuries",
+"topic": "Vaccine injury"
+},
+"IA-HSB222": {
+"headline": "Allows distribution of raw milk",
+"topic": "Raw milk"
+},
+"IA-HSB726": {
+"headline": "Limits emergency powers over religious groups",
+"topic": "Public health"
+},
+"IA-SF2095": {
+"headline": "Adds vaccine exemptions for clinical students",
+"topic": "Exemptions"
+},
+"IA-SF2154": {
+"headline": "Penalizes distributing gene-based vaccines",
+"topic": "mRNA"
+},
+"IA-SF2211": {
+"headline": "Limits required medical interventions",
+"topic": "Mandates"
+},
+"IA-SF2424": {
+"headline": "Adds vaccine exemptions for clinical students",
+"topic": "Exemptions"
+},
+"IA-SF360": {
+"headline": "Penalizes giving gene-based vaccines",
+"topic": "mRNA"
+},
+"ID-H0554": {
+"headline": "Makes abatement district participation optional",
+"topic": "Public health"
+},
+"ID-H0747": {
+"headline": "Makes abatement district participation optional",
+"topic": "Public health"
+},
+"ID-H0960": {
+"headline": "Makes abatement district participation optional",
+"topic": "Public health"
+},
+"IL-HB2597": {
+"headline": "Adds religious exemption for COVID shots",
+"topic": "Exemptions"
+},
+"IL-HB2600": {
+"headline": "Bans COVID vaccine mandates",
+"topic": "Mandates"
+},
+"IL-HR0291": {
+"headline": "Supports childhood vaccinations",
+"topic": "Resolution"
+},
+"IL-SR0213": {
+"headline": "Supports childhood vaccinations",
+"topic": "Resolution"
+},
+"KS-SB19": {
+"headline": "Creates right to refuse care; ends quarantines",
+"topic": "Discrimination"
+},
+"KS-SB333": {
+"headline": "Bans fluoride in public water",
+"topic": "Fluoride"
+},
+"KY-HB103": {
+"headline": "Changes water fluoridation programs",
+"topic": "Fluoride"
+},
+"KY-SB55": {
+"headline": "Changes water fluoridation programs",
+"topic": "Fluoride"
+},
+"LA-HB1041": {
+"headline": "Bars access limits over medical status",
+"topic": "Discrimination"
+},
+"LA-HB926": {
+"headline": "Bars vaccine checks for public buildings",
+"topic": "Discrimination"
+},
+"MA-H2431": {
+"headline": "Bans COVID and mRNA vaccine requirements",
+"topic": "Mandates"
+},
+"MA-H2449": {
+"headline": "Lets towns opt out of fluoridation",
+"topic": "Fluoride"
+},
+"MA-H2541": {
+"headline": "Protects medical exemptions for school shots",
+"topic": "Exemptions"
+},
+"MA-H2548": {
+"headline": "Bans artificial water fluoridation",
+"topic": "Fluoride"
+},
+"MA-S1517": {
+"headline": "Bans artificial water fluoridation",
+"topic": "Fluoride"
+},
+"MA-S1575": {
+"headline": "Lets towns opt out of fluoridation",
+"topic": "Fluoride"
+},
+"MA-S2627": {
+"headline": "Lets Somerset ban water fluoridation",
+"topic": "Fluoride"
+},
+"MA-S347": {
+"headline": "Protects medical exemptions for school shots",
+"topic": "Exemptions"
+},
+"MA-S539": {
+"headline": "Bans COVID and mRNA shots as entry condition",
+"topic": "mRNA"
+},
+"MA-H5411": {
+"headline": "Expands flu vaccine access for older adults",
+"topic": "Vaccine access"
+},
+"MA-H760": {
+"headline": "Expands flu vaccine access for older adults",
+"topic": "Vaccine access"
+},
+"MA-S1618": {
+"headline": "Promotes community immunity",
+"topic": "Public health"
+},
+"MA-S2623": {
+"headline": "Promotes community immunity",
+"topic": "Public health"
+},
+"MA-S3070": {
+"headline": "Promotes community immunity",
+"topic": "Public health"
+},
+"MD-HB1135": {
+"headline": "Lets pharmacists order vaccines for ages 3+",
+"topic": "Vaccine access"
+},
+"MD-HB637": {
+"headline": "Lets pharmacists vaccinate; requires coverage",
+"topic": "Vaccine access"
+},
+"MD-SB385": {
+"headline": "Lets pharmacists vaccinate; requires coverage",
+"topic": "Vaccine access"
+},
+"ME-LD1570": {
+"headline": "Bans fluoridation of public water",
+"topic": "Fluoride"
+},
+"ME-LD174": {
+"headline": "Restores religious exemption for vaccines",
+"topic": "Exemptions"
+},
+"ME-LD436": {
+"headline": "Bars agencies promoting COVID shots to kids",
+"topic": "Public health"
+},
+"ME-LD727": {
+"headline": "Repeals some school vaccine requirements",
+"topic": "Mandates"
+},
+"ME-LD871": {
+"headline": "Exempts everyone from COVID shot requirements",
+"topic": "Mandates"
+},
+"ME-LD2071": {
+"headline": "Lets pharmacists prescribe and give vaccines",
+"topic": "Vaccine access"
+},
+"ME-LD93": {
+"headline": "Expands free immunization program to adults",
+"topic": "Vaccine access"
+},
+"MI-HB4475": {
+"headline": "Bans job bias based on vaccination status",
+"topic": "Discrimination"
+},
+"MI-HB4552": {
+"headline": "Bars rules tighter than vaccine exemptions",
+"topic": "Exemptions"
+},
+"MI-HB4553": {
+"headline": "Bars school rules tighter than exemptions",
+"topic": "Exemptions"
+},
+"MI-HB4778": {
+"headline": "Bans giving gene-based vaccines",
+"topic": "mRNA"
+},
+"MI-HB5217": {
+"headline": "Allows sale of raw milk products",
+"topic": "Raw milk"
+},
+"MI-HB5218": {
+"headline": "Allows sale of raw milk and milk products",
+"topic": "Raw milk"
+},
+"MI-HB5219": {
+"headline": "Allows sale of raw milk under food law",
+"topic": "Raw milk"
+},
+"MI-HB5634": {
+"headline": "Bars rules tighter than vaccine exemptions",
+"topic": "Exemptions"
+},
+"MI-HB5635": {
+"headline": "Bars school rules tighter than exemptions",
+"topic": "Exemptions"
+},
+"MI-SB0797": {
+"headline": "Bars rules tighter than vaccine exemptions",
+"topic": "Exemptions"
+},
+"MI-SB0798": {
+"headline": "Bars school rules tighter than exemptions",
+"topic": "Exemptions"
+},
+"MI-HB4172": {
+"headline": "Funds bird flu testing",
+"topic": "Public health"
+},
+"MI-HB4498": {
+"headline": "Authorizes syringe service programs",
+"topic": "Public health"
+},
+"MI-SB0107": {
+"headline": "Requires coverage of pharmacist vaccines, tests",
+"topic": "Vaccine access"
+},
+"MI-SB0629": {
+"headline": "Authorizes syringe service programs",
+"topic": "Public health"
+},
+"MN-HF1300": {
+"headline": "Bars cutting benefits over vaccine status",
+"topic": "Discrimination"
+},
+"MN-HF2815": {
+"headline": "Bans local enforcement of vaccine passports",
+"topic": "Discrimination"
+},
+"MN-HF2884": {
+"headline": "Bans vaccine mandates; accepts natural immunity",
+"topic": "Mandates"
+},
+"MN-HF3152": {
+"headline": "Bans gene-based vaccines with penalties",
+"topic": "mRNA"
+},
+"MN-HF3219": {
+"headline": "Bans mRNA shots as weapons of mass destruction",
+"topic": "mRNA"
+},
+"MN-HF3237": {
+"headline": "Bans fluoride in public drinking water",
+"topic": "Fluoride"
+},
+"MN-HF4284": {
+"headline": "Bans vaccine requirements, with exceptions",
+"topic": "Mandates"
+},
+"MN-HF481": {
+"headline": "Bars bias against those refusing medical care",
+"topic": "Discrimination"
+},
+"MN-HF537": {
+"headline": "Lets small farms sell raw milk",
+"topic": "Raw milk"
+},
+"MN-HF860": {
+"headline": "Tax break on back pay for vaccine discharges",
+"topic": "Mandates"
+},
+"MN-HF91": {
+"headline": "Requires parent present for minor vaccinations",
+"topic": "Informed consent"
+},
+"MN-HF92": {
+"headline": "Creates a vaccine recipient bill of rights",
+"topic": "Informed consent"
+},
+"MN-SF1126": {
+"headline": "Authorizes sales of unpasteurized milk",
+"topic": "Raw milk"
+},
+"MN-SF1529": {
+"headline": "Bars bias against those refusing medical care",
+"topic": "Discrimination"
+},
+"MN-SF3424": {
+"headline": "Bans fluoride in public drinking water",
+"topic": "Fluoride"
+},
+"MN-SF3456": {
+"headline": "Enacts the mRNA Bioweapons Prohibition Act",
+"topic": "mRNA"
+},
+"MN-SF389": {
+"headline": "Bars cutting benefits over vaccine status",
+"topic": "Discrimination"
+},
+"MN-SF4007": {
+"headline": "Bans establishing vaccine requirements",
+"topic": "Mandates"
+},
+"MN-SF490": {
+"headline": "Lets small farms sell raw milk",
+"topic": "Raw milk"
+},
+"MN-SF694": {
+"headline": "Creates a vaccine recipient bill of rights",
+"topic": "Informed consent"
+},
+"MN-SF698": {
+"headline": "Bans local enforcement of vaccine passports",
+"topic": "Discrimination"
+},
+"MN-SF709": {
+"headline": "Bars employers pushing display of medical info",
+"topic": "Records & data"
+},
+"MN-SF717": {
+"headline": "Bans enforcing government vaccine mandates",
+"topic": "Mandates"
+},
+"MN-HF2860": {
+"headline": "Lets health departments stock vaccines, EpiPens",
+"topic": "Vaccine access"
+},
+"MN-HF3239": {
+"headline": "Ends belief exemption for MMR vaccine",
+"topic": "Exemptions"
+},
+"MN-HF3240": {
+"headline": "Funds grants to fight preventable outbreaks",
+"topic": "Public health"
+},
+"MN-HF3743": {
+"headline": "Requires free vaccine coverage; adds advisers",
+"topic": "Vaccine access"
+},
+"MN-HF3775": {
+"headline": "Tightens belief exemption; adds education module",
+"topic": "Exemptions"
+},
+"MN-HF4442": {
+"headline": "Expands rapid HIV treatment and prevention",
+"topic": "Public health"
+},
+"MN-SF3048": {
+"headline": "Lets health departments stock vaccines, EpiPens",
+"topic": "Vaccine access"
+},
+"MN-SF3438": {
+"headline": "Funds grants to fight preventable outbreaks",
+"topic": "Public health"
+},
+"MN-SF3439": {
+"headline": "Ends belief exemption for MMR vaccine",
+"topic": "Exemptions"
+},
+"MN-SF3859": {
+"headline": "Requires free vaccine coverage; adds advisers",
+"topic": "Vaccine access"
+},
+"MN-SF4017": {
+"headline": "Changes belief exemption requirements",
+"topic": "Exemptions"
+},
+"MN-SF4458": {
+"headline": "Ends belief exemption for school vaccines",
+"topic": "Exemptions"
+},
+"MO-HB1679": {
+"headline": "Bars denying kids care over vaccine status",
+"topic": "Discrimination"
+},
+"MO-SB1428": {
+"headline": "Bars schools mandating COVID shots, gene therapy",
+"topic": "Mandates"
+},
+"MS-HB1180": {
+"headline": "Requires family notice of suspected shot death",
+"topic": "Vaccine injury"
+},
+"MS-HB1244": {
+"headline": "Adds religious and philosophical exemptions",
+"topic": "Exemptions"
+},
+"MS-HB1503": {
+"headline": "Bars health dept from requiring fluoridation",
+"topic": "Fluoride"
+},
+"MS-HB1594": {
+"headline": "Authorizes individual raw milk sales",
+"topic": "Raw milk"
+},
+"MS-HB645": {
+"headline": "Bans COVID mRNA shots pending state study",
+"topic": "mRNA"
+},
+"MS-HB747": {
+"headline": "Bans vaccine requirements not backed by CDC",
+"topic": "Mandates"
+},
+"MS-HB811": {
+"headline": "Bans mRNA vaccines in food and livestock",
+"topic": "mRNA"
+},
+"MS-SB2284": {
+"headline": "Allows personal use and sale of raw milk",
+"topic": "Raw milk"
+},
+"MS-SB2457": {
+"headline": "Requires examiners to report recent vaccines",
+"topic": "Vaccine injury"
+},
+"MS-SB2481": {
+"headline": "Requires examiners to report recent vaccines",
+"topic": "Vaccine injury"
+},
+"MS-SB2533": {
+"headline": "Enacts vaccine privacy and parent rights act",
+"topic": "Records & data"
+},
+"MT-HB371": {
+"headline": "Bans mRNA vaccines for humans",
+"topic": "mRNA"
+},
+"MT-HB418": {
+"headline": "Bans mRNA vaccines for animals",
+"topic": "mRNA"
+},
+"MT-HB498": {
+"headline": "Bans adding fluoride to public water",
+"topic": "Fluoride"
+},
+"MT-SB382": {
+"headline": "Requires accepting religious vaccine exemptions",
+"topic": "Exemptions"
+},
+"MT-SB474": {
+"headline": "Requires accepting religious, medical exemptions",
+"topic": "Exemptions"
+},
+"MT-SB475": {
+"headline": "Bans aluminum in vaccines",
+"topic": "Public health"
+},
+"MT-SB478": {
+"headline": "Makes colleges pay costs of mandated COVID shots",
+"topic": "Vaccine injury"
+},
+"MT-HB747": {
+"headline": "Lets day cares set vaccine exemption policies",
+"topic": "Exemptions"
+},
+"NC-H380": {
+"headline": "Allows conscience objection to vaccine mandates",
+"topic": "Exemptions"
+},
+"NC-H609": {
+"headline": "Creates an option for raw milk consumption",
+"topic": "Raw milk"
+},
+"NC-H803": {
+"headline": "Requires 3-year FDA approval of new kid vaccines",
+"topic": "Mandates"
+},
+"NC-H89": {
+"headline": "Enacts the University Vaccination Freedom Act",
+"topic": "Mandates"
+},
+"ND-HB1454": {
+"headline": "Creates opt-out for required vaccines",
+"topic": "Exemptions"
+},
+"ND-HB1457": {
+"headline": "Creates an exemption to required vaccines",
+"topic": "Exemptions"
+},
+"ND-HB1605": {
+"headline": "Bans water fluoridation with a penalty",
+"topic": "Fluoride"
+},
+"NH-HB1022": {
+"headline": "Changes religious exemption from vaccines",
+"topic": "Exemptions"
+},
+"NH-HB1584": {
+"headline": "Requires notice of medical, religious exemptions",
+"topic": "Exemptions"
+},
+"NH-HB1671": {
+"headline": "Cuts Medicaid to sites denying shot exemptions",
+"topic": "Exemptions"
+},
+"NH-HB1811": {
+"headline": "Repeals childhood immunization requirements",
+"topic": "Mandates"
+},
+"NJ-A1559": {
+"headline": "Creates a child vaccine adverse event system",
+"topic": "Vaccine injury"
+},
+"NJ-A1560": {
+"headline": "Adds vaccine data to infant death investigations",
+"topic": "Vaccine injury"
+},
+"NJ-A2630": {
+"headline": "Revises consent rules for giving vaccines",
+"topic": "Informed consent"
+},
+"NJ-A3221": {
+"headline": "Bars bias against unvaccinated pregnant women",
+"topic": "Discrimination"
+},
+"NJ-A368": {
+"headline": "Bars colleges from requiring COVID shots",
+"topic": "Mandates"
+},
+"NJ-A4040": {
+"headline": "Lets legislature end emergency declarations",
+"topic": "Public health"
+},
+"NJ-A4433": {
+"headline": "Repeals law on vaccine coverage and ACIP",
+"topic": "Vaccine access"
+},
+"NJ-A4997": {
+"headline": "Allows raw milk sales under a permit program",
+"topic": "Raw milk"
+},
+"NJ-A845": {
+"headline": "Limits COVID vaccine mandates",
+"topic": "Mandates"
+},
+"NJ-A858": {
+"headline": "Bars colleges requiring COVID, mpox shots online",
+"topic": "Mandates"
+},
+"NJ-A872": {
+"headline": "Bars bias against people without COVID shots",
+"topic": "Discrimination"
+},
+"NJ-ACR140": {
+"headline": "Urges reinstating troops fired over COVID shot",
+"topic": "Resolution"
+},
+"NJ-AR16": {
+"headline": "Urges HHS action under vaccine injury law",
+"topic": "Resolution"
+},
+"NJ-S2514": {
+"headline": "Lets legislature end emergency declarations",
+"topic": "Public health"
+},
+"NJ-S3965": {
+"headline": "Repeals law on vaccine coverage and ACIP",
+"topic": "Vaccine access"
+},
+"NJ-S69": {
+"headline": "Bars bias against people without COVID shots",
+"topic": "Discrimination"
+},
+"NJ-S766": {
+"headline": "Adds vaccine data to infant death investigations",
+"topic": "Vaccine injury"
+},
+"NJ-S767": {
+"headline": "Creates a child vaccine adverse event system",
+"topic": "Vaccine injury"
+},
+"NJ-S878": {
+"headline": "Bars colleges from requiring COVID shots",
+"topic": "Mandates"
+},
+"NJ-S920": {
+"headline": "Allows raw milk sales under a permit program",
+"topic": "Raw milk"
+},
+"NJ-SCR93": {
+"headline": "Urges reinstating troops fired over COVID shot",
+"topic": "Resolution"
+},
+"NJ-SR23": {
+"headline": "Urges HHS action under vaccine injury law",
+"topic": "Resolution"
+},
+"NJ-A1016": {
+"headline": "Auto-enrolls consenting people in shot registry",
+"topic": "Records & data"
+},
+"NJ-A2605": {
+"headline": "Lets paramedics give vaccines during outbreaks",
+"topic": "Vaccine access"
+},
+"NJ-A3241": {
+"headline": "Requires health dept emergency partnerships",
+"topic": "Public health"
+},
+"NJ-S2987": {
+"headline": "Auto-enrolls consenting people in shot registry",
+"topic": "Records & data"
+},
+"NJ-S3020": {
+"headline": "Requires coverage of state-recommended vaccines",
+"topic": "Vaccine access"
+},
+"NJ-S3985": {
+"headline": "Lets health dept form global health partnerships",
+"topic": "Public health"
+},
+"NM-HB156": {
+"headline": "Repeals special session vaccination laws",
+"topic": "Vaccine access"
+},
+"NY-A03686": {
+"headline": "Reinstates NYC workers fired over COVID shot",
+"topic": "Mandates"
+},
+"NY-A03807": {
+"headline": "Bans COVID shot mandates; adds bill of rights",
+"topic": "Mandates"
+},
+"NY-A04207": {
+"headline": "Bans mandatory COVID shots and proof of vaccine",
+"topic": "Mandates"
+},
+"NY-A04798": {
+"headline": "Bans COVID mRNA shots pending state study",
+"topic": "mRNA"
+},
+"NY-A04993": {
+"headline": "Makes state liable for mandated vaccine injuries",
+"topic": "Vaccine injury"
+},
+"NY-A08261": {
+"headline": "Bars agencies requiring COVID shots on own",
+"topic": "Mandates"
+},
+"NY-S00285": {
+"headline": "Bars agencies requiring COVID shots on own",
+"topic": "Mandates"
+},
+"NY-S05910": {
+"headline": "Makes state liable for mandated vaccine injuries",
+"topic": "Vaccine injury"
+},
+"NY-S07087": {
+"headline": "Bans mandatory COVID shots and proof of vaccine",
+"topic": "Mandates"
+},
+"NY-S07207": {
+"headline": "Reinstates NYC workers fired over COVID shot",
+"topic": "Mandates"
+},
+"NY-S07342": {
+"headline": "Bans COVID mRNA shots pending state study",
+"topic": "mRNA"
+},
+"NY-A00031": {
+"headline": "Creates a health emergency data system",
+"topic": "Records & data"
+},
+"NY-A00765": {
+"headline": "Requires adult vaccine registry reporting",
+"topic": "Records & data"
+},
+"NY-A01121": {
+"headline": "Lets livestock owners give rabies vaccine",
+"topic": "Vaccine access"
+},
+"NY-A01263": {
+"headline": "Requires publishing school immunization rates",
+"topic": "Records & data"
+},
+"NY-A02297": {
+"headline": "Lets EMTs give certain vaccines",
+"topic": "Vaccine access"
+},
+"NY-A03074": {
+"headline": "Requires reporting positive CMV results",
+"topic": "Records & data"
+},
+"NY-A03254": {
+"headline": "Requires vaccines for kids at summer camps",
+"topic": "Mandates"
+},
+"NY-A03839": {
+"headline": "Requires insurers to cover vaccination costs",
+"topic": "Vaccine access"
+},
+"NY-A03894": {
+"headline": "Lets dentists give flu and COVID vaccines",
+"topic": "Vaccine access"
+},
+"NY-A04312": {
+"headline": "Makes HTLV-1 and HTLV-2 reportable diseases",
+"topic": "Records & data"
+},
+"NY-A04346": {
+"headline": "Lets pharmacists and NPs give mpox vaccine",
+"topic": "Vaccine access"
+},
+"NY-A05152": {
+"headline": "Lets pharmacy techs give immunizations",
+"topic": "Vaccine access"
+},
+"NY-A05460": {
+"headline": "Lets medical assistants give vaccines",
+"topic": "Vaccine access"
+},
+"NY-A07642": {
+"headline": "Bans discrimination against vaccinated people",
+"topic": "Discrimination"
+},
+"NY-A07692": {
+"headline": "Lets nursing students give certain vaccines",
+"topic": "Vaccine access"
+},
+"NY-A08824": {
+"headline": "Requires insurers to cover COVID vaccination",
+"topic": "Vaccine access"
+},
+"NY-A09060": {
+"headline": "Bases vaccine rules on medical society advice",
+"topic": "Public health"
+},
+"NY-A09140": {
+"headline": "Shields vaccinating providers from liability",
+"topic": "Vaccine injury"
+},
+"NY-A09260": {
+"headline": "Lets pharmacists and NPs order COVID shots",
+"topic": "Vaccine access"
+},
+"NY-A09648": {
+"headline": "Bases child vaccine rules on medical societies",
+"topic": "Mandates"
+},
+"NY-A10711": {
+"headline": "Bases child vaccine rules on medical societies",
+"topic": "Mandates"
+},
+"NY-J01608": {
+"headline": "Seeks Meningitis B Awareness Month",
+"topic": "Resolution"
+},
+"NY-S00369": {
+"headline": "Bans discrimination against vaccinated people",
+"topic": "Discrimination"
+},
+"NY-S00453": {
+"headline": "Requires adult vaccine registry reporting",
+"topic": "Records & data"
+},
+"NY-S03162": {
+"headline": "Requires publishing school immunization rates",
+"topic": "Records & data"
+},
+"NY-S03826": {
+"headline": "Lets pharmacists and NPs give mpox vaccine",
+"topic": "Vaccine access"
+},
+"NY-S03958": {
+"headline": "Requires vaccines for kids at summer camps",
+"topic": "Mandates"
+},
+"NY-S05340": {
+"headline": "Lets medical assistants give vaccines",
+"topic": "Vaccine access"
+},
+"NY-S05706": {
+"headline": "Lets nursing students give certain vaccines",
+"topic": "Vaccine access"
+},
+"NY-S05722": {
+"headline": "Creates a health emergency data system",
+"topic": "Records & data"
+},
+"NY-S05852": {
+"headline": "Requires insurers to cover vaccination costs",
+"topic": "Vaccine access"
+},
+"NY-S06744": {
+"headline": "Lets dentists give flu and COVID vaccines",
+"topic": "Vaccine access"
+},
+"NY-S07025": {
+"headline": "Lets pharmacy techs give immunizations",
+"topic": "Vaccine access"
+},
+"NY-S07662": {
+"headline": "Requires reporting positive CMV results",
+"topic": "Records & data"
+},
+"NY-S08334": {
+"headline": "Requires insurers to cover COVID vaccination",
+"topic": "Vaccine access"
+},
+"NY-S08495": {
+"headline": "Expands vaccines pharmacists may give",
+"topic": "Vaccine access"
+},
+"NY-S08496": {
+"headline": "Bases vaccine rules on medical society advice",
+"topic": "Public health"
+},
+"NY-S08716": {
+"headline": "Lets pharmacists and NPs order COVID shots",
+"topic": "Vaccine access"
+},
+"NY-S08853": {
+"headline": "Bases child vaccine rules on medical societies",
+"topic": "Mandates"
+},
+"NY-S09598": {
+"headline": "Bases child vaccine rules on medical societies",
+"topic": "Mandates"
+},
+"NY-S09604": {
+"headline": "Shields vaccinating providers from liability",
+"topic": "Vaccine injury"
+},
+"NY-S09893": {
+"headline": "Requires adult vaccine registry reporting",
+"topic": "Records & data"
+},
+"NY-S10279": {
+"headline": "Requires publishing school immunization rates",
+"topic": "Records & data"
+},
+"NY-S10336": {
+"headline": "Makes alpha-gal syndrome a reportable disease",
+"topic": "Records & data"
+},
+"OH-HB182": {
+"headline": "Bans fluoride in public water systems",
+"topic": "Fluoride"
+},
+"OH-HB406": {
+"headline": "Enacts farm-to-consumer raw milk access",
+"topic": "Raw milk"
+},
+"OK-HB1079": {
+"headline": "Sets vaccine disclosure and consent rules",
+"topic": "Informed consent"
+},
+"OK-HB1449": {
+"headline": "Enacts the Vaccine Mandate Prohibition Act",
+"topic": "Mandates"
+},
+"OK-HB1475": {
+"headline": "Bars school bias over COVID vaccine status",
+"topic": "Discrimination"
+},
+"OK-HB2152": {
+"headline": "Sets labels for homemade unpasteurized milk",
+"topic": "Raw milk"
+},
+"OK-HB3838": {
+"headline": "Defines vaccine discrimination, with exemptions",
+"topic": "Discrimination"
+},
+"OK-SB14": {
+"headline": "Requires a vaccine disclosure exemption form",
+"topic": "Exemptions"
+},
+"OK-SB1483": {
+"headline": "Makes vaccine makers liable in some cases",
+"topic": "Vaccine injury"
+},
+"OK-SB1548": {
+"headline": "Makes vaccine makers liable in some cases",
+"topic": "Vaccine injury"
+},
+"OK-SB1549": {
+"headline": "Makes vaccine makers liable in some cases",
+"topic": "Vaccine injury"
+},
+"OK-SB1560": {
+"headline": "Enacts medical freedom act for firms, schools",
+"topic": "Discrimination"
+},
+"OK-SB1656": {
+"headline": "Creates right to refuse any vaccine or medicine",
+"topic": "Exemptions"
+},
+"OK-SB1906": {
+"headline": "Bars some hospital vaccine requirements",
+"topic": "Mandates"
+},
+"OK-SB1977": {
+"headline": "Bars COVID shot requirements and status bias",
+"topic": "Mandates"
+},
+"OK-SB2017": {
+"headline": "Pauses gene-based vaccines until a set date",
+"topic": "mRNA"
+},
+"OK-SB2028": {
+"headline": "Authorizes some raw milk product sales",
+"topic": "Raw milk"
+},
+"OK-SB2029": {
+"headline": "Enacts the Oklahoma Medical Freedom Act",
+"topic": "Mandates"
+},
+"OK-SB2107": {
+"headline": "Allows off-farm sale of ungraded raw milk",
+"topic": "Raw milk"
+},
+"OK-SB422": {
+"headline": "Bars some vaccine requirements and bias",
+"topic": "Mandates"
+},
+"OK-SB802": {
+"headline": "Bans food containing vaccine material",
+"topic": "mRNA"
+},
+"OK-SB807": {
+"headline": "Creates vaccine transparency and consent act",
+"topic": "Informed consent"
+},
+"OK-SB879": {
+"headline": "Requires written consent to vaccinate infants",
+"topic": "Informed consent"
+},
+"OK-SB943": {
+"headline": "Medical freedom act bans bias, allows lawsuits",
+"topic": "Discrimination"
+},
+"PA-HB1201": {
+"headline": "Changes raw milk rules; voids a regulation",
+"topic": "Raw milk"
+},
+"PA-HB1660": {
+"headline": "Bans water fluoridation",
+"topic": "Fluoride"
+},
+"PA-HB451": {
+"headline": "Grants amnesty for COVID protocol discipline",
+"topic": "Public health"
+},
+"PA-HB452": {
+"headline": "Grants amnesty for COVID protocol discipline",
+"topic": "Public health"
+},
+"PA-SB1018": {
+"headline": "Makes mRNA vaccines voluntary, with penalties",
+"topic": "mRNA"
+},
+"PA-SB193": {
+"headline": "Adds vaccine exemption for National Guard",
+"topic": "Exemptions"
+},
+"PA-SB849": {
+"headline": "Bans fluoride in public water systems",
+"topic": "Fluoride"
+},
+"PA-SB957": {
+"headline": "Requires vaccine status disclosure for blood",
+"topic": "Informed consent"
+},
+"PA-HB1828": {
+"headline": "Requires immunization coverage",
+"topic": "Vaccine access"
+},
+"PA-HB1881": {
+"headline": "Lets pharmacy techs give immunizations",
+"topic": "Vaccine access"
+},
+"PA-SB1055": {
+"headline": "Lets pharmacy techs give immunizations",
+"topic": "Vaccine access"
+},
+"PA-SB989": {
+"headline": "Requires immunization coverage",
+"topic": "Vaccine access"
+},
+"RI-H7924": {
+"headline": "Legalizes sale of raw milk",
+"topic": "Raw milk"
+},
+"RI-S2565": {
+"headline": "Requires written vaccine consent; fines bias",
+"topic": "Informed consent"
+},
+"RI-H7625": {
+"headline": "Requires free coverage of recommended vaccines",
+"topic": "Vaccine access"
+},
+"RI-H8365": {
+"headline": "Lets health dept join global health networks",
+"topic": "Public health"
+},
+"RI-S2379": {
+"headline": "Requires free coverage of recommended vaccines",
+"topic": "Vaccine access"
+},
+"SC-H4009": {
+"headline": "Enacts the South Carolina Medical Freedom Act",
+"topic": "Mandates"
+},
+"SC-S0343": {
+"headline": "Sets informed consent steps for COVID shots",
+"topic": "Informed consent"
+},
+"SC-S0741": {
+"headline": "Prohibits vaccines for babies",
+"topic": "Mandates"
+},
+"SC-S1029": {
+"headline": "Changes vaccine exemption rules",
+"topic": "Exemptions"
+},
+"SD-HB1163": {
+"headline": "Bars requiring genetic-based vaccines",
+"topic": "mRNA"
+},
+"SD-HB1171": {
+"headline": "Sets mRNA status disclosure for blood donations",
+"topic": "Informed consent"
+},
+"SD-HB1210": {
+"headline": "Bans COVID vaccine requirements with penalty",
+"topic": "Mandates"
+},
+"TX-HB1082": {
+"headline": "Changes school vaccine exemption claims",
+"topic": "Exemptions"
+},
+"TX-HB1356": {
+"headline": "Bans health care bias over vaccine status",
+"topic": "Discrimination"
+},
+"TX-HB1468": {
+"headline": "Adds vaccine exemptions under hospital policies",
+"topic": "Exemptions"
+},
+"TX-HB1586": {
+"headline": "Changes school vaccine exemption rules",
+"topic": "Exemptions"
+},
+"TX-HB3304": {
+"headline": "Bans vaccination mandates",
+"topic": "Mandates"
+},
+"TX-HB3392": {
+"headline": "Bans health care bias over vaccine status",
+"topic": "Discrimination"
+},
+"TX-HB3441": {
+"headline": "Sets liability for ads of harmful vaccines",
+"topic": "Vaccine injury"
+},
+"TX-HB3465": {
+"headline": "Bans mRNA vaccines in food animals",
+"topic": "mRNA"
+},
+"TX-HB3705": {
+"headline": "Bans vaccine mandates for the National Guard",
+"topic": "Mandates"
+},
+"TX-HB3737": {
+"headline": "Bans use and ads of mRNA COVID vaccines",
+"topic": "mRNA"
+},
+"TX-HB383": {
+"headline": "Bars private employer COVID shot mandates",
+"topic": "Mandates"
+},
+"TX-HB3957": {
+"headline": "Bans bias based on a child's vaccine status",
+"topic": "Discrimination"
+},
+"TX-HB4076": {
+"headline": "Bars transplant bias over vaccine status",
+"topic": "Discrimination"
+},
+"TX-HB4535": {
+"headline": "Changes COVID vaccine administration rules",
+"topic": "Informed consent"
+},
+"TX-HB4927": {
+"headline": "Adds vaccine exemption for medical, vet students",
+"topic": "Exemptions"
+},
+"TX-HB5622": {
+"headline": "Bars some private employer vaccine mandates",
+"topic": "Mandates"
+},
+"TX-HB730": {
+"headline": "Changes the vaccine exemption affidavit form",
+"topic": "Exemptions"
+},
+"TX-HB943": {
+"headline": "Requires consent before some COVID treatments",
+"topic": "Informed consent"
+},
+"TX-HB962": {
+"headline": "Requires vaccine injury reports to VAERS",
+"topic": "Vaccine injury"
+},
+"TX-HCR105": {
+"headline": "Names June 3 Vaccine Injury Awareness Day",
+"topic": "Resolution"
+},
+"TX-HR209": {
+"headline": "Honors Texans for Vaccine Choice anniversary",
+"topic": "Resolution"
+},
+"TX-SB119": {
+"headline": "Requires labels on food with mRNA vaccine",
+"topic": "mRNA"
+},
+"TX-SB2119": {
+"headline": "Adds vaccine exemption for medical, vet students",
+"topic": "Exemptions"
+},
+"TX-SB2653": {
+"headline": "Bans water fluoridation with a penalty",
+"topic": "Fluoride"
+},
+"TX-SB91": {
+"headline": "Makes employers liable for vaccine requirements",
+"topic": "Vaccine injury"
+},
+"TX-SB94": {
+"headline": "Changes the state vaccine exemption form",
+"topic": "Exemptions"
+},
+"TX-SB95": {
+"headline": "Requires written consent for child vaccinations",
+"topic": "Informed consent"
+},
+"TX-SB96": {
+"headline": "Protects medical exemptions from vaccines",
+"topic": "Exemptions"
+},
+"TX-SR72": {
+"headline": "Honors Texans for Vaccine Choice anniversary",
+"topic": "Resolution"
+},
+"TX-HB2755": {
+"headline": "Requires reports on vaccine exemption data",
+"topic": "Records & data"
+},
+"TX-HB3540": {
+"headline": "Lets pharmacists order and give vaccines",
+"topic": "Vaccine access"
+},
+"TX-HB772": {
+"headline": "Changes what data the vaccine registry holds",
+"topic": "Records & data"
+},
+"TX-SB254": {
+"headline": "Lets pharmacists order and give vaccines",
+"topic": "Vaccine access"
+},
+"TX-SB46": {
+"headline": "Changes what data the vaccine registry holds",
+"topic": "Records & data"
+},
+"US-119-HR119": {
+"headline": "Bars COVID shot mandates by relief recipients",
+"topic": "Mandates"
+},
+"US-119-HR120": {
+"headline": "No Mandates Act",
+"topic": "Mandates"
+},
+"US-119-HR121": {
+"headline": "Bans federal vaccine passports",
+"topic": "Discrimination"
+},
+"US-119-HR1381": {
+"headline": "Bans discrimination over COVID vaccine status",
+"topic": "Discrimination"
+},
+"US-119-HR1671": {
+"headline": "Aids veterans injured by vaccines",
+"topic": "Vaccine injury"
+},
+"US-119-HR3044": {
+"headline": "Bans vaccine mandates in higher education",
+"topic": "Mandates"
+},
+"US-119-HR4207": {
+"headline": "Requires Senate OK for WHO pandemic treaty",
+"topic": "Public health"
+},
+"US-119-HR4668": {
+"headline": "Ends the vaccine carveout",
+"topic": "Vaccine injury"
+},
+"US-119-HR5691": {
+"headline": "Cuts funds to schools with COVID shot mandates",
+"topic": "Mandates"
+},
+"US-119-HR79": {
+"headline": "Freedom from Mandates Act",
+"topic": "Mandates"
+},
+"US-119-HR81": {
+"headline": "Repeals travel mask mandates",
+"topic": "Public health"
+},
+"US-119-HR87": {
+"headline": "Protecting Our Children from the CDC Act",
+"topic": "Public health"
+},
+"US-119-S1983": {
+"headline": "Requires Senate OK for WHO pandemic treaty",
+"topic": "Public health"
+},
+"US-119-S3853": {
+"headline": "Ends the vaccine carveout",
+"topic": "Vaccine injury"
+},
+"US-119-HR5448": {
+"headline": "Protects free vaccine coverage",
+"topic": "Vaccine access"
+},
+"US-119-HR6839": {
+"headline": "Expands transportation access to vaccines",
+"topic": "Vaccine access"
+},
+"US-119-HR8425": {
+"headline": "Strengthens the Vaccines for Children program",
+"topic": "Vaccine access"
+},
+"US-119-S908": {
+"headline": "Creates an avian flu vaccination strategy",
+"topic": "Public health"
+},
+"VA-HB537": {
+"headline": "Bans fluoridation of water",
+"topic": "Fluoride"
+},
+"VA-HB983": {
+"headline": "Drops hepatitis B from required child vaccines",
+"topic": "Mandates"
+},
+"VA-HJR24": {
+"headline": "Names August Immunization Awareness Month",
+"topic": "Resolution"
+},
+"VT-H0060": {
+"headline": "Bans bias based on immunization status",
+"topic": "Discrimination"
+},
+"VT-H0274": {
+"headline": "Bars hospitals denying care over vaccine status",
+"topic": "Discrimination"
+},
+"VT-H0675": {
+"headline": "Bans fluoridation of public water",
+"topic": "Fluoride"
+},
+"WA-SB5783": {
+"headline": "Bars using vaccine status in legal proceedings",
+"topic": "Discrimination"
+},
+"WA-HB2122": {
+"headline": "Requires hospitals to offer flu shots",
+"topic": "Vaccine access"
+},
+"WI-AB398": {
+"headline": "Adds vaccine waiver info to school enrollment",
+"topic": "Exemptions"
+},
+"WI-AB902": {
+"headline": "Bars quarantine of animals over CWD exposure",
+"topic": "Public health"
+},
+"WI-AJR10": {
+"headline": "Protects worship gatherings in emergencies",
+"topic": "Public health"
+},
+"WI-AJR100": {
+"headline": "Names October Vaccine Injury Awareness Month",
+"topic": "Resolution"
+},
+"WI-SB447": {
+"headline": "Adds vaccine waiver info to school enrollment",
+"topic": "Exemptions"
+},
+"WI-SB891": {
+"headline": "Bars quarantine of animals over CWD exposure",
+"topic": "Public health"
+},
+"WI-SJR4": {
+"headline": "Protects worship gatherings in emergencies",
+"topic": "Public health"
+},
+"WI-SJR89": {
+"headline": "Names October Vaccine Injury Awareness Month",
+"topic": "Resolution"
+},
+"WI-AB1091": {
+"headline": "Requires coverage of medically recommended shots",
+"topic": "Vaccine access"
+},
+"WI-AB891": {
+"headline": "Ends personal conviction vaccine exemption",
+"topic": "Exemptions"
+},
+"WI-AJR90": {
+"headline": "Names August Immunization Awareness Month",
+"topic": "Resolution"
+},
+"WI-SB1044": {
+"headline": "Requires coverage of medically recommended shots",
+"topic": "Vaccine access"
+},
+"WI-SB950": {
+"headline": "Ends personal conviction vaccine exemption",
+"topic": "Exemptions"
+},
+"WI-SJR85": {
+"headline": "Names August Immunization Awareness Month",
+"topic": "Resolution"
+},
+"WV-HB4073": {
+"headline": "Allows religious exemptions for vaccines",
+"topic": "Exemptions"
+},
+"WV-HB4510": {
+"headline": "Bans COVID shot rule for state programs",
+"topic": "Mandates"
+},
+"WV-HB4681": {
+"headline": "Makes drugmakers liable for COVID shot injuries",
+"topic": "Vaccine injury"
+},
+"WV-HB4947": {
+"headline": "Allows religious exemptions for vaccines",
+"topic": "Exemptions"
+},
+"WV-HB5090": {
+"headline": "Ends all school vaccine requirements",
+"topic": "Mandates"
+},
+"WV-HB5111": {
+"headline": "Bars colleges requiring vaccines for admission",
+"topic": "Mandates"
+},
+"WV-HB5112": {
+"headline": "Bans laws requiring use of medical products",
+"topic": "Mandates"
+},
+"WV-HB5378": {
+"headline": "Adds religious, philosophical school exemptions",
+"topic": "Exemptions"
+},
+"WV-HJR24": {
+"headline": "Adds right to refuse medical treatment",
+"topic": "Exemptions"
+},
+"WV-SB237": {
+"headline": "Bans vaccine mandates",
+"topic": "Mandates"
+},
+"WV-SB26": {
+"headline": "Revises vaccine exemption process",
+"topic": "Exemptions"
+},
+"WV-SB408": {
+"headline": "Bans laws coercing use of medical products",
+"topic": "Mandates"
+},
+"WV-SB606": {
+"headline": "Adds exemptions from employer vaccine mandates",
+"topic": "Exemptions"
+},
+"WV-SB608": {
+"headline": "Changes religious vaccine exemption rules",
+"topic": "Exemptions"
+},
+"WV-SB609": {
+"headline": "Exempts college students from required vaccines",
+"topic": "Exemptions"
+},
+"WV-SB610": {
+"headline": "Changes medical vaccine exemption rules",
+"topic": "Exemptions"
+},
+"WV-SB731": {
+"headline": "Drops hepatitis B and meningitis requirements",
+"topic": "Mandates"
+},
+"WV-HB4146": {
+"headline": "Requires vaccines for public school staff",
+"topic": "Mandates"
+},
+"WY-HB0012": {
+"headline": "Bans geoengineering in the state",
+"topic": "Public health"
+}
+}
+}

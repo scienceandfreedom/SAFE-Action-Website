@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T11:51:41.914212+00:00",
-  "count": 545,
+  "generated_at": "2026-10-05T13:46:27.619328+00:00",
+  "count": 562,
   "unmatched": [
     {
       "billId": "US-119-HR1111",
@@ -83,6 +83,30 @@
       "role": "primary"
     },
     {
+      "billId": "IL-HR0291",
+      "state": "IL",
+      "chamber": "House",
+      "district": "HD-042",
+      "name": "Terra Costa Howard",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "IL-HR0291",
+      "state": "IL",
+      "chamber": "House",
+      "district": "HD-097",
+      "name": "Harry Benton",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "IL-HR0291",
+      "state": "IL",
+      "chamber": "House",
+      "district": "HD-081",
+      "name": "Anne Stava-Murray",
+      "role": "cosponsor"
+    },
+    {
       "billId": "MD-HB637",
       "state": "MD",
       "chamber": "House",
@@ -99,12 +123,36 @@
       "role": "cosponsor"
     },
     {
+      "billId": "NY-S01570",
+      "state": "NY",
+      "chamber": "Senate",
+      "district": "SD-047",
+      "name": "Brad Hoylman-Sigal",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "NY-S07823",
+      "state": "NY",
+      "chamber": "Senate",
+      "district": "SD-047",
+      "name": "Brad Hoylman-Sigal",
+      "role": "primary"
+    },
+    {
       "billId": "NY-S00453",
       "state": "NY",
       "chamber": "Senate",
       "district": "SD-047",
       "name": "Brad Hoylman-Sigal",
       "role": "primary"
+    },
+    {
+      "billId": "PA-HB1828",
+      "state": "PA",
+      "chamber": "House",
+      "district": "HD-022",
+      "name": "Joshua Siegel",
+      "role": "cosponsor"
     },
     {
       "billId": "TX-HB3441",
@@ -137,6 +185,30 @@
       "district": "HD-093",
       "name": "Nate Schatzline",
       "role": "primary"
+    },
+    {
+      "billId": "VA-HJR24",
+      "state": "VA",
+      "chamber": "House",
+      "district": "HD-020",
+      "name": "Michelle Maldonado",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "WA-HB2122",
+      "state": "WA",
+      "chamber": "House",
+      "district": "HD-028A",
+      "name": "Mari Leavitt",
+      "role": "primary"
+    },
+    {
+      "billId": "WV-HB5111",
+      "state": "WV",
+      "chamber": "House",
+      "district": "HD-031",
+      "name": "Margitta Mazzocchi",
+      "role": "cosponsor"
     },
     {
       "billId": "WV-HB5090",
@@ -243,6 +315,22 @@
       "role": "cosponsor"
     },
     {
+      "billId": "NY-S03162",
+      "state": "NY",
+      "chamber": "Senate",
+      "district": "SD-047",
+      "name": "Brad Hoylman-Sigal",
+      "role": "primary"
+    },
+    {
+      "billId": "NY-S03826",
+      "state": "NY",
+      "chamber": "Senate",
+      "district": "SD-047",
+      "name": "Brad Hoylman-Sigal",
+      "role": "primary"
+    },
+    {
       "billId": "OH-SB273",
       "state": "OH",
       "chamber": "House",
@@ -275,11 +363,27 @@
       "role": "cosponsor"
     },
     {
+      "billId": "TX-HB3957",
+      "state": "TX",
+      "chamber": "House",
+      "district": "HD-093",
+      "name": "Nate Schatzline",
+      "role": "primary"
+    },
+    {
       "billId": "CO-HB1194",
       "state": "CO",
       "chamber": "House",
       "district": "HD-032",
       "name": "Manny Rutinel",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "NY-A00031",
+      "state": "NY",
+      "chamber": "House",
+      "district": "HD-115",
+      "name": "D. Billy Jones",
       "role": "cosponsor"
     },
     {
@@ -315,12 +419,36 @@
       "role": "primary"
     },
     {
+      "billId": "MN-HF4442",
+      "state": "MN",
+      "chamber": "House",
+      "district": "HD-038A",
+      "name": "Huldah Momanyi-Hiltsley",
+      "role": "cosponsor"
+    },
+    {
       "billId": "OH-HB292",
       "state": "OH",
       "chamber": "House",
       "district": "HD-005",
       "name": "Meredith Lawson-Rowe",
       "role": "primary"
+    },
+    {
+      "billId": "PA-HB452",
+      "state": "PA",
+      "chamber": "House",
+      "district": "HD-196",
+      "name": "Seth Grove",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "WV-HB5112",
+      "state": "WV",
+      "chamber": "House",
+      "district": "HD-031",
+      "name": "Margitta Mazzocchi",
+      "role": "cosponsor"
     },
     {
       "billId": "CA-SB959",
@@ -336,6 +464,14 @@
       "chamber": "Senate",
       "district": "SD-010",
       "name": "Aisha Wahab",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "PA-HB451",
+      "state": "PA",
+      "chamber": "House",
+      "district": "HD-196",
+      "name": "Seth Grove",
       "role": "cosponsor"
     },
     {

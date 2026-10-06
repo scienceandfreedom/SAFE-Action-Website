@@ -980,1218 +980,1197 @@
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Shields individuals refusing immunizations from requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "AL-HB24": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=0a/0p; Expands non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "AL-SB278": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Explicitly expands vaccine access and coverage funding.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "AZ-HB2086": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; prohibits vaccine mandates",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "AZ-HB2248": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=- text=anti(0.91) sponsors=8a/0p; Does not specify which medical interventions are prohibited.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "AZ-SB1019": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.97) sponsors=1a/0p; Prohibiting water fluoridation weakens evidence-based public health.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "AZ-SB1194": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.98) sponsors=1a/0p; Restricts acting on vaccination status.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "CA-SB504": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.90) sponsors=0a/7p; Strengthens disease surveillance and reporting.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "CA-SB895": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=-(0.54) sponsors=0a/7p; Funds science research and public health infrastructure.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "CO-SB032": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=0a/0p; promotes access to immunizations",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "DC-B26-0605": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.78) sponsors=0a/1p; Protects vaccine administration.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "DC-B26-0606": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=0a/1p; Protects vaccine administration.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "DE-HB422": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; implies vaccines cause infant death",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "FL-S0006": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.90) sponsors=0a/0p; Medical freedom shields against public-health measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "FL-S1244": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.90) sponsors=0a/0p; Promotes awareness and vaccination",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "FL-S1756": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.98) sponsors=1a/0p; medical freedom framing restricts public health",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "GA-HB1242": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.88) sponsors=5a/0p; Enacts medical freedom shield",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "GA-HB1350": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.81) sponsors=5a/0p; Enacts medical freedom shield",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "GA-HB1408": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=-(0.41) sponsors=0a/2p; Expands access to rabies vaccinations",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "GA-HR1202": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.80) sponsors=0a/3p; Supports expanding vaccine access",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "GA-HR1203": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.77) sponsors=0a/3p; Expands vaccine funding and access",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "GA-HR1476": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.88) sponsors=0a/2p; raises awareness for immunizations",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "GA-HR554": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.83) sponsors=0a/2p; Promotes and commemorates vaccination campaigns",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "GA-SR367": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.82) sponsors=0a/0p; Promotes and commemorates vaccination campaigns",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
-  "GA-SR813": {
+  "HI-HB2166": {
    "billType": "monitor",
    "basis": "consensus",
-   "note": "Crawler said anti; not confirmed (judge=- text=- sponsors=0a/1p)",
+   "note": "Crawler said anti; not confirmed (judge=anti text=pro sponsors=0a/0p)",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "HI-SCR24": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.86) sponsors=0a/1p; Strengthens public health authority and coordination",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "HI-SR21": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.85) sponsors=0a/1p; Strengthens public health authority and coordination",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HF2087": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.92) sponsors=1a/0p; Restricts public-health authority over infectious disease.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HF2171": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=1a/0p; removes vaccine requirements for students",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HF2287": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.81) sponsors=1a/0p; Creates liability schemes aimed at deterring vaccination.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HF2288": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.89) sponsors=0a/0p; Adds or expands non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HF2368": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.89) sponsors=0a/0p; Medical freedom shield against public-health measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
-  },
-  "IA-HF2402": {
-   "billType": "monitor",
-   "basis": "consensus",
-   "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=0a/0p)",
-   "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
-  },
-  "IA-HF2426": {
-   "billType": "monitor",
-   "basis": "consensus",
-   "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=0a/0p)",
-   "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HF2710": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.90) sponsors=0a/0p; Restricts public-health authority over infectious disease.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HF35": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.99) sponsors=0a/0p; Adds or expands non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HF712": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.80) sponsors=1a/0p; Creates liability schemes aimed at deterring vaccination.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HSB222": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.93) sponsors=0a/0p; Allowing distribution of raw milk deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-HSB726": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.91) sponsors=0a/0p; Restricts public-health authority over infectious disease.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-SF2095": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=1a/0p; Adds or expands non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-SF2154": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.76) sponsors=1a/0p; penalizes vaccine distribution",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-SF2211": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=1a/0p; Medical freedom shield against public-health measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
+  },
+  "IA-SF2345": {
+   "billType": "monitor",
+   "basis": "consensus",
+   "note": "Crawler said anti; not confirmed (judge=- text=anti sponsors=0a/0p)",
+   "reviewer": "consensus",
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-SF2424": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.88) sponsors=0a/0p; Adds or expands non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IA-SF360": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.84) sponsors=1a/0p; Penalizes administration of gene-based vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "ID-H0554": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.78) sponsors=0a/0p; Optional participation in abatement districts weakens public health.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "ID-H0747": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.78) sponsors=0a/0p; Optional participation in abatement districts weakens public health.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "ID-H0960": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.77) sponsors=0a/0p; Optional participation in abatement districts weakens public health.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IL-HB2597": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.97) sponsors=1a/0p; Adds or expands non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IL-HB2600": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.94) sponsors=1a/0p; Bans or restricts vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IL-HR0291": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=0a/0p; Supports vaccination efforts.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "IL-SR0213": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.86) sponsors=0a/0p; Supports vaccination efforts.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "KS-HB2297": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Requires vaccinations for animal ownership",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "KS-HB2369": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; expands vaccine access",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "KS-SB19": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.81) sponsors=0a/0p; Restricts public-health authority over infectious disease",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "KS-SB333": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.78) sponsors=0a/0p; Explicitly bans water fluoridation, an anti-science policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "LA-HB1041": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.88) sponsors=1a/0p; Creates a medical freedom shield",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "LA-HB452": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=1a/0p; Weakens evidence-based public health vaccination efforts",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "LA-HB926": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.91) sponsors=0a/0p; Bans or restricts vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-H2431": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.99) sponsors=0a/0p; Bans vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-H2449": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.80) sponsors=0a/0p; Allows municipalities to bypass public health fluoridation.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-H2548": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.80) sponsors=1a/0p; Explicitly bans a proven public health measure.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-H5411": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.91) sponsors=0a/0p; Expands vaccine access.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-H760": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.90) sponsors=0a/0p; Expands vaccine access.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-S1517": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=2a/0p; Directly stops public water fluoridation.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-S1575": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.83) sponsors=0a/0p; Opting out undermines universal public health fluoridation measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-S1618": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.88) sponsors=0a/0p; Explicitly aims to promote immunity.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-S2623": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.88) sponsors=0a/0p; Explicitly aims to promote immunity.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-S2627": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.92) sponsors=1a/0p; Permits ending water fluoridation locally.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-S3070": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.88) sponsors=0a/0p; Explicitly aims to promote immunity.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MA-S539": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.95) sponsors=2a/0p; Bans vaccine requirements for entry.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MD-SB385": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.89) sponsors=0a/0p; Expands vaccine access and coverage",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "ME-LD1570": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.92) sponsors=0a/0p; Banning fluoridation weakens public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "ME-LD2071": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Expands vaccine access",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "ME-LD436": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.89) sponsors=0a/0p; Bans public health efforts to promote vaccination",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "ME-LD871": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=0a/0p; Expands exemptions from vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "ME-LD93": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.82) sponsors=0a/0p; Expands vaccine coverage",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MI-HB4172": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.82) sponsors=0a/11p; Strengthens disease surveillance by providing funding for testing.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MI-HB4498": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.78) sponsors=0a/11p; Providing for syringe programs strengthens infectious disease prevention.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MI-HB4778": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.83) sponsors=36a/0p; Bans specific types of vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MI-HB5217": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.81) sponsors=143a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MI-HB5218": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.86) sponsors=143a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MI-HB5219": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.82) sponsors=143a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MI-SB0107": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.80) sponsors=0a/0p; Expands access and coverage for immunizations via pharmacists.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MI-SB0629": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.76) sponsors=0a/0p; Providing for syringe programs strengthens infectious disease prevention.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF2815": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.63) sponsors=3a/0p; Restricts public health authority regarding vaccine verification.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF2860": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.84) sponsors=0a/4p; Expands local health department access to vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF2884": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.88) sponsors=6a/0p; Bans or restricts vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF3152": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=11a/0p; Bans specific types of vaccines, weakening public health.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF3237": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.76) sponsors=5a/0p; Prohibits water fluoridation.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF3240": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.89) sponsors=0a/19p; Provides funding to address outbreaks of vaccine-preventable diseases.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
-  },
-  "MN-HF3880": {
-   "billType": "monitor",
-   "basis": "consensus",
-   "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=0a/3p)",
-   "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF394": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Restricts public-health authority over infectious disease tracking and immunizations.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF4284": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.89) sponsors=1a/0p; Bans the establishment of vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF4442": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.76) sponsors=0a/0p; Funds and establishes HIV treatment programs, strengthening public health.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF481": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.80) sponsors=6a/0p; Shields against public health measures using medical freedom claims.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF537": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=0a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF860": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.88) sponsors=0a/0p; Undermines vaccine mandates by compensating those who defied them.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-HF91": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.85) sponsors=1a/0p; Creates barriers to adolescent vaccination access.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-SF1529": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.92) sponsors=11a/0p; Shields against public health measures using medical freedom claims.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-SF3048": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.86) sponsors=0a/4p; Expands local health department access to vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-SF3438": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.86) sponsors=0a/10p; Funds public health infrastructure against vaccine-preventable diseases.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-SF490": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=4a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MN-SF709": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=9a/0p; Restricts employer enforcement of vaccination proof.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MO-HB1679": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.94) sponsors=0a/0p; Medical freedom shield that undermines clinical protocols for unvaccinated individuals.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
-  },
-  "MO-HB1976": {
-   "billType": "monitor",
-   "basis": "consensus",
-   "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=0a/0p)",
-   "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MO-SB1428": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.90) sponsors=0a/0p; Explicitly bans a public health vaccine requirement.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-HB1180": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.91) sponsors=0a/0p; Creates a targeted tracking scheme intended to inflate perceived vaccine risks.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-HB1244": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=0a/0p; Adds or expands non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-HB1503": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.86) sponsors=0a/0p; Restricts public-health authority over fluoridation requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-HB1594": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.93) sponsors=0a/0p; Authorizing raw milk sales deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-HB645": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.90) sponsors=0a/0p; Bans or restricts mRNA vaccinations.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-HB747": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.85) sponsors=0a/0p; bans public health vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-HB811": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.77) sponsors=0a/0p; Restricts mRNA vaccines based on conspiracy claims.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-SB2284": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.94) sponsors=0a/0p; Allowing individual sale of raw milk deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-SB2457": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.84) sponsors=0a/0p; Institutionalizes vaccine-injury conspiracy schemas linking vaccines to sudden deaths.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MS-SB2481": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.85) sponsors=0a/0p; Institutionalizes vaccine-injury conspiracy schemas linking vaccines to sudden deaths.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MT-HB371": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.84) sponsors=0a/0p; Explicitly bans a proven, evidence-based class of vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MT-HB418": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.81) sponsors=0a/0p; Explicitly bans mRNA technology, undermining evidence-based veterinary science.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MT-HB498": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.78) sponsors=0a/0p; Explicit ban on public water fluoridation.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MT-SB382": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.89) sponsors=1a/0p; Directly expands non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MT-SB474": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.92) sponsors=1a/0p; Directly expands non-medical exemptions to vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MT-SB475": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.78) sponsors=0a/0p; Restricts standard vaccines based on misleading or conspiratorial claims.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "MT-SB478": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=0a/0p; A liability scheme aimed at deterring institutions from mandating vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NC-H380": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.92) sponsors=14a/0p; Expands non-medical exemptions for vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NH-HB1719": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.48) sponsors=12a/0p; Directly weakens public health by reducing required immunizations.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A1016": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.82) sponsors=0a/0p; Strengthens immunization registries",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A1559": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.89) sponsors=10a/0p; State-level adverse event tracking is a scheme to deter vaccination.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A1560": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.76) sponsors=10a/0p; Links vaccines to infant fatalities",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A2605": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.97) sponsors=0a/0p; Expands vaccine access",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A2630": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.86) sponsors=0a/0p; mandated misleading informed consent scripts",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A3221": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.97) sponsors=11a/0p; Restricts vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A3241": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.78) sponsors=0a/0p; Strengthens public health response",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A368": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.93) sponsors=22a/0p; Bans vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A4040": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.76) sponsors=9a/0p; Restricts public-health authority over infectious disease",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A4433": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.71) sponsors=9a/0p; Repeals alignment with ACIP evidence-based immunization coverage guidelines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A4997": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.86) sponsors=9a/0p; Permitting raw milk sales deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A844": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.73) sponsors=12a/0p; Bans vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A845": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=23a/0p; Restricts vaccine mandates",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A858": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.82) sponsors=4a/0p; Bans vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-A872": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.98) sponsors=27a/0p; Restricts vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-ACR140": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.91) sponsors=6a/0p; Weakens vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S124": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.61) sponsors=5a/0p; Weakens public health measures",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S2514": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.77) sponsors=16a/0p; Restricts public-health authority over infectious disease",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S2543": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.58) sponsors=5a/0p; Restricts vaccine mandates",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S2987": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.81) sponsors=0a/2p; Strengthens immunization registries",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S3020": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.85) sponsors=0a/2p; Expands vaccine coverage",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S3965": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Repeals alignment with ACIP evidence-based immunization coverage guidelines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S3985": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.84) sponsors=0a/2p; Expands public health infrastructure and collaboration.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S69": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.97) sponsors=8a/0p; Restricts vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S766": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.77) sponsors=3a/0p; Links vaccines to infant fatalities",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S767": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.91) sponsors=3a/0p; State-level adverse event tracking is a scheme to deter vaccination.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S878": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.93) sponsors=4a/0p; Bans vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-S920": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=4a/0p; Permitting raw milk sales deregulates it, weakening public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NJ-SCR93": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.93) sponsors=3a/0p; Weakens vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NM-HB156": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; repeals public health vaccination measures",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A00031": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.85) sponsors=4a/70p; Strengthens disease surveillance and infrastructure",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A01263": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.94) sponsors=0a/20p; Strengthens public health surveillance and immunization registries.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A02045": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.61) sponsors=3a/0p; Adds or expands non-medical vaccine exemptions for schoolchildren.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A03074": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.89) sponsors=0a/29p; Expands disease reporting and surveillance.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A03254": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.86) sponsors=0a/7p; Mandates vaccination for children attending summer camps.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A03686": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.83) sponsors=7a/12p; Undermines public health mandates by reversing consequences for refusing required vaccinations.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A03807": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.98) sponsors=3a/0p; Bans vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A03839": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.86) sponsors=3a/29p; Expands vaccine funding",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A03894": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.93) sponsors=0a/13p; Expands vaccine access by allowing dentists to administer them.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A04207": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.92) sponsors=6a/4p; Bans COVID-19 vaccine mandates and proof of vaccination requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A04312": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.93) sponsors=4a/2p; Expands communicable disease reporting and surveillance.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A04346": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.89) sponsors=0a/23p; Expands access to the mpox vaccine.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A04798": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=5a/2p; Directly bans mRNA vaccines, undermining science-based public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A04993": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.61) sponsors=4a/0p; Creates liability schemes that deter state vaccine mandates.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A05152": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=4a/44p; Expands access by allowing pharmacy technicians to administer vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A05460": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=0a/49p; Expands vaccine access by increasing the pool of personnel who can administer them.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A07642": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.78) sponsors=0a/7p; Explicitly protects individuals who choose to be vaccinated.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A07692": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.91) sponsors=0a/2p; Expands vaccine access by allowing nursing students to administer vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A08261": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.89) sponsors=0a/0p; Restricts public health agencies from requiring COVID-19 vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A08383": {
    "billType": "monitor",
@@ -2199,182 +2178,182 @@
    "basis": "consensus",
    "note": "One to watch: text reads anti, sponsors' other bills are 0 anti / 40 pro",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A08824": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=0a/7p; Expands vaccine coverage",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A09060": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.92) sponsors=0a/39p; Aligns immunization regulations with major scientific and medical organizations.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A09260": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.92) sponsors=0a/9p; Expands access to COVID-19 vaccines by allowing pharmacists and NPs to prescribe them.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A09648": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.95) sponsors=0a/26p; Requires vaccines for children based on established scientific and medical guidelines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-A10711": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.94) sponsors=0a/0p; Codifies reliance on recognized medical and scientific organizations for pediatric vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S00285": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.88) sponsors=3a/1p; Restricts public health agencies from requiring COVID-19 vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S00369": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.78) sponsors=0a/8p; Explicitly protects vaccinated individuals from discrimination.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S01570": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge and crawler agree (pro); text=- sponsors=2a/12p; Expands vaccine access by allowing minors to consent to immunizations.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S03162": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.94) sponsors=1a/3p; Strengthens public health surveillance and immunization registries.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S03826": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.89) sponsors=1a/3p; Expands access to the mpox vaccine.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S03958": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.85) sponsors=0a/8p; Mandates vaccination for children attending summer camps.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S05340": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=1a/11p; Expands the number of professionals authorized to administer vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S05706": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.91) sponsors=0a/19p; Expands vaccine access by allowing nursing students to administer vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S05722": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.86) sponsors=1a/9p; Strengthens disease surveillance and infrastructure",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S05852": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=0a/8p; Expands vaccine funding",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S05910": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=9a/2p; Creates liability schemes that deter state vaccine mandates.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S06744": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.93) sponsors=1a/11p; Expands vaccine access by authorizing dentists to administer them.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S07025": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.91) sponsors=6a/26p; Expands access by allowing pharmacy technicians to administer vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S07087": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.91) sponsors=7a/0p; Bans COVID-19 vaccine mandates and proof of vaccination requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S07088": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.66) sponsors=6a/0p; Bans vaccine mandates and incentives, weakening public health measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S07207": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.83) sponsors=11a/1p; Undermines public health mandates by reversing consequences for non-compliance.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S07342": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.78) sponsors=2a/1p; Directly bans mRNA vaccines, undermining science-based public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S07370": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge and crawler agree (pro); text=- sponsors=1a/4p; Expands vaccine access by increasing the number of authorized medical personnel.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S07662": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.89) sponsors=0a/4p; Expands disease reporting and surveillance.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S07729": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=-(0.62) sponsors=0a/8p; Requires a specific vaccine for children attending school.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S07823": {
    "billType": "monitor",
@@ -2382,49 +2361,49 @@
    "basis": "consensus",
    "note": "One to watch: text reads anti, sponsors' other bills are 0 anti / 13 pro",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S08334": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.88) sponsors=0a/0p; Expands vaccine coverage",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S08495": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.99) sponsors=1a/1p; Expands vaccine access by authorizing pharmacists to administer them under specific guidelines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S08496": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.93) sponsors=3a/32p; Aligns immunization regulations with major scientific and medical organizations.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S08716": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.90) sponsors=1a/3p; Expands access to COVID-19 vaccines by allowing pharmacists and NPs to prescribe them.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S08853": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.95) sponsors=1a/16p; Requires vaccines for children based on established scientific and medical guidelines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S09598": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.94) sponsors=1a/5p; Codifies reliance on recognized medical and scientific organizations for pediatric vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S09849": {
    "billType": "monitor",
@@ -2432,364 +2411,343 @@
    "basis": "consensus",
    "note": "One to watch: text reads anti, sponsors' other bills are 0 anti / 5 pro",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S10279": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.94) sponsors=0a/8p; Strengthens public health surveillance and immunization registries.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "NY-S10336": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.91) sponsors=0a/1p; Expands communicable disease reporting and surveillance.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OH-HB182": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.88) sponsors=1a/0p; Explicitly bans public water fluoridation.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OH-HB406": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.84) sponsors=1a/0p; Deregulates and expands access to raw milk",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
-  },
-  "OH-HB664": {
-   "billType": "monitor",
-   "basis": "consensus",
-   "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=2a/0p)",
-   "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-HB1449": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=0a/0p; Explicitly prohibits vaccine mandates.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-HB1475": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.99) sponsors=1a/0p; Bans vaccine requirements in schools.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-HB3056": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=- text=anti(0.95) sponsors=2a/0p; Unclear if it expands or restricts sales",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-HB3838": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=1a/0p; Uses anti-discrimination framing to shield against vaccine mandates.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB14": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.70) sponsors=4a/0p; facilitates non-medical vaccine exemptions",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB1483": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.89) sponsors=0a/0p; Creates liability schemes to deter vaccine production or distribution.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB1560": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.90) sponsors=11a/0p; \"Medical freedom\" acts typically shield against public health measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB1906": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.87) sponsors=3a/0p; Bans vaccine requirements in hospitals.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB2017": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.84) sponsors=5a/0p; Bans mRNA or gene-based vaccines.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB2028": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.90) sponsors=9a/0p; Allows and expands the sale of raw milk",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB2029": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.91) sponsors=2a/0p; Medical freedom acts serve as shields against public health measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB2107": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.85) sponsors=0a/0p; Expands access to raw milk",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB422": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.90) sponsors=9a/0p; Explicitly prohibits vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB802": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.93) sponsors=3a/0p; Legislation based on conspiracy claims about vaccines in food.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "OK-SB943": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.86) sponsors=2a/0p; Medical freedom acts serve as shields against public health measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "PA-HB1201": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.94) sponsors=18a/0p; Removes regulations on raw milk",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "PA-HB1660": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.91) sponsors=13a/2p; Bans water fluoridation.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "PA-HB1828": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.86) sponsors=1a/31p; Expands vaccine coverage.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "PA-HB451": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.90) sponsors=21a/0p; Weakens enforcement of public health protocols.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "PA-HB452": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.78) sponsors=20a/0p; Undermines enforcement of public health protocols.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "PA-SB849": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.94) sponsors=0a/0p; Bans public water fluoridation.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "PA-SB989": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.83) sponsors=0a/12p; Expands vaccine coverage.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "RI-H7625": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.84) sponsors=0a/0p; Expands vaccine access and coverage by removing cost-sharing.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "RI-H7924": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.96) sponsors=0a/0p; Deregulates raw milk sales.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "RI-H8365": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.77) sponsors=0a/0p; Strengthens public health collaboration and infrastructure.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "RI-S2379": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.86) sponsors=2a/2p; expands vaccine access and coverage",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
-  },
-  "RI-S2565": {
-   "billType": "monitor",
-   "basis": "consensus",
-   "note": "Crawler said anti; not confirmed (judge=anti text=anti sponsors=0a/2p)",
-   "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "RI-S2856": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=-(0.44) sponsors=0a/2p; Expands and supports pharmacy-administered immunizations for minors.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "SC-H4009": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.77) sponsors=0a/0p; \"Medical freedom\" acts typically weaken public health measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "SC-S0343": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.95) sponsors=3a/0p; mandated informed consent scripts weaken public health",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "SC-S0741": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(1.00) sponsors=1a/0p; Restricts vaccine administration to infants.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "SD-HB1163": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.59) sponsors=4a/0p; restricts vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "SD-HB1210": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.94) sponsors=0a/0p; Explicitly prohibits vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HB1356": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.94) sponsors=2a/0p; restricts vaccine requirements in healthcare settings",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HB1669": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=- text=anti(0.98) sponsors=3a/0p; Unclear if this restricts or expands current access",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HB3465": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.88) sponsors=61a/0p; based on conspiracy claims about mRNA in the food supply",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HB3540": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=2a/1p; expands vaccine access by empowering pharmacists",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HB3705": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=7a/0p; restricts vaccine requirements for the national guard",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HB3737": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.97) sponsors=57a/0p; bans mRNA vaccines completely",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HB383": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.95) sponsors=49a/0p; restricts vaccine requirements for employers",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HB3957": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.77) sponsors=2a/0p; Restricts vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
-  },
-  "TX-HB4535": {
-   "billType": "monitor",
-   "basis": "consensus",
-   "note": "Crawler said anti; not confirmed (judge=- text=anti sponsors=225a/1p)",
-   "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HB5622": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.78) sponsors=56a/0p; restricts employers from enforcing vaccine requirements",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-HR209": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.81) sponsors=73a/0p; commemorates an anti-vaccine advocacy group",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-SB119": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.85) sponsors=7a/0p; promotes conspiracy claims regarding mRNA in the food supply",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-SB254": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.80) sponsors=0a/0p; expands vaccine access by empowering pharmacists",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-SB398": {
    "billType": "monitor",
@@ -2797,231 +2755,224 @@
    "basis": "consensus",
    "note": "One to watch: text reads pro, sponsors' other bills are 4 anti / 0 pro",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
-  },
-  "TX-SB623": {
-   "billType": "monitor",
-   "basis": "consensus",
-   "note": "Crawler said pro; not confirmed (judge=- text=anti sponsors=12a/1p)",
-   "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "TX-SR72": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=2a/0p; recognizes and legitimizes an anti-vaccine advocacy group",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "US-119-HR5691": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.95) sponsors=0a/0p; Explicitly bans or restricts vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "US-119-S908": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.78) sponsors=0a/0p; Strengthens disease surveillance and public health infrastructure.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "VA-HB537": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.83) sponsors=0a/0p; Banning water fluoridation weakens evidence-based public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "VA-HB983": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.98) sponsors=0a/0p; weakens public health by removing required immunization",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "VA-HJR24": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.91) sponsors=0a/0p; Promotes and strengthens immunization efforts.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "VT-H0060": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.94) sponsors=9a/0p; Shields individuals from public health measures based on vaccination.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "VT-H0274": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=10a/0p; Restricts health facilities from enforcing vaccination requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "VT-H0675": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.92) sponsors=5a/0p; Banning water fluoridation weakens evidence-based public health policy.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WA-HB2122": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.75) sponsors=0a/0p; Expands vaccine access and coverage.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WA-SB5783": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.94) sponsors=0a/0p; Shields against public health measures based on vaccination.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WI-AB398": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.77) sponsors=0a/0p; Expands awareness and access to non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WI-AB902": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=0a/0p; Directly restricts quarantine authority for an infectious disease.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WI-AJR10": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.77) sponsors=24a/0p; Shields specific locations from emergency health orders.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WI-AJR90": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=0a/0p; Promotes vaccination awareness.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WI-SB447": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.78) sponsors=0a/0p; Expands awareness and access to non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WI-SB891": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.79) sponsors=0a/0p; Directly restricts quarantine authority for an infectious disease.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WI-SJR4": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.76) sponsors=0a/0p; Shields specific locations from emergency health orders.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WI-SJR85": {
    "billType": "pro",
    "basis": "consensus",
    "note": "judge=pro text=pro(0.87) sponsors=0a/0p; Promotes vaccination awareness.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-HB4073": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.91) sponsors=5a/2p; Adds non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-HB4681": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.96) sponsors=15a/1p; Vaccine-injury liability scheme aimed at deterring vaccination.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-HB4947": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.95) sponsors=20a/1p; Expands non-medical exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-HB5090": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.93) sponsors=15a/1p; Bans vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-HB5111": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.85) sponsors=19a/0p; Bans vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-HB5112": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.86) sponsors=21a/0p; Restricts public-health requirements and mandates.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-HB5378": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.90) sponsors=5a/2p; Adds non-medical vaccine exemptions.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-HJR24": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.82) sponsors=0a/0p; Medical freedom shield against public health measures.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-SB237": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.97) sponsors=6a/0p; Bans vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-SB408": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=anti(0.76) sponsors=11a/0p; Shields against public-health measures and vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WV-SB731": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge=anti text=-(0.52) sponsors=5a/0p; Removes medical vaccine requirements.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   },
   "WY-HB0012": {
    "billType": "anti",
    "basis": "consensus",
    "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Bans geoengineering based on conspiracy claims.",
    "reviewer": "consensus",
-   "reviewed_at": "2026-10-05T14:04:05+00:00"
+   "reviewed_at": "2026-10-06T13:10:46+00:00"
   }
  }
 }

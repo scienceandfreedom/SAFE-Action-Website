@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T12:54:41.263301+00:00",
-  "count": 562,
+  "generated_at": "2026-10-09T12:40:30.932121+00:00",
+  "count": 563,
   "unmatched": [
     {
       "billId": "US-119-HR1111",
@@ -464,6 +464,14 @@
       "chamber": "Senate",
       "district": "SD-010",
       "name": "Aisha Wahab",
+      "role": "cosponsor"
+    },
+    {
+      "billId": "PA-HB450",
+      "state": "PA",
+      "chamber": "House",
+      "district": "HD-196",
+      "name": "Seth Grove",
       "role": "cosponsor"
     },
     {

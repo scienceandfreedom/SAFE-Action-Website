@@ -10,8 +10,11 @@ ANTHROPIC_API_KEY = ""  # never set: no Anthropic API use in CI (operator decisi
 from .sources.congress import crawl_congress_members
 from .sources.state_legislatures import crawl_all_state_legislators
 from .sources.govinfo import fetch_federal_bills
-from .sources.openstates import fetch_all_priority_legislators, fetch_all_science_bills as openstates_fetch_bills
-from .sources.legiscan import fetch_all_science_bills as legiscan_fetch_bills, refresh_tracked_bills as legiscan_refresh_bills
+from .sources.openstates import refresh_bills_from_openstates
+from .sources.legiscan import (
+    fetch_all_science_bills as legiscan_fetch_bills, refresh_tracked_bills as legiscan_refresh_bills,
+    RUN as LEGISCAN_RUN, VOTES_BUDGET, quota_exhausted as legiscan_quota_exhausted,
+)
 from .sources.news import crawl_news_articles
 from .analysis.scoring import score_legislators_batch
 from .analysis.pivotal import identify_pivotal_legislators
@@ -30,7 +33,9 @@ async def run_full_crawl(news_only: bool = False):
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
     now = datetime.now(timezone.utc).isoformat()
+    run_started = datetime.now(timezone.utc).isoformat(timespec="seconds")
     all_legislators = []
+    sources: dict = {}   # per-source status for bills.json; a failed source is never silent
 
     if not ANTHROPIC_API_KEY:
         print("WARNING: ANTHROPIC_API_KEY not set. Scoring/analysis will be skipped.")
@@ -72,7 +77,7 @@ async def run_full_crawl(news_only: bool = False):
         print(f"  Loaded {len(all_legislators)} cached legislators")
         print("[2/5] Skipped (news-only mode)")
 
-    # ── Step 2b: Bill data (LegiScan primary, Open States fallback) ──
+    # ── Step 2b: Bill data (GovInfo federal, LegiScan state search, previous run carried forward) ──
     all_bills: list[dict] = []
     bill_source = "none"
     if not news_only:
@@ -81,21 +86,32 @@ async def run_full_crawl(news_only: bool = False):
             # GovInfo: free federal bills (no API key needed)
             print("[2b/5] Fetching federal bills from GovInfo (free)...")
             all_bills = await fetch_federal_bills()
-            bill_source = "govinfo"
+            sources["govinfo"] = {"status": "ok" if all_bills else "failed", "bills": len(all_bills)}
+            complete_states = {"US"} if all_bills else set()
 
-            # Also try LegiScan for state bills if key available
+            # LegiScan searches today's slice of states (see legiscan.search_slice)
             if LEGISCAN_API_KEY:
                 print("[2b/5] Also fetching state bills via LegiScan...")
                 state_bills = await legiscan_fetch_bills()
                 all_bills.extend(state_bills)
-                bill_source = "govinfo+legiscan"
+                complete_states |= set(LEGISCAN_RUN.get("searched_states") or [])
+            else:
+                print("  WARNING LEGISCAN_API_KEY not set: no new state bills; tracked bills refreshed from Open States only")
 
-            # Fall back to Open States for state bills if no LegiScan
-            elif OPENSTATES_API_KEY:
-                print("[2b/5] Also fetching state bills via Open States...")
-                state_bills = await openstates_fetch_bills()
-                all_bills.extend(state_bills)
-                bill_source = "govinfo+openstates"
+            # Bills from every state not fully searched this run stay, so a
+            # rotated search, a quota error or an outage never shrinks the tracker.
+            kept = _merge_previous_bills(all_bills, previous_bills, complete_states)
+            if kept:
+                print(f"  Kept {kept} bills from the previous run (states not searched this run)")
+            restored = _bill_count_floor(all_bills, previous_bills)
+            if restored:
+                print(f"  ERROR bill count fell below half of the previous run; restored {restored} previous bills")
+                print(f"::warning title=Bill count floor::restored {restored} bills from the previous run")
+            sources["carried"] = {"bills": kept + restored}
+            bill_source = "+".join(
+                [n for n, ok in (("govinfo", sources["govinfo"]["status"] == "ok"),
+                                 ("legiscan", bool(LEGISCAN_RUN.get("searched_states"))),
+                                 ("carried", bool(kept + restored))) if ok]) or "none"
 
             if all_bills:
                 carried = _carry_forward_sponsorships(all_bills, previous_bills)
@@ -124,16 +140,25 @@ async def run_full_crawl(news_only: bool = False):
             print(f"  Loaded {len(all_bills)} cached bills")
 
     # ── Step 2c: Refresh tracked bills with latest status ──
-    if not news_only and all_bills and LEGISCAN_API_KEY and bill_source != "cache":
-        print("[2c/5] Refreshing tracked bill statuses via LegiScan...")
-        all_bills = await legiscan_refresh_bills(all_bills)
+    # LegiScan first (capped, skipped once its quota is gone), then Open States
+    # for the bills LegiScan did not reach this run.
+    if not news_only and all_bills and bill_source != "cache":
+        if LEGISCAN_API_KEY and not legiscan_quota_exhausted():
+            print("[2c/5] Refreshing tracked bill statuses via LegiScan...")
+            all_bills = await legiscan_refresh_bills(all_bills)
+        done = {b.get("billId") for b in all_bills
+                if b.get("statusSource") == "legiscan" and (b.get("statusCheckedAt") or "") >= run_started}
+        print("[2c/5] Refreshing tracked bill statuses via Open States...")
+        sources["openstates"] = await refresh_bills_from_openstates(all_bills, skip_ids=done)
+        if sources["openstates"].get("checked"):
+            bill_source += "+openstates"
 
     # ── Step 2d: Roll-call votes (persisted in data/rollcalls.json; immutable once fetched) ──
     rollcalls = _read_data_json("rollcalls.json") or {"rollcalls": {}, "people": {}}
     if not news_only and all_bills and bill_source != "cache":
         if LEGISCAN_API_KEY:
             print("[2d/5] Fetching state roll-call votes via LegiScan...")
-            rollcalls = await fetch_state_votes(all_bills, rollcalls, budget=60)
+            rollcalls = await fetch_state_votes(all_bills, rollcalls, budget=VOTES_BUDGET)
         try:
             from .sources.federal_votes import fetch_federal_roll_calls
             pointers = []
@@ -231,9 +256,21 @@ async def run_full_crawl(news_only: bool = False):
 
     # Include bill data if available
     if all_bills:
+        if not news_only and bill_source != "cache":
+            if LEGISCAN_API_KEY:
+                ls_status = ("quota_exceeded" if legiscan_quota_exhausted()
+                             else "ok" if LEGISCAN_RUN.get("searched_states") else "failed")
+                sources["legiscan"] = {"status": ls_status, "calls": LEGISCAN_RUN.get("calls", 0),
+                                       "searched_states": LEGISCAN_RUN.get("searched_states") or [],
+                                       "error": LEGISCAN_RUN.get("quota_error")}
+            else:
+                sources["legiscan"] = {"status": "no_key", "calls": 0}
+            print(f"  Bill sources: {_sources_line(sources)}")
         output_files["bills.json"] = {
             "generated_at": now,
             "source": bill_source,
+            "complete": all(v.get("status", "ok") == "ok" for v in sources.values()),
+            "sources": sources,
             "total": len(all_bills),
             "bills": all_bills,
         }
@@ -281,6 +318,44 @@ def _read_data_json(name: str, key: str | None = None):
     if key and isinstance(doc, dict):
         return doc.get(key)
     return doc
+
+
+def _merge_previous_bills(fresh: list[dict], previous: list[dict], complete_states: set[str]) -> int:
+    """Append previous bills that this run did not re-find, unless their state was fully searched.
+
+    A fully searched state keeps the old replace-on-search behavior; every
+    other state (outside today's search slice, a failed search, LegiScan out
+    of quota) keeps what the last run had. Returns how many were kept.
+    """
+    have = {b.get("billId") for b in fresh}
+    kept = 0
+    for b in previous:
+        if not isinstance(b, dict) or not b.get("billId") or b["billId"] in have:
+            continue
+        if (b.get("state") or "").upper() in complete_states:
+            continue
+        fresh.append(b)
+        have.add(b["billId"])
+        kept += 1
+    return kept
+
+
+def _bill_count_floor(fresh: list[dict], previous: list[dict], floor: float = 0.5) -> int:
+    """If this run has less than *floor* of the previous run's bills, put the missing ones back.
+
+    Guards against a search that "succeeds" with almost nothing. Returns how many were restored.
+    """
+    if not previous or len(fresh) >= floor * len(previous):
+        return 0
+    have = {b.get("billId") for b in fresh}
+    restored = [b for b in previous if isinstance(b, dict) and b.get("billId") and b["billId"] not in have]
+    fresh.extend(restored)
+    return len(restored)
+
+
+def _sources_line(sources: dict) -> str:
+    return "; ".join(f"{k} {v.get('status', 'ok')}" + (f" ({v['error']})" if v.get("error") else "")
+                     for k, v in sources.items())
 
 
 def _apply_stance_overrides(bills: list[dict]) -> int:

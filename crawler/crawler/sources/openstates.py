@@ -611,7 +611,7 @@ async def refresh_bills_from_openstates(bills: list[dict], skip_ids: set[str] | 
     Returns run stats for the bills.json ``sources`` block; ``status`` is one of
     ok / partial / failed / no_key.
     """
-    stats: dict[str, Any] = {"status": "ok", "calls": 0, "checked": 0, "updated": 0, "error": None}
+    stats: dict[str, Any] = {"status": "ok", "calls": 0, "checked": 0, "updated": 0, "unmatched": 0, "error": None}
     if not OPENSTATES_API_KEY and fetch is None:
         stats["status"] = "no_key"
         print("  WARNING Open States refresh skipped: OPENSTATES_API_KEY not set")
@@ -677,9 +677,14 @@ async def refresh_bills_from_openstates(bills: list[dict], skip_ids: set[str] | 
             fails = 0
             for b in batch:
                 hit = os_pick(results, b)
-                if hit is not None and apply_os_update(b, hit, now):
-                    stats["updated"] += 1
-                elif hit is None and not truncated:
+                if hit is not None:
+                    if apply_os_update(b, hit, now):
+                        stats["updated"] += 1
+                elif any(os_ident_key(r.get("identifier")) == os_ident_key(b.get("billNumber"))
+                         for r in results if isinstance(r, dict)):
+                    stats["unmatched"] += 1      # same number, different title: not ours, not "checked"
+                    continue
+                elif not truncated:
                     b["statusCheckedAt"] = now   # nothing new since action_since
                 stats["checked"] += 1
 
@@ -691,7 +696,7 @@ async def refresh_bills_from_openstates(bills: list[dict], skip_ids: set[str] | 
     if stats["status"] == "ok" and stats["error"]:
         stats["status"] = "partial"
     print(f"  Open States refresh: {stats['checked']} bills checked, {stats['updated']} updated, "
-          f"{stats['calls']} calls, status {stats['status']}" + (f" ({stats['error']})" if stats["error"] else ""))
+          f"{stats['unmatched']} unmatched (same number, other title), {stats['calls']} calls, status {stats['status']}" + (f" ({stats['error']})" if stats["error"] else ""))
     if stats["status"] in ("failed", "partial"):
         print(f"::warning title=Open States refresh {stats['status']}::{stats['error']}")
     return stats

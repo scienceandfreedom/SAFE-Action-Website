@@ -220,6 +220,13 @@ def test_refresh_updates_bills_and_reports_ok():
     assert bills[0]["lastActionDate"] == "2026-03-23"
 
 
+def test_refresh_counts_title_mismatch_as_unmatched_not_checked():
+    bills = [dict(MN_BILL)]
+    stats, _ = _run_refresh(bills, [(200, {"results": [OS_OLD_SESSION], "pagination": {"max_page": 1}}, {})])
+    assert stats["unmatched"] == 1 and stats["checked"] == 0
+    assert "statusCheckedAt" not in bills[0]
+
+
 def test_refresh_stops_on_rate_limit_and_says_so():
     bills = [_b(f"{st}-HB1", st, level="State") for st in ("TX", "CA", "MN", "WA")]
     stats, calls = _run_refresh(bills, [(429, None, {})])

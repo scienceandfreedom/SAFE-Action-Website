@@ -5,7 +5,7 @@ import asyncio
 import sys
 from datetime import datetime, timezone
 
-from .config import DATA_DIR, CACHE_DIR, PRIORITY_STATES, OPENSTATES_API_KEY, LEGISCAN_API_KEY
+from .config import DATA_DIR, CACHE_DIR, PRIORITY_STATES, LEGISCAN_API_KEY
 ANTHROPIC_API_KEY = ""  # never set: no Anthropic API use in CI (operator decision 2026-08-21)
 from .sources.congress import crawl_congress_members
 from .sources.state_legislatures import crawl_all_state_legislators

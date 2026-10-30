@@ -2,8 +2,11 @@
 
 Uses the LegiScan Pull API (https://legiscan.com/legiscan) to search for
 and fetch detailed bill data across all 50 states + Congress.  The free
-tier allows 30,000 requests per 30-day rolling window — more than enough
-for daily refreshes of ~50-100 tracked bills plus periodic keyword searches.
+tier allows 10,000 queries per calendar month (resets on the 1st). The old
+budget assumed 30,000 and spent ~1,000 a day, so the key ran out on
+2026-10-11 and every state bill went stale. The daily budget is now
+DAILY_BUDGET (250, about 7,750 a month) and a quota error stops all further
+LegiScan calls for the run (see RUN and quota_exhausted()).
 
 Bill data is normalised to the same schema used by the SAFE Action website
 (``data/bills.json``), including SAFE-specific fields like ``billType``,
@@ -12,7 +15,7 @@ Bill data is normalised to the same schema used by the SAFE Action website
 
 import asyncio
 import re
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from typing import Any
 
 import httpx
@@ -26,6 +29,34 @@ from ..config import (
 from ..utils.rate_limiter import RateLimiter
 
 rate_limiter = RateLimiter(LEGISCAN_RATE_LIMIT)
+
+# ── Daily query budget (10,000/month cap; 250/day leaves ~2,250 headroom) ──
+# Search rotates through the jurisdictions: each day covers 1/SEARCH_ROTATION_DAYS
+# of them (12 queries x 7-8 jurisdictions = 84-96 calls), so every state is
+# re-searched weekly; main.py carries the other states' bills forward.
+SEARCH_ROTATION_DAYS = 7
+ENRICH_CAP = 25      # getBill on new search hits
+REFRESH_CAP = 95     # getBill status refresh of tracked bills (Open States covers the rest)
+VOTES_BUDGET = 30    # getSessionPeople / getRollCall
+DAILY_BUDGET = 250   # <=96 search + 25 enrich + 95 refresh + 30 votes = 246
+
+# Per-run state shared by every LegiScan caller (including legiscan_votes).
+# Once the API reports the monthly quota is used up, _api_call stops making
+# HTTP requests for the rest of the run instead of logging hundreds of errors.
+RUN: dict[str, Any] = {"calls": 0, "errors": 0, "quota_error": None, "searched_states": []}
+
+_QUOTA_WORDS = ("exceeded maximum query count", "query limit", "quota", "exceeded")
+
+
+def quota_exhausted() -> bool:
+    return bool(RUN.get("quota_error"))
+
+
+def search_slice(states: list[str], today: date | None = None) -> list[str]:
+    """The jurisdictions searched today: every SEARCH_ROTATION_DAYS-th state, offset by the date."""
+    today = today or datetime.now(timezone.utc).date()
+    k = today.toordinal() % SEARCH_ROTATION_DAYS
+    return list(states)[k::SEARCH_ROTATION_DAYS]
 
 # ── Keywords that signal science/health/vaccine bills ───────────────────
 
@@ -528,7 +559,10 @@ async def _api_call(client: httpx.AsyncClient, op: str, **params) -> dict | None
 
     Returns the parsed JSON body, or None on failure.
     """
+    if RUN["quota_error"]:
+        return None
     await rate_limiter.wait(LEGISCAN_BASE_URL)
+    RUN["calls"] += 1
 
     query_params = {
         "key": LEGISCAN_API_KEY,
@@ -542,7 +576,14 @@ async def _api_call(client: httpx.AsyncClient, op: str, **params) -> dict | None
         data = resp.json()
 
         if data.get("status") == "ERROR":
-            print(f"  LegiScan API error: {data.get('alert', {}).get('message', 'Unknown error')}")
+            msg = str((data.get("alert") or {}).get("message", "Unknown error"))
+            RUN["errors"] += 1
+            if any(w in msg.lower() for w in _QUOTA_WORDS):
+                RUN["quota_error"] = msg[:160]
+                print(f"  ERROR LegiScan quota reached, no more LegiScan calls this run: {msg[:160]}")
+                print(f"::warning title=LegiScan quota reached::{msg[:160]}")
+            else:
+                print(f"  LegiScan API error: {msg}")
             return None
 
         return data
@@ -603,23 +644,25 @@ async def get_bill_detail(bill_id: int) -> dict | None:
 
 
 async def fetch_all_science_bills(states: list[str] | None = None) -> list[dict]:
-    """Search all priority states for science/health bills via LegiScan.
+    """Search today's slice of states for science/health bills via LegiScan.
 
     Returns normalised bill dicts matching the SAFE Action bills.json schema.
     Deduplicates by billId. Tracks API request count to stay within budget.
+    RUN["searched_states"] lists the states whose every query succeeded; only
+    those may drop bills that were not re-found (main.py carries the rest).
     """
+    RUN["searched_states"] = []
     if not LEGISCAN_API_KEY:
         print("  LegiScan API key not configured, skipping bill search")
         return []
 
-    target_states = states or PRIORITY_STATES
+    target_states = states or search_slice(PRIORITY_STATES)
+    print(f"  LegiScan search slice today: {', '.join(target_states)}")
     all_bills: dict[str, dict] = {}  # keyed by billId for dedup
-    # 30k/month LegiScan quota ~= 1k/day. Split so a search overrun can
-    # never starve enrichment again: 620 search + 150 enrich + the 200-cap
-    # refresh_tracked_bills pass stays under 1k/day.
-    search_budget = 620
-    request_budget = 800  # total ceiling (search + enrich)
+    search_budget = len(SEARCH_QUERIES) * len(target_states)
+    request_budget = search_budget + ENRICH_CAP  # total ceiling (search + enrich)
     requests_used = 0
+    failed_states: set[str] = set()
     bills_enriched = 0
 
     async with httpx.AsyncClient() as client:
@@ -629,13 +672,16 @@ async def fetch_all_science_bills(states: list[str] | None = None) -> list[dict]
         # state-major loop silently dropped every state after SC).
         per_state_new: dict[str, int] = {}
         for query in SEARCH_QUERIES:
-            if requests_used >= search_budget:
-                print(f"  ⚠ Search budget reached ({requests_used}), stopping search")
+            if requests_used >= search_budget or quota_exhausted():
+                print(f"  ⚠ Search stopped after {requests_used} calls"
+                      + (" (quota)" if quota_exhausted() else " (budget)"))
+                failed_states.update(s.upper() for s in target_states)
                 break
 
             for state in target_states:
-                if requests_used >= search_budget:
-                    break
+                if requests_used >= search_budget or quota_exhausted():
+                    failed_states.add(state.upper())
+                    continue
 
                 data = await _api_call(client, "getSearch",
                                        state=state.upper(),
@@ -644,6 +690,7 @@ async def fetch_all_science_bills(states: list[str] | None = None) -> list[dict]
                 requests_used += 1
 
                 if data is None:
+                    failed_states.add(state.upper())
                     continue
 
                 searchresult = data.get("searchresult", {})
@@ -693,12 +740,12 @@ async def fetch_all_science_bills(states: list[str] | None = None) -> list[dict]
         )
 
         enriched_bills: dict[str, dict] = {}
-        max_enrich = min(len(candidates), 50)  # search-result enrichment; the refresh queue below does the targeted work
+        max_enrich = min(len(candidates), ENRICH_CAP)  # search-result enrichment; the refresh queue below does the targeted work
 
         print(f"  Enriching top {max_enrich} bills with full details...")
         for entry in candidates[:max_enrich]:
-            if requests_used >= request_budget:
-                print(f"  ⚠ Budget reached ({requests_used}), stopping enrichment")
+            if requests_used >= request_budget or quota_exhausted():
+                print(f"  ⚠ Enrichment stopped after {requests_used} calls")
                 break
 
             legiscan_id = entry.get("_legiscan_bill_id")
@@ -780,13 +827,15 @@ async def fetch_all_science_bills(states: list[str] | None = None) -> list[dict]
             }
 
     result = list(enriched_bills.values())
+    RUN["searched_states"] = [s.upper() for s in target_states if s.upper() not in failed_states]
+    if failed_states:
+        print(f"  WARNING LegiScan search incomplete for {len(failed_states)} states; their previous bills are kept")
     print(f'  LegiScan search complete: {len(result)} bills, {bills_enriched} enriched ({requests_used} API requests)')
     return result
 
 
 # ── Refresh existing tracked bills ───────────────────────────────────────
 
-REFRESH_CAP = 240   # daily budget: ~612 search + 50 enrich + 240 refresh + 60 votes < 1,000; refresh prioritises anti/pro bills lacking sponsors
 
 
 async def refresh_tracked_bills(existing_bills: list[dict]) -> list[dict]:
@@ -795,7 +844,7 @@ async def refresh_tracked_bills(existing_bills: list[dict]) -> list[dict]:
     Returns the updated list. Bills without a LegiScan ID are passed through
     unchanged.
     """
-    if not LEGISCAN_API_KEY or not existing_bills:
+    if not LEGISCAN_API_KEY or not existing_bills or quota_exhausted():
         return existing_bills
 
     print(f"  Refreshing {len(existing_bills)} tracked bills via LegiScan...")
@@ -834,6 +883,8 @@ async def refresh_tracked_bills(existing_bills: list[dict]) -> list[dict]:
             if not legiscan_id:
                 continue
 
+            if quota_exhausted():
+                break
             data = await _api_call(client, "getBill", id=legiscan_id)
             requests_used += 1
 
@@ -851,6 +902,8 @@ async def refresh_tracked_bills(existing_bills: list[dict]) -> list[dict]:
             bill["lastAction"] = fresh.get("last_action", bill.get("lastAction", ""))
             bill["lastActionDate"] = fresh.get("last_action_date", bill.get("lastActionDate", ""))
             bill["sourceUrl"] = fresh.get("url", "") or bill.get("sourceUrl", "")
+            bill["statusSource"] = "legiscan"
+            bill["statusCheckedAt"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
             # Roll-call summaries and session id ride along too; keep them.
             rcs = _roll_call_summaries(fresh)

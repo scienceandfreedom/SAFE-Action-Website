@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:12:25.796200+00:00",
+  "generated_at": "2026-11-01T12:45:18.140482+00:00",
   "targets": [
     {
       "legislator_id": "RI-Senate-Whitehouse",
@@ -20540,6 +20540,24 @@
       }
     },
     {
+      "legislator_id": "CO-State-House-González-32",
+      "name": "María González",
+      "state": "CO",
+      "party": "Democratic",
+      "reason": "Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
       "legislator_id": "CO-State-Senate-Catlin-5",
       "name": "Marc Catlin",
       "state": "CO",
@@ -29908,6 +29926,24 @@
       "persuadability_category": "unknown",
       "outreach_priority": 3,
       "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
+      "legislator_id": "GA-State-Senate-Sims-12",
+      "name": "Freddie Sims",
+      "state": "GA",
+      "party": "Democratic",
+      "reason": "Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
       "flags": {
         "is_committee_chair": false,
         "is_health_committee": false,
@@ -43292,24 +43328,6 @@
       }
     },
     {
-      "legislator_id": "IA-State-House-Dunwell-38",
-      "name": "Jon Dunwell",
-      "state": "IA",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "IA-State-House-Turek-20",
       "name": "Josh Turek",
       "state": "IA",
@@ -51520,24 +51538,6 @@
     {
       "legislator_id": "LA-State-Senate-Abraham-25",
       "name": "Mark Abraham",
-      "state": "LA",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
-      "legislator_id": "LA-State-House-Wright-77",
-      "name": "Mark Wright",
       "state": "LA",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
@@ -76377,7 +76377,7 @@
     },
     {
       "legislator_id": "MT-State-House-Smith-31",
-      "name": "Frank Smith",
+      "name": "Frank J. Smith",
       "state": "MT",
       "party": "Democratic",
       "reason": "Fence-sitter — persuadable",
@@ -89786,24 +89786,6 @@
       }
     },
     {
-      "legislator_id": "NM-State-House-Reeb-64",
-      "name": "Andi Reeb",
-      "state": "NM",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "NM-State-House-Romero-46",
       "name": "Andrea Romero",
       "state": "NM",
@@ -94541,7 +94523,7 @@
       "legislator_id": "NY-State-Senate-Helming-54",
       "name": "Pam Helming",
       "state": "NY",
-      "party": "Republican/Conservative/Independence",
+      "party": "Republican/Conservative",
       "reason": "Fence-sitter — persuadable",
       "persuadability_category": "unknown",
       "outreach_priority": 3,
@@ -101702,24 +101684,6 @@
       }
     },
     {
-      "legislator_id": "OH-State-House-Swearingen-89",
-      "name": "D.J. Swearingen",
-      "state": "OH",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "OH-State-House-Isaacsohn-24",
       "name": "Dani Isaacsohn",
       "state": "OH",
@@ -103072,6 +103036,24 @@
     {
       "legislator_id": "OH-State-House-Oelslager-48",
       "name": "Scott Oelslager",
+      "state": "OH",
+      "party": "Republican",
+      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
+      "legislator_id": "OH-State-House-Hutson-66",
+      "name": "Sean Hutson",
       "state": "OH",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
@@ -104770,24 +104752,6 @@
       "persuadability_category": "unknown",
       "outreach_priority": 3,
       "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
-      "legislator_id": "OK-State-House-Waldron-77",
-      "name": "John Waldron",
-      "state": "OK",
-      "party": "Democratic",
-      "reason": "Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
       "flags": {
         "is_committee_chair": false,
         "is_health_committee": false,
@@ -126614,24 +126578,6 @@
       }
     },
     {
-      "legislator_id": "UT-State-House-Lee-16",
-      "name": "Trevor Lee",
-      "state": "UT",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "UT-State-House-Shelley-66",
       "name": "Troy Shelley",
       "state": "UT",
@@ -127154,24 +127100,6 @@
       }
     },
     {
-      "legislator_id": "VT-State-House-Toof-Franklin-8",
-      "name": "Casey Toof",
-      "state": "VT",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "VT-State-House-Kimbell-Windsor-5",
       "name": "Charlie Kimbell",
       "state": "VT",
@@ -127246,24 +127174,6 @@
     {
       "legislator_id": "VT-State-House-Pritchard-Rutland-Bennington",
       "name": "Chris Pritchard",
-      "state": "VT",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
-      "legislator_id": "VT-State-House-Taylor-Chittenden-Franklin",
-      "name": "Chris Taylor",
       "state": "VT",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
@@ -127462,6 +127372,24 @@
     {
       "legislator_id": "VT-State-Senate-Weeks-Rutland",
       "name": "Dave Weeks",
+      "state": "VT",
+      "party": "Republican",
+      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
+      "legislator_id": "VT-State-House-Soucy-Washington-Orange",
+      "name": "David Soucy",
       "state": "VT",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
@@ -127730,24 +127658,6 @@
       }
     },
     {
-      "legislator_id": "VT-State-House-McFaun-Washington-Orange",
-      "name": "Topper McFaun",
-      "state": "VT",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "VT-State-House-Pezzo-Chittenden-20",
       "name": "Gayle Pezzo",
       "state": "VT",
@@ -127802,24 +127712,6 @@
       }
     },
     {
-      "legislator_id": "VT-State-House-Surprenant-Windsor-4",
-      "name": "Heather Surprenant",
-      "state": "VT",
-      "party": "Democratic",
-      "reason": "Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "VT-State-House-Olson-Addison-4",
       "name": "Herb Olson",
       "state": "VT",
@@ -127856,8 +127748,8 @@
       }
     },
     {
-      "legislator_id": "VT-State-House-Gregoire-Franklin-6",
-      "name": "James Gregoire",
+      "legislator_id": "VT-State-House-Brigham-Franklin-8",
+      "name": "Jack Brigham",
       "state": "VT",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
@@ -127874,8 +127766,8 @@
       }
     },
     {
-      "legislator_id": "VT-State-House-Harrison-Rutland-11",
-      "name": "Jim Harrison",
+      "legislator_id": "VT-State-House-Gregoire-Franklin-6",
+      "name": "James Gregoire",
       "state": "VT",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
@@ -128018,6 +127910,24 @@
       }
     },
     {
+      "legislator_id": "VT-State-Senate-Benson-Orange",
+      "name": "John Benson",
+      "state": "VT",
+      "party": "Republican",
+      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
       "legislator_id": "VT-State-House-Kascenska-Essex-Caledonia",
       "name": "John Kascenska",
       "state": "VT",
@@ -128062,6 +127972,24 @@
       "persuadability_category": "unknown",
       "outreach_priority": 3,
       "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
+      "legislator_id": "VT-State-Senate-Morley-Orleans",
+      "name": "John S Morley",
+      "state": "VT",
+      "party": "Republican",
+      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
       "flags": {
         "is_committee_chair": false,
         "is_health_committee": false,
@@ -128146,6 +128074,24 @@
     {
       "legislator_id": "VT-State-House-Dolan-Chittenden-22",
       "name": "Karen Dolan",
+      "state": "VT",
+      "party": "Democratic",
+      "reason": "Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
+      "legislator_id": "VT-State-House-Lueders-Addison-4",
+      "name": "Karen Lueders",
       "state": "VT",
       "party": "Democratic",
       "reason": "Fence-sitter — persuadable",
@@ -128324,6 +128270,24 @@
       }
     },
     {
+      "legislator_id": "VT-State-House-Scully-Chittenden-18",
+      "name": "Kevin Scully",
+      "state": "VT",
+      "party": "Democratic",
+      "reason": "Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
       "legislator_id": "VT-State-House-Winter-Rutland-Windsor",
       "name": "Kevin Winter",
       "state": "VT",
@@ -128378,8 +128342,8 @@
       }
     },
     {
-      "legislator_id": "VT-State-Senate-Hart-Orange",
-      "name": "Larry Hart",
+      "legislator_id": "VT-State-House-Long-Chittenden-Franklin",
+      "name": "Kumulia Long",
       "state": "VT",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
@@ -128594,24 +128558,6 @@
       }
     },
     {
-      "legislator_id": "VT-State-House-Cordes-Addison-4",
-      "name": "Mari Cordes",
-      "state": "VT",
-      "party": "Democratic/Progressive",
-      "reason": "Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "VT-State-House-Higley-Orleans-Lamoille",
       "name": "Mark Higley",
       "state": "VT",
@@ -128782,6 +128728,24 @@
       "persuadability_category": "unknown",
       "outreach_priority": 3,
       "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
+      "legislator_id": "VT-State-House-Hoyt-Windsor-4",
+      "name": "Michael Hoyt",
+      "state": "VT",
+      "party": "Democratic",
+      "reason": "Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
       "flags": {
         "is_committee_chair": false,
         "is_health_committee": false,
@@ -129278,24 +129242,6 @@
       }
     },
     {
-      "legislator_id": "VT-State-House-Hooper-Chittenden-18",
-      "name": "Bob Hooper",
-      "state": "VT",
-      "party": "Democratic",
-      "reason": "Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
       "legislator_id": "VT-State-Senate-Norris-Franklin",
       "name": "Bob Norris",
       "state": "VT",
@@ -129376,24 +129322,6 @@
       "persuadability_category": "unknown",
       "outreach_priority": 3,
       "recommended_approach": "Share constituent stories and local health data. Focus on common ground and the practical impact on their district.",
-      "flags": {
-        "is_committee_chair": false,
-        "is_health_committee": false,
-        "has_science_background": false,
-        "background_type": null,
-        "is_ranking_member": false,
-        "committee_relevance": null
-      }
-    },
-    {
-      "legislator_id": "VT-State-Senate-Douglass-Orleans",
-      "name": "Sam Douglass",
-      "state": "VT",
-      "party": "Republican",
-      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
-      "persuadability_category": "unknown",
-      "outreach_priority": 3,
-      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
       "flags": {
         "is_committee_chair": false,
         "is_health_committee": false,
@@ -129784,6 +129712,24 @@
     {
       "legislator_id": "VT-State-House-Coffin-Windsor-2",
       "name": "V.L. Coffin",
+      "state": "VT",
+      "party": "Republican",
+      "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",
+      "persuadability_category": "unknown",
+      "outreach_priority": 3,
+      "recommended_approach": "Frame science policy as individual liberty and parental rights. Emphasize informed consent and government transparency over mandates.",
+      "flags": {
+        "is_committee_chair": false,
+        "is_health_committee": false,
+        "has_science_background": false,
+        "background_type": null,
+        "is_ranking_member": false,
+        "committee_relevance": null
+      }
+    },
+    {
+      "legislator_id": "VT-State-House-Taylor-Rutland-11",
+      "name": "Valorie Taylor",
       "state": "VT",
       "party": "Republican",
       "reason": "Republican — cross-aisle potential + Fence-sitter — persuadable",

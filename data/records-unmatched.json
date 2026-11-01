@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T12:12:25.796200+00:00",
-  "count": 563,
+  "generated_at": "2026-11-01T12:45:18.140482+00:00",
+  "count": 565,
   "unmatched": [
     {
       "billId": "US-119-HR1111",
@@ -65,6 +65,14 @@
       "district": "SD-004",
       "name": "Charles Creighton",
       "role": "cosponsor"
+    },
+    {
+      "billId": "UT-HB0152",
+      "state": "UT",
+      "chamber": "House",
+      "district": "HD-016",
+      "name": "Trevor Lee",
+      "role": "primary"
     },
     {
       "billId": "CA-ACR219",
@@ -344,6 +352,14 @@
       "chamber": "House",
       "district": "HD-005",
       "name": "Meredith Lawson-Rowe",
+      "role": "primary"
+    },
+    {
+      "billId": "OH-HB346",
+      "state": "OH",
+      "chamber": "House",
+      "district": "HD-089",
+      "name": "D. J. Swearingen",
       "role": "primary"
     },
     {
@@ -1929,6 +1945,16 @@
     {
       "rollCallKey": "LS-1696545",
       "billId": "LA-HB926",
+      "name": "Mark Wright",
+      "state": "LA",
+      "chamber": "House",
+      "district": "HD-077",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1696545",
+      "billId": "LA-HB926",
       "name": "Kellee Dickerson",
       "state": "LA",
       "chamber": "House",
@@ -1953,6 +1979,16 @@
       "state": "OK",
       "chamber": "House",
       "district": "HD-089",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1692885",
+      "billId": "OK-SB2028",
+      "name": "John Waldron",
+      "state": "OK",
+      "chamber": "House",
+      "district": "HD-077",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -4307,6 +4343,16 @@
       "kind": "vote"
     },
     {
+      "rollCallKey": "LS-1627425",
+      "billId": "NM-HB156",
+      "name": "Andrea Reeb",
+      "state": "NM",
+      "chamber": "House",
+      "district": "HD-064",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
       "rollCallKey": "LS-1707836",
       "billId": "RI-S2379",
       "name": "Julie Casimiro",
@@ -4649,6 +4695,16 @@
     {
       "rollCallKey": "LS-1511922",
       "billId": "IA-HF299",
+      "name": "Jon Dunwell",
+      "state": "IA",
+      "chamber": "House",
+      "district": "HD-038",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1511922",
+      "billId": "IA-HF299",
       "name": "Sami Scheetz",
       "state": "IA",
       "chamber": "House",
@@ -4703,6 +4759,16 @@
       "state": "LA",
       "chamber": "House",
       "district": "HD-092",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1703691",
+      "billId": "LA-SCR37",
+      "name": "Mark Wright",
+      "state": "LA",
+      "chamber": "House",
+      "district": "HD-077",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -4793,6 +4859,16 @@
       "state": "ND",
       "chamber": "House",
       "district": "HD-011",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1707741",
+      "billId": "OH-HB664",
+      "name": "D. J. Swearingen",
+      "state": "OH",
+      "chamber": "House",
+      "district": "HD-089",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -5089,90 +5165,20 @@
     {
       "rollCallKey": "LS-1616510",
       "billId": "VT-H0545",
-      "name": "Philip Hooper",
+      "name": "Francis McFaun",
       "state": "VT",
       "chamber": "House",
-      "district": "HD-ORA",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1616510",
-      "billId": "VT-H0545",
-      "name": "Robert Hooper",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-CHI18",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1616510",
-      "billId": "VT-H0545",
-      "name": "Michael Hoyt",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-WIN4",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1616510",
-      "billId": "VT-H0545",
-      "name": "Karen Lueders",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-ADD4",
+      "district": "HD-WAS",
       "reason": "unresolved",
       "kind": "vote"
     },
     {
       "rollCallKey": "LS-1661170",
       "billId": "VT-H0545",
-      "name": "Philip Hooper",
+      "name": "Francis McFaun",
       "state": "VT",
       "chamber": "House",
-      "district": "HD-ORA",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1661170",
-      "billId": "VT-H0545",
-      "name": "Robert Hooper",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-CHI18",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1661170",
-      "billId": "VT-H0545",
-      "name": "Michael Hoyt",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-WIN4",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1661170",
-      "billId": "VT-H0545",
-      "name": "Karen Lueders",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-ADD4",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1661170",
-      "billId": "VT-H0545",
-      "name": "Jack Brigham",
-      "state": "VT",
-      "chamber": "House",
-      "district": "HD-FRA8",
+      "district": "HD-WAS",
       "reason": "unresolved",
       "kind": "vote"
     },
@@ -5503,6 +5509,16 @@
       "state": "ND",
       "chamber": "House",
       "district": "HD-011",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1495855",
+      "billId": "ND-HB1457",
+      "name": "Cynthia Schreiber-Beck",
+      "state": "ND",
+      "chamber": "House",
+      "district": "HD-025",
       "reason": "unresolved",
       "kind": "vote"
     }

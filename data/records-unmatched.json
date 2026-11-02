@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:45:18.140482+00:00",
+  "generated_at": "2026-11-02T14:53:52.650124+00:00",
   "count": 565,
   "unmatched": [
     {
@@ -5193,36 +5193,6 @@
       "kind": "vote"
     },
     {
-      "rollCallKey": "LS-1552805",
-      "billId": "NV-AB487",
-      "name": "Ken Gray",
-      "state": "NV",
-      "chamber": "House",
-      "district": "HD-039",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1552805",
-      "billId": "NV-AB487",
-      "name": "Thaddeus Yurek",
-      "state": "NV",
-      "chamber": "House",
-      "district": "HD-019",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
-      "rollCallKey": "LS-1576759",
-      "billId": "NV-AB487",
-      "name": "Michelee Cruz-Crawford",
-      "state": "NV",
-      "chamber": "Senate",
-      "district": "SD-001",
-      "reason": "unresolved",
-      "kind": "vote"
-    },
-    {
       "rollCallKey": "LS-1541893",
       "billId": "MT-SB474",
       "name": "Ed Stafman",
@@ -5519,6 +5489,36 @@
       "state": "ND",
       "chamber": "House",
       "district": "HD-025",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1495855",
+      "billId": "ND-HB1457",
+      "name": "Emily O'Brien",
+      "state": "ND",
+      "chamber": "House",
+      "district": "HD-042",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1495855",
+      "billId": "ND-HB1457",
+      "name": "Jared Hagert",
+      "state": "ND",
+      "chamber": "House",
+      "district": "HD-020",
+      "reason": "unresolved",
+      "kind": "vote"
+    },
+    {
+      "rollCallKey": "LS-1495855",
+      "billId": "ND-HB1457",
+      "name": "Liz Conmy",
+      "state": "ND",
+      "chamber": "House",
+      "district": "HD-011",
       "reason": "unresolved",
       "kind": "vote"
     }

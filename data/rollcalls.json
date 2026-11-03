@@ -396381,6 +396381,4192 @@
           "vote": "Yea"
         }
       ]
+    },
+    "LS-1695604": {
+      "key": "LS-1695604",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-07",
+      "desc": "House: Third Reading Amd (l.023)",
+      "yea": 46,
+      "nay": 18,
+      "nv": 0,
+      "absent": 1,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29691",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1695605": {
+      "key": "LS-1695605",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-07",
+      "desc": "House: Third Reading Amd (l.025)",
+      "yea": 44,
+      "nay": 20,
+      "nv": 0,
+      "absent": 1,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29693",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1695606": {
+      "key": "LS-1695606",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-07",
+      "desc": "House: Third Reading Bill",
+      "yea": 45,
+      "nay": 19,
+      "nv": 0,
+      "absent": 1,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29694",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1695607": {
+      "key": "LS-1695607",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-07",
+      "desc": "House: Third Reading Perm",
+      "yea": 49,
+      "nay": 15,
+      "nv": 0,
+      "absent": 1,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29692",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1695608": {
+      "key": "LS-1695608",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-07",
+      "desc": "House: Third Reading Perm",
+      "yea": 51,
+      "nay": 13,
+      "nv": 0,
+      "absent": 1,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29690",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1696289": {
+      "key": "LS-1696289",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-11",
+      "desc": "Senate Health &amp; Human Services: Refer House Bill 26-1425 to the Committee on Appropriations.",
+      "yea": 5,
+      "nay": 0,
+      "nv": 0,
+      "absent": 2,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30962/votes/45532",
+      "votes": [
+        {
+          "people_id": 18723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19048,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23104,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23958,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26072,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696561": {
+      "key": "LS-1696561",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-05",
+      "desc": "House Appropriations: Adopt amendment J.002",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30735/votes/45578",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696562": {
+      "key": "LS-1696562",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-05",
+      "desc": "House Appropriations: Adopt amendment L.006",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30735/votes/45571",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696563": {
+      "key": "LS-1696563",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-05",
+      "desc": "House Appropriations: Adopt amendment L.007",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30735/votes/45572",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696564": {
+      "key": "LS-1696564",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-05",
+      "desc": "House Appropriations: Adopt amendment L.008",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30735/votes/45573",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696565": {
+      "key": "LS-1696565",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-05",
+      "desc": "House Appropriations: Adopt amendment L.009",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30735/votes/45574",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696566": {
+      "key": "LS-1696566",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-05",
+      "desc": "House Appropriations: Adopt amendment L.010",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30735/votes/45575",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696567": {
+      "key": "LS-1696567",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-05",
+      "desc": "House Appropriations: Adopt amendment L.011",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30735/votes/45576",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696568": {
+      "key": "LS-1696568",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-05",
+      "desc": "House Appropriations: Adopt amendment L.012",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30735/votes/45577",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696803": {
+      "key": "LS-1696803",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-11",
+      "desc": "Senate Appropriations: Refer House Bill 26-1425 to the Committee of the Whole.",
+      "yea": 5,
+      "nay": 2,
+      "nv": 0,
+      "absent": 0,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30995/votes/45623",
+      "votes": [
+        {
+          "people_id": 3329,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18939,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19048,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20029,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22456,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23972,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1697521": {
+      "key": "LS-1697521",
+      "billId": "CO-HB1425",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-13",
+      "desc": "Senate: Third Reading Bill",
+      "yea": 32,
+      "nay": 3,
+      "nv": 0,
+      "absent": 0,
+      "total": 35,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/30025",
+      "votes": [
+        {
+          "people_id": 3329,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 15133,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16583,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18710,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18939,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19048,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19200,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19512,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20026,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20029,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20031,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20126,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20131,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20136,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20138,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20140,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20159,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22456,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22457,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22458,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23104,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23958,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23969,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23970,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23972,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26326,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26327,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26447,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26492,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1690112": {
+      "key": "LS-1690112",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-04-27",
+      "desc": "House State, Civic, Military, &amp; Veterans Affairs: Refer House Bill 26-1422, as amended, to the Committee on Appropriations.",
+      "yea": 8,
+      "nay": 3,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30543/votes/44952",
+      "votes": [
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1695253": {
+      "key": "LS-1695253",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-04-27",
+      "desc": "House State, Civic, Military, &amp; Veterans Affairs: Adopt a conceptual amendment to amendment L.002 on page 1, line 9, add \"strike\" before \"lines\".",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30543/votes/45386",
+      "votes": [
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1695254": {
+      "key": "LS-1695254",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-04-27",
+      "desc": "House State, Civic, Military, &amp; Veterans Affairs: Adopt amendment L.001 (Attachment B).",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30543/votes/45384",
+      "votes": [
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1695255": {
+      "key": "LS-1695255",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-04-27",
+      "desc": "House State, Civic, Military, &amp; Veterans Affairs: Adopt amendment L.002 (Attachment C), as amended.",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30543/votes/45387",
+      "votes": [
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1695256": {
+      "key": "LS-1695256",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-07",
+      "desc": "House Appropriations: Adopt amendment L.003",
+      "yea": 11,
+      "nay": 0,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30847/votes/45394",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1695257": {
+      "key": "LS-1695257",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-07",
+      "desc": "House Appropriations: Refer House Bill 26-1422, as amended, to the Committee of the Whole.",
+      "yea": 8,
+      "nay": 3,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30847/votes/45372",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1695683": {
+      "key": "LS-1695683",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-07",
+      "desc": "House: Committee of the Whole Amd (h.001)",
+      "yea": 54,
+      "nay": 2,
+      "nv": 0,
+      "absent": 9,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29663",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1695684": {
+      "key": "LS-1695684",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-07",
+      "desc": "House: Committee of the Whole Amd (h.002)",
+      "yea": 54,
+      "nay": 2,
+      "nv": 0,
+      "absent": 9,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29664",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696032": {
+      "key": "LS-1696032",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-09",
+      "desc": "House: Third Reading Amd (l.011)",
+      "yea": 47,
+      "nay": 16,
+      "nv": 0,
+      "absent": 2,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29777",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1696033": {
+      "key": "LS-1696033",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-09",
+      "desc": "House: Third Reading Bill",
+      "yea": 46,
+      "nay": 17,
+      "nv": 0,
+      "absent": 2,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29778",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1696034": {
+      "key": "LS-1696034",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "House",
+      "date": "2026-05-09",
+      "desc": "House: Third Reading Perm",
+      "yea": 57,
+      "nay": 6,
+      "nv": 0,
+      "absent": 2,
+      "total": 65,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/29776",
+      "votes": [
+        {
+          "people_id": 20024,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20025,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20032,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20139,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20142,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20143,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20148,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20739,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21549,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22220,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22222,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 22226,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22228,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22231,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22233,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22921,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23046,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23948,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23949,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23950,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23952,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23954,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23955,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23957,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23959,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23960,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23961,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23962,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23963,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23967,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23968,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23996,
+          "vote": "Absent"
+        },
+        {
+          "people_id": 24384,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24385,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24616,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24873,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 24966,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25044,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26051,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26052,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26053,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26054,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26055,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26056,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26057,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26058,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26059,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26060,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26061,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26062,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26063,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26064,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26065,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26066,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26067,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26068,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26069,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26070,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26071,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26391,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26597,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26598,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26599,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26600,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1696627": {
+      "key": "LS-1696627",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-11",
+      "desc": "Senate Appropriations: Refer House Bill 26-1422 to the Committee of the Whole.",
+      "yea": 4,
+      "nay": 3,
+      "nv": 0,
+      "absent": 0,
+      "total": 7,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30994/votes/45622",
+      "votes": [
+        {
+          "people_id": 3329,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18939,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19048,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20029,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22456,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 23972,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1696628": {
+      "key": "LS-1696628",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-11",
+      "desc": "Senate Finance: Refer House Bill 26-1422 to the Committee on Appropriations.",
+      "yea": 8,
+      "nay": 1,
+      "nv": 0,
+      "absent": 0,
+      "total": 9,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/committee_meeting_hearing_items/30980/votes/45609",
+      "votes": [
+        {
+          "people_id": 18710,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20136,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20138,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20159,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22457,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22458,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23958,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23970,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23972,
+          "vote": "Nay"
+        }
+      ]
+    },
+    "LS-1697612": {
+      "key": "LS-1697612",
+      "billId": "CO-HB1422",
+      "state": "CO",
+      "session_id": "2243",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2026-05-13",
+      "desc": "Senate: Third Reading Bill",
+      "yea": 28,
+      "nay": 7,
+      "nv": 0,
+      "absent": 0,
+      "total": 35,
+      "passed": true,
+      "sourceUrl": "https://leg.colorado.gov/bill_votes/30022",
+      "votes": [
+        {
+          "people_id": 3329,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 15133,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16583,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18710,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18723,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18939,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19048,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 19200,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 19512,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20026,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20029,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20031,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20126,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20131,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20136,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20137,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20138,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20140,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20159,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22219,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22223,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22225,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22456,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22457,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22458,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23104,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23958,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23969,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23970,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23972,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 26072,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26326,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26327,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26447,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26492,
+          "vote": "Nay"
+        }
+      ]
     }
   },
   "people": {
@@ -451033,7 +455219,7 @@
     "2252",
     "2253"
   ],
-  "generated_at": "2026-11-02T14:53:52.650124+00:00",
+  "generated_at": "2026-11-03T13:42:47.651851+00:00",
   "people_by_session": {
     "2236": {
       "4747": {

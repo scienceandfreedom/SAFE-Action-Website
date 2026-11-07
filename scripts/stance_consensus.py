@@ -64,7 +64,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import cross_val_predict, StratifiedKFold
 import hashlib
-train = {k: v['billType'] for k, v in hand.items()}
+# a hand decision on a bill that is not in this run's bills.json (dropped from search, or a short run)
+# has no text to learn from; skipping it keeps the step from crashing before the data commit
+train = {k: v['billType'] for k, v in hand.items() if k in bills}
 for k, v in judge.items():                       # quote-verified judge labels widen the vocabulary
     if k in train or k not in bills: continue
     lab = v.get('label')

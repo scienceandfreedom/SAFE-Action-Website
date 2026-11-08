@@ -400567,6 +400567,395 @@
           "vote": "Nay"
         }
       ]
+    },
+    "LS-1565502": {
+      "key": "LS-1565502",
+      "billId": "PA-SB241",
+      "state": "PA",
+      "session_id": "2192",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-05-06",
+      "desc": "Senate Law And Justice: Reported as Committed",
+      "yea": 8,
+      "nay": 3,
+      "nv": 0,
+      "absent": 0,
+      "total": 11,
+      "passed": true,
+      "sourceUrl": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=29&rollcallid=126&sessYr=2025&sessInd=0",
+      "votes": [
+        {
+          "people_id": 466,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 477,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 503,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 903,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 917,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 14146,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18900,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22040,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22080,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25714,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1601206": {
+      "key": "LS-1601206",
+      "billId": "PA-SB241",
+      "state": "PA",
+      "session_id": "2192",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-09-08",
+      "desc": "Senate Appropriations: Re-Reported as Committed",
+      "yea": 13,
+      "nay": 6,
+      "nv": 3,
+      "absent": 0,
+      "total": 22,
+      "passed": true,
+      "sourceUrl": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=433&sessYr=2025&sessInd=0",
+      "votes": [
+        {
+          "people_id": 470,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 481,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 902,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 903,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11810,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13010,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 14156,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 16748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16870,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16957,
+          "vote": "NV"
+        },
+        {
+          "people_id": 18516,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18795,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18900,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18946,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20815,
+          "vote": "NV"
+        },
+        {
+          "people_id": 21371,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22040,
+          "vote": "NV"
+        },
+        {
+          "people_id": 22079,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22080,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23555,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 25714,
+          "vote": "Yea"
+        }
+      ]
+    },
+    "LS-1601699": {
+      "key": "LS-1601699",
+      "billId": "PA-SB241",
+      "state": "PA",
+      "session_id": "2192",
+      "level": "State",
+      "chamber": "Senate",
+      "date": "2025-09-10",
+      "desc": "Senate Floor: SB 241 PN 194, Final Passage",
+      "yea": 28,
+      "nay": 22,
+      "nv": 0,
+      "absent": 0,
+      "total": 50,
+      "passed": true,
+      "sourceUrl": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=216",
+      "votes": [
+        {
+          "people_id": 262,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 277,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 339,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 465,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 466,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 470,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 477,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 481,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 503,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 511,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 902,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 903,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 917,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 931,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 934,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11809,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 11810,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 13010,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 14146,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 14156,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 16748,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16869,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16870,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16956,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 16957,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 17529,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 17713,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18220,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18226,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18516,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 18795,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18900,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 18946,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 20563,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20815,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20816,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 20817,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 21371,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 21372,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22040,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22041,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22078,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22079,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22080,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 22081,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 22938,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23555,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 23556,
+          "vote": "Nay"
+        },
+        {
+          "people_id": 25714,
+          "vote": "Yea"
+        },
+        {
+          "people_id": 26465,
+          "vote": "Nay"
+        }
+      ]
     }
   },
   "people": {
@@ -455219,7 +455608,7 @@
     "2252",
     "2253"
   ],
-  "generated_at": "2026-11-07T12:32:47.514285+00:00",
+  "generated_at": "2026-11-08T12:51:00.724193+00:00",
   "people_by_session": {
     "2236": {
       "4747": {

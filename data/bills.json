@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:51:00.724193+00:00",
+  "generated_at": "2026-11-09T15:22:16.079754+00:00",
   "source": "govinfo+legiscan",
   "total": 9414,
   "bills": [
@@ -9134,7 +9134,7 @@
       "rollCalls": [],
       "review": {
         "note": "judge=anti text=anti(0.94) sponsors=0a/0p; Explicitly bans or restricts vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -14310,7 +14310,7 @@
       "rollCalls": [],
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Strengthens disease surveillance and public health infrastructure.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -16139,7 +16139,7 @@
       },
       "review": {
         "note": "judge=pro text=pro(0.76) sponsors=0a/0p; Explicitly expands vaccine access and coverage funding.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -16369,7 +16369,7 @@
       "legiscan_bill_id": 2060761,
       "review": {
         "note": "judge=anti text=anti(0.94) sponsors=0a/0p; prohibits vaccine mandates",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -17206,7 +17206,7 @@
       "legiscan_bill_id": 2093866,
       "review": {
         "note": "judge=pro text=pro(0.92) sponsors=0a/0p; promotes access to immunizations",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -17568,7 +17568,7 @@
       "legiscan_bill_id": 2151204,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; implies vaccines cause infant death",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -17665,7 +17665,7 @@
       "legiscan_bill_id": 2071719,
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=1a/0p; medical freedom framing restricts public health",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -17735,7 +17735,7 @@
       "legiscan_bill_id": 2124858,
       "review": {
         "note": "judge=pro text=pro(0.89) sponsors=0a/3p; raises awareness for immunizations",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -17746,8 +17746,8 @@
       "title": "Relating To Immunizations.",
       "status": "Introduced",
       "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
+      "billType": "anti",
+      "stance": "Oppose",
       "category": "vaccine-exemption",
       "level": "State",
       "impact": "Medium",
@@ -17772,12 +17772,7 @@
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/HI/bill/HB2166/2026",
-      "legiscan_bill_id": 2093791,
-      "review": {
-        "note": "Crawler said anti; not confirmed (judge=anti text=pro sponsors=0a/0p)",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
-        "reviewer": "consensus"
-      }
+      "legiscan_bill_id": 2093791
     },
     {
       "billId": "ID-S1401",
@@ -18092,7 +18087,7 @@
       "legiscan_bill_id": 2101917,
       "review": {
         "note": "judge=anti text=anti(0.77) sponsors=1a/0p; penalizes vaccine distribution",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -18121,7 +18116,7 @@
       "legiscan_bill_id": 1962015,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; expands vaccine access",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -19253,7 +19248,7 @@
       "legiscan_bill_id": 2083929,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=0a/0p; bans public health vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -19264,8 +19259,8 @@
       "title": "Modifies provisions relating to the ordering and administration of vaccines by pharmacists",
       "status": "Introduced",
       "isActive": "Yes",
-      "billType": "pro",
-      "stance": "Support",
+      "billType": "monitor",
+      "stance": "Monitor",
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
@@ -19290,7 +19285,12 @@
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/MO/bill/HB1976/2026",
-      "legiscan_bill_id": 2054996
+      "legiscan_bill_id": 2054996,
+      "review": {
+        "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=0a/0p)",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
+        "reviewer": "consensus"
+      }
     },
     {
       "billId": "MT-SB285",
@@ -19585,7 +19585,7 @@
       "legiscan_bill_id": 2096266,
       "review": {
         "note": "judge=anti text=anti(0.86) sponsors=0a/0p; mandated misleading informed consent scripts",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -19664,7 +19664,7 @@
       "legiscan_bill_id": 2093670,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; repeals public health vaccination measures",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -19955,8 +19955,8 @@
       "title": "Regards registered veterinary technician authority",
       "status": "Passed One Chamber",
       "isActive": "Yes",
-      "billType": "pro",
-      "stance": "Support",
+      "billType": "monitor",
+      "stance": "Monitor",
       "category": "public-health",
       "level": "State",
       "impact": "High",
@@ -20210,7 +20210,12 @@
       "actionCount": 0,
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/OH/bill/HB664/2025",
-      "legiscan_bill_id": 2101841
+      "legiscan_bill_id": 2101841,
+      "review": {
+        "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=2a/0p)",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
+        "reviewer": "consensus"
+      }
     },
     {
       "billId": "OK-SB14",
@@ -20258,7 +20263,7 @@
       "legiscan_bill_id": 2050073,
       "review": {
         "note": "judge=anti text=-(0.55) sponsors=4a/0p; facilitates non-medical vaccine exemptions",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -21087,7 +21092,7 @@
       "legiscan_bill_id": 2102914,
       "review": {
         "note": "judge=pro text=pro(0.87) sponsors=2a/5p; expands vaccine access and coverage",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -21197,7 +21202,7 @@
       "legiscan_bill_id": 1969510,
       "review": {
         "note": "judge=anti text=anti(0.95) sponsors=3a/0p; mandated informed consent scripts weaken public health",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -21296,7 +21301,7 @@
       "legiscan_bill_id": 2094896,
       "review": {
         "note": "judge=anti text=-(0.71) sponsors=4a/0p; restricts vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -22404,7 +22409,7 @@
       },
       "review": {
         "note": "judge=anti text=anti(0.99) sponsors=0a/0p; weakens public health by removing required immunization",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -22985,7 +22990,7 @@
       "session_id": 2218,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Expands non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -23024,7 +23029,7 @@
       "session_id": 2218,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Shields individuals refusing immunizations from requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -24486,7 +24491,7 @@
       "session_id": 2235,
       "review": {
         "note": "judge=anti text=anti(0.99) sponsors=1a/0p; Restricts acting on vaccination status.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -25244,7 +25249,7 @@
       "session_id": 2235,
       "review": {
         "note": "judge=- text=anti(0.91) sponsors=8a/0p; Does not specify which medical interventions are prohibited.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -28023,7 +28028,7 @@
       "session_id": 2172,
       "review": {
         "note": "judge=pro text=-(0.56) sponsors=0a/7p; Funds science research and public health infrastructure.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -29237,7 +29242,7 @@
       },
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=0a/0p; Medical freedom shields against public-health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -29573,7 +29578,7 @@
       "session_id": 2220,
       "review": {
         "note": "judge=pro text=pro(0.85) sponsors=0a/0p; Promotes awareness and vaccination",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -30269,7 +30274,7 @@
       "session_id": 2167,
       "review": {
         "note": "judge=pro text=-(0.60) sponsors=0a/3p; Expands access to rabies vaccinations",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -30369,7 +30374,7 @@
       "session_id": 2167,
       "review": {
         "note": "judge=pro text=pro(0.84) sponsors=0a/4p; Expands vaccine access and coverage",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -30461,7 +30466,7 @@
       "session_id": 2167,
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=5a/0p; Enacts medical freedom shield",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -30553,7 +30558,7 @@
       "session_id": 2167,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Vaccine-injury tracking scheme aimed at deterring vaccination",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -30612,7 +30617,7 @@
       "session_id": 2167,
       "review": {
         "note": "judge=pro text=pro(0.79) sponsors=0a/3p; Supports expanding vaccine access",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -30701,7 +30706,7 @@
       "session_id": 2167,
       "review": {
         "note": "judge=pro text=pro(0.81) sponsors=0a/4p; Promotes and commemorates vaccination campaigns",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -30740,7 +30745,7 @@
       "session_id": 2167,
       "review": {
         "note": "judge=pro text=pro(0.81) sponsors=0a/0p; Promotes and commemorates vaccination campaigns",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -30862,8 +30867,8 @@
       "title": "Department of Public Health; to conduct a study on the relationship between sudden unexpected deaths of infants and children and the administration of vaccinations; urge",
       "status": "Introduced",
       "isActive": "Yes",
-      "billType": "anti",
-      "stance": "Oppose",
+      "billType": "monitor",
+      "stance": "Monitor",
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
@@ -30937,7 +30942,12 @@
           "type": "primary"
         }
       ],
-      "session_id": 2167
+      "session_id": 2167,
+      "review": {
+        "note": "Crawler said anti; not confirmed (judge=- text=- sponsors=3a/1p)",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
+        "reviewer": "consensus"
+      }
     },
     {
       "billId": "GA-HR1203",
@@ -30994,7 +31004,7 @@
       "session_id": 2167,
       "review": {
         "note": "judge=pro text=pro(0.85) sponsors=0a/3p; Expands vaccine funding and access",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -31096,7 +31106,7 @@
       "session_id": 2167,
       "review": {
         "note": "judge=anti text=anti(0.89) sponsors=5a/0p; Enacts medical freedom shield",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -31875,7 +31885,7 @@
       "session_id": 2245,
       "review": {
         "note": "judge=pro text=pro(0.85) sponsors=0a/1p; Strengthens public health authority and coordination",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -31914,7 +31924,7 @@
       "session_id": 2245,
       "review": {
         "note": "judge=pro text=pro(0.86) sponsors=0a/1p; Strengthens public health authority and coordination",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -33070,7 +33080,7 @@
       "session_id": 2176,
       "review": {
         "note": "judge=pro text=pro(0.86) sponsors=0a/0p; Supports vaccination efforts.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -33079,7 +33089,7 @@
       "state": "IL",
       "billNumber": "HR0291",
       "title": "CHILD VACCINATIONS-SUPPORT",
-      "status": "In Committee",
+      "status": "Introduced",
       "isActive": "Yes",
       "billType": "pro",
       "stance": "Support",
@@ -33685,7 +33695,7 @@
       "session_id": 2176,
       "review": {
         "note": "judge=pro text=pro(0.87) sponsors=0a/0p; Supports vaccination efforts.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -33738,7 +33748,7 @@
       "session_id": 2176,
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=1a/0p; Adds or expands non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -33854,7 +33864,7 @@
       "session_id": 2176,
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=1a/0p; Bans or restricts vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -34984,7 +34994,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge=anti text=anti(0.80) sponsors=1a/0p; Creates liability schemes aimed at deterring vaccination.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35023,7 +35033,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge=anti text=anti(0.79) sponsors=1a/0p; Creates liability schemes aimed at deterring vaccination.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35155,7 +35165,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Restricts public-health authority over infectious disease.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35182,7 +35192,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Restricts public-health authority over infectious disease.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35191,10 +35201,10 @@
       "state": "IA",
       "billNumber": "HF2402",
       "title": "A bill for an act providing for the administration of a rabies vaccine to an animal by a registered veterinary technician performing the task under the supervision of a licensed veterinarian.",
-      "status": "Introduced",
+      "status": "In Committee",
       "isActive": "Yes",
-      "billType": "pro",
-      "stance": "Support",
+      "billType": "monitor",
+      "stance": "Monitor",
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
@@ -35218,7 +35228,12 @@
           "type": "primary"
         }
       ],
-      "session_id": 2177
+      "session_id": 2177,
+      "review": {
+        "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=0a/0p)",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
+        "reviewer": "consensus"
+      }
     },
     {
       "billId": "IA-HF2010",
@@ -35286,7 +35301,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=1a/0p; Restricts public-health authority over infectious disease.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35325,7 +35340,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge=anti text=anti(0.85) sponsors=1a/0p; Penalizes administration of gene-based vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35454,7 +35469,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge=anti text=anti(0.89) sponsors=0a/0p; Adds or expands non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35493,7 +35508,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge=anti text=anti(0.87) sponsors=1a/0p; Adds or expands non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35536,7 +35551,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge=anti text=anti(0.88) sponsors=0a/0p; Adds or expands non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35590,7 +35605,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=1a/0p; Medical freedom shield against public-health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35644,7 +35659,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Medical freedom shield against public-health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35693,7 +35708,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge=anti text=anti(0.99) sponsors=0a/0p; Adds or expands non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -35746,8 +35761,8 @@
       "title": "A bill for an act adding epinephrine delivery systems to statewide protocols under which pharmacists may order and administer drugs and vaccines to adults.",
       "status": "Introduced",
       "isActive": "Yes",
-      "billType": "pro",
-      "stance": "Support",
+      "billType": "monitor",
+      "stance": "Monitor",
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
@@ -35781,7 +35796,12 @@
           "type": "primary"
         }
       ],
-      "session_id": 2177
+      "session_id": 2177,
+      "review": {
+        "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=0a/0p)",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
+        "reviewer": "consensus"
+      }
     },
     {
       "billId": "IA-SF113",
@@ -36386,7 +36406,7 @@
       "session_id": 2178,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Requires vaccinations for animal ownership",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -36469,7 +36489,7 @@
       "session_id": 2178,
       "review": {
         "note": "judge=anti text=anti(0.79) sponsors=0a/0p; Creates a medical freedom shield against health measures",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -36567,7 +36587,7 @@
       "session_id": 2178,
       "review": {
         "note": "judge=anti text=anti(0.81) sponsors=0a/0p; Restricts public-health authority over infectious disease",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -37069,7 +37089,7 @@
       "session_id": 2248,
       "review": {
         "note": "judge=anti text=anti(0.91) sponsors=0a/0p; Bans or restricts vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -37108,7 +37128,7 @@
       "session_id": 2248,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=1a/0p; Weakens evidence-based public health vaccination efforts",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -37268,7 +37288,7 @@
       "session_id": 2248,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=1a/0p; Creates a medical freedom shield",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -37500,7 +37520,7 @@
       "session_id": 2181,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Expands vaccine access",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -37611,7 +37631,7 @@
       "session_id": 2181,
       "review": {
         "note": "judge=pro text=pro(0.83) sponsors=0a/0p; Expands vaccine coverage",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -37724,7 +37744,7 @@
       "session_id": 2181,
       "review": {
         "note": "judge=anti text=anti(0.86) sponsors=0a/0p; Expands exemptions from vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -37814,7 +37834,7 @@
       "session_id": 2181,
       "review": {
         "note": "judge=anti text=anti(0.84) sponsors=0a/0p; Bans public health efforts to promote vaccination",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -38051,7 +38071,7 @@
       "session_id": 2240,
       "review": {
         "note": "judge=pro text=pro(0.89) sponsors=0a/0p; Expands vaccine access and coverage",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -39066,7 +39086,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=anti text=anti(0.99) sponsors=0a/0p; Bans vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -39119,7 +39139,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=2a/0p; Bans vaccine requirements for entry.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -39171,7 +39191,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=anti text=anti(0.92) sponsors=0a/0p; Uses medical freedom framing to weaken public health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -39345,7 +39365,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=pro text=pro(0.87) sponsors=0a/0p; Explicitly aims to promote immunity.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -39393,7 +39413,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=pro text=pro(0.90) sponsors=0a/0p; Expands vaccine access.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -39453,7 +39473,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=pro text=pro(0.89) sponsors=0a/0p; Expands vaccine access.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -39480,7 +39500,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=pro text=pro(0.78) sponsors=0a/0p; Explicitly aims to promote immunity.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -39519,7 +39539,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=pro text=pro(0.78) sponsors=0a/0p; Explicitly aims to promote immunity.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -40117,7 +40137,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=pro text=pro(0.78) sponsors=0a/0p; Aims to strengthen disease prevention.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -40738,7 +40758,7 @@
       "session_id": 2183,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=36a/0p; Bans specific types of vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -41215,8 +41235,8 @@
       "title": "Requirements for education and training on vaccine administration to prevent shoulder injuries related to vaccine administration established, and money appropriated.",
       "status": "Introduced",
       "isActive": "Yes",
-      "billType": "pro",
-      "stance": "Support",
+      "billType": "monitor",
+      "stance": "Monitor",
       "category": "vaccine-mandate",
       "level": "State",
       "impact": "Medium",
@@ -41240,7 +41260,12 @@
           "type": "primary"
         }
       ],
-      "session_id": 2151
+      "session_id": 2151,
+      "review": {
+        "note": "Crawler said pro; not confirmed (judge=- text=- sponsors=0a/3p)",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
+        "reviewer": "consensus"
+      }
     },
     {
       "billId": "MN-SF4458",
@@ -41356,7 +41381,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=pro text=pro(0.84) sponsors=0a/10p; Funds public health infrastructure against vaccine-preventable diseases.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -41535,7 +41560,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=pro text=pro(0.85) sponsors=0a/19p; Provides funding to address outbreaks of vaccine-preventable diseases.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -41785,7 +41810,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.88) sponsors=6a/0p; Bans or restricts vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -41845,7 +41870,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=pro text=pro(0.83) sponsors=0a/4p; Expands local health department access to vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -41904,7 +41929,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=pro text=pro(0.84) sponsors=0a/4p; Expands local health department access to vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -42101,7 +42126,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.89) sponsors=1a/0p; Bans the establishment of vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -42190,7 +42215,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.86) sponsors=11a/0p; Bans specific types of vaccines, weakening public health.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -42397,7 +42422,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=-(0.74) sponsors=11a/0p; Creates barriers to adolescent vaccination access.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -42436,7 +42461,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.78) sponsors=1a/0p; Creates barriers to adolescent vaccination access.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -42534,7 +42559,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=-(0.71) sponsors=3a/0p; Restricts public health authority regarding vaccine verification.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -42573,7 +42598,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.88) sponsors=0a/0p; Undermines vaccine mandates by compensating those who defied them.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -42769,7 +42794,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.91) sponsors=9a/0p; Restricts employer enforcement of vaccination proof.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -42859,7 +42884,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.78) sponsors=6a/0p; Shields against public health measures using medical freedom claims.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -43179,7 +43204,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.89) sponsors=12a/0p; Shields against public health measures using medical freedom claims.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -43365,7 +43390,7 @@
       "session_id": 2249,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=0a/0p; Adds or expands non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -43391,7 +43416,7 @@
       "legiscan_bill_id": 2083944,
       "review": {
         "note": "judge=anti text=anti(0.78) sponsors=0a/0p; Targets mRNA vaccines with conspiratorial labeling requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -43417,7 +43442,7 @@
       "legiscan_bill_id": 2073900,
       "review": {
         "note": "judge=anti text=anti(0.87) sponsors=0a/0p; Bans or restricts mRNA vaccinations.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -43443,7 +43468,7 @@
       "legiscan_bill_id": 2084529,
       "review": {
         "note": "judge=anti text=anti(0.75) sponsors=0a/0p; Restricts mRNA vaccines based on conspiracy claims.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -43826,7 +43851,7 @@
       "legiscan_bill_id": 2086766,
       "review": {
         "note": "judge=anti text=anti(0.90) sponsors=0a/0p; Creates a targeted tracking scheme intended to inflate perceived vaccine risks.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -43915,7 +43940,7 @@
       "legiscan_bill_id": 2088880,
       "review": {
         "note": "judge=pro text=pro(0.84) sponsors=0a/0p; Expands vaccine access and coverage by requiring hospitals to offer flu shots.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -44609,7 +44634,7 @@
       "session_id": 2239,
       "review": {
         "note": "judge=anti text=anti(0.87) sponsors=0a/0p; Explicitly bans a public health vaccine requirement.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -44753,7 +44778,7 @@
       "session_id": 2239,
       "review": {
         "note": "judge=anti text=anti(0.93) sponsors=0a/0p; Medical freedom shield that undermines clinical protocols for unvaccinated individuals.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -44918,7 +44943,7 @@
       "session_id": 2239,
       "review": {
         "note": "judge=anti text=anti(0.77) sponsors=0a/0p; Enacts a broad shield that restricts public health authority to issue mandates.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -45575,7 +45600,7 @@
       "session_id": 2159,
       "review": {
         "note": "judge=anti text=anti(0.95) sponsors=1a/0p; Directly expands non-medical exemptions to vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -45622,7 +45647,7 @@
       "legiscan_bill_id": 1982265,
       "review": {
         "note": "judge=anti text=anti(0.79) sponsors=0a/0p; Restricts standard vaccines based on misleading or conspiratorial claims.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -45648,7 +45673,7 @@
       "legiscan_bill_id": 1951231,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=0a/0p; Explicitly bans a proven, evidence-based class of vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -45674,7 +45699,7 @@
       "legiscan_bill_id": 1960775,
       "review": {
         "note": "judge=anti text=anti(0.81) sponsors=0a/0p; Explicitly bans mRNA technology, undermining evidence-based veterinary science.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -45729,7 +45754,7 @@
       "session_id": 2159,
       "review": {
         "note": "judge=anti text=anti(0.93) sponsors=1a/0p; Directly expands non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -45755,7 +45780,7 @@
       "legiscan_bill_id": 1983333,
       "review": {
         "note": "judge=anti text=anti(0.88) sponsors=0a/0p; A liability scheme aimed at deterring institutions from mandating vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -46634,7 +46659,7 @@
       "session_id": 2236,
       "review": {
         "note": "judge=anti text=-(0.63) sponsors=12a/0p; Directly weakens public health by reducing required immunizations.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47053,7 +47078,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.84) sponsors=3a/0p; State-level adverse event tracking is a scheme to deter vaccination.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47102,7 +47127,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.91) sponsors=10a/0p; State-level adverse event tracking is a scheme to deter vaccination.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47298,7 +47323,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.80) sponsors=3a/0p; Links vaccines to infant fatalities",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47361,7 +47386,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.78) sponsors=10a/0p; Links vaccines to infant fatalities",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47534,7 +47559,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=-(0.69) sponsors=23a/0p; Restricts vaccine mandates",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47573,7 +47598,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=pro text=pro(0.96) sponsors=0a/0p; Expands vaccine access",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47622,7 +47647,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=11a/0p; Restricts vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47691,7 +47716,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.97) sponsors=8a/0p; Restricts vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47810,7 +47835,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.97) sponsors=27a/0p; Restricts vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47893,7 +47918,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=pro text=pro(0.80) sponsors=0a/2p; Strengthens immunization registries",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -47942,7 +47967,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.93) sponsors=4a/0p; Bans vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -48031,7 +48056,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.95) sponsors=22a/0p; Bans vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -48112,7 +48137,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.92) sponsors=3a/0p; Weakens vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -48161,7 +48186,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.90) sponsors=6a/0p; Weakens vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -48255,7 +48280,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=pro text=pro(0.81) sponsors=0a/0p; Strengthens immunization registries",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -48264,10 +48289,10 @@
       "state": "NJ",
       "billNumber": "A844",
       "title": "Prohibits government entity or school from requiring influenza vaccinations for persons who are 18 years of age or younger.",
-      "status": "In Committee",
+      "status": "Introduced",
       "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
+      "billType": "anti",
+      "stance": "Oppose",
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
@@ -48331,12 +48356,7 @@
           "type": "cosponsor"
         }
       ],
-      "session_id": 2250,
-      "review": {
-        "note": "Crawler said anti; not confirmed (judge=anti text=pro sponsors=12a/0p)",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
-        "reviewer": "consensus"
-      }
+      "session_id": 2250
     },
     {
       "billId": "NJ-S3020",
@@ -48383,7 +48403,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=pro text=pro(0.85) sponsors=0a/2p; Expands vaccine coverage",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -48443,7 +48463,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.91) sponsors=4a/0p; Bans vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -48628,7 +48648,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=-(0.51) sponsors=5a/0p; Restricts vaccine mandates",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -48824,7 +48844,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.76) sponsors=5a/0p; Weakens public health measures",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49031,7 +49051,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.98) sponsors=3a/0p; Bans vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49100,7 +49120,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.88) sponsors=0a/8p; Expands vaccine funding",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49209,7 +49229,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.86) sponsors=3a/29p; Expands vaccine funding",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49279,7 +49299,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.89) sponsors=0a/7p; Expands vaccine coverage",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49376,7 +49396,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.87) sponsors=0a/0p; Expands vaccine coverage",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49535,7 +49555,7 @@
       "session_id": 2188,
       "review": {
         "note": "One to watch: text reads anti, sponsors' other bills are 0 anti / 40 pro",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49613,7 +49633,7 @@
       "session_id": 2188,
       "review": {
         "note": "One to watch: text reads anti, sponsors' other bills are 0 anti / 5 pro",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49692,7 +49712,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=2a/12p; Expands vaccine access by allowing minors to consent to immunizations.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49751,7 +49771,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.80) sponsors=6a/0p; Bans vaccine mandates and incentives, weakening public health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49831,7 +49851,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.92) sponsors=0a/13p; Expands vaccine access by allowing dentists to administer them.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49910,7 +49930,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.93) sponsors=1a/11p; Expands vaccine access by authorizing dentists to administer them.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -49999,7 +50019,7 @@
       "session_id": 2188,
       "review": {
         "note": "One to watch: text reads anti, sponsors' other bills are 0 anti / 13 pro",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -50394,7 +50414,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.84) sponsors=0a/49p; Expands vaccine access by increasing the pool of personnel who can administer them.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -50645,7 +50665,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.87) sponsors=1a/11p; Expands the number of professionals authorized to administer vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -50724,7 +50744,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.77) sponsors=5a/2p; Directly bans mRNA vaccines, undermining science-based public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -50763,7 +50783,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.80) sponsors=2a/1p; Directly bans mRNA vaccines, undermining science-based public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -50802,7 +50822,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=-(0.59) sponsors=0a/2p; Expands vaccine access by allowing nursing students to administer vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -50905,7 +50925,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=-(0.59) sponsors=0a/19p; Expands vaccine access by allowing nursing students to administer vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -51216,7 +51236,7 @@
       "legiscan_bill_id": 2138788,
       "review": {
         "note": "judge=pro text=pro(0.95) sponsors=0a/0p; Codifies reliance on recognized medical and scientific organizations for pediatric vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -51265,7 +51285,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.93) sponsors=1a/5p; Codifies reliance on recognized medical and scientific organizations for pediatric vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -51698,7 +51718,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.78) sponsors=0a/8p; Explicitly protects vaccinated individuals from discrimination.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -51897,7 +51917,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=7a/12p; Undermines public health mandates by reversing consequences for refusing required vaccinations.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -51986,7 +52006,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.91) sponsors=6a/4p; Bans COVID-19 vaccine mandates and proof of vaccination requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -52045,7 +52065,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.92) sponsors=7a/0p; Bans COVID-19 vaccine mandates and proof of vaccination requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -52144,7 +52164,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=11a/1p; Undermines public health mandates by reversing consequences for non-compliance.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -52183,7 +52203,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.78) sponsors=0a/7p; Explicitly protects individuals who choose to be vaccinated.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -52232,7 +52252,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(1.00) sponsors=1a/1p; Expands vaccine access by authorizing pharmacists to administer them under specific guidelines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -52313,7 +52333,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=1a/4p; Expands vaccine access by increasing the number of authorized medical personnel.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -52726,7 +52746,7 @@
       "session_id": 2189,
       "review": {
         "note": "judge=anti text=anti(0.89) sponsors=14a/0p; Expands non-medical exemptions for vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54276,7 +54296,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=1a/0p; Uses anti-discrimination framing to shield against vaccine mandates.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54367,7 +54387,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.99) sponsors=1a/0p; Bans vaccine requirements in schools.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54406,7 +54426,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=0a/0p; Creates liability schemes to deter vaccine production or distribution.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54523,7 +54543,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.80) sponsors=3a/0p; Bans vaccine requirements in hospitals.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54611,7 +54631,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.93) sponsors=3a/0p; Legislation based on conspiracy claims about vaccines in food.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54650,7 +54670,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.91) sponsors=0a/0p; Explicitly prohibits vaccine mandates.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54748,7 +54768,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.83) sponsors=9a/0p; Explicitly prohibits vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54787,7 +54807,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.88) sponsors=5a/0p; Bans mRNA or gene-based vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54907,7 +54927,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.79) sponsors=2a/0p; Medical freedom acts serve as shields against public health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -54946,7 +54966,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.93) sponsors=2a/0p; Medical freedom acts serve as shields against public health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -55299,7 +55319,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.92) sponsors=11a/0p; \"Medical freedom\" acts typically shield against public health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -57221,7 +57241,7 @@
       "session_id": 2192,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=1a/31p; Expands vaccine coverage.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -57421,7 +57441,7 @@
       "session_id": 2192,
       "review": {
         "note": "judge=pro text=-(0.43) sponsors=0a/12p; Expands vaccine coverage.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -57920,7 +57940,7 @@
       "legiscan_bill_id": 2114299,
       "review": {
         "note": "judge=pro text=pro(0.85) sponsors=0a/0p; Expands vaccine access and coverage by removing cost-sharing.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -57931,8 +57951,8 @@
       "title": "Requires written consent by recipient or parent before vaccine and prohibits discrimination against those who don't vaccinate and fines up to $25,000 for violation. Also prohibits DCYF from investigating their for failure to vaccinate their child.",
       "status": "Introduced",
       "isActive": "Yes",
-      "billType": "anti",
-      "stance": "Oppose",
+      "billType": "monitor",
+      "stance": "Monitor",
       "category": "vaccine-mandate",
       "level": "State",
       "impact": "Medium",
@@ -58036,7 +58056,12 @@
           "type": "cosponsor"
         }
       ],
-      "session_id": 2253
+      "session_id": 2253,
+      "review": {
+        "note": "Crawler said anti; not confirmed (judge=anti text=- sponsors=0a/2p)",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
+        "reviewer": "consensus"
+      }
     },
     {
       "billId": "RI-H7540",
@@ -58163,7 +58188,7 @@
       "session_id": 2253,
       "review": {
         "note": "judge=pro text=pro(0.91) sponsors=0a/3p; Protects scientific integrity in public health recommendations.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -58318,7 +58343,7 @@
       "session_id": 2253,
       "review": {
         "note": "judge=pro text=pro(0.88) sponsors=0a/8p; Protects scientific integrity in public health recommendations.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -58805,7 +58830,7 @@
       "session_id": 2194,
       "review": {
         "note": "judge=anti text=anti(1.00) sponsors=1a/0p; Restricts vaccine administration to infants.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -59028,7 +59053,7 @@
       "session_id": 2194,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; \"Medical freedom\" acts typically weaken public health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -59627,7 +59652,7 @@
       "legiscan_bill_id": 2101594,
       "review": {
         "note": "judge=anti text=anti(0.87) sponsors=0a/0p; Explicitly prohibits vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -60787,7 +60812,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=pro text=pro(0.87) sponsors=2a/1p; expands vaccine access by empowering pharmacists",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -62704,7 +62729,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=pro text=pro(0.79) sponsors=0a/0p; expands vaccine access by empowering pharmacists",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -62900,7 +62925,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=anti(0.78) sponsors=2a/0p; recognizes and legitimizes an anti-vaccine advocacy group",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -63088,7 +63113,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=anti(0.90) sponsors=7a/0p; promotes conspiracy claims regarding mRNA in the food supply",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -63326,7 +63351,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=anti(0.81) sponsors=73a/0p; commemorates an anti-vaccine advocacy group",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -63435,7 +63460,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=anti(0.80) sponsors=56a/0p; restricts employers from enforcing vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -63644,7 +63669,7 @@
       "session_id": 2160,
       "review": {
         "note": "One to watch: text reads pro, sponsors' other bills are 4 anti / 0 pro",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -63763,7 +63788,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=49a/0p; restricts vaccine requirements for employers",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -63892,7 +63917,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=anti(0.97) sponsors=57a/0p; bans mRNA vaccines completely",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -63903,8 +63928,8 @@
       "title": "Relating to the authority of a pharmacist to determine whether to administer a vaccine, including a COVID-19 vaccine.",
       "status": "Introduced",
       "isActive": "Yes",
-      "billType": "pro",
-      "stance": "Support",
+      "billType": "monitor",
+      "stance": "Monitor",
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
@@ -63948,7 +63973,12 @@
           "type": "cosponsor"
         }
       ],
-      "session_id": 2160
+      "session_id": 2160,
+      "review": {
+        "note": "Crawler said pro; not confirmed (judge=- text=anti sponsors=12a/1p)",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
+        "reviewer": "consensus"
+      }
     },
     {
       "billId": "TX-HB3777",
@@ -64027,7 +64057,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=anti(0.92) sponsors=7a/0p; restricts vaccine requirements for the national guard",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -64204,7 +64234,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=2a/0p; restricts vaccine requirements in healthcare settings",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -64382,7 +64412,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=anti(0.81) sponsors=61a/0p; based on conspiracy claims about mRNA in the food supply",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -65412,7 +65442,7 @@
       "session_id": 2195,
       "review": {
         "note": "judge=anti text=-(0.72) sponsors=10a/0p; Restricts health facilities from enforcing vaccination requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -65603,7 +65633,7 @@
       "session_id": 2195,
       "review": {
         "note": "judge=anti text=anti(0.93) sponsors=9a/0p; Shields individuals from public health measures based on vaccination.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -66068,7 +66098,7 @@
       "session_id": 2237,
       "review": {
         "note": "judge=pro text=pro(0.86) sponsors=0a/0p; Promotes and strengthens immunization efforts.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -66409,7 +66439,7 @@
       "session_id": 2237,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Expands access to infectious disease treatment.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -67119,7 +67149,7 @@
       "session_id": 2166,
       "review": {
         "note": "judge=anti text=anti(0.91) sponsors=0a/0p; Shields against public health measures based on vaccination.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -67691,7 +67721,7 @@
       "session_id": 2166,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Expands vaccine access and coverage.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -68345,7 +68375,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.84) sponsors=20a/0p; Bans vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -68418,7 +68448,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=-(0.50) sponsors=5a/0p; Removes medical vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -68735,7 +68765,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.85) sponsors=16a/1p; Bans vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -68867,7 +68897,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=7a/2p; Adds non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -69006,7 +69036,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.94) sponsors=22a/1p; Expands non-medical exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -69055,7 +69085,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.88) sponsors=7a/2p; Adds non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -69237,7 +69267,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.96) sponsors=16a/1p; Vaccine-injury liability scheme aimed at deterring vaccination.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -69300,7 +69330,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.97) sponsors=6a/0p; Bans vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -69339,7 +69369,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.93) sponsors=0a/0p; Medical freedom shield against public health measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -70675,7 +70705,7 @@
       "legiscan_bill_id": 2043944,
       "review": {
         "note": "judge=pro text=pro(0.89) sponsors=0a/0p; Promotes vaccination awareness.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -70701,7 +70731,7 @@
       "legiscan_bill_id": 2044088,
       "review": {
         "note": "judge=pro text=pro(0.87) sponsors=0a/0p; Promotes vaccination awareness.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -70727,7 +70757,7 @@
       "legiscan_bill_id": 2042947,
       "review": {
         "note": "judge=anti text=anti(0.78) sponsors=0a/0p; Expands awareness and access to non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -70795,7 +70825,7 @@
       "legiscan_bill_id": 2045297,
       "review": {
         "note": "judge=anti text=anti(0.77) sponsors=0a/0p; Expands awareness and access to non-medical vaccine exemptions.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -71168,7 +71198,7 @@
       "session_id": 2198,
       "review": {
         "note": "judge=pro text=-(0.75) sponsors=0a/2p; Protects vaccine administration.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -71228,7 +71258,7 @@
       "session_id": 2198,
       "review": {
         "note": "judge=pro text=pro(0.86) sponsors=0a/2p; Protects vaccine administration.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -71267,7 +71297,7 @@
       "session_id": 2198,
       "review": {
         "note": "judge=pro text=pro(0.80) sponsors=0a/2p; Protects vaccine administration.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -88964,7 +88994,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=1a/0p; removes vaccine requirements for students",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -89177,10 +89207,10 @@
       "state": "IA",
       "billNumber": "SF2345",
       "title": "A bill for an act relating to notice of immunization exemptions and providing civil penalties.",
-      "status": "In Committee",
+      "status": "Introduced",
       "isActive": "Yes",
-      "billType": "monitor",
-      "stance": "Monitor",
+      "billType": "anti",
+      "stance": "Oppose",
       "category": "vaccine-exemption",
       "level": "State",
       "impact": "Medium",
@@ -89204,12 +89234,7 @@
           "type": "primary"
         }
       ],
-      "session_id": 2177,
-      "review": {
-        "note": "Crawler said anti; not confirmed (judge=- text=anti sponsors=0a/0p)",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
-        "reviewer": "consensus"
-      }
+      "session_id": 2177
     },
     {
       "billId": "IA-HSB605",
@@ -97524,7 +97549,7 @@
       "session_id": 2183,
       "review": {
         "note": "judge=pro text=pro(0.77) sponsors=0a/0p; Expands access and coverage for immunizations via pharmacists.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -99130,7 +99155,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Restricts public-health authority over infectious disease tracking and immunizations.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -99822,7 +99847,7 @@
       },
       "review": {
         "note": "judge=anti text=anti(0.83) sponsors=0a/0p; Institutionalizes vaccine-injury conspiracy schemas linking vaccines to sudden deaths.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -99862,7 +99887,7 @@
       },
       "review": {
         "note": "judge=anti text=anti(0.85) sponsors=0a/0p; Institutionalizes vaccine-injury conspiracy schemas linking vaccines to sudden deaths.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -104893,7 +104918,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=-(0.73) sponsors=9a/0p; Repeals alignment with ACIP evidence-based immunization coverage guidelines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -104932,7 +104957,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Repeals alignment with ACIP evidence-based immunization coverage guidelines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106382,7 +106407,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.90) sponsors=0a/39p; Aligns immunization regulations with major scientific and medical organizations.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106531,7 +106556,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.89) sponsors=3a/32p; Aligns immunization regulations with major scientific and medical organizations.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106570,7 +106595,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=-(0.64) sponsors=3a/0p; Adds or expands non-medical vaccine exemptions for schoolchildren.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106630,7 +106655,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.94) sponsors=1a/3p; Strengthens public health surveillance and immunization registries.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106709,7 +106734,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.94) sponsors=0a/20p; Strengthens public health surveillance and immunization registries.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106748,7 +106773,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.93) sponsors=0a/8p; Strengthens public health surveillance and immunization registries.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106807,7 +106832,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.94) sponsors=0a/9p; Expands access to COVID-19 vaccines by allowing pharmacists and NPs to prescribe them.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106846,7 +106871,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.86) sponsors=1a/3p; Expands access to COVID-19 vaccines by allowing pharmacists and NPs to prescribe them.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106885,7 +106910,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=-(0.65) sponsors=0a/8p; Requires a specific vaccine for children attending school.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -106924,7 +106949,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.90) sponsors=1a/3p; Expands access to the mpox vaccine.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107067,7 +107092,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.89) sponsors=0a/23p; Expands access to the mpox vaccine.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107146,7 +107171,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.95) sponsors=0a/26p; Requires vaccines for children based on established scientific and medical guidelines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107255,7 +107280,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.96) sponsors=1a/16p; Requires vaccines for children based on established scientific and medical guidelines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107325,7 +107350,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.89) sponsors=3a/1p; Restricts public health agencies from requiring COVID-19 vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107364,7 +107389,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.89) sponsors=0a/0p; Restricts public health agencies from requiring COVID-19 vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107461,7 +107486,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.86) sponsors=0a/7p; Mandates vaccination for children attending summer camps.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107510,7 +107535,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.85) sponsors=0a/8p; Mandates vaccination for children attending summer camps.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107580,7 +107605,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.79) sponsors=4a/0p; Creates liability schemes that deter state vaccine mandates.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107679,7 +107704,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=anti text=anti(0.81) sponsors=9a/2p; Creates liability schemes that deter state vaccine mandates.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -107998,7 +108023,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.90) sponsors=4a/44p; Expands access by allowing pharmacy technicians to administer vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -108221,7 +108246,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.91) sponsors=6a/26p; Expands access by allowing pharmacy technicians to administer vaccines.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -117816,7 +117841,7 @@
       "session_id": 2253,
       "review": {
         "note": "judge=pro text=-(0.48) sponsors=0a/7p; Expands and supports pharmacy-administered immunizations for minors.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -122165,7 +122190,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=anti text=-(0.73) sponsors=2a/0p; Restricts vaccine requirements",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -126644,7 +126669,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.87) sponsors=10a/2p; Vaccine-injury scheme to deter vaccination",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -170168,7 +170193,7 @@
       "session_id": 2246,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Optional participation in abatement districts weakens public health.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -170216,7 +170241,7 @@
       "session_id": 2246,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Optional participation in abatement districts weakens public health.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -170264,7 +170289,7 @@
       "session_id": 2246,
       "review": {
         "note": "judge=anti text=anti(0.77) sponsors=0a/0p; Optional participation in abatement districts weakens public health.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -185811,7 +185836,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.77) sponsors=9a/0p; Restricts public-health authority over infectious disease",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -185960,7 +185985,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.79) sponsors=16a/0p; Restricts public-health authority over infectious disease",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -186538,7 +186563,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Strengthens public health response",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -189344,7 +189369,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.85) sponsors=4a/70p; Strengthens disease surveillance and infrastructure",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -189393,7 +189418,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.86) sponsors=1a/9p; Strengthens disease surveillance and infrastructure",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -200222,10 +200247,10 @@
       "legiscan_bill_id": 1950926
     },
     {
-      "billId": "TN-HB0533",
+      "billId": "TN-SJR0048",
       "state": "TN",
-      "billNumber": "HB0533",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 63 and Title 68, relative to reproductive health care.",
+      "billNumber": "SJR0048",
+      "title": "A RESOLUTION to ratify the increase to the statewide 911 surcharge rate to $1.86 as determined necessary by the Tennessee Emergency Communications Board.",
       "status": "Introduced",
       "isActive": "Yes",
       "billType": "monitor",
@@ -200233,14 +200258,14 @@
       "category": "public-health",
       "level": "State",
       "impact": "Medium",
-      "summary": "AN ACT to amend Tennessee Code Annotated, Title 63 and Title 68, relative to reproductive health care.",
+      "summary": "A RESOLUTION to ratify the increase to the statewide 911 surcharge rate to $1.86 as determined necessary by the Tennessee Emergency Communications Board.",
       "sponsor": "",
-      "lastAction": "Comp. became Pub. Ch. 247",
-      "lastActionDate": "2025-04-29",
+      "lastAction": "Vetoed by Governor.",
+      "lastActionDate": "2026-05-01",
       "actionCount": 0,
       "stoppedWithAction": false,
-      "sourceUrl": "https://legiscan.com/TN/bill/HB0533/2025",
-      "legiscan_bill_id": 1946152
+      "sourceUrl": "https://legiscan.com/TN/bill/SJR0048/2025",
+      "legiscan_bill_id": 1942641
     },
     {
       "billId": "TX-SB672",
@@ -205598,7 +205623,7 @@
       "session_id": 2197,
       "review": {
         "note": "judge=anti text=anti(0.77) sponsors=24a/0p; Shields specific locations from emergency health orders.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -206065,7 +206090,7 @@
       "legiscan_bill_id": 1956584,
       "review": {
         "note": "judge=anti text=anti(0.79) sponsors=0a/0p; Shields specific locations from emergency health orders.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -206717,7 +206742,7 @@
       "session_id": 2213,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Bans geoengineering based on conspiracy claims.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -209448,7 +209473,7 @@
       "session_id": 2172,
       "review": {
         "note": "judge=pro text=pro(0.88) sponsors=0a/7p; Strengthens disease surveillance and reporting.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -219591,7 +219616,7 @@
       "session_id": 2183,
       "review": {
         "note": "judge=pro text=pro(0.77) sponsors=0a/0p; Providing for syringe programs strengthens infectious disease prevention.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -219790,7 +219815,7 @@
       "session_id": 2183,
       "review": {
         "note": "judge=pro text=pro(0.77) sponsors=0a/11p; Providing for syringe programs strengthens infectious disease prevention.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -220039,7 +220064,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge and crawler agree (pro); text=- sponsors=0a/0p; Establishing infectious disease treatment programs strengthens public health.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -220118,7 +220143,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=pro text=pro(0.75) sponsors=0a/0p; Funds and establishes HIV treatment programs, strengthening public health.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -224028,7 +224053,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=pro text=pro(0.85) sponsors=0a/2p; Expands public health infrastructure and collaboration.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -224810,7 +224835,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.92) sponsors=4a/2p; Expands communicable disease reporting and surveillance.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -224849,7 +224874,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.86) sponsors=0a/1p; Expands communicable disease reporting and surveillance.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -225224,7 +225249,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.80) sponsors=0a/1p; Expands public health infrastructure and disease surveillance capabilities.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -225376,7 +225401,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.89) sponsors=0a/29p; Expands disease reporting and surveillance.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -225415,7 +225440,7 @@
       "session_id": 2188,
       "review": {
         "note": "judge=pro text=pro(0.88) sponsors=0a/4p; Expands disease reporting and surveillance.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -229459,7 +229484,7 @@
       "session_id": 2192,
       "review": {
         "note": "judge=anti text=anti(0.81) sponsors=33a/0p; Undermines enforcement of public health protocols.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -230920,7 +230945,7 @@
       "session_id": 2253,
       "review": {
         "note": "judge=pro text=-(0.75) sponsors=0a/3p; Strengthens public health collaboration and infrastructure.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -231119,7 +231144,7 @@
       "session_id": 2253,
       "review": {
         "note": "judge=anti text=anti(0.95) sponsors=0a/0p; Deregulates raw milk sales.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -235220,7 +235245,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.78) sponsors=11a/0p; Shields against public-health measures and vaccine requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -235349,7 +235374,7 @@
       "session_id": 2254,
       "review": {
         "note": "judge=anti text=anti(0.84) sponsors=22a/0p; Restricts public-health requirements and mandates.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -242008,7 +242033,7 @@
       "session_id": 2192,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=33a/0p; Weakens enforcement of public health protocols.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -242187,7 +242212,7 @@
       "session_id": 2192,
       "review": {
         "note": "judge=anti text=anti(0.90) sponsors=32a/0p; Weakens enforcement of public health protocols.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -242211,56 +242236,6 @@
       "stoppedWithAction": false,
       "sourceUrl": "https://legiscan.com/PA/bill/SB241/2025",
       "legiscan_bill_id": 1970204,
-      "review": {
-        "note": "judge=anti text=anti(0.76) sponsors=0a/0p; Undermines the enforcement of public health protocols.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
-        "reviewer": "consensus"
-      },
-      "rollCalls": [
-        {
-          "key": "LS-1565502",
-          "legiscan_roll_call_id": 1565502,
-          "date": "2025-05-06",
-          "desc": "Senate Law And Justice: Reported as Committed",
-          "chamber": "Senate",
-          "yea": 8,
-          "nay": 3,
-          "nv": 0,
-          "absent": 0,
-          "total": 11,
-          "passed": true,
-          "sourceUrl": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=29&rollcallid=126&sessYr=2025&sessInd=0"
-        },
-        {
-          "key": "LS-1601206",
-          "legiscan_roll_call_id": 1601206,
-          "date": "2025-09-08",
-          "desc": "Senate Appropriations: Re-Reported as Committed",
-          "chamber": "Senate",
-          "yea": 13,
-          "nay": 6,
-          "nv": 3,
-          "absent": 0,
-          "total": 22,
-          "passed": true,
-          "sourceUrl": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=433&sessYr=2025&sessInd=0"
-        },
-        {
-          "key": "LS-1601699",
-          "legiscan_roll_call_id": 1601699,
-          "date": "2025-09-10",
-          "desc": "Senate Floor: SB 241 PN 194, Final Passage",
-          "chamber": "Senate",
-          "yea": 28,
-          "nay": 22,
-          "nv": 0,
-          "absent": 0,
-          "total": 50,
-          "passed": true,
-          "sourceUrl": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=216"
-        }
-      ],
-      "session_id": 2192,
       "sponsorships": [
         {
           "people_id": 23555,
@@ -242412,7 +242387,57 @@
           "district": "SD-048",
           "type": "cosponsor"
         }
-      ]
+      ],
+      "rollCalls": [
+        {
+          "key": "LS-1565502",
+          "legiscan_roll_call_id": 1565502,
+          "date": "2025-05-06",
+          "desc": "Senate Law And Justice: Reported as Committed",
+          "chamber": "Senate",
+          "yea": 8,
+          "nay": 3,
+          "nv": 0,
+          "absent": 0,
+          "total": 11,
+          "passed": true,
+          "sourceUrl": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=29&rollcallid=126&sessYr=2025&sessInd=0"
+        },
+        {
+          "key": "LS-1601206",
+          "legiscan_roll_call_id": 1601206,
+          "date": "2025-09-08",
+          "desc": "Senate Appropriations: Re-Reported as Committed",
+          "chamber": "Senate",
+          "yea": 13,
+          "nay": 6,
+          "nv": 3,
+          "absent": 0,
+          "total": 22,
+          "passed": true,
+          "sourceUrl": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=433&sessYr=2025&sessInd=0"
+        },
+        {
+          "key": "LS-1601699",
+          "legiscan_roll_call_id": 1601699,
+          "date": "2025-09-10",
+          "desc": "Senate Floor: SB 241 PN 194, Final Passage",
+          "chamber": "Senate",
+          "yea": 28,
+          "nay": 22,
+          "nv": 0,
+          "absent": 0,
+          "total": 50,
+          "passed": true,
+          "sourceUrl": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=216"
+        }
+      ],
+      "session_id": 2192,
+      "review": {
+        "note": "judge=anti text=anti(0.76) sponsors=7a/0p; Undermines the enforcement of public health protocols.",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
+        "reviewer": "consensus"
+      }
     },
     {
       "billId": "PA-SB1242",
@@ -243289,7 +243314,7 @@
       "legiscan_bill_id": 2092066,
       "review": {
         "note": "judge=anti text=anti(0.78) sponsors=0a/0p; Directly restricts quarantine authority for an infectious disease.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -243315,7 +243340,7 @@
       "legiscan_bill_id": 2094588,
       "review": {
         "note": "judge=anti text=anti(0.79) sponsors=0a/0p; Directly restricts quarantine authority for an infectious disease.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -243509,7 +243534,7 @@
       "session_id": 2235,
       "review": {
         "note": "judge=anti text=anti(0.97) sponsors=1a/0p; Prohibiting water fluoridation weakens evidence-based public health.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -244478,7 +244503,7 @@
       "session_id": 2178,
       "review": {
         "note": "judge=anti text=anti(0.85) sponsors=0a/0p; Explicitly bans water fluoridation, an anti-science policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -244920,7 +244945,7 @@
       "session_id": 2181,
       "review": {
         "note": "judge=anti text=anti(0.85) sponsors=0a/0p; Banning fluoridation weakens public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -245148,7 +245173,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=anti text=anti(0.84) sponsors=0a/0p; Opting out undermines universal public health fluoridation measures.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -245187,7 +245212,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=0a/0p; Allows municipalities to bypass public health fluoridation.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -245268,7 +245293,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=anti text=-(0.57) sponsors=2a/0p; Directly stops public water fluoridation.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -245349,7 +245374,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=1a/0p; Explicitly bans a proven public health measure.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -245398,7 +245423,7 @@
       "session_id": 2182,
       "review": {
         "note": "judge=anti text=anti(0.93) sponsors=1a/0p; Permits ending water fluoridation locally.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -245673,7 +245698,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.79) sponsors=5a/0p; Prohibits water fluoridation.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -245902,7 +245927,7 @@
       "session_id": 2249,
       "review": {
         "note": "judge=anti text=anti(0.81) sponsors=0a/0p; Restricts public-health authority over fluoridation requirements.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -246047,7 +246072,7 @@
       "legiscan_bill_id": 1970034,
       "review": {
         "note": "judge and crawler agree (anti); text=- sponsors=0a/0p; Explicit ban on public water fluoridation.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -246800,7 +246825,7 @@
       "session_id": 2190,
       "review": {
         "note": "judge=anti text=anti(0.85) sponsors=1a/0p; Explicitly bans public water fluoridation.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -247009,8 +247034,8 @@
       ],
       "session_id": 2192,
       "review": {
-        "note": "judge=anti text=anti(0.90) sponsors=0a/0p; Bans public water fluoridation.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "note": "judge=anti text=anti(0.90) sponsors=1a/0p; Bans public water fluoridation.",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -247159,7 +247184,7 @@
       "session_id": 2192,
       "review": {
         "note": "judge=anti text=anti(0.89) sponsors=16a/2p; Bans water fluoridation.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -247718,7 +247743,7 @@
       "session_id": 2195,
       "review": {
         "note": "judge=anti text=anti(0.91) sponsors=5a/0p; Banning water fluoridation weakens evidence-based public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -247773,7 +247798,7 @@
       "session_id": 2237,
       "review": {
         "note": "judge=anti text=anti(0.92) sponsors=0a/0p; Banning water fluoridation weakens evidence-based public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -249695,7 +249720,7 @@
       "session_id": 2177,
       "review": {
         "note": "judge=anti text=anti(0.92) sponsors=0a/0p; Allowing distribution of raw milk deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -250591,7 +250616,7 @@
       "session_id": 2183,
       "review": {
         "note": "judge=anti text=-(0.71) sponsors=143a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -251020,7 +251045,7 @@
       "session_id": 2183,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=143a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -251498,7 +251523,7 @@
       "session_id": 2183,
       "review": {
         "note": "judge=anti text=-(0.66) sponsors=143a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -251673,7 +251698,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.87) sponsors=5a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -251712,7 +251737,7 @@
       "session_id": 2151,
       "review": {
         "note": "judge=anti text=anti(0.86) sponsors=0a/0p; Allowing raw milk sales deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -251997,7 +252022,7 @@
       "legiscan_bill_id": 2089083,
       "review": {
         "note": "judge=anti text=anti(0.94) sponsors=0a/0p; Authorizing raw milk sales deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -252044,7 +252069,7 @@
       "legiscan_bill_id": 2078230,
       "review": {
         "note": "judge=anti text=anti(0.94) sponsors=0a/0p; Allowing individual sale of raw milk deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -252542,7 +252567,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.85) sponsors=9a/0p; Permitting raw milk sales deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -252601,7 +252626,7 @@
       "session_id": 2250,
       "review": {
         "note": "judge=anti text=anti(0.85) sponsors=4a/0p; Permitting raw milk sales deregulates it, weakening public health policy.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -253167,7 +253192,7 @@
       "session_id": 2190,
       "review": {
         "note": "judge=anti text=anti(0.82) sponsors=1a/0p; Deregulates and expands access to raw milk",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -253750,7 +253775,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.93) sponsors=9a/0p; Allows and expands the sale of raw milk",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -253929,7 +253954,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=- text=anti(0.95) sponsors=2a/0p; Unclear if it expands or restricts sales",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -254010,7 +254035,7 @@
       "session_id": 2219,
       "review": {
         "note": "judge=anti text=anti(0.92) sponsors=0a/0p; Expands access to raw milk",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -254501,7 +254526,7 @@
       "session_id": 2192,
       "review": {
         "note": "judge=anti text=anti(0.92) sponsors=24a/0p; Removes regulations on raw milk",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -254907,7 +254932,7 @@
       "session_id": 2160,
       "review": {
         "note": "judge=- text=anti(0.98) sponsors=3a/0p; Unclear if this restricts or expands current access",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },
@@ -289905,7 +289930,7 @@
       "session_id": 2183,
       "review": {
         "note": "judge=pro text=pro(0.83) sponsors=0a/11p; Strengthens disease surveillance by providing funding for testing.",
-        "reviewed_at": "2026-11-07T12:49:34+00:00",
+        "reviewed_at": "2026-11-08T13:09:46+00:00",
         "reviewer": "consensus"
       }
     },

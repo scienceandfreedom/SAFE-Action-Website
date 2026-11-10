@@ -1,17 +1,17 @@
 {
   "summary": {
     "legislators": 7871,
-    "with_classified_activity": 3828,
-    "classified_bills": 427,
-    "classified_bills_with_sponsor_data": 387,
-    "pro_acts": 5736,
-    "anti_acts": 4874,
-    "sponsorships": 2510,
-    "primary": 563,
-    "cosponsor": 1947,
-    "votes": 8100,
-    "bills_with_sponsor_data": 382,
-    "bills_with_roll_calls": 83
+    "with_classified_activity": 3916,
+    "classified_bills": 432,
+    "classified_bills_with_sponsor_data": 392,
+    "pro_acts": 5854,
+    "anti_acts": 4882,
+    "sponsorships": 2546,
+    "primary": 592,
+    "cosponsor": 1954,
+    "votes": 8190,
+    "bills_with_sponsor_data": 387,
+    "bills_with_roll_calls": 84
   },
   "method": "Each row counts official acts on bills SAFE Action has classified as pro-science or anti-science: sponsorships and cosponsorships, plus recorded roll-call votes. A pro-science act is sponsoring a pro-science bill, voting Yea on one, or voting Nay on an anti-science bill. An anti-science act is the reverse. Each bill counts at most once per legislator as a vote: the vote on final passage when there is one, otherwise the most recent recorded vote on that bill, so procedural roll calls cannot inflate a count. Sponsoring and cosponsoring count the same; primary sponsorships are shown separately. Counts are unweighted and every count links to the bills and votes behind it. Classifications apply to bills and are published with the bill list. Every legislator in the database is counted the same way, in every year, regardless of party or seat. A zero means no tracked act matched, not that the legislator was reviewed and found neutral; coverage of sponsor and vote data is still growing and is shown above. An act that cannot be attributed to exactly one legislator is left out and logged for review, never guessed. Counts cover the 119th Congress and the 2025-2026 state sessions, including bills that have since died; each act's date is on the record page. Bill classifications come from a keyword pass plus an independent review by Claude Sonnet with a 0.70 confidence threshold; each bill's classification evidence is published with the bill. Legislators with the same count share a rank; order within a tie is alphabetical and carries no meaning. The scorecard is refreshed nightly from LegiScan, GovInfo, and Open States.",
   "legislators": [
@@ -4504,14 +4504,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-state-house-king-88",
@@ -4573,7 +4581,7 @@
       "district": "2",
       "level": "State",
       "office": "State Senate",
-      "pro_sponsored": 0,
+      "pro_sponsored": 1,
       "pro_primary": 0,
       "anti_sponsored": 8,
       "anti_primary": 7,
@@ -4581,9 +4589,9 @@
       "votes_against_pro": 0,
       "votes_for_anti": 5,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 13,
-      "net": -13,
+      "net": -12,
       "by_topic": {
         "vaccine-injury": {
           "pro": 0,
@@ -4598,6 +4606,13 @@
           "sponsored": 3,
           "primary": 2,
           "votes": 2
+        },
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
         },
         "vaccine-mandate": {
           "pro": 0,
@@ -4653,17 +4668,17 @@
       "district": "44",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 1,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 1,
-      "net": -1,
+      "net": 1,
       "by_topic": {
         "fluoride": {
           "pro": 0,
@@ -4671,6 +4686,13 @@
           "sponsored": 1,
           "primary": 0,
           "votes": 0
+        },
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
         }
       }
     },
@@ -4898,7 +4920,7 @@
       "district": "31",
       "level": "State",
       "office": "State Senate",
-      "pro_sponsored": 0,
+      "pro_sponsored": 1,
       "pro_primary": 0,
       "anti_sponsored": 4,
       "anti_primary": 1,
@@ -4906,9 +4928,9 @@
       "votes_against_pro": 0,
       "votes_for_anti": 5,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 9,
-      "net": -9,
+      "net": -8,
       "by_topic": {
         "vaccine-injury": {
           "pro": 0,
@@ -4923,6 +4945,13 @@
           "sponsored": 2,
           "primary": 1,
           "votes": 2
+        },
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
         },
         "vaccine-mandate": {
           "pro": 0,
@@ -5726,18 +5755,26 @@
       "district": "56",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "nj-senate-kim",
@@ -6500,18 +6537,26 @@
       "district": "14",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "wv-senate-capito",
@@ -7182,18 +7227,26 @@
       "district": "17",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ky-senate-mcconnell",
@@ -7468,18 +7521,26 @@
       "district": "62",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ak-state-senate-bjorkman-d",
@@ -7567,14 +7628,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ak-state-senate-claman-h",
@@ -7691,14 +7760,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-young-37",
@@ -7709,18 +7786,26 @@
       "district": "37",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-state-senate-hughes-1",
@@ -7804,18 +7889,26 @@
       "district": "25",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-deeter-54",
@@ -7826,17 +7919,17 @@
       "district": "54",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 1,
       "anti_primary": 1,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 1,
-      "net": -1,
+      "net": 1,
       "by_topic": {
         "raw-milk": {
           "pro": 0,
@@ -7844,6 +7937,13 @@
           "sponsored": 1,
           "primary": 1,
           "votes": 0
+        },
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
         }
       }
     },
@@ -7882,14 +7982,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-state-senate-hinojosa-27",
@@ -8134,18 +8242,25 @@
       "district": "5",
       "level": "State",
       "office": "State Senate",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 5,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 5,
-      "net": -5,
+      "net": -4,
       "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 0
+        },
         "vaccine-injury": {
           "pro": 0,
           "anti": 1,
@@ -8189,14 +8304,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ak-state-senate-dunbar-j",
@@ -8361,18 +8484,26 @@
       "district": "98",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-odioso-30",
@@ -8387,14 +8518,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-state-senate-cook-15",
@@ -8599,14 +8738,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-state-senate-paxton-8",
@@ -8668,18 +8815,26 @@
       "district": "74",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-piccolantonio-4",
@@ -8694,14 +8849,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ak-state-senate-wielechowski-k",
@@ -9045,14 +9208,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ak-state-senate-kaufman-f",
@@ -9136,18 +9307,26 @@
       "district": "53",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-newman-80",
@@ -9158,18 +9337,26 @@
       "district": "80",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-state-senate-men-ndez-26",
@@ -9726,14 +9913,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ak-state-senate-kiehl-b",
@@ -9770,14 +9965,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ak-state-senate-hoffman-s",
@@ -9814,14 +10017,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-mathews-83",
@@ -9836,14 +10047,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-titone-27",
@@ -9918,14 +10137,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-joseph-10",
@@ -9996,18 +10223,26 @@
       "district": "10",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-craig-77",
@@ -10018,18 +10253,26 @@
       "district": "77",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-taggart-55",
@@ -10110,14 +10353,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-king-84",
@@ -10132,14 +10383,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-bradley-39",
@@ -10214,14 +10473,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-ritter-94",
@@ -10236,14 +10503,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-kishman-50",
@@ -10258,14 +10533,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-miller-67",
@@ -10280,14 +10563,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-grim-43",
@@ -10302,14 +10593,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-santucci-64",
@@ -10324,14 +10623,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-fischer-59",
@@ -10342,18 +10649,26 @@
       "district": "59",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "pa-state-house-kosierowski-114",
@@ -10394,18 +10709,26 @@
       "district": "15",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-troy-23",
@@ -10420,14 +10743,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-thomas-65",
@@ -10442,14 +10773,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-synenberg-21",
@@ -10464,14 +10803,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-rydin-38",
@@ -10516,14 +10863,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-thomas-49",
@@ -10538,14 +10893,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-state-house-shofner-11",
@@ -10632,14 +10995,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-johnson-92",
@@ -10654,13 +11025,13 @@
       "pro_primary": 0,
       "anti_sponsored": 1,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 1,
-      "net": -1,
+      "net": 0,
       "by_topic": {
         "fluoride": {
           "pro": 0,
@@ -10668,6 +11039,13 @@
           "sponsored": 1,
           "primary": 0,
           "votes": 0
+        },
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -10684,14 +11062,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-english-17",
@@ -10736,14 +11122,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-lieder-28",
@@ -10788,14 +11182,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-russo-7",
@@ -10806,18 +11208,26 @@
       "district": "7",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "az-house-biggs-5",
@@ -10876,13 +11286,13 @@
       "pro_primary": 0,
       "anti_sponsored": 1,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 1,
-      "net": -1,
+      "net": 0,
       "by_topic": {
         "fluoride": {
           "pro": 0,
@@ -10890,6 +11300,13 @@
           "sponsored": 1,
           "primary": 0,
           "votes": 0
+        },
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -10906,14 +11323,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-peterson-91",
@@ -10928,14 +11353,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-lampton-70",
@@ -10950,14 +11383,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-lorenz-60",
@@ -10972,14 +11413,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "pa-state-house-krupa-51",
@@ -11027,18 +11476,26 @@
       "district": "6",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-lett-11",
@@ -11053,14 +11510,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-hamrick-61",
@@ -11105,14 +11570,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-stewart-59",
@@ -11157,14 +11630,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-gilchrist-8",
@@ -11357,14 +11838,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-barron-48",
@@ -11431,14 +11920,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-tims-38",
@@ -11449,18 +11946,26 @@
       "district": "38",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-white-41",
@@ -11475,14 +11980,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ny-state-senate-rivera-33",
@@ -11595,18 +12108,26 @@
       "district": "82",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 2,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 2,
+      "by_topic": {
+        "public-health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-arthur-99",
@@ -11621,14 +12142,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "pa-state-house-khan-194",
@@ -11673,14 +12202,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "pa-state-senate-tartaglione-2",
@@ -11725,14 +12262,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-state-house-hopper-64",
@@ -11932,14 +12477,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-mohamed-3",
@@ -11954,14 +12507,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-senate-cirino-18",
@@ -12088,14 +12649,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-creech-40",
@@ -12110,14 +12679,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-holmes-97",
@@ -12220,14 +12797,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-isaacsohn-24",
@@ -12242,14 +12827,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "pa-state-senate-vogel-47",
@@ -12367,14 +12960,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-stephens-93",
@@ -12389,14 +12990,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-brent-18",
@@ -12411,14 +13020,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-pizzulli-90",
@@ -12433,14 +13050,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-house-self-3",
@@ -12642,14 +13267,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "co-state-house-ricks-40",
@@ -12738,14 +13371,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-upchurch-20",
@@ -12760,14 +13401,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-claggett-68",
@@ -12782,14 +13431,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ok-house-cole-4",
@@ -13061,14 +13718,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-senate-craig-15",
@@ -13287,14 +13952,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "ny-state-senate-webb-52",
@@ -13353,13 +14026,13 @@
       "pro_primary": 0,
       "anti_sponsored": 2,
       "anti_primary": 2,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 2,
-      "net": -2,
+      "net": -1,
       "by_topic": {
         "raw-milk": {
           "pro": 0,
@@ -13374,6 +14047,13 @@
           "sponsored": 1,
           "primary": 1,
           "votes": 0
+        },
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
         }
       }
     },
@@ -13967,14 +14647,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-senate-reynolds-3",
@@ -13997,6 +14685,36 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
+    },
+    {
+      "slug": "il-house-quigley-5",
+      "name": "Mike Quigley",
+      "party": "Democratic",
+      "state": "IL",
+      "chamber": "House",
+      "district": "5",
+      "level": "Federal",
+      "office": "U.S. House",
+      "pro_sponsored": 2,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 2,
+      "anti_acts": 0,
+      "net": 2,
+      "by_topic": {
+        "Health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 2,
+          "primary": 0,
+          "votes": 0
+        }
+      }
     },
     {
       "slug": "co-state-house-duran-23",
@@ -14145,14 +14863,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-house-moore-95",
@@ -14167,14 +14893,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tx-state-house-metcalf-16",
@@ -14291,14 +15025,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "oh-state-senate-blessing-8",
@@ -14604,6 +15346,36 @@
       }
     },
     {
+      "slug": "ga-house-jr-4",
+      "name": "Henry C. \"Hank\" Johnson, Jr.",
+      "party": "Democratic",
+      "state": "GA",
+      "chamber": "House",
+      "district": "4",
+      "level": "Federal",
+      "office": "U.S. House",
+      "pro_sponsored": 1,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "Health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
+        }
+      }
+    },
+    {
       "slug": "co-state-house-willford-34",
       "name": "Jenny Willford",
       "party": "Democratic",
@@ -14824,42 +15596,20 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
-      "slug": "il-house-quigley-5",
-      "name": "Mike Quigley",
-      "party": "Democratic",
-      "state": "IL",
-      "chamber": "House",
-      "district": "5",
-      "level": "Federal",
-      "office": "U.S. House",
-      "pro_sponsored": 2,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 2,
-      "anti_acts": 0,
-      "net": 2,
+      "net": 1,
       "by_topic": {
-        "Health": {
-          "pro": 2,
+        "public-health": {
+          "pro": 1,
           "anti": 0,
-          "sponsored": 2,
+          "sponsored": 0,
           "primary": 0,
-          "votes": 0
+          "votes": 1
         }
       }
     },
@@ -14876,14 +15626,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "tn-house-cohen-9",
@@ -15706,14 +16464,22 @@
       "pro_primary": 0,
       "anti_sponsored": 0,
       "anti_primary": 0,
-      "votes_for_pro": 0,
+      "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 0,
+          "primary": 0,
+          "votes": 1
+        }
+      }
     },
     {
       "slug": "pa-state-house-kinkead-20",
@@ -15866,36 +16632,6 @@
         "International Affairs": {
           "pro": 0,
           "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        }
-      }
-    },
-    {
-      "slug": "ga-house-jr-4",
-      "name": "Henry C. \"Hank\" Johnson, Jr.",
-      "party": "Democratic",
-      "state": "GA",
-      "chamber": "House",
-      "district": "4",
-      "level": "Federal",
-      "office": "U.S. House",
-      "pro_sponsored": 1,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "Health": {
-          "pro": 1,
-          "anti": 0,
           "sponsored": 1,
           "primary": 0,
           "votes": 0
@@ -19641,6 +20377,36 @@
           "sponsored": 0,
           "primary": 0,
           "votes": 1
+        }
+      }
+    },
+    {
+      "slug": "ny-house-torres-15",
+      "name": "Ritchie Torres",
+      "party": "Democratic",
+      "state": "NY",
+      "chamber": "House",
+      "district": "15",
+      "level": "Federal",
+      "office": "U.S. House",
+      "pro_sponsored": 1,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 1,
+      "anti_acts": 0,
+      "net": 1,
+      "by_topic": {
+        "Health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 0,
+          "votes": 0
         }
       }
     },
@@ -23488,36 +24254,6 @@
       }
     },
     {
-      "slug": "ny-house-torres-15",
-      "name": "Ritchie Torres",
-      "party": "Democratic",
-      "state": "NY",
-      "chamber": "House",
-      "district": "15",
-      "level": "Federal",
-      "office": "U.S. House",
-      "pro_sponsored": 1,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
-      "by_topic": {
-        "Health": {
-          "pro": 1,
-          "anti": 0,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        }
-      }
-    },
-    {
       "slug": "al-house-aderholt-4",
       "name": "Robert B. Aderholt",
       "party": "Republican",
@@ -23576,6 +24312,28 @@
       "state": "MO",
       "chamber": "House",
       "district": "3",
+      "level": "Federal",
+      "office": "U.S. House",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
+    },
+    {
+      "slug": "ca-house-garcia-42",
+      "name": "Robert Garcia",
+      "party": "Democratic",
+      "state": "CA",
+      "chamber": "House",
+      "district": "42",
       "level": "Federal",
       "office": "U.S. House",
       "pro_sponsored": 0,
@@ -25598,6 +26356,28 @@
           "votes": 0
         }
       }
+    },
+    {
+      "slug": "pa-house-evans-3",
+      "name": "Dwight Evans",
+      "party": "Democratic",
+      "state": "PA",
+      "chamber": "House",
+      "district": "3",
+      "level": "Federal",
+      "office": "U.S. House",
+      "pro_sponsored": 0,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 0,
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
     },
     {
       "slug": "oh-house-sykes-13",
@@ -27820,28 +28600,6 @@
       }
     },
     {
-      "slug": "ca-house-garcia-42",
-      "name": "Robert Garcia",
-      "party": "Democratic",
-      "state": "CA",
-      "chamber": "House",
-      "district": "42",
-      "level": "Federal",
-      "office": "U.S. House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
       "slug": "va-house-wittman-1",
       "name": "Robert J. Wittman",
       "party": "Republican",
@@ -30031,28 +30789,6 @@
       "state": "SD",
       "chamber": "House",
       "district": "",
-      "level": "Federal",
-      "office": "U.S. House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 0,
-      "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
-    },
-    {
-      "slug": "pa-house-evans-3",
-      "name": "Dwight Evans",
-      "party": "Democratic",
-      "state": "PA",
-      "chamber": "House",
-      "district": "3",
       "level": "Federal",
       "office": "U.S. House",
       "pro_sponsored": 0,
@@ -52479,20 +53215,20 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 0,
+      "anti_sponsored": 1,
       "anti_primary": 0,
       "votes_for_pro": 3,
       "votes_against_pro": 1,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 3,
-      "anti_acts": 1,
-      "net": 2,
+      "anti_acts": 2,
+      "net": 1,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 3,
-          "anti": 1,
-          "sponsored": 0,
+          "anti": 2,
+          "sponsored": 1,
           "primary": 0,
           "votes": 4
         }
@@ -52752,20 +53488,20 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 0,
+      "anti_sponsored": 1,
       "anti_primary": 0,
       "votes_for_pro": 2,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 2,
-      "anti_acts": 0,
-      "net": 2,
+      "anti_acts": 1,
+      "net": 1,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 2,
-          "anti": 0,
-          "sponsored": 0,
+          "anti": 1,
+          "sponsored": 1,
           "primary": 0,
           "votes": 2
         }
@@ -56269,20 +57005,20 @@
       "office": "State Senate",
       "pro_sponsored": 1,
       "pro_primary": 0,
-      "anti_sponsored": 0,
+      "anti_sponsored": 1,
       "anti_primary": 0,
       "votes_for_pro": 4,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 5,
-      "anti_acts": 0,
-      "net": 5,
+      "anti_acts": 1,
+      "net": 4,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 5,
-          "anti": 0,
-          "sponsored": 1,
+          "anti": 1,
+          "sponsored": 2,
           "primary": 0,
           "votes": 4
         }
@@ -57015,20 +57751,20 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 0,
+      "anti_sponsored": 1,
       "anti_primary": 0,
       "votes_for_pro": 2,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 2,
-      "anti_acts": 0,
-      "net": 2,
+      "anti_acts": 1,
+      "net": 1,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 2,
-          "anti": 0,
-          "sponsored": 0,
+          "anti": 1,
+          "sponsored": 1,
           "primary": 0,
           "votes": 2
         }
@@ -57773,6 +58509,36 @@
       "anti_acts": 0,
       "net": 0,
       "by_topic": {}
+    },
+    {
+      "slug": "dc-house-norton",
+      "name": "Eleanor Holmes Norton",
+      "party": "Democratic",
+      "state": "DC",
+      "chamber": "House",
+      "district": "",
+      "level": "Federal",
+      "office": "U.S. House",
+      "pro_sponsored": 2,
+      "pro_primary": 0,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
+      "votes_for_pro": 0,
+      "votes_against_pro": 0,
+      "votes_for_anti": 0,
+      "votes_against_anti": 0,
+      "pro_acts": 2,
+      "anti_acts": 0,
+      "net": 2,
+      "by_topic": {
+        "Health": {
+          "pro": 2,
+          "anti": 0,
+          "sponsored": 2,
+          "primary": 0,
+          "votes": 0
+        }
+      }
     },
     {
       "slug": "pa-state-house-weaknecht-5",
@@ -59818,20 +60584,20 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 0,
+      "anti_sponsored": 1,
       "anti_primary": 0,
       "votes_for_pro": 2,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 2,
-      "anti_acts": 0,
-      "net": 2,
+      "anti_acts": 1,
+      "net": 1,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 2,
-          "anti": 0,
-          "sponsored": 0,
+          "anti": 1,
+          "sponsored": 1,
           "primary": 0,
           "votes": 2
         }
@@ -61379,36 +62145,6 @@
       }
     },
     {
-      "slug": "dc-house-norton",
-      "name": "Eleanor Holmes Norton",
-      "party": "Democratic",
-      "state": "DC",
-      "chamber": "House",
-      "district": "",
-      "level": "Federal",
-      "office": "U.S. House",
-      "pro_sponsored": 2,
-      "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
-      "votes_for_pro": 0,
-      "votes_against_pro": 0,
-      "votes_for_anti": 0,
-      "votes_against_anti": 0,
-      "pro_acts": 2,
-      "anti_acts": 0,
-      "net": 2,
-      "by_topic": {
-        "Health": {
-          "pro": 2,
-          "anti": 0,
-          "sponsored": 2,
-          "primary": 0,
-          "votes": 0
-        }
-      }
-    },
-    {
       "slug": "mt-state-senate-boldman-47",
       "name": "Ellie Boldman",
       "party": "Democratic",
@@ -61508,20 +62244,20 @@
       "office": "State Senate",
       "pro_sponsored": 1,
       "pro_primary": 0,
-      "anti_sponsored": 0,
+      "anti_sponsored": 1,
       "anti_primary": 0,
       "votes_for_pro": 2,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 3,
-      "anti_acts": 0,
-      "net": 3,
+      "anti_acts": 1,
+      "net": 2,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 3,
-          "anti": 0,
-          "sponsored": 1,
+          "anti": 1,
+          "sponsored": 2,
           "primary": 0,
           "votes": 2
         }
@@ -62974,20 +63710,20 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 0,
+      "anti_sponsored": 1,
       "anti_primary": 0,
       "votes_for_pro": 2,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 2,
-      "anti_acts": 0,
-      "net": 2,
+      "anti_acts": 1,
+      "net": 1,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 2,
-          "anti": 0,
-          "sponsored": 0,
+          "anti": 1,
+          "sponsored": 1,
           "primary": 0,
           "votes": 2
         }
@@ -74071,15 +74807,15 @@
       "office": "State House",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 5,
-      "anti_primary": 5,
+      "anti_sponsored": 4,
+      "anti_primary": 4,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 0,
-      "anti_acts": 5,
-      "net": -5,
+      "anti_acts": 4,
+      "net": -4,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 0,
@@ -74097,9 +74833,9 @@
         },
         "public-health": {
           "pro": 0,
-          "anti": 3,
-          "sponsored": 3,
-          "primary": 3,
+          "anti": 2,
+          "sponsored": 2,
+          "primary": 2,
           "votes": 0
         }
       }
@@ -83613,15 +84349,15 @@
       "office": "State House",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 3,
-      "anti_primary": 1,
+      "anti_sponsored": 2,
+      "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 0,
-      "anti_acts": 3,
-      "net": -3,
+      "anti_acts": 2,
+      "net": -2,
       "by_topic": {
         "vaccine-discrimination": {
           "pro": 0,
@@ -83632,9 +84368,9 @@
         },
         "public-health": {
           "pro": 0,
-          "anti": 2,
-          "sponsored": 2,
-          "primary": 1,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 0,
           "votes": 0
         }
       }
@@ -85109,20 +85845,20 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 0,
+      "anti_sponsored": 1,
       "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 2,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 0,
-      "anti_acts": 2,
-      "net": -2,
+      "anti_acts": 3,
+      "net": -3,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 0,
-          "anti": 2,
-          "sponsored": 0,
+          "anti": 3,
+          "sponsored": 1,
           "primary": 0,
           "votes": 2
         }
@@ -85736,20 +86472,20 @@
       "office": "State House",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 4,
+      "anti_sponsored": 3,
       "anti_primary": 2,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 0,
-      "anti_acts": 4,
-      "net": -4,
+      "anti_acts": 3,
+      "net": -3,
       "by_topic": {
         "public-health": {
           "pro": 0,
-          "anti": 2,
-          "sponsored": 2,
+          "anti": 1,
+          "sponsored": 1,
           "primary": 1,
           "votes": 0
         },
@@ -86289,28 +87025,21 @@
       "office": "State House",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 3,
+      "anti_sponsored": 2,
       "anti_primary": 1,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 0,
-      "anti_acts": 3,
-      "net": -3,
+      "anti_acts": 2,
+      "net": -2,
       "by_topic": {
         "vaccine-discrimination": {
           "pro": 0,
           "anti": 2,
           "sponsored": 2,
           "primary": 1,
-          "votes": 0
-        },
-        "public-health": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
           "votes": 0
         }
       }
@@ -86459,21 +87188,21 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 1,
       "votes_for_pro": 1,
       "votes_against_pro": 1,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 1,
-      "anti_acts": 1,
-      "net": 0,
+      "anti_acts": 2,
+      "net": -1,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 1,
-          "anti": 1,
-          "sponsored": 0,
-          "primary": 0,
+          "anti": 2,
+          "sponsored": 1,
+          "primary": 1,
           "votes": 2
         }
       }
@@ -93630,18 +94359,26 @@
       "district": "143",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 0
+        }
+      }
     },
     {
       "slug": "nh-state-house-richards-merrimack-17",
@@ -98980,17 +99717,17 @@
       "district": "59A",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 3,
-      "pro_primary": 0,
+      "pro_sponsored": 4,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 3,
+      "pro_acts": 4,
       "anti_acts": 0,
-      "net": 3,
+      "net": 4,
       "by_topic": {
         "vaccine-exemption": {
           "pro": 1,
@@ -99007,10 +99744,10 @@
           "votes": 0
         },
         "vaccine-mandate": {
-          "pro": 1,
+          "pro": 2,
           "anti": 0,
-          "sponsored": 1,
-          "primary": 0,
+          "sponsored": 2,
+          "primary": 1,
           "votes": 0
         }
       }
@@ -101212,21 +101949,21 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 1,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 1,
       "votes_against_anti": 0,
       "pro_acts": 0,
-      "anti_acts": 2,
-      "net": -2,
+      "anti_acts": 1,
+      "net": -1,
       "by_topic": {
         "vaccine-exemption": {
           "pro": 0,
-          "anti": 2,
-          "sponsored": 1,
-          "primary": 1,
+          "anti": 1,
+          "sponsored": 0,
+          "primary": 0,
           "votes": 1
         }
       }
@@ -116289,18 +117026,26 @@
       "district": "51",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 0
+        }
+      }
     },
     {
       "slug": "md-state-senate-feldman-15",
@@ -116350,15 +117095,15 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 1,
+      "anti_sponsored": 2,
+      "anti_primary": 2,
       "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 1,
-      "anti_acts": 1,
-      "net": 0,
+      "anti_acts": 2,
+      "net": -1,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 0,
@@ -116369,9 +117114,9 @@
         },
         "public-health": {
           "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 1,
           "votes": 1
         }
       }
@@ -116712,21 +117457,21 @@
       "office": "State Senate",
       "pro_sponsored": 1,
       "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 1,
       "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 2,
-      "anti_acts": 0,
-      "net": 2,
+      "anti_acts": 1,
+      "net": 1,
       "by_topic": {
         "public-health": {
           "pro": 2,
-          "anti": 0,
-          "sponsored": 1,
-          "primary": 0,
+          "anti": 1,
+          "sponsored": 2,
+          "primary": 1,
           "votes": 1
         }
       }
@@ -118949,18 +119694,26 @@
       "district": "17",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 0
+        }
+      }
     },
     {
       "slug": "ok-state-house-travis-35",
@@ -119393,24 +120146,17 @@
       "office": "State House",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 2,
+      "anti_sponsored": 1,
       "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 0,
-      "anti_acts": 2,
-      "net": -2,
+      "anti_acts": 1,
+      "net": -1,
       "by_topic": {
         "vaccine-mandate": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 0,
-          "votes": 0
-        },
-        "public-health": {
           "pro": 0,
           "anti": 1,
           "sponsored": 1,
@@ -119975,18 +120721,26 @@
       "district": "42",
       "level": "State",
       "office": "State House",
-      "pro_sponsored": 0,
-      "pro_primary": 0,
+      "pro_sponsored": 1,
+      "pro_primary": 1,
       "anti_sponsored": 0,
       "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
-      "pro_acts": 0,
+      "pro_acts": 1,
       "anti_acts": 0,
-      "net": 0,
-      "by_topic": {}
+      "net": 1,
+      "by_topic": {
+        "public-health": {
+          "pro": 1,
+          "anti": 0,
+          "sponsored": 1,
+          "primary": 1,
+          "votes": 0
+        }
+      }
     },
     {
       "slug": "mo-state-house-jones-88",
@@ -123308,15 +124062,15 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 1,
+      "anti_sponsored": 2,
+      "anti_primary": 2,
       "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 1,
-      "anti_acts": 1,
-      "net": 0,
+      "anti_acts": 2,
+      "net": -1,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 0,
@@ -123327,9 +124081,9 @@
         },
         "public-health": {
           "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 1,
           "votes": 1
         }
       }
@@ -126528,15 +127282,15 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 1,
+      "anti_sponsored": 2,
+      "anti_primary": 2,
       "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 1,
-      "anti_acts": 1,
-      "net": 0,
+      "anti_acts": 2,
+      "net": -1,
       "by_topic": {
         "vaccine-mandate": {
           "pro": 0,
@@ -126547,9 +127301,9 @@
         },
         "public-health": {
           "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 1,
           "votes": 1
         }
       }
@@ -130937,21 +131691,21 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 1,
       "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
+      "anti_acts": 1,
+      "net": 0,
       "by_topic": {
         "public-health": {
           "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 1,
           "votes": 1
         }
       }
@@ -139630,21 +140384,21 @@
       "office": "State Senate",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 0,
-      "anti_primary": 0,
+      "anti_sponsored": 1,
+      "anti_primary": 1,
       "votes_for_pro": 1,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 1,
-      "anti_acts": 0,
-      "net": 1,
+      "anti_acts": 1,
+      "net": 0,
       "by_topic": {
         "public-health": {
           "pro": 1,
-          "anti": 0,
-          "sponsored": 0,
-          "primary": 0,
+          "anti": 1,
+          "sponsored": 1,
+          "primary": 1,
           "votes": 1
         }
       }
@@ -178058,24 +178812,16 @@
       "office": "State House",
       "pro_sponsored": 0,
       "pro_primary": 0,
-      "anti_sponsored": 1,
-      "anti_primary": 1,
+      "anti_sponsored": 0,
+      "anti_primary": 0,
       "votes_for_pro": 0,
       "votes_against_pro": 0,
       "votes_for_anti": 0,
       "votes_against_anti": 0,
       "pro_acts": 0,
-      "anti_acts": 1,
-      "net": -1,
-      "by_topic": {
-        "vaccine-exemption": {
-          "pro": 0,
-          "anti": 1,
-          "sponsored": 1,
-          "primary": 1,
-          "votes": 0
-        }
-      }
+      "anti_acts": 0,
+      "net": 0,
+      "by_topic": {}
     },
     {
       "slug": "ga-state-house-park-107",
@@ -223850,5 +224596,5 @@
       "by_topic": {}
     }
   ],
-  "generated_at": "2026-11-09T15:22:16.079754+00:00"
+  "generated_at": "2026-11-10T14:25:52.963029+00:00"
 }

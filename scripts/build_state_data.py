@@ -305,7 +305,7 @@ def build_health(w: Wimc, log) -> dict:
         try:
             first = w.county(rows[0]["fips"])["county"]["state_context"]
             items = [{"metric": i["metric"], "label": clean(i["label"]), "about": clean(i.get("about", "")),
-                      "value": i.get("value"), "display": clean(i.get("display", "")), "status": i.get("status", ""),
+                      "value": i.get("value"), "unit": i.get("unit", ""), "display": clean(i.get("display", "")), "status": i.get("status", ""),
                       "period": i.get("period_start", ""), "quality": clean(i.get("quality") or ""),
                       "feed": i.get("feed_id", "")} for i in first]
             if len(rows) > 1:
@@ -330,11 +330,12 @@ def build_health(w: Wimc, log) -> dict:
 
     # Where each state sits among the 50 states and DC on each state-level figure. This is a
     # comparison of state values with state values; the "middle" is the median state, not a
-    # national figure.
+    # national figure. Only percentages and rates are compared: raw case counts would mostly
+    # rank states by population, so they are shown as a number with no comparison.
     by_metric: dict[str, list] = {}
     for doc in out.values():
         for i in doc["state_context"].get("items", []):
-            if i["status"] == "ok" and isinstance(i["value"], (int, float)):
+            if i["status"] == "ok" and isinstance(i["value"], (int, float)) and i["unit"] != "cases":
                 by_metric.setdefault(i["metric"], []).append((i["period"], i["value"]))
     for doc in out.values():
         cmp = {}
@@ -345,38 +346,51 @@ def build_health(w: Wimc, log) -> dict:
         doc["state_compare"] = cmp
 
     # Weekly measles cases: county weekly counts added up by state. Only counties with at least
-    # one case this year are read (the rest add zero), so this is a few hundred requests.
-    try:
-        need = [(st, c["fips"]) for st, doc in out.items() if doc["measures"].get("measles_cases_ytd", {}).get("available")
-                for c in doc["counties"] if isinstance(c["v"].get("measles_cases_ytd"), (int, float)) and c["v"]["measles_cases_ytd"] >= 1]
-        w.county(need[0][1]) if need else None  # loads the shared dictionary once, before the threads
-        with ThreadPoolExecutor(8) as pool:
-            got = list(pool.map(lambda x: (x[0], x[1], w.county(x[1]).get("series", {}).get("measles")), need))
-        weekly: dict[str, dict] = {}
-        feed_of: dict[str, str] = {}
-        for st, fips, m in got:
+    # one case this year are read (the rest add zero), so this is a few hundred requests. A failed
+    # request or a sum that does not match only marks that one state unavailable.
+    def county_weeks(fips):
+        try:
+            m = w.county(fips).get("series", {}).get("measles")
             if not m or m.get("geo_level") != "county" or not m.get("series"):
-                raise ValueError(f"{fips} has no county measles series")
-            feed_of[st] = (m.get("feed") or {}).get("id", "")
-            for wk in m["series"][0]["weeks"]:
-                weekly.setdefault(st, {}).setdefault(wk["week"], 0)
-                weekly[st][wk["week"]] += wk["cases"]
-        for st, doc in out.items():
-            m = doc["measures"].get("measles_cases_ytd", {})
-            if not (m.get("available") and m.get("n_counties")):
-                doc["measles_weekly"] = {"available": False, "reason": "no county in this state has a published count"}
-                continue
-            weeks = sorted((weekly.get(st) or {}).items())
-            ytd = int(sum(c["v"]["measles_cases_ytd"] for c in doc["counties"] if isinstance(c["v"].get("measles_cases_ytd"), (int, float))))
-            if weeks and sum(n for _, n in weeks) != ytd:
-                raise ValueError(f"{st}: weekly measles cases do not add up to the year-to-date county sum")
-            doc["measles_weekly"] = {"available": True, "feed": feed_of.get(st, m.get("feed", "")), "period": m.get("period", ""),
-                                     "counties_reporting": m["n_counties"], "total": ytd,
-                                     "weeks": [{"week": k, "cases": n} for k, n in weeks]}
-    except Exception as e:
-        log(f"weekly measles series unavailable: {e}")
-        for doc in out.values():
+                return None
+            return (m.get("feed") or {}).get("id", ""), [(x["week"], x["cases"]) for x in m["series"][0]["weeks"]]
+        except Exception:
+            return None
+
+    need = {st: [c["fips"] for c in doc["counties"] if isinstance(c["v"].get("measles_cases_ytd"), (int, float)) and c["v"]["measles_cases_ytd"] >= 1]
+            for st, doc in out.items() if doc["measures"].get("measles_cases_ytd", {}).get("available")}
+    try:
+        first = next((f for fs in need.values() for f in fs), None)
+        if first:
+            w.county(first)  # loads the shared dictionary once, before the threads
+    except Exception:
+        pass
+    with ThreadPoolExecutor(8) as pool:
+        got = dict(zip([f for fs in need.values() for f in fs], pool.map(county_weeks, [f for fs in need.values() for f in fs])))
+    for st, doc in out.items():
+        m = doc["measures"].get("measles_cases_ytd", {})
+        if not m.get("available"):
             doc["measles_weekly"] = {"available": False, "reason": "not available in this snapshot"}
+            continue
+        if not m.get("n_counties"):
+            doc["measles_weekly"] = {"available": False, "reason": "no county in this state has a published count"}
+            continue
+        ytd = int(sum(c["v"]["measles_cases_ytd"] for c in doc["counties"] if isinstance(c["v"].get("measles_cases_ytd"), (int, float))))
+        weekly: dict[str, int] = {}
+        feed, bad = m.get("feed", ""), False
+        for f in need.get(st, []):
+            if got.get(f) is None:
+                bad = True
+                break
+            feed = got[f][0] or feed
+            for wk, n in got[f][1]:
+                weekly[wk] = weekly.get(wk, 0) + n
+        if bad or sum(weekly.values()) != ytd:
+            log(f"{st}: weekly measles series unavailable (a county file failed or the weeks do not add up)")
+            doc["measles_weekly"] = {"available": False, "reason": "not available in this snapshot"}
+            continue
+        doc["measles_weekly"] = {"available": True, "feed": feed, "period": m.get("period", ""), "counties_reporting": m["n_counties"],
+                                 "total": ytd, "weeks": [{"week": k, "cases": n} for k, n in sorted(weekly.items())]}
     return out
 
 

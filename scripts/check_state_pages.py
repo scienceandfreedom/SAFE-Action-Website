@@ -149,10 +149,13 @@ def data_checks(repo: Path) -> None:
             ytd = sum(c["v"]["measles_cases_ytd"] for c in d["counties"] if isinstance(c["v"].get("measles_cases_ytd"), (int, float)))
             check(w["total"] == ytd and sum(x["cases"] for x in w["weeks"]) in (ytd, 0) and w["counties_reporting"] == d["measures"]["measles_cases_ytd"]["n_counties"],
                   f"{st}: weekly measles cases do not add up to the county year-to-date sum")
-        else:
-            check(not d["measures"]["measles_cases_ytd"].get("n_counties"), f"{st}: weekly measles series missing although counties report counts")
+        else:   # a stated gap is valid; the page then says the data is missing
+            check(bool(w.get("reason")), f"{st}: weekly measles series unavailable without a stated reason")
+            if w.get("reason") == "no county in this state has a published count":
+                check(not d["measures"]["measles_cases_ytd"].get("n_counties"), f"{st}: weekly measles series says no county reports, but counties do")
         for i in ctx.get("items", []):
             c = d["state_compare"].get(i["metric"])
+            check(not (c and i["unit"] == "cases"), f"{st}: raw case count {i['metric']} is compared across states")
             if c and i["status"] == "ok":
                 check(i["value"] in c["values"] and c["values"] == sorted(c["values"]) and c["values"][0] <= c["median"] <= c["values"][-1], f"{st}: state comparison for {i['metric']} is inconsistent")
         check(index["states"][st].get("congress") == len(json.loads(p.read_text())["congress"]) if p.exists() else False, f"{st}: index.json people count is stale")

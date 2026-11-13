@@ -329,7 +329,7 @@
     html += '<h3>Statewide figures</h3>';
     if (items.length) {
       var cmp = H.state_compare || {};
-      html += '<p class="st-line">Statewide values, never county values; each line places ' + esc(H.name) + ' among the states that report the figure.</p>' +
+      html += '<p class="st-line">Statewide values, never county values; percentages and rates are placed among the states that report them.</p>' +
         '<div class="st-panel"><div class="st-key"><span><svg width="14" height="14"><circle cx="7" cy="7" r="5.5" fill="var(--v-mark)" stroke="#fff" stroke-width="1.5"/></svg>' + esc(H.name) + '</span>' +
         '<span><svg width="14" height="14"><rect x="6" y="0" width="2.5" height="14" fill="#182238"/></svg>Middle state (median)</span>' +
         '<span><svg width="14" height="14"><rect x="6.5" y="3" width="1.5" height="8" fill="#b9bdc8"/></svg>Each other state</span></div><div class="st-strips">' +
@@ -345,7 +345,7 @@
               '<line x1="' + x(c.median) + '" x2="' + x(c.median) + '" y1="5" y2="25" stroke="#182238" stroke-width="2.5" data-tip="' + esc('Middle of ' + c.n + ' states: ' + c.median) + '"/>' +
               '<circle cx="' + x(i.value) + '" cy="15" r="6" fill="var(--v-mark)" stroke="#fff" stroke-width="2" data-tip="' + esc(H.name + ': ' + i.display) + '"/></svg>';
           } else if (has) {
-            svg = '<span class="nd">too few states report this to compare</span>';
+            svg = '<span class="nd">' + (i.unit === 'cases' ? 'a count, so not compared across states of different sizes' : 'too few states report this to compare') + '</span>';
           } else {
             svg = '<span class="nd">' + esc((i.display || '').replace(/^not reported\s*/, '').replace(/^\((.*)\)$/, '$1')) + '</span>';
           }
@@ -416,6 +416,7 @@
     };
     var paint = function () {
       var k = sel.value, meta = M[k], rule = MAPS.filter(function (x) { return x[0] === k; })[0];
+      if (!meta.legend) meta.legend = { type: '', classes: [] };   // an older data file: every county reads as no data
       var counts = {}, nd = 0;
       paths.forEach(function (p) {
         var c = byFips[p.getAttribute('data-f')], v = val(c, k), cl = classOf(meta, v);

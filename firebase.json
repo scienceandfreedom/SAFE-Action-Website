@@ -96,6 +96,10 @@
         "function": "districts"
       },
       {
+        "source": "/api/county-report",
+        "function": "countyReport"
+      },
+      {
         "source": "/api/volunteer/apply",
         "function": "volunteerApply"
       },

@@ -3,6 +3,7 @@ const admin = require("firebase-admin");
 admin.initializeApp();
 
 const { districts } = require("./districts");
+const { countyReport } = require("./county-report");
 const { volunteerApply } = require("./volunteer-apply");
 const { pledgesHandler } = require("./pledges");
 const { adminVolunteers } = require("./admin-volunteers");
@@ -25,6 +26,7 @@ var allowedOrigins = [
 ];
 
 exports.districts = onRequest({ cors: allowedOrigins }, districts);
+exports.countyReport = onRequest({ cors: allowedOrigins }, countyReport);
 exports.volunteerApply = onRequest({ cors: allowedOrigins, serviceAccount: VOLUNTEER_SA }, volunteerApply);
 exports.adminVolunteers = onRequest({ cors: allowedOrigins, serviceAccount: VOLUNTEER_SA }, adminVolunteers);
 exports.volunteerSignNda = onRequest({ cors: allowedOrigins, serviceAccount: VOLUNTEER_SA }, volunteerSignNda);

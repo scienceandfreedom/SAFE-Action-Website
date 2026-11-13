@@ -22,9 +22,30 @@ const REWRITES = [
     { pattern: /^\/(a[klrz]|c[aot]|d[ce]|fl|ga|hi|i[adln]|k[sy]|la|m[adeinost]|n[cdehjmvy]|o[hkr]|pa|ri|s[cd]|t[nx]|ut|v[at]|w[aivy])$/i, dest: () => '/state.html' },
 ];
 
+// Read-only lookup functions that need no installed packages, served the way
+// firebase.json rewrites them in production.
+const API = {
+    '/api/districts': () => require('./functions/districts').districts,
+    '/api/county-report': () => require('./functions/county-report').countyReport,
+};
+
+function runApi(handler, query, res) {
+    const shim = {
+        setHeader: (k, v) => res.setHeader(k, v),
+        status(code) { res.statusCode = code; return shim; },
+        json(body) { res.setHeader('Content-Type', 'application/json'); res.end(JSON.stringify(body)); },
+    };
+    Promise.resolve(handler({ query: Object.fromEntries(new URLSearchParams(query)) }, shim)).catch((e) => {
+        res.statusCode = 500;
+        res.end(JSON.stringify({ error: e.message }));
+    });
+}
+
 http.createServer((req, res) => {
     let url = req.url.split('?')[0];
     let query = req.url.includes('?') ? req.url.split('?')[1] : '';
+
+    if (API[url]) return runApi(API[url](), query, res);
 
     // Check rewrites
     for (const rule of REWRITES) {

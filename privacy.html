@@ -64,7 +64,7 @@
         <div class="wrap">
             <h1>Privacy Policy</h1>
             <p class="lede">Your privacy matters. We keep it simple.</p>
-            <p class="mono muted" style="margin-top:14px;font-size:11px;letter-spacing:.12em;">LAST UPDATED: SEPTEMBER 18, 2026</p>
+            <p class="mono muted" style="margin-top:14px;font-size:11px;letter-spacing:.12em;">LAST UPDATED: NOVEMBER 13, 2026</p>
         </div>
     </div>
 
@@ -95,9 +95,9 @@
                 </ul>
 
                 <h2>How the Site Works</h2>
-                <p>When you enter your address to find your representatives, this information is sent directly to third-party APIs (such as the Google Civic Information API) to look up your elected officials. <strong>Your address is not stored on our servers or in any database we control.</strong></p>
+                <p>When you enter your address to find your representatives, it is sent from your browser to the Google Civic Information API to look up your elected officials. When that lookup does not return your state legislative districts or your county, the address is passed through our lookup service to the U.S. Census Bureau geocoder, and in some cases to the OpenStreetMap Nominatim geocoder, to find them. The county report card then requests public health data for your county; that request carries only the county, not your address. <strong>Your address is not stored on our servers or in any database we control.</strong></p>
                 <p>When you use our email or call tools, your browser opens your email client or phone dialer directly. We do not intercept, read, or store the content of any communications you send to your representatives.</p>
-                <p>Some features use your browser's <strong>localStorage</strong> to remember preferences (like your address for convenience). This data stays on your device and is never transmitted to us. You can clear it at any time through your browser settings.</p>
+                <p>Some features use your browser's <strong>localStorage</strong> to remember preferences (like your address for convenience). This saved copy stays on your device. We do not collect or store it; your address leaves your browser only for the lookups described above. You can clear it at any time through your browser settings.</p>
 
                 <h2>Aggregated Action Counts</h2>
                 <p>Our Daily Action Tracker displays aggregate counts of emails and calls made through the platform. These counts are anonymous and cannot be traced back to any individual user. No personally identifiable information is associated with these counts.</p>
@@ -108,6 +108,9 @@
                     <li><strong>Google Fonts</strong> - to serve web fonts (Bebas Neue, Libre Franklin)</li>
                     <li><strong>Google Civic Information API</strong> - to look up representatives by address</li>
                     <li><strong>Google Places API</strong> - for address autocomplete</li>
+                    <li><strong>U.S. Census Bureau geocoder</strong> - to find legislative districts and county by address when the first lookup does not return them</li>
+                    <li><strong>OpenStreetMap Nominatim</strong> - to locate an address the Census geocoder cannot match</li>
+                    <li><strong>What's In My County</strong> (published by Priori Intelligence) - county public health data; we send the county, never your address</li>
                     <li><strong>Firebase / Firestore</strong> - for legislation data, anonymous aggregate action counting, and storage of the information listed above</li>
                     <li><strong>Firebase Hosting</strong> - for website hosting</li>
                     <li><strong>Stripe</strong> - for donation payment processing</li>

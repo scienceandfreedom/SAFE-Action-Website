@@ -261,6 +261,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (addressSection) addressSection.style.display = '';
             if (repSection) repSection.style.display = 'none';
             if (statsBar) statsBar.style.display = 'none';
+            if (typeof CountyReport !== 'undefined') CountyReport.hide();
             if (addressInput) { addressInput.value = ''; addressInput.focus(); }
         });
     }
@@ -301,6 +302,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showLoading() {
+        if (typeof CountyReport !== 'undefined') CountyReport.hide();
         if (loadingEl) loadingEl.style.display = '';
         if (repGrid) repGrid.textContent = '';
         if (repSection) repSection.style.display = '';
@@ -374,6 +376,7 @@ document.addEventListener('DOMContentLoaded', () => {
         hideLoading();
         renderReps(reps);
         autofillCityFromAddress();
+        showCountyReport(MyRepsHub.getSavedAddress(), reps);
     }
 
     async function loadFromSaved(saved) {
@@ -385,6 +388,7 @@ document.addEventListener('DOMContentLoaded', () => {
             hideLoading();
             renderReps(reps);
             autofillCityFromAddress();
+            showCountyReport(saved, reps);
         } else {
             // Legacy fallback: use state from address
             hideLoading();
@@ -401,6 +405,15 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         renderReps(reps);
+        showCountyReport({ state: stateCode }, reps);
+    }
+
+    // County report card (js/county-report.js). Optional: pages that do not load
+    // that script or have no #county-report element skip it, and a failure there
+    // never affects the representative list.
+    function showCountyReport(loc, reps) {
+        if (typeof CountyReport === 'undefined' || !loc) return;
+        CountyReport.show(loc, reps);
     }
 
     var _currentReps = [];

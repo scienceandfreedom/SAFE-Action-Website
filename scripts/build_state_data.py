@@ -33,15 +33,18 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
+import math
 import re
+import statistics
 import sys
+from concurrent.futures import ThreadPoolExecutor
 import urllib.error
 import urllib.request
 from pathlib import Path
 
 # The one place the What's In My County address lives. Change it here when
 # whatsinmycounty.com is pointed; the pages read it from the generated files.
-WIMC_BASE = "https://whatsinmycounty.priori-intelligence.workers.dev"
+WIMC_BASE = "https://whatsinmycounty.com"
 WIMC_NAME = "What's In My County"
 WIMC_PUBLISHER = "Priori Intelligence"
 CREDIT = "Data: What's In My County, published by Priori Intelligence"
@@ -120,6 +123,7 @@ class Wimc:
         self.timeout = timeout
         self.manifest = None
         self._dict = None
+        self._counties: dict = {}
 
     def _get(self, url: str):
         req = urllib.request.Request(url, headers={"User-Agent": "state-pages-build/1.0", "Accept": "application/json"})
@@ -139,7 +143,9 @@ class Wimc:
     def county(self, fips: str):
         if self._dict is None:
             self._dict = self.raw("dict.json")
-        return unpack(self.raw(f"c/{fips}.json"), self._dict)
+        if fips not in self._counties:
+            self._counties[fips] = unpack(self.raw(f"c/{fips}.json"), self._dict)
+        return self._counties[fips]
 
 
 # ------------------------------------------------------------------ helpers
@@ -284,6 +290,10 @@ def build_health(w: Wimc, log) -> dict:
                 "unit": meta.get("unit", ""), "kind": meta.get("kind", ""), "period": m.get("period", ""),
                 "basis": clean(m.get("basis_label", "")), "feed": feed_id, "classes": classes,
                 "no_data": clean(m.get("no_data_label") or "no data"),
+                # The source's own map classes, so the state map bins values exactly as it does.
+                "legend": {"type": (m.get("legend") or {}).get("type", ""),
+                           "classes": [{"label": clean(c.get("label", "")), "tone": c.get("tone"), "value": c.get("value"),
+                                        "min": c.get("min"), "max": c.get("max")} for c in (m.get("legend") or {}).get("classes", [])]},
                 "n_counties": sum(1 for v in vals.values() if v is not None),
             }
         doc["counties"] = [{"fips": c["fips"], "name": clean(c["name"]), "population": c.get("population"),
@@ -317,6 +327,139 @@ def build_health(w: Wimc, log) -> dict:
                                      "url": f.get("url", ""), "license": clean(f.get("license") or ""),
                                      "credit": clean(f.get("credit") or "")}
         out[st] = doc
+
+    # Where each state sits among the 50 states and DC on each state-level figure. This is a
+    # comparison of state values with state values; the "middle" is the median state, not a
+    # national figure.
+    by_metric: dict[str, list] = {}
+    for doc in out.values():
+        for i in doc["state_context"].get("items", []):
+            if i["status"] == "ok" and isinstance(i["value"], (int, float)):
+                by_metric.setdefault(i["metric"], []).append((i["period"], i["value"]))
+    for doc in out.values():
+        cmp = {}
+        for i in doc["state_context"].get("items", []):
+            vals = sorted(v for p, v in by_metric.get(i["metric"], []) if p == i["period"])
+            if len(vals) >= 10:
+                cmp[i["metric"]] = {"n": len(vals), "median": round(statistics.median(vals), 4), "values": vals}
+        doc["state_compare"] = cmp
+
+    # Weekly measles cases: county weekly counts added up by state. Only counties with at least
+    # one case this year are read (the rest add zero), so this is a few hundred requests.
+    try:
+        need = [(st, c["fips"]) for st, doc in out.items() if doc["measures"].get("measles_cases_ytd", {}).get("available")
+                for c in doc["counties"] if isinstance(c["v"].get("measles_cases_ytd"), (int, float)) and c["v"]["measles_cases_ytd"] >= 1]
+        w.county(need[0][1]) if need else None  # loads the shared dictionary once, before the threads
+        with ThreadPoolExecutor(8) as pool:
+            got = list(pool.map(lambda x: (x[0], x[1], w.county(x[1]).get("series", {}).get("measles")), need))
+        weekly: dict[str, dict] = {}
+        feed_of: dict[str, str] = {}
+        for st, fips, m in got:
+            if not m or m.get("geo_level") != "county" or not m.get("series"):
+                raise ValueError(f"{fips} has no county measles series")
+            feed_of[st] = (m.get("feed") or {}).get("id", "")
+            for wk in m["series"][0]["weeks"]:
+                weekly.setdefault(st, {}).setdefault(wk["week"], 0)
+                weekly[st][wk["week"]] += wk["cases"]
+        for st, doc in out.items():
+            m = doc["measures"].get("measles_cases_ytd", {})
+            if not (m.get("available") and m.get("n_counties")):
+                doc["measles_weekly"] = {"available": False, "reason": "no county in this state has a published count"}
+                continue
+            weeks = sorted((weekly.get(st) or {}).items())
+            ytd = int(sum(c["v"]["measles_cases_ytd"] for c in doc["counties"] if isinstance(c["v"].get("measles_cases_ytd"), (int, float))))
+            if weeks and sum(n for _, n in weeks) != ytd:
+                raise ValueError(f"{st}: weekly measles cases do not add up to the year-to-date county sum")
+            doc["measles_weekly"] = {"available": True, "feed": feed_of.get(st, m.get("feed", "")), "period": m.get("period", ""),
+                                     "counties_reporting": m["n_counties"], "total": ytd,
+                                     "weeks": [{"week": k, "cases": n} for k, n in weeks]}
+    except Exception as e:
+        log(f"weekly measles series unavailable: {e}")
+        for doc in out.values():
+            doc["measles_weekly"] = {"available": False, "reason": "not available in this snapshot"}
+    return out
+
+
+# ------------------------------------------------------------------ county shapes
+
+def _albers(lon0, lat0, lat1, lat2):
+    """Albers equal-area conic, fitted per state so shapes are not stretched."""
+    r = math.radians
+    n = (math.sin(r(lat1)) + math.sin(r(lat2))) / 2
+    c = math.cos(r(lat1)) ** 2 + 2 * n * math.sin(r(lat1))
+    rho0 = math.sqrt(c - 2 * n * math.sin(r(lat0))) / n
+
+    def proj(lon, lat):
+        rho = math.sqrt(max(c - 2 * n * math.sin(r(lat)), 0)) / n
+        th = n * r(lon - lon0)
+        return rho * math.sin(th), rho0 - rho * math.cos(th)
+    return proj
+
+
+def build_geo(w: Wimc, width: int = 800) -> dict:
+    """Return {state: {"w","h","paths":{fips: svg path}}} from the source's county boundaries."""
+    topo = w.raw("topo.json")
+    sx, sy = topo["transform"]["scale"]
+    tx, ty = topo["transform"]["translate"]
+    arcs = []
+    for a in topo["arcs"]:
+        x = y = 0
+        pts = []
+        for dx, dy in a:
+            x += dx; y += dy
+            pts.append((x * sx + tx, y * sy + ty))
+        arcs.append(pts)
+
+    def ring(idx):
+        out = []
+        for i in idx:
+            pts = arcs[i] if i >= 0 else arcs[~i][::-1]
+            out.extend(pts if not out else pts[1:])
+        return out
+
+    by_state: dict[str, dict] = {}
+    for g in next(iter(topo["objects"].values()))["geometries"]:
+        st = (g.get("properties") or {}).get("s")
+        if st not in STATE_NAMES or not g.get("arcs"):
+            continue
+        polys = [g["arcs"]] if g["type"] == "Polygon" else g["arcs"]
+        rings = [ring(r) for poly in polys for r in poly]
+        if st == "AK":   # the Aleutians cross the 180th meridian
+            rings = [[(lon - 360 if lon > 0 else lon, lat) for lon, lat in r] for r in rings]
+        if st == "HI":   # leave out the uninhabited Northwestern Hawaiian Islands so the map is readable
+            rings = [r for r in rings if max(lon for lon, _ in r) > -161] or rings
+        by_state.setdefault(st, {})[g["id"]] = rings
+
+    out = {}
+    for st, counties in by_state.items():
+        lons = [lon for rs in counties.values() for r in rs for lon, _ in r]
+        lats = [lat for rs in counties.values() for r in rs for _, lat in r]
+        la0, la1 = min(lats), max(lats)
+        proj = _albers((min(lons) + max(lons)) / 2, (la0 + la1) / 2, la0 + (la1 - la0) / 6, la1 - (la1 - la0) / 6)
+        pr = {f: [[proj(lon, lat) for lon, lat in r] for r in rs] for f, rs in counties.items()}
+        xs = [x for rs in pr.values() for r in rs for x, _ in r]
+        ys = [y for rs in pr.values() for r in rs for _, y in r]
+        k = width / (max(xs) - min(xs))
+        h = (max(ys) - min(ys)) * k
+        if h > width * 1.15:           # tall states: fit the height instead
+            k *= width * 1.15 / h
+            h = width * 1.15
+        x0, y1 = min(xs), max(ys)
+        paths = {}
+        for f, rs in pr.items():
+            parts = []
+            for r in rs:
+                pts = []
+                for x, y in r:
+                    q = (round((x - x0) * k, 1), round((y1 - y) * k, 1))
+                    if not pts or q != pts[-1]:
+                        pts.append(q)
+                if len(pts) >= 4:
+                    parts.append("M" + " ".join(f"{a:g} {b:g}" for a, b in pts[:-1]) + "Z")
+            if parts:
+                paths[f] = "".join(parts)
+        out[st] = {"state": st, "w": round((max(xs) - min(xs)) * k, 1), "h": round(h, 1), "paths": paths,
+                   "source": "County boundaries from What's In My County (United States Census Bureau cartographic boundaries)."}
     return out
 
 
@@ -378,7 +521,16 @@ def main() -> int:
     health_note = "skipped"
     if not args.skip_health:
         try:
-            health = build_health(Wimc(args.base), log)
+            w = Wimc(args.base)
+            health = build_health(w, log)
+            try:   # the map shapes are a separate file, so a page still works without them
+                for st, g in build_geo(w).items():
+                    if set(g["paths"]) == {c["fips"] for c in health[st]["counties"]}:
+                        write(out_dir / f"{st.lower()}.geo.json", g)
+                    else:
+                        log(f"{st}: county shapes do not match the county list; map file not written")
+            except Exception as e:
+                log(f"county shapes unavailable: {e}")
             for st, doc in health.items():
                 write(out_dir / f"{st.lower()}.health.json", doc)
             health_note = f"{len(health)} state files, data version {next(iter(health.values()))['source']['data_version']}"

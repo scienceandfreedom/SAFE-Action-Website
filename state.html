@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>State Bill Report - SAFE Action</title>
-    <meta name="description" content="The pro-science and anti-science bills SAFE Action is tracking in your state, with links to the official record, and how to get involved.">
-    <meta property="og:title" content="State Bill Report - SAFE Action">
+    <title>State Report - SAFE Action</title>
+    <meta name="description" content="A full rundown for your state: the pro-science and anti-science bills SAFE Action is tracking, public health data by county, and how to reach your legislators and members of Congress.">
+    <meta property="og:title" content="State Report - SAFE Action">
     <meta property="og:description" content="The pro-science and anti-science bills SAFE Action is tracking in your state.">
     <meta property="og:type" content="website">
     <link rel="canonical" href="https://scienceandfreedom.com/state">
@@ -14,7 +14,7 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="State Bill Report - SAFE Action">
+    <meta name="twitter:title" content="State Report - SAFE Action">
     <meta name="twitter:description" content="The pro-science and anti-science bills SAFE Action is tracking in your state.">
     <meta name="twitter:image" content="https://scienceandfreedom.com/icons/og-card.png">
     <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
@@ -23,36 +23,14 @@
     <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/theme.css?v=1">
-    <style>
-    .st-hero h1{font-family:var(--display);font-size:clamp(56px,10vw,104px);line-height:.9;letter-spacing:.01em;font-weight:400;}
-    .st-counts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:18px;max-width:560px;}
-    .st-count{border-radius:var(--radius);padding:14px 18px;border:2px solid;}
-    .st-count.pro{border-color:#2c9a6f;background:rgba(44,154,111,.08);}
-    .st-count.anti{border-color:var(--red);background:rgba(176,46,35,.07);}
-    .st-count .k{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:var(--muted);}
-    .st-count .n{font-family:var(--display);font-size:72px;line-height:.9;}
-    .st-count.pro .n{color:#1f7a5a;}.st-count.anti .n{color:var(--red);}
-    .st-cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:22px;}
-    .tablewrap{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-1);margin-top:12px;}
-    table.bills{width:100%;border-collapse:collapse;font-size:14px;}
-    table.bills th{font-family:var(--mono);font-size:10.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:left;padding:12px 14px;border-bottom:1px solid var(--line);white-space:nowrap;background:var(--bg);}
-    table.bills td{padding:10px 14px;border-bottom:1px solid var(--line);vertical-align:top;line-height:1.45;}
-    table.bills tr:last-child td{border-bottom:none;}
-    td.num{white-space:nowrap;font-family:var(--mono);font-weight:700;}
-    .tag{display:inline-block;border-radius:6px;padding:2px 8px;font-family:var(--mono);font-size:10.5px;font-weight:700;letter-spacing:.08em;white-space:nowrap;}
-    .tag.pro{background:#d8f0e5;color:#1f5f47;}.tag.anti{background:var(--b1-bg);color:var(--b1-tx);}.tag.watch{background:var(--gold-soft);color:#6b4d00;}
-    .st-states{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px;}
-    .st-states a{font-family:var(--mono);font-size:12px;font-weight:700;padding:4px 8px;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--navy);background:var(--card);}
-    .note p{font-size:14px;color:var(--ink2);max-width:76ch;}
-    .note .k{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.18em;color:var(--muted);margin-bottom:6px;}
-    </style>
+    <link rel="stylesheet" href="css/states.css?v=2">
 </head>
 <body data-page="state">
 
 <div class="statusbar" role="status" aria-label="State report status">
     <div class="wrap">
         <span class="livedot" aria-hidden="true"></span>
-        <span class="label" id="sb-label">STATE BILL REPORT</span>
+        <span class="label" id="sb-label">STATE REPORT</span>
         <span class="side" id="sb-side">SOURCE: LEGISCAN + GOVINFO + OPENSTATES</span>
     </div>
 </div>
@@ -68,6 +46,7 @@
             </a>
             <div class="navlinks">
                 <a href="tracker.html">Live Tracker</a>
+                <a href="states.html">States</a>
                 <a href="outreach.html">Take Action</a>
                 <a href="directory.html">Vaccine Pledges</a>
                 <a href="records.html">Records</a>
@@ -82,7 +61,7 @@
 <main>
     <div class="pagehero st-hero">
         <div class="wrap">
-            <span class="k" style="font-family:var(--mono);font-size:12px;letter-spacing:.16em;color:var(--muted);" id="st-eyebrow">STATE BILL REPORT</span>
+            <span class="st-k" id="st-eyebrow">STATE REPORT</span>
             <h1 id="st-name">Your state</h1>
             <div class="st-counts">
                 <div class="st-count pro"><div class="k">PRO-SCIENCE BILLS</div><div class="n" id="st-pro">-</div></div>
@@ -90,25 +69,56 @@
             </div>
             <div class="st-cta">
                 <a class="btn primary" href="volunteer.html" id="st-vol">Volunteer in your state</a>
-                <a class="btn" href="records.html" id="st-rec">See who sponsored these bills</a>
+                <a class="btn" href="outreach.html">Contact your legislators</a>
                 <a class="btn" href="join.html">Get email updates</a>
             </div>
+            <nav class="st-jump" aria-label="On this page">
+                <a href="#bills">Bills</a>
+                <a href="#health">Public health data</a>
+                <a href="#counties">Counties</a>
+                <a href="#people">Legislators</a>
+                <a href="/states">All states</a>
+            </nav>
         </div>
     </div>
-    <section style="padding-top:8px;">
+
+    <section id="bills" class="st-sec">
         <div class="wrap">
+            <h2>Bills</h2>
             <div class="card note">
                 <span class="k">HOW TO READ THIS</span>
                 <p>These are the bills SAFE Action is tracking in this state for the current session, classified by what the bill would do. Classifications apply to bills, not people. Every bill links to its official record. <span id="st-asof"></span></p>
             </div>
+            <p class="st-line" id="st-billsum"></p>
             <div class="tablewrap">
                 <table class="bills">
                     <thead><tr><th>Bill</th><th>Type</th><th>Title</th><th>Status</th><th>Last action</th></tr></thead>
                     <tbody id="st-rows"><tr><td colspan="5">Loading...</td></tr></tbody>
                 </table>
             </div>
-            <h2 style="margin-top:32px;font-size:18px;">Other states</h2>
+            <p class="st-line"><a href="records.html" id="st-rec">See who sponsored these bills</a></p>
+        </div>
+    </section>
+
+    <section id="health" class="st-sec">
+        <div class="wrap">
+            <h2>Public health data</h2>
+            <div id="st-health"><p class="st-line">Loading...</p></div>
+        </div>
+    </section>
+
+    <section id="people" class="st-sec">
+        <div class="wrap">
+            <h2>Legislators and members of Congress</h2>
+            <div id="st-people"><p class="st-line">Loading...</p></div>
+        </div>
+    </section>
+
+    <section class="st-sec">
+        <div class="wrap">
+            <h2>Other states</h2>
             <div class="st-states" id="st-states"></div>
+            <p class="st-line"><a href="/states">Compare all states</a></p>
         </div>
     </section>
 </main>
@@ -129,6 +139,7 @@
             <a href="donate.html">Donate</a>
             <a href="directory.html">Pledge Directory</a>
             <a href="records.html">Legislative Records</a>
+            <a href="states.html">State Reports</a>
             <a href="scorecard.html">Science Scorecard</a>
             <a href="media.html">Media Kit</a>
             <a href="privacy.html">Privacy</a>
@@ -146,7 +157,7 @@
     </div>
 </footer>
 
-<script src="js/state.js?v=1"></script>
+<script src="js/state.js?v=2"></script>
 <script src="js/pwa.js?v=100"></script>
 </body>
 </html>

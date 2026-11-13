@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>State Reports - SAFE Action</title>
+    <meta name="description" content="A report for every state and the District of Columbia: tracked pro-science and anti-science bills, public health data by county, and legislators with contact details.">
+    <meta property="og:title" content="State Reports - SAFE Action">
+    <meta property="og:description" content="A report for every state: tracked bills, public health data by county, and legislators.">
+    <meta property="og:type" content="website">
+    <link rel="canonical" href="https://scienceandfreedom.com/states">
+    <meta property="og:url" content="https://scienceandfreedom.com/states">
+    <meta property="og:image" content="https://scienceandfreedom.com/icons/og-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="State Reports - SAFE Action">
+    <meta name="twitter:description" content="A report for every state: tracked bills, public health data by county, and legislators.">
+    <meta name="twitter:image" content="https://scienceandfreedom.com/icons/og-card.png">
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#101b33">
+    <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/theme.css?v=1">
+    <link rel="stylesheet" href="css/states.css?v=2">
+</head>
+<body data-page="states">
+
+<div class="statusbar" role="status" aria-label="State reports status">
+    <div class="wrap">
+        <span class="livedot" aria-hidden="true"></span>
+        <span class="label" id="sb-label">STATE REPORTS</span>
+        <span class="side" id="sb-side">SOURCE: LEGISCAN + GOVINFO + OPENSTATES</span>
+    </div>
+</div>
+
+<header class="site">
+    <div class="wrap">
+        <nav class="main" aria-label="Primary">
+            <a class="brand" href="index.html" aria-label="SAFE Action home">
+                <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M12 1.6l3 6.4 7 .85-5.15 4.85 1.35 6.9L12 17.1l-6.2 3.5 1.35-6.9L2 8.85 9 8z" fill="#c8930f" stroke="#16264d" stroke-width="1.2" stroke-linejoin="round"/>
+                </svg>
+                <span class="word">SAFE <span class="act">ACTION</span></span>
+            </a>
+            <div class="navlinks">
+                <a href="tracker.html">Live Tracker</a>
+                <a href="states.html" aria-current="page">States</a>
+                <a href="outreach.html">Take Action</a>
+                <a href="directory.html">Vaccine Pledges</a>
+                <a href="records.html">Records</a>
+                <a href="about.html">About</a>
+                <a class="btn primary small" href="scorecard.html">Scorecard</a>
+            </div>
+        </nav>
+    </div>
+    <div class="ribbon" aria-hidden="true"></div>
+</header>
+
+<main>
+    <div class="pagehero">
+        <div class="wrap">
+            <span class="st-k">STATE REPORTS</span>
+            <h1>Every state, one page each</h1>
+            <p class="lede">Each state report lists the pro-science and anti-science bills SAFE Action is tracking, public health data for every county, and the state's legislators and members of Congress with ways to reach them. All 50 states and the District of Columbia have a page.</p>
+        </div>
+    </div>
+    <section class="st-sec">
+        <div class="wrap">
+            <div class="st-states" id="ss-chips"></div>
+            <p class="st-line">Select a column heading to sort. Bill classifications apply to bills, not people. County figures count counties on one measure each; "no data" is not the same as zero.</p>
+            <div class="tablewrap">
+                <table class="bills" id="ss-table">
+                    <thead><tr>
+                        <th><button type="button">State</button></th>
+                        <th class="r"><button type="button">Pro-science bills</button></th>
+                        <th class="r"><button type="button">Anti-science bills</button></th>
+                        <th class="r"><button type="button">Bills monitored</button></th>
+                        <th class="r"><button type="button">Counties</button></th>
+                        <th class="r"><button type="button">Counties with a COVID-19 wastewater site</button></th>
+                        <th class="r"><button type="button">Counties with COVID-19 wastewater level High or Very high</button></th>
+                        <th class="r"><button type="button">Measles cases this year, sum of county counts</button></th>
+                        <th class="r"><button type="button">Legislators and members of Congress on file</button></th>
+                    </tr></thead>
+                    <tbody id="ss-rows"><tr><td colspan="9">Loading...</td></tr></tbody>
+                </table>
+            </div>
+            <p class="st-src" id="ss-src"></p>
+            <p class="st-credit" id="ss-credit">Data: What's In My County, published by Priori Intelligence</p>
+            <p class="st-src">Territories do not have a page yet: the bill tracker and the county data both cover the 50 states and the District of Columbia.</p>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <div class="wrap">
+        <div class="top">
+            <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 1.6l3 6.4 7 .85-5.15 4.85 1.35 6.9L12 17.1l-6.2 3.5 1.35-6.9L2 8.85 9 8z" fill="#c8930f" stroke="#16264d" stroke-width="1.2" stroke-linejoin="round"/>
+            </svg>
+            <span class="word">SAFE <span class="act">ACTION</span></span>
+        </div>
+        <div class="links">
+            <a href="tracker.html">Live Tracker</a>
+            <a href="outreach.html">Take Action</a>
+            <a href="join.html">Email updates</a>
+            <a href="about.html">About</a>
+            <a href="donate.html">Donate</a>
+            <a href="directory.html">Pledge Directory</a>
+            <a href="records.html">Legislative Records</a>
+            <a href="states.html">State Reports</a>
+            <a href="scorecard.html">Science Scorecard</a>
+            <a href="media.html">Media Kit</a>
+            <a href="privacy.html">Privacy</a>
+            <a href="terms.html">Terms</a>
+        </div>
+        <div class="links" aria-label="SAFE Action on social media">
+            <a href="https://www.facebook.com/scienceandfreedom" rel="noopener">Facebook</a>
+            <a href="https://www.instagram.com/science.and.freedom/" rel="noopener">Instagram</a>
+            <a href="https://www.youtube.com/@scienceandfreedom" rel="noopener">YouTube</a>
+            <a href="https://www.tiktok.com/@scienceandfreedom" rel="noopener">TikTok</a>
+            <a href="https://github.com/scienceandfreedom" rel="noopener">GitHub</a>
+        </div>
+        <p>&copy; 2026 Science and Freedom for Everyone Action Fund</p>
+        <p class="footer-disclaimer">Published by Science and Freedom for Everyone Action Fund. Organized as a 501(c)(4) social welfare organization (EIN 41-4491870). Contributions are not tax-deductible as charitable contributions.</p>
+    </div>
+</footer>
+
+<script src="js/states.js?v=1"></script>
+<script src="js/pwa.js?v=100"></script>
+</body>
+</html>

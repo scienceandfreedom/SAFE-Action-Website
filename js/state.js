@@ -56,6 +56,8 @@
     $('st-pro').textContent = st.pro;
     $('st-anti').textContent = st.anti;
     $('st-rec').href = 'records.html?state=' + code;
+    $('st-browse').href = 'tracker.html?state=' + code + '#browse-bills';
+    $('st-browse').textContent = 'Browse all ' + fmt(st.tracked) + ' bills monitored in ' + st.name;
     $('st-vol').href = 'volunteer.html?state=' + code;
     var asof = (D.crawl_generated_at || D.generated_at).slice(0, 10);
     $('st-asof').textContent = 'Data as of ' + asof + '.';

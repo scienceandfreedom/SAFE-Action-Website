@@ -90,10 +90,11 @@
                 var a = document.createElement('a');
                 a.className = 'tile ' + (covered ? bucket(n) : 'nodata');
                 a.style.gridArea = POS[st][1] + '/' + POS[st][0];
-                a.href = covered ? 'tracker.html?state=' + st + '&type=anti#browse-bills'
-                                 : 'tracker.html#browse-bills';
+                // Every tile opens that state's report (/ca, /tx ...): bills, public health
+                // data and legislators. The report links on to the tracker's bill browser.
+                a.href = '/' + st.toLowerCase();
                 a.title = (STATE_NAMES[st] || st) +
-                    (covered ? ': ' + n + ' active threat' + (n === 1 ? '' : 's') : ': no bill data yet');
+                    (covered ? ': ' + n + ' active threat' + (n === 1 ? '' : 's') : ': no bill data yet') + '. Open the state report.';
                 a.innerHTML = '<span class="ab">' + st + '</span>' +
                     (covered && n ? '<span class="ct">' + n + '</span>' : '');
                 grid.appendChild(a);

@@ -31,7 +31,8 @@
       var none = L ? 'no data' : 'unavailable', hn = s.health ? 'no data' : 'unavailable';
       return '<tr><td class="nw" data-v="' + esc(name(c)) + '"><a href="/' + c.toLowerCase() + '">' + esc(name(c)) + '</a></td>' +
         cell(b.pro, none) + cell(b.anti, none) + cell(b.tracked, none) +
-        cell(h.counties_total, hn) + cell(h.ww_covid_counties, hn) + cell(h.ww_covid_high_counties, hn) +
+        cell(h.counties_total, hn) + cell(h.ww_covid_counties, hn) +
+        (num(h.ww_covid_high_counties) ? '<td class="r nw" data-v="' + h.ww_covid_high_counties + '"><span class="num">' + h.ww_covid_high_counties + '</span> of ' + h.ww_covid_level_counties + '</td>' : '<td class="nd r" data-v="">' + hn + '</td>') +
         cell(h.measles_ytd_county_sum, hn) + cell(people, 'unavailable') + '</tr>';
     }).join('');
 
@@ -43,13 +44,13 @@
       var p = first.periods || {};
       src.push('County figures: snapshot of What\'s In My County data version ' + esc(first.data_version) + '. ' +
         'Wastewater sites: counties with at least one treatment plant reporting COVID-19 samples, period ' + esc(p.ww_covid_n_sites || 'not given') + '. ' +
-        'Wastewater level: counties where the Centers for Disease Control and Prevention wastewater viral activity level at the highest site is High or Very high, period ' + esc(p.ww_covid_wval_level_max || 'not given') + '. ' +
+        'Wastewater level: of the counties with a published level, those where the Centers for Disease Control and Prevention wastewater viral activity level at the highest site is High or Very high, period ' + esc(p.ww_covid_wval_level_max || 'not given') + '. ' +
         'Measles: confirmed cases added up from county counts (Johns Hopkins University Measles Tracking Team Data, CC BY 4.0), period ' + esc(p.measles_cases_ytd || 'not given') +
         '; this is a sum of county values, not a state\'s official total. Each is one published measure; none is a combined score.');
     } else {
       src.push('County figures from What\'s In My County are unavailable right now.');
     }
-    if (I) src.push('Legislators: SAFE Action legislator database.');
+    if (I) src.push('Legislators: SAFE Action legislator database (Open States, state legislature sites and the congress-legislators project).');
     $('ss-src').innerHTML = src.join(' ');
 
     var table = $('ss-table'), ths = table.querySelectorAll('thead th');

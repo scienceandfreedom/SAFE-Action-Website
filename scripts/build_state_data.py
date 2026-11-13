@@ -174,9 +174,15 @@ def build_people(repo: Path) -> dict:
     scores = {r["slug"]: r for r in score_doc["legislators"]}
     out = {c: {"state": c, "name": n, "generated_at": doc.get("generated_at", ""),
                "scorecard_generated_at": score_doc.get("generated_at", ""),
-               "source": "data/legislators.json (LegiScan, Open States, congress-legislators)",
+               "source": "data/legislators.json (Open States, state legislature sites, congress-legislators)",
                "congress": [], "legislature": []} for c, n in STATE_NAMES.items()}
     skipped = {}
+    # A record page belongs to exactly one person. Where two legislators share a slug (same
+    # surname and district) the link and act counts are dropped for both, never guessed.
+    seen: dict[str, int] = {}
+    for l in doc["legislators"]:
+        seen[slug(l.get("legislator_id", ""))] = seen.get(slug(l.get("legislator_id", "")), 0) + 1
+    unlinked = []
     for l in doc["legislators"]:
         st = l.get("state")
         if st not in out:
@@ -185,9 +191,12 @@ def build_people(repo: Path) -> dict:
         c = l.get("contact") or {}
         sl = slug(l.get("legislator_id", ""))
         sc = scores.get(sl)
+        if sc and (seen[sl] > 1 or sc.get("name") != l.get("name")):
+            unlinked.append(l.get("legislator_id", ""))
+            sc = None
         row = {
             "name": clean(l.get("name", "")),
-            "party": (sc or {}).get("party") or l.get("party", ""),
+            "party": (scores.get(sl) or {}).get("party") or l.get("party", ""),
             "office": l.get("office", ""),
             "chamber": l.get("chamber", ""),
             "district": l.get("district", ""),
@@ -204,7 +213,7 @@ def build_people(repo: Path) -> dict:
     for st in out.values():
         st["congress"].sort(key=lambda r: (0 if r["chamber"] == "Senate" else 1, district_key(r["district"]), r["name"]))
         st["legislature"].sort(key=lambda r: (r["chamber"] != "Senate", r["chamber"], district_key(r["district"]), r["name"]))
-    return {"states": out, "skipped": skipped}
+    return {"states": out, "skipped": skipped, "unlinked": unlinked}
 
 
 # ------------------------------------------------------------------ health (What's In My County)
@@ -332,6 +341,7 @@ def health_summary(doc: dict) -> dict:
         # A county is in the sites measure only if it has a site, so no rows means zero counties.
         "ww_covid_counties": count("ww_covid_n_sites", lambda v: num(v) and v >= 1, zero_ok=True),
         "ww_covid_high_counties": count("ww_covid_wval_level_max", lambda v: num(v) and v >= 4),
+        "ww_covid_level_counties": doc["measures"].get("ww_covid_wval_level_max", {}).get("n_counties"),
         "measles_ytd_county_sum": total("measles_cases_ytd"),
         "measles_ytd_counties_reporting": doc["measures"].get("measles_cases_ytd", {}).get("n_counties"),
         "measles_4wk_counties": count("measles_cases_4wk", lambda v: num(v) and v >= 1),
@@ -362,7 +372,8 @@ def main() -> int:
         for st, doc in people["states"].items():
             write(out_dir / f"{st.lower()}.json", doc)
             people_n[st] = {"congress": len(doc["congress"]), "legislature": len(doc["legislature"])}
-        print(f"people: {len(people['states'])} state files; not given a page: {people['skipped']}")
+        print(f"people: {len(people['states'])} state files; not given a page: {people['skipped']}; "
+              f"record link withheld (slug shared by two people): {people['unlinked']}")
 
     health_note = "skipped"
     if not args.skip_health:

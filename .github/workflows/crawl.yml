@@ -79,11 +79,16 @@ jobs:
       - name: Build state page data (legislators per state, What's In My County snapshot)
         if: steps.mode.outputs.mode != 'news-only'
         # Never blocks the crawl: if What's In My County cannot be reached the script keeps the
-        # previous snapshot, and the state pages say the data is unavailable if a file is missing.
+        # previous snapshot. If the build or its check fails, the previous files are restored so
+        # unchecked data is never committed or deployed.
         continue-on-error: true
         run: |
-          python scripts/build_state_data.py --repo .
-          python scripts/check_state_pages.py --repo .
+          if python scripts/build_state_data.py --repo . && python scripts/check_state_pages.py --repo .; then
+            echo "state page data refreshed"
+          else
+            git checkout -- data/states
+            echo "::warning::state page data not refreshed; previous files kept"
+          fi
 
       - name: Commit and push data files
         run: |

@@ -48,6 +48,11 @@ def data_checks(repo: Path) -> None:
     live = json.loads((repo / "data/live.json").read_text())
     legs = json.loads((repo / "data/legislators.json").read_text())["legislators"]
     slugs = {r["slug"] for r in json.loads((repo / "data/scorecard.json").read_text())["legislators"]}
+    record_slugs = {r["slug"] for r in json.loads((repo / "data/records.json").read_text())["legislators"]}
+    score_names = {r["slug"]: r["name"] for r in json.loads((repo / "data/scorecard.json").read_text())["legislators"]}
+    shared = {}
+    for l in legs:
+        shared[slug(l["legislator_id"])] = shared.get(slug(l["legislator_id"]), 0) + 1
     index = json.loads((repo / "data/states/index.json").read_text())
     check(sorted(index["states"]) == sorted(STATE_NAMES), "index.json does not list exactly the 50 states and DC")
     check(index.get("credit") == CREDIT, "index.json credit line is wrong")
@@ -81,10 +86,15 @@ def data_checks(repo: Path) -> None:
             for r in d["congress"] + d["legislature"]:
                 if "slug" in r:
                     check(r["slug"] in slugs, f"{st}: record link {r['slug']} has no scorecard row")
+                    check(r["slug"] in record_slugs, f"{st}: record link {r['slug']} has no record page")
+                    check(shared[r["slug"]] == 1, f"{st}: record link {r['slug']} is shared by two legislators")
+                    check(score_names[r["slug"]] == r["name"], f"{st}: {r['name']} is linked to the record of {score_names[r['slug']]}")
+                else:
+                    check("pro_acts" not in r and "anti_acts" not in r, f"{st}: {r['name']} has act counts without a record link")
                 for k in ("website", "contact_form"):
                     if k in r:
                         check(r[k].startswith(("https://", "http://")), f"{st}: {r['name']} {k} is not a web address")
-            want = {slug(l["legislator_id"]) for l in src} & slugs
+            want = {slug(l["legislator_id"]) for l in src if shared[slug(l["legislator_id"])] == 1} & slugs
             check({r["slug"] for r in d["congress"] + d["legislature"] if "slug" in r} == want, f"{st}: record links differ from scorecard matches")
 
         # health

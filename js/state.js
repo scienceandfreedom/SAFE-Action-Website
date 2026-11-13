@@ -46,6 +46,10 @@
       return;
     }
     document.title = st.name + ' state report - SAFE Action';
+    // One template serves every state, so the canonical address is set per state here.
+    var canon = 'https://scienceandfreedom.com/' + code.toLowerCase();
+    var setAttr = function (sel, attr) { var e = document.querySelector(sel); if (e) e.setAttribute(attr, canon); };
+    setAttr('link[rel="canonical"]', 'href'); setAttr('meta[property="og:url"]', 'content');
     $('st-name').textContent = st.name;
     $('st-eyebrow').textContent = 'STATE REPORT · ' + code;
     $('sb-label').textContent = st.name.toUpperCase() + ' · ' + st.anti + ' ANTI · ' + st.pro + ' PRO';
@@ -341,7 +345,7 @@
       '<th>Contact</th>' + th('Pro-science acts', 'r') + th('Anti-science acts', 'r') + '</tr></thead><tbody>' +
       list.map(function (p, i) {
         var name = p.slug ? '<a href="/record/' + encodeURIComponent(p.slug) + '">' + esc(p.name) + '</a>' : esc(p.name);
-        var acts = function (n) { return p.slug ? '<td class="num r" data-v="' + n + '">' + n + '</td>' : '<td class="nd r" data-v="">no record page</td>'; };
+        var acts = function (n) { return p.slug ? '<td class="num r" data-v="' + n + '">' + n + '</td>' : '<td class="nd r" data-v="">not shown</td>'; };
         return '<tr data-q="' + esc((p.name + ' ' + p.office + ' ' + p.district + ' ' + p.party).toLowerCase()) + '"><td class="nw" data-v="' + esc(p.name) + '">' + name + '</td>' +
           '<td data-v="' + (1000 + i) + '">' + seat(p) + '</td><td data-v="' + esc(p.party) + '">' + esc(p.party) + '</td><td>' + contact(p) + '</td>' +
           acts(p.pro_acts) + acts(p.anti_acts) + '</tr>';
@@ -354,6 +358,7 @@
       'The tables below list everyone on file for ' + esc(P.name) + ', with the contact details on file for each. A name links to that person\'s record page.</p>' +
       '<div class="card note" style="margin-top:12px;"><span class="k">ABOUT THE ACT COUNTS</span><p>Counts are official acts on bills SAFE Action has classified as pro-science or anti-science: ' +
       'sponsorships, cosponsorships and recorded votes. Classifications apply to bills, not people. A zero means no tracked act matched, not that the legislator was reviewed and found neutral. ' +
+      'Where two legislators cannot be told apart in the record data, no count or record link is shown for either. ' +
       'The method is on the <a href="scorecard.html">Science Scorecard</a>.</p></div>';
     html += '<h3>Members of Congress (' + P.congress.length + ')</h3>';
     html += P.congress.length ? peopleTable('st-cong', P.congress) : unavailable('No members of Congress are on file for this state.');
@@ -364,7 +369,7 @@
     } else {
       html += unavailable('No state legislators are on file for this state.');
     }
-    html += '<p class="st-src">Source: SAFE Action legislator database (LegiScan, Open States and the congress-legislators project), as of ' + esc(asof) +
+    html += '<p class="st-src">Source: SAFE Action legislator database (Open States, state legislature sites and the congress-legislators project), as of ' + esc(asof) +
       '. Act counts from the Science Scorecard, as of ' + esc((P.scorecard_generated_at || '').slice(0, 10)) + '. To report an error, write to board@scienceandfreedom.com.</p>';
     $('st-people').innerHTML = html;
     if ($('st-cong')) sortable($('st-cong'));

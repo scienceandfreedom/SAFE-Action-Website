@@ -43,7 +43,7 @@ Order matters on the first deploy. The workflow deploys hosting (with the new re
 
 ### Open items for phase 1
 
-- The Take Action page says "Your address is stored only in your browser and never sent to our servers." That was already not exact: the existing Census fallback sends the address to `/api/districts`. The card uses the same fallback when the Civic lookup names no matching county (Connecticut, where the data uses planning regions, is the main case). The sentence needs a decision; it was left unchanged.
+- The address sentence on the Take Action page now names the lookup services and says the address is not stored. `privacy.html` still says browser-saved data is "never transmitted to us" and does not list the Census Bureau or OpenStreetMap geocoders; it was left unchanged.
 - When `whatsinmycounty.com` is pointed, change `COUNTY_SITE_BASE`.
 - Puerto Rico and other territories have no county file; the card says so.
 

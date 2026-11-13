@@ -76,6 +76,15 @@ jobs:
         if: steps.mode.outputs.mode != 'news-only'
         run: python scripts/build_live.py --repo .
 
+      - name: Build state page data (legislators per state, What's In My County snapshot)
+        if: steps.mode.outputs.mode != 'news-only'
+        # Never blocks the crawl: if What's In My County cannot be reached the script keeps the
+        # previous snapshot, and the state pages say the data is unavailable if a file is missing.
+        continue-on-error: true
+        run: |
+          python scripts/build_state_data.py --repo .
+          python scripts/check_state_pages.py --repo .
+
       - name: Commit and push data files
         run: |
           git config user.name "github-actions[bot]"

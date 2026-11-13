@@ -23,7 +23,7 @@
     <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/theme.css?v=1">
-    <link rel="stylesheet" href="css/states.css?v=2">
+    <link rel="stylesheet" href="css/states.css?v=3">
 </head>
 <body data-page="state">
 
@@ -75,7 +75,7 @@
             <nav class="st-jump" aria-label="On this page">
                 <a href="#bills">Bills</a>
                 <a href="#health">Public health data</a>
-                <a href="#counties">Counties</a>
+                <a href="#map">County map</a>
                 <a href="#people">Legislators</a>
                 <a href="/states">All states</a>
             </nav>
@@ -85,25 +85,25 @@
     <section id="bills" class="st-sec">
         <div class="wrap">
             <h2>Bills</h2>
-            <div class="card note">
-                <span class="k">HOW TO READ THIS</span>
-                <p>These are the bills SAFE Action is tracking in this state for the current session, classified by what the bill would do. Classifications apply to bills, not people. Every bill links to its official record. <span id="st-asof"></span></p>
-            </div>
-            <p class="st-line" id="st-billsum"></p>
-            <div class="tablewrap">
-                <table class="bills">
-                    <thead><tr><th>Bill</th><th>Type</th><th>Title</th><th>Status</th><th>Last action</th></tr></thead>
-                    <tbody id="st-rows"><tr><td colspan="5">Loading...</td></tr></tbody>
-                </table>
-            </div>
-            <p class="st-line"><a href="tracker.html#browse-bills" id="st-browse">Browse all bills in the live tracker</a> &middot; <a href="records.html" id="st-rec">See who sponsored these bills</a></p>
+            <p class="st-line" id="st-billsum">Bills SAFE Action tracks in this state, classified by what the bill would do, not by who wrote it.</p>
+            <div id="st-billviz" class="st-viz"></div>
+            <details class="st-more" id="st-billlist">
+                <summary id="st-billtoggle">Show the bill list</summary>
+                <div class="tablewrap">
+                    <table class="bills">
+                        <thead><tr><th>Bill</th><th>Type</th><th>Title</th><th>Status</th><th>Last action</th></tr></thead>
+                        <tbody id="st-rows"><tr><td colspan="5">Loading...</td></tr></tbody>
+                    </table>
+                </div>
+            </details>
+            <p class="st-line"><a href="tracker.html#browse-bills" id="st-browse">Browse all bills in the live tracker</a> &middot; <a href="records.html" id="st-rec">See who sponsored these bills</a> <span class="st-src" id="st-asof"></span></p>
         </div>
     </section>
 
     <section id="health" class="st-sec">
         <div class="wrap">
             <h2>Public health data</h2>
-            <div id="st-health"><p class="st-line">Loading...</p></div>
+            <div id="st-health" class="st-viz"><p class="st-line">Loading...</p></div>
         </div>
     </section>
 
@@ -157,7 +157,7 @@
     </div>
 </footer>
 
-<script src="js/state.js?v=5"></script>
+<script src="js/state.js?v=6"></script>
 <script src="js/pwa.js?v=100"></script>
 </body>
 </html>

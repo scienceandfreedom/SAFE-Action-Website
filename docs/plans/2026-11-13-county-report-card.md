@@ -43,7 +43,7 @@ Order matters on the first deploy. The workflow deploys hosting (with the new re
 
 ### Open items for phase 1
 
-- The address sentence on the Take Action page now names the lookup services and says the address is not stored. `privacy.html` still says browser-saved data is "never transmitted to us" and does not list the Census Bureau or OpenStreetMap geocoders; it was left unchanged.
+- The address sentence on the Take Action page and the matching parts of `privacy.html` now name the lookup services (Google, the Census Bureau and OpenStreetMap geocoders, What's In My County) and say the address is not stored.
 - When `whatsinmycounty.com` is pointed, change `COUNTY_SITE_BASE`.
 - Puerto Rico and other territories have no county file; the card says so.
 

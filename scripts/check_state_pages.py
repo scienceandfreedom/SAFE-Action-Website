@@ -186,12 +186,15 @@ def render_checks(repo: Path) -> None:
             page.wait_for_function("() => document.querySelectorAll('#ss-rows tr').length >= 51", timeout=15000)
             check(not errors and not offsite, f"/states: console errors or off-site requests {errors[:2]} {offsite[:2]}")
             errors.clear(); offsite.clear()
-            rows = page.eval_on_selector_all("#ss-rows tr", "rs => rs.map(r => [r.cells[0].querySelector('a').getAttribute('href'), r.cells[1].textContent, r.cells[2].textContent])")
+            rows = page.eval_on_selector_all("#ss-rows tr", "rs => rs.map(r => [r.cells[0].querySelector('a').getAttribute('href'), r.cells[1].textContent, r.cells[2].textContent, r.cells[7].textContent])")
             check(len(rows) == 51, f"/states: {len(rows)} rows, expected 51")
             by_href = {r[0]: r for r in rows}
             for st in STATE_NAMES:
                 r = by_href.get("/" + st.lower())
                 if check(r is not None, f"/states: no row linking to /{st.lower()}"):
+                    hs = json.loads((repo / f"data/states/{st.lower()}.health.json").read_text())
+                    if not hs["measures"]["measles_cases_ytd"].get("n_counties"):
+                        check(r[3] == "no data", f"/states: {st} has no county measles counts but shows {r[3]!r}")
                     check(r[1] == str(live["states"][st]["pro"]) and r[2] == str(live["states"][st]["anti"]), f"/states: {st} bill counts differ from live.json")
             body = page.inner_text("body")
             check(CREDIT in body, "/states: credit line missing")
@@ -226,6 +229,11 @@ def render_checks(repo: Path) -> None:
                 for m in H["measures"].values():
                     if m.get("available") and m["n_counties"]:
                         check(m["period"] in health, f"/{lo}: period {m['period']} of {m['label']} not shown")
+                # a measure no county reports must read as missing, never as a count of zero
+                for k, phrase in (("measles_cases_ytd", "measles cases this year by county (no county in this state has a published value)"),
+                                  ("measles_cases_4wk", "measles cases in the last 4 weeks by county (no county in this state has a published value)")):
+                    if H["measures"][k].get("available") and not H["measures"][k]["n_counties"]:
+                        check(phrase in health, f"/{lo}: {k} has no county values but the page does not say so")
                 body = page.inner_text("body")
                 check(EM_DASH not in body, f"/{lo}: em-dash on page")
                 # acronyms: the spelled-out form comes before the first bare use in the health section

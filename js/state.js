@@ -237,12 +237,16 @@
         (list ? '<div class="names">' + list + '</div>' : '') + '<div class="s">' + sub + '</div></div>');
     };
     var gone = [];
-    if (ok('ww_measles_detected_recent')) {
+    var none = function (what) { gone.push(what + ' (no county in this state has a published value)'); };
+    var any = function (k) { return ok(k) && M[k].n_counties > 0; };
+    if (ok('ww_measles_detected_recent') && !any('ww_measles_detected_recent')) none('measles virus in wastewater');
+    else if (ok('ww_measles_detected_recent')) {
       var mw = withValue('ww_measles_detected_recent'), md = mw.filter(function (c) { return val(c, 'ww_measles_detected_recent') === 1; });
       fact(md.length, 'of ' + mw.length + ' counties with measles sampling', 'Counties where measles virus was detected in wastewater (either of the last 2 samples)',
         src('ww_measles_detected_recent') + ' Not detected does not mean absent.', names(md));
     } else gone.push('measles virus in wastewater');
-    if (ok('measles_cases_ytd')) {
+    if (ok('measles_cases_ytd') && !any('measles_cases_ytd')) none('measles cases this year by county');
+    else if (ok('measles_cases_ytd')) {
       var my = withValue('measles_cases_ytd'), myHit = my.filter(function (c) { return val(c, 'measles_cases_ytd') >= 1; });
       var sum = my.reduce(function (a, c) { return a + val(c, 'measles_cases_ytd'); }, 0);
       fact(myHit.length, 'of ' + my.length + ' counties with a published count', 'Counties with at least 1 confirmed measles case this year', src('measles_cases_ytd'),
@@ -250,7 +254,8 @@
       fact(fmt(sum), '', 'Confirmed measles cases this year, added up from county counts',
         src('measles_cases_ytd') + ' This is a sum of county values, not the state\'s official total; cases a state has not assigned to a county are not in it.');
     } else gone.push('measles cases this year');
-    if (ok('measles_cases_4wk')) {
+    if (ok('measles_cases_4wk') && !any('measles_cases_4wk')) none('measles cases in the last 4 weeks by county');
+    else if (ok('measles_cases_4wk')) {
       var m4 = withValue('measles_cases_4wk'), m4Hit = m4.filter(function (c) { return val(c, 'measles_cases_4wk') >= 1; });
       fact(m4Hit.length, 'of ' + m4.length + ' counties with a published count', 'Counties with at least 1 confirmed measles case in the last 4 weeks', src('measles_cases_4wk'), names(m4Hit));
     } else gone.push('measles cases in the last 4 weeks');
@@ -259,13 +264,14 @@
      ['dc_locations_osm', 'Data center locations recorded in OpenStreetMap, added up from county counts']].forEach(function (x) {
       var k = x[0];
       if (!ok(k)) { gone.push(M[k] && M[k].label ? M[k].label : k); return; }
+      if (k !== 'dc_locations_osm' && !any(k)) { none(M[k].label); return; }
       var have = withValue(k), tot = have.reduce(function (a, c) { return a + val(c, k); }, 0);
       var nz = have.filter(function (c) { return val(c, k) >= 1; }).length;
       fact(fmt(tot), 'in ' + nz + ' of ' + N + ' counties', x[1], src(k) +
         (k === 'dc_locations_osm' ? ' There is no official registry of data centers; open data is incomplete.' : ''));
     });
     html += '<div class="st-facts">' + facts.join('') + '</div>';
-    if (gone.length) html += unavailable('Unavailable in this snapshot: ' + esc(gone.join('; ')) + '.');
+    if (gone.length) html += unavailable('Unavailable in this snapshot: ' + esc(gone.join('; ')) + '. This is missing data, not a count of zero.');
 
     html += '<div class="card note" style="margin-top:18px;"><span class="k">WHAT "ELEVATED" MEANS ON THIS PAGE</span>' +
       '<p>Each rule uses one published measure and one threshold. Nothing here is a combined score.</p>' +

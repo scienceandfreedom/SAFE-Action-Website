@@ -313,19 +313,24 @@ def build_health(w: Wimc, log) -> dict:
 
 def health_summary(doc: dict) -> dict:
     """The few per-state numbers the /states index shows. Each is one measure, never a blend."""
-    def count(key, test):
-        if not doc["measures"].get(key, {}).get("available"):
-            return None
+    def has(key):  # the measure loaded and at least one county of this state has a value
+        m = doc["measures"].get(key, {})
+        return bool(m.get("available") and m.get("n_counties"))
+
+    def count(key, test, zero_ok=False):
+        if not (has(key) or (zero_ok and doc["measures"].get(key, {}).get("available"))):
+            return None  # no county has a value: "no data", never 0
         return sum(1 for c in doc["counties"] if test(c["v"].get(key)))
 
     def total(key):
-        if not doc["measures"].get(key, {}).get("available"):
+        if not has(key):
             return None
         return int(sum(v for c in doc["counties"] if isinstance((v := c["v"].get(key)), (int, float))))
     num = lambda v: isinstance(v, (int, float))
     return {
         "counties_total": doc["counties_total"],
-        "ww_covid_counties": count("ww_covid_n_sites", lambda v: num(v) and v >= 1),
+        # A county is in the sites measure only if it has a site, so no rows means zero counties.
+        "ww_covid_counties": count("ww_covid_n_sites", lambda v: num(v) and v >= 1, zero_ok=True),
         "ww_covid_high_counties": count("ww_covid_wval_level_max", lambda v: num(v) and v >= 4),
         "measles_ytd_county_sum": total("measles_cases_ytd"),
         "measles_ytd_counties_reporting": doc["measures"].get("measles_cases_ytd", {}).get("n_counties"),

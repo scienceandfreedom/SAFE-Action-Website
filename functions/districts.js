@@ -76,11 +76,18 @@ exports.districts = async (req, res) => {
       districts.push({ type: 'cd', number: d.DISTRICT || d.BASENAME || d.CD || '', name: d.NAMELSAD || d.NAME || '' });
     }
 
+    // The same response names the county (5-digit FIPS in GEOID); the county
+    // report card uses it when the address lookup gave no county.
+    const countyKey = geoKeys.find((k) => k === 'Counties');
+    const c = countyKey && geos[countyKey]?.[0];
+    const county = c && /^\d{5}$/.test(c.GEOID || '') ? { fips: c.GEOID, name: c.NAME || '' } : null;
+
     return res.status(200).json({
       found: true,
       matchedAddress: match.matchedAddress,
       coordinates: match.coordinates,
       districts,
+      county,
     });
   } catch (e) {
     console.error('Census geocoder error:', e);

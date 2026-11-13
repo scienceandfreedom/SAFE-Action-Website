@@ -37,6 +37,35 @@
     .address-privacy{font-size:12.5px;color:var(--muted);margin-top:10px;}
     @media(max-width:600px){.address-input-wrap{flex-direction:column;}}
     .saved-address-bar{display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-1);padding:12px 18px;margin-bottom:20px;font-size:14.5px;}
+    /* County report card */
+    .crc{margin:24px 0 8px;padding:22px 24px;}
+    .crc-eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.14em;color:var(--muted);margin:0 0 4px;}
+    .crc-title{font-weight:800;font-size:24px;margin:0 0 4px;}
+    .crc-h{font-weight:800;font-size:17px;margin:22px 0 8px;padding-top:16px;border-top:1px solid var(--line);}
+    .crc-sub{font-weight:700;font-size:14.5px;margin:14px 0 6px;}
+    .crc-grid{display:grid;grid-template-columns:1fr;gap:12px;}
+    @media(min-width:860px){.crc-grid{grid-template-columns:repeat(3,1fr);}.crc-cols{display:grid;grid-template-columns:1fr 1fr;gap:20px;}}
+    .crc-tile{border:1px solid var(--line);border-radius:10px;padding:14px 16px;background:#fff;}
+    .crc-q{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);}
+    .crc-v{font-weight:800;font-size:20px;margin:4px 0 6px;}
+    .crc-meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;margin-bottom:6px;}
+    .crc-chip{display:inline-block;font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;padding:2px 8px;border-radius:6px;background:#edeff3;color:#5d6b80;white-space:nowrap;}
+    .crc-chip-ctx{background:#fff3d6;color:#6b4e00;}
+    .crc-asof{font-size:12.5px;color:var(--muted);}
+    .crc-list{margin:6px 0 0;padding-left:18px;font-size:14px;line-height:1.5;}
+    .crc-list li{margin-bottom:5px;}
+    .crc-more{margin-top:8px;font-size:13.5px;}
+    .crc-more summary{cursor:pointer;color:var(--navy);font-weight:600;}
+    .crc-note{font-size:12.5px;color:var(--muted);line-height:1.5;margin:8px 0 0;}
+    .crc-empty{font-size:14.5px;color:var(--ink2);margin:6px 0;}
+    .crc-state{margin-top:16px;padding:12px 16px;border:1px dashed #c9cedb;border-radius:10px;background:#f7f8fa;}
+    .crc-state .crc-sub{margin-top:0;}
+    .crc-bills.crc-pro .crc-sub{border-left:4px solid var(--navy);padding-left:8px;}
+    .crc-bills.crc-anti .crc-sub{border-left:4px solid var(--red);padding-left:8px;}
+    .crc-billnum{font-weight:700;white-space:nowrap;}
+    .crc-foot{margin-top:22px;padding-top:16px;border-top:1px solid var(--line);}
+    .crc-full{font-weight:700;}
+    .crc-credit{font-size:12.5px;color:var(--muted);margin:6px 0 0;}
     .loading-spinner{text-align:center;padding:40px 20px;color:var(--muted);}
     .spinner{width:44px;height:44px;border:4px solid var(--line);border-top-color:var(--navy);border-radius:50%;margin:0 auto 14px;animation:spin .8s linear infinite;}
     @keyframes spin{to{transform:rotate(360deg);}}
@@ -273,6 +302,9 @@
                 <div id="rep-grid" class="rep-hub-grid"></div>
             </div>
 
+            <!-- County report card (js/county-report.js) -->
+            <section id="county-report" class="card crc" aria-label="County report card" style="display:none;"></section>
+
         </div>
     </section>
 </main>
@@ -315,8 +347,9 @@
     <script src="js/legislation-api.js?v=100"></script>
     <script src="js/intelligence.js?v=100"></script>
     <script src="js/email-templates.js?v=100"></script>
-    <script src="js/my-reps.js?v=100"></script>
-    <script src="js/my-reps-page.js?v=100"></script>
+    <script src="js/my-reps.js?v=101"></script>
+    <script src="js/county-report.js?v=101"></script>
+    <script src="js/my-reps-page.js?v=101"></script>
     <script src="js/sheets.js?v=100"></script>
     <script src="js/quiz.js?v=100"></script>
     <script src="js/pwa.js?v=100"></script>

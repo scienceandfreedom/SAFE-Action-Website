@@ -40,6 +40,7 @@ const MyRepsHub = {
                 timestamp: Date.now(),
                 state: parsed.state,
                 districts: parsed.districts,
+                county: parsed.county,
                 normalizedAddress: data.normalizedInput || {},
             }));
 
@@ -73,6 +74,9 @@ const MyRepsHub = {
         const normalizedInput = data.normalizedInput || {};
         let state = '';
         const districts = [];
+        // County-level division, for the county report card. A county, parish,
+        // borough or census area wins over a place (independent city).
+        let county = null;
 
         // Primary: use Google's normalizedInput.state - most reliable
         if (normalizedInput.state) {
@@ -87,6 +91,15 @@ const MyRepsHub = {
                 const stateMatch = ocdId.match(/\/state:(\w{2})(?:\/|$)/i);
                 if (stateMatch) {
                     state = stateMatch[1].toUpperCase();
+                }
+            }
+
+            // County-level division: ocd-division/country:us/state:tx/county:travis
+            const coMatch = ocdId.match(/\/state:\w{2}\/(county|parish|borough|census_area|place):([^/]+)$/i);
+            if (coMatch) {
+                const kind = coMatch[1].toLowerCase();
+                if (!county || (county.kind === 'place' && kind !== 'place')) {
+                    county = { kind: kind, name: coMatch[2] };
                 }
             }
 
@@ -130,7 +143,7 @@ const MyRepsHub = {
             }
         }
 
-        return { state, districts };
+        return { state, districts, county };
     },
 
     // ── Census Geocoder Fallback ──────────────────
